@@ -1,0 +1,41 @@
+{
+    "source_file": "output_docx_words11.json",
+    "entities": [
+        {
+            "text": "Quantum         generative         adversarial         learning         :         ",
+            "label": "ORG"
+        }
+    ],
+    "triples": [
+        {
+            "subject": "Abstract",
+            "relation": "represent",
+            "object": "tool"
+        },
+        {
+            "subject": "networks",
+            "relation": "represent",
+            "object": "tool"
+        },
+        {
+            "subject": "generator",
+            "relation": "generate",
+            "object": "statistics"
+        },
+        {
+            "subject": "paper",
+            "relation": "introduce",
+            "object": "notion"
+        },
+        {
+            "subject": "generator",
+            "relation": "produce",
+            "object": "statistics"
+        },
+        {
+            "subject": "networks",
+            "relation": "exhibit",
+            "object": "advantage"
+        }
+    ]
+}

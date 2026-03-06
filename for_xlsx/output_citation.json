@@ -1,0 +1,628 @@
+{
+  "RESEARCH PAPER 1": [
+    {
+      "Citing_Paper_ID": "Smart Agriculture System using IoT Technology",
+      "Cited_Paper_ID": "Ayush Kumar et al., \"IoT and picture handling to locate the supplement and mineral insufficiencies\" "
+    },
+    {
+      "Citing_Paper_ID": "Smart Agriculture System using IoT Technology",
+      "Cited_Paper_ID": "M.K. Gayathri et al., \"Giving Smart Agriculture Solutions to Farmers for Better Yielding Using IoT\" "
+    },
+    {
+      "Citing_Paper_ID": "Smart Agriculture System using IoT Technology",
+      "Cited_Paper_ID": "Zhou Zhongwei et al., \"Technique to picture and follow rural items in inventory network\" "
+    },
+    {
+      "Citing_Paper_ID": "Smart Agriculture System using IoT Technology",
+      "Cited_Paper_ID": "Li Sanbo et al., \"Hardware engineering... and programming process control of the exactness water system framework\" "
+    },
+    {
+      "Citing_Paper_ID": "Smart Agriculture System using IoT Technology",
+      "Cited_Paper_ID": "Smash et al., \"Approach to direct water in rural fields\" "
+    },
+    {
+      "Citing_Paper_ID": "Smart Agriculture System using IoT Technology",
+      "Cited_Paper_ID": "Bo Yifan et al., \"Investigation on the use of distributed computing and the web of things in horticulture and ranger service\" "
+    },
+    {
+      "Citing_Paper_ID": "Smart Agriculture System using IoT Technology",
+      "Cited_Paper_ID": "M.V. Latte et al., \"Utilized shading and pattern investigation to recognize numerous insufficiencies in paddy leaf pictures\" "
+    },
+    {
+      "Citing_Paper_ID": "Smart Agriculture System using IoT Technology",
+      "Cited_Paper_ID": "k.lakshmisudha, swathi hegde, neha cole, shruti iyer, \"Good particularity most stationed cultivation spinning sensors\" (2011) "
+    },
+    {
+      "Citing_Paper_ID": "Smart Agriculture System using IoT Technology",
+      "Cited_Paper_ID": "Nikesh Gondchawar, Dr. R.S. Kawitkar, \"IoT based agriculture\" (2016) "
+    },
+    {
+      "Citing_Paper_ID": "Smart Agriculture System using IoT Technology",
+      "Cited_Paper_ID": "\"Agriculture\" universal newspaper... (ijrrase) vol3 no. 1 (2013) "
+    }
+  ],
+  "RESEARCH PAPER 2": [
+    {
+      "Citing_Papers_ID": "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding",
+      "Cited_Papers_ID": "Radford et al., \"Improving language understanding with unsupervised learning\" (OpenAI GPT) "
+    },
+    {
+      "Citing_Papers_ID": "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding",
+      "Cited_Papers_ID": "Vaswani et al., \"Attention is all you need\" "
+    },
+    {
+      "Citing_Papers_ID": "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding",
+      "Cited_Papers_ID": "Taylor, \"Cloze procedure: A new tool for measuring readability\" "
+    },
+    {
+      "Citing_Papers_ID": "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding",
+      "Cited_Papers_ID": "Brown et al., \"Class-based n-gram models of natural language\" "
+    },
+    {
+      "Citing_Papers_ID": "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding",
+      "Cited_Papers_ID": "Ando and Zhang, \"A framework for learning predictive structures from multiple tasks and unlabeled data\" "
+    },
+    {
+      "Citing_Papers_ID": "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding",
+      "Cited_Papers_ID": "Blitzer et al., \"Domain adaptation with structural correspondence learning\" "
+    },
+    {
+      "Citing_Papers_ID": "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding",
+      "Cited_Papers_ID": "Mikolov et al., \"Distributed representations of words and phrases and their compositionality\" "
+    },
+    {
+      "Citing_Papers_ID": "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding",
+      "Cited_Papers_ID": "Pennington et al., \"Glove: Global vectors for word representation\" "
+    },
+    {
+      "Citing_Papers_ID": "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding",
+      "Cited_Papers_ID": "Turian et al., \"Word representations: A simple and general method for semi-supervised learning\" "
+    },
+    {
+      "Citing_Papers_ID": "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding",
+      "Cited_Papers_ID": "Mnih and Hinton, \"A scalable hierarchical distributed language model\" "
+    }
+  ],
+  "RESEARCH PAPER 3": [
+    {
+      "Citing_Papers_ID": "Calcaneal Quantitative Ultrasound as a Determinant of Bone Health Status",
+      "Cited_Paper_ID": "Doran PM, Khosla S., \"Osteoporosis\" (2003)"
+    },
+    {
+      "Citing_Papers_ID": "Calcaneal Quantitative Ultrasound as a Determinant of Bone Health Status",
+      "Cited_Paper_ID": "World Health Organization, \"Assessment of fracture risk and its application to screening for postmenopausal osteoporosis\" (1994)"
+    },
+    {
+      "Citing_Papers_ID": "Calcaneal Quantitative Ultrasound as a Determinant of Bone Health Status",
+      "Cited_Paper_ID": "Handa R et al., \"Osteoporosis in developing countries\" (2008)"
+    },
+    {
+      "Citing_Papers_ID": "Calcaneal Quantitative Ultrasound as a Determinant of Bone Health Status",
+      "Cited_Paper_ID": "Laugier P., \"An overview of bone sonometry\" (2004)"
+    },
+    {
+      "Citing_Papers_ID": "Calcaneal Quantitative Ultrasound as a Determinant of Bone Health Status",
+      "Cited_Paper_ID": "Miura S et al., \"Osteoporosis in urban post-menopausal women of the Philippines: prevalence and risk factors\" (2008)"
+    },
+    {
+      "Citing_Papers_ID": "Calcaneal Quantitative Ultrasound as a Determinant of Bone Health Status",
+      "Cited_Paper_ID": "Meszaros S et al., \"Calcaneous quantitative ultrasound measurements predicts vertebral fractures in idiopathic male osteoporosis\" (2007)"
+    },
+    {
+      "Citing_Papers_ID": "Calcaneal Quantitative Ultrasound as a Determinant of Bone Health Status",
+      "Cited_Paper_ID": "Baroncelli GI, \"Quantitative Ultrasound Methods to Assess Bone Mineral Status in Children\" (2008)"
+    },
+    {
+      "Citing_Papers_ID": "Calcaneal Quantitative Ultrasound as a Determinant of Bone Health Status",
+      "Cited_Paper_ID": "Mimura K et al., \"Infant bone quantity measurement - Hoping for the growth of smooth bone\" (2008)"
+    },
+    {
+      "Citing_Papers_ID": "Calcaneal Quantitative Ultrasound as a Determinant of Bone Health Status",
+      "Cited_Paper_ID": "Guglielmi G, de Terlizzi F, \"Quantitative Ultrasound in the assessment of Osteoporosis\" (2009)"
+    },
+    {
+      "Citing_Papers_ID": "Calcaneal Quantitative Ultrasound as a Determinant of Bone Health Status",
+      "Cited_Paper_ID": "Krieg M-A et al., \"Quantitative Ultrasound in the Management of Osteoporosis: The 2007 ISCD Official Positions\" (2008)"
+    }
+  ],
+  "RESEARCH PAPER 4": [
+    {
+      "Citing_Paper_ID": "General Overview of Climate Change Impacts in Nigeria",
+      "Cited_Paper_ID": "IPCC (2007) \"Climate change 2007. The fourth assessment report (AR4)\" "
+    },
+    {
+      "Citing_Paper_ID": "General Overview of Climate Change Impacts in Nigeria",
+      "Cited_Paper_ID": "Ayoade JO (2004) \"Climate Change\" "
+    },
+    {
+      "Citing_Paper_ID": "General Overview of Climate Change Impacts in Nigeria",
+      "Cited_Paper_ID": "Smith G (1994) \"Environmental pollution and global warming\" "
+    },
+    {
+      "Citing_Paper_ID": "General Overview of Climate Change Impacts in Nigeria",
+      "Cited_Paper_ID": "Msumba A (2006) \"Global climate change and sustainable human development\" "
+    },
+    {
+      "Citing_Paper_ID": "General Overview of Climate Change Impacts in Nigeria",
+      "Cited_Paper_ID": "Nwafor JC (2007) \"Global climate change: The driver of multiple causes of flood intensity in Sub-Saharan Africa\" "
+    },
+    {
+      "Citing_Paper_ID": "General Overview of Climate Change Impacts in Nigeria",
+      "Cited_Paper_ID": "Jagtap S (2007) \"Managing vulnerability to extreme weather and climate events: Implications for agriculture and food security in Africa\" "
+    },
+    {
+      "Citing_Paper_ID": "General Overview of Climate Change Impacts in Nigeria",
+      "Cited_Paper_ID": "Odjugo PAO (2001a) \"Global warming and food production: A global and regional analysis\" "
+    },
+    {
+      "Citing_Paper_ID": "General Overview of Climate Change Impacts in Nigeria",
+      "Cited_Paper_ID": "Odjugo PAO (2005) \"An analysis of rainfall pattern in Nigeria\" "
+    },
+    {
+      "Citing_Paper_ID": "General Overview of Climate Change Impacts in Nigeria",
+      "Cited_Paper_ID": "Odjugo PAO, Ikhuoria AI (2003) \"The impact of climate change and anthropogenic factors on desertification in the semi-arid region of Nigeria\" "
+    },
+    {
+      "Citing_Paper_ID": "General Overview of Climate Change Impacts in Nigeria",
+      "Cited_Paper_ID": "Nigerian Environmental Study/Action Team (NEST) (2003) \"Climate Change in Nigeria\" "
+    }
+  ],
+  "RESEARCH PAPER 5": [
+    {
+      "Citing_Paper_ID": "General practitioners' views on malnutrition management and oral nutritional supplementation prescription in the community: A qualitative study",
+      "Cited_Paper_ID": "Elia M, Russell CA, Stratton RJ., \"Malnutrition in the UK: policies to address the problem\" (2010) "
+    },
+    {
+      "Citing_Paper_ID": "General practitioners' views on malnutrition management and oral nutritional supplementation prescription in the community: A qualitative study",
+      "Cited_Paper_ID": "Abizanda P et al., \"Costs of malnutrition in institutionalized and community-dwelling older adults: a systematic review\" (2016) "
+    },
+    {
+      "Citing_Paper_ID": "General practitioners' views on malnutrition management and oral nutritional supplementation prescription in the community: A qualitative study",
+      "Cited_Paper_ID": "Stratton RJ., \"Malnutrition: another health inequality?\" (2007) "
+    },
+    {
+      "Citing_Paper_ID": "General practitioners' views on malnutrition management and oral nutritional supplementation prescription in the community: A qualitative study",
+      "Cited_Paper_ID": "Soderstrom L et al., \"Malnutrition is associated with increased mortality in older adults regardless of the cause of death\" (2017) "
+    },
+    {
+      "Citing_Paper_ID": "General practitioners' views on malnutrition management and oral nutritional supplementation prescription in the community: A qualitative study",
+      "Cited_Paper_ID": "Lim SL et al., \"Malnutrition and its impact on cost of hospitalization, length of stay, readmission and 3-year mortality\" (2012) "
+    },
+    {
+      "Citing_Paper_ID": "General practitioners' views on malnutrition management and oral nutritional supplementation prescription in the community: A qualitative study",
+      "Cited_Paper_ID": "Sharma Y et al., \"Malnutrition and its association with readmission and death within 7 days and 8-180 days postdischarge in older patients\" (2017) "
+    },
+    {
+      "Citing_Paper_ID": "General practitioners' views on malnutrition management and oral nutritional supplementation prescription in the community: A qualitative study",
+      "Cited_Paper_ID": "Rice N, Normand C., \"The cost associated with disease-related malnutrition in Ireland\" (2012) "
+    },
+    {
+      "Citing_Paper_ID": "General practitioners' views on malnutrition management and oral nutritional supplementation prescription in the community: A qualitative study",
+      "Cited_Paper_ID": "de van der Schueren MA et al., \"A critical appraisal of nutritional intervention studies in malnourished, community dwelling older persons\" (2016) "
+    },
+    {
+      "Citing_Paper_ID": "General practitioners' views on malnutrition management and oral nutritional supplementation prescription in the community: A qualitative study",
+      "Cited_Paper_ID": "United Nations, \"World population prospects 2019\" "
+    },
+    {
+      "Citing_Paper_ID": "General practitioners' views on malnutrition management and oral nutritional supplementation prescription in the community: A qualitative study",
+      "Cited_Paper_ID": "Arends J et al., \"ESPEN expert group recommendations for action against cancer-related malnutrition\" (2017) "
+    }
+  ],
+  "RESEARCH PAPER 6": [
+    {
+      "Citing_Paper_ID": "GPTs are GPTs: An Early Look at the Labor Market Impact Potential of Large Language Models",
+      "Cited_Paper_ID": "Abid et al., \"Persistent anti-muslim bias in large language models\" (2021) "
+    },
+    {
+      "Citing_Paper_ID": "GPTs are GPTs: An Early Look at the Labor Market Impact Potential of Large Language Models",
+      "Cited_Paper_ID": "Acemoglu, D., \"Technical change, inequality, and the labor market\" (2002) "
+    },
+    {
+      "Citing_Paper_ID": "GPTs are GPTs: An Early Look at the Labor Market Impact Potential of Large Language Models",
+      "Cited_Paper_ID": "Acemoglu and Autor, \"Skills, tasks and technologies: Implications for employment and earnings\" (2011) "
+    },
+    {
+      "Citing_Paper_ID": "GPTs are GPTs: An Early Look at the Labor Market Impact Potential of Large Language Models",
+      "Cited_Paper_ID": "Acemoglu et al., \"Ai and jobs: Evidence from online vacancies\" (2020) "
+    },
+    {
+      "Citing_Paper_ID": "GPTs are GPTs: An Early Look at the Labor Market Impact Potential of Large Language Models",
+      "Cited_Paper_ID": "Acemoglu and Restrepo, \"The race between man and machine: Implications of technology for growth...\" (2018) "
+    },
+    {
+      "Citing_Paper_ID": "GPTs are GPTs: An Early Look at the Labor Market Impact Potential of Large Language Models",
+      "Cited_Paper_ID": "Acemoglu and Restrepo, \"Automation and new tasks: How technology displaces and reinstates labor\" (2019) "
+    },
+    {
+      "Citing_Paper_ID": "GPTs are GPTs: An Early Look at the Labor Market Impact Potential of Large Language Models",
+      "Cited_Paper_ID": "Aghion et al., \"Artificial intelligence and economic growth\" (2018) "
+    },
+    {
+      "Citing_Paper_ID": "GPTs are GPTs: An Early Look at the Labor Market Impact Potential of Large Language Models",
+      "Cited_Paper_ID": "Agrawal et al., \"Ai adoption and system-wide change\" (2021) "
+    },
+    {
+      "Citing_Paper_ID": "GPTs are GPTs: An Early Look at the Labor Market Impact Potential of Large Language Models",
+      "Cited_Paper_ID": "Arntz et al., \"Revisiting the risk of automation\" (2017) "
+    },
+    {
+      "Citing_Paper_ID": "GPTs are GPTs: An Early Look at the Labor Market Impact Potential of Large Language Models",
+      "Cited_Paper_ID": "Autor et al., \"New frontiers: The origins and content of new work, 1940-2018\" (2022) "
+    }
+  ],
+  "RESEARCH PAPER 7": [
+    {
+      "Citing_Paper_ID": "Impact of mobile phone addiction on adolescent's life: A literature review",
+      "Cited_Paper_ID": "Acharya JP, Acharya I, Waghrey D., \"A study on some of the Common Health Effects of Cell-Phones amongst college students\" (2013)"
+    },
+    {
+      "Citing_Paper_ID": "Impact of mobile phone addiction on adolescent's life: A literature review",
+      "Cited_Paper_ID": "Agrawal A et al., \"Effect of Cell phone usage on Semen Analysis in Men Attending Infertility Clinic\" (2008)"
+    },
+    {
+      "Citing_Paper_ID": "Impact of mobile phone addiction on adolescent's life: A literature review",
+      "Cited_Paper_ID": "Ahmed I et al., \"Mobile phone to youngsters: necessity or addiction\" (2011)"
+    },
+    {
+      "Citing_Paper_ID": "Impact of mobile phone addiction on adolescent's life: A literature review",
+      "Cited_Paper_ID": "\"Radiofrequency radiation associated with cell phone\" (2011)"
+    },
+    {
+      "Citing_Paper_ID": "Impact of mobile phone addiction on adolescent's life: A literature review",
+      "Cited_Paper_ID": "Baron NS., \"The Dark Side of Mobile Phones\" (2010)"
+    },
+    {
+      "Citing_Paper_ID": "Impact of mobile phone addiction on adolescent's life: A literature review",
+      "Cited_Paper_ID": "Bianchi A, Phillips J., \"Psychological predictors of problem mobile phone use\" (2005)"
+    },
+    {
+      "Citing_Paper_ID": "Impact of mobile phone addiction on adolescent's life: A literature review",
+      "Cited_Paper_ID": "Billieux J et al., \"Does impulsivity relate to perceived dependence and actual use of the mobile phone?\" (2007)"
+    },
+    {
+      "Citing_Paper_ID": "Impact of mobile phone addiction on adolescent's life: A literature review",
+      "Cited_Paper_ID": "Billieux J et al., \"The role of impulsivity in actual and problematic use of the mobile phone\" (2008)"
+    },
+    {
+      "Citing_Paper_ID": "Impact of mobile phone addiction on adolescent's life: A literature review",
+      "Cited_Paper_ID": "Bull M., \"No dead air! The iPod and the culture of mobile listening\" (2005)"
+    },
+    {
+      "Citing_Paper_ID": "Impact of mobile phone addiction on adolescent's life: A literature review",
+      "Cited_Paper_ID": "Cagan O et al., \"Evaluation of college students the level of Addiction to Cellular Phone...\" (2014)"
+    }
+  ],
+  "RESEARCH PAPER 8": [
+    {
+      "Citing_Paper_ID": "Machine Learning Algorithms: A Review",
+      "Cited_Paper_ID": "Munoz, and Andres, \"Machine Learning and Optimization\" (2017)"
+    },
+    {
+      "Citing_Paper_ID": "Machine Learning Algorithms: A Review",
+      "Cited_Paper_ID": "Hosch, and L. William, \"Machine Learning\" (2017)"
+    },
+    {
+      "Citing_Paper_ID": "Machine Learning Algorithms: A Review",
+      "Cited_Paper_ID": "Ron Kohavi, Foster Provost, \"Glossary of terms: Machine Learning\" (1998)"
+    },
+    {
+      "Citing_Paper_ID": "Machine Learning Algorithms: A Review",
+      "Cited_Paper_ID": "N. K. Chauhan, K. Singh, \"A Review on Conventional Machine Learning vs Deep Learning\" (2018)"
+    },
+    {
+      "Citing_Paper_ID": "Machine Learning Algorithms: A Review",
+      "Cited_Paper_ID": "S.B. Kotsiantis, \"Supervised Machine Learning: A Review of Classification Techniques\" (2007)"
+    },
+    {
+      "Citing_Paper_ID": "Machine Learning Algorithms: A Review",
+      "Cited_Paper_ID": "D. Meyer, \"Support Vector Machines - The Interface to libsvm in package 1071\" (2015)"
+    },
+    {
+      "Citing_Paper_ID": "Machine Learning Algorithms: A Review",
+      "Cited_Paper_ID": "Y. Lee, Y. Lin, and G. Wahba, \"Multicategory support vector machines: Theory and application...\" (2004)"
+    },
+    {
+      "Citing_Paper_ID": "Machine Learning Algorithms: A Review",
+      "Cited_Paper_ID": "S. S. Shwartz, Y. Singer, N. Srebro, \"Pegasos: Primal Estimated sub-Gradient Solver for SVM\" (2007)"
+    },
+    {
+      "Citing_Paper_ID": "Machine Learning Algorithms: A Review",
+      "Cited_Paper_ID": "P. Harrington, \"Machine Learning in action\" (2012)"
+    },
+    {
+      "Citing_Paper_ID": "Machine Learning Algorithms: A Review",
+      "Cited_Paper_ID": "M. J. Islam et al., \"Investigating the Performance of Naive Bayes Classifiers and K- Nearest Neighbor Classifiers\" (2010)"
+    }
+  ],
+  "RESEARCH PAPER 9": [
+    {
+      "Citing_Paper_ID": "Machine learning approaches for the prediction of bone mineral density...",
+      "Cited_Paper_ID": "Cummings, S. R. & Melton, L. J., \"Epidemiology and outcomes of osteoporotic fractures\" (2002) "
+    },
+    {
+      "Citing_Paper_ID": "Machine learning approaches for the prediction of bone mineral density...",
+      "Cited_Paper_ID": "Gullberg, B. et al., \"World-wide projections for hip fracture\" (1997) "
+    },
+    {
+      "Citing_Paper_ID": "Machine learning approaches for the prediction of bone mineral density...",
+      "Cited_Paper_ID": "Melton, L. J. & Cooper, C., \"Magnitude and Impact of Osteoporosis and Fractures\" (2007) "
+    },
+    {
+      "Citing_Paper_ID": "Machine learning approaches for the prediction of bone mineral density...",
+      "Cited_Paper_ID": "Cosman, F. et al., \"Clinician's guide to prevention and treatment of osteoporosis\" (2014) "
+    },
+    {
+      "Citing_Paper_ID": "Machine learning approaches for the prediction of bone mineral density...",
+      "Cited_Paper_ID": "Kanis, J. A. et al., \"Assessment of fracture risk\" (2005) "
+    },
+    {
+      "Citing_Paper_ID": "Machine learning approaches for the prediction of bone mineral density...",
+      "Cited_Paper_ID": "Marshall, D. & Wedel, H., \"Meta-analysis of how well measures of bone mineral density predict occurrence of osteoporotic fractures\" (1996) "
+    },
+    {
+      "Citing_Paper_ID": "Machine learning approaches for the prediction of bone mineral density...",
+      "Cited_Paper_ID": "Warrington, N. M. et al., \"Genetic variants in adult bone mineral density and fracture risk genes...\" (2015) "
+    },
+    {
+      "Citing_Paper_ID": "Machine learning approaches for the prediction of bone mineral density...",
+      "Cited_Paper_ID": "Eisman, J. A., \"Genetics of osteoporosis\" (1999) "
+    },
+    {
+      "Citing_Paper_ID": "Machine learning approaches for the prediction of bone mineral density...",
+      "Cited_Paper_ID": "Pocock, N. A. et al., \"Genetic determinants of bone mass in adults. A twin study\" (1987) "
+    },
+    {
+      "Citing_Paper_ID": "Machine learning approaches for the prediction of bone mineral density...",
+      "Cited_Paper_ID": "Morris, J. A. et al., \"An atlas of genetic influences on osteoporosis in humans and mice\" (2019) "
+    }
+  ],
+  "RESEARCH PAPER 10": [
+    {
+      "Citing_Paper_ID": "Neural Architecture Design for GPU-Efficient Networks",
+      "Cited_Paper_ID": "Cai et al., \"Proxyless NAS: Direct Neural Architecture Search on Target Task and Hardware\" (2019)"
+    },
+    {
+      "Citing_Paper_ID": "Neural Architecture Design for GPU-Efficient Networks",
+      "Cited_Paper_ID": "Cai et al., \"Once-for-All: Train One Network and Specialize it for Efficient Deployment...\" (2020)"
+    },
+    {
+      "Citing_Paper_ID": "Neural Architecture Design for GPU-Efficient Networks",
+      "Cited_Paper_ID": "Cubuk et al., \"AutoAugment: Learning Augmentation Policies from Data\" (2019)"
+    },
+    {
+      "Citing_Paper_ID": "Neural Architecture Design for GPU-Efficient Networks",
+      "Cited_Paper_ID": "Deng et al., \"ImageNet: A large-scale hierarchical image database\" (2009)"
+    },
+    {
+      "Citing_Paper_ID": "Neural Architecture Design for GPU-Efficient Networks",
+      "Cited_Paper_ID": "He et al., \"Deep Residual Learning for Image Recognition\" (2016)"
+    },
+    {
+      "Citing_Paper_ID": "Neural Architecture Design for GPU-Efficient Networks",
+      "Cited_Paper_ID": "He et al., \"Delving deep into rectifiers: Surpassing human-level performance on imagenet classification\" (2015)"
+    },
+    {
+      "Citing_Paper_ID": "Neural Architecture Design for GPU-Efficient Networks",
+      "Cited_Paper_ID": "Howard et al., \"Searching for MobileNet V3\" (2019)"
+    },
+    {
+      "Citing_Paper_ID": "Neural Architecture Design for GPU-Efficient Networks",
+      "Cited_Paper_ID": "Howard et al., \"MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications\" (2017)"
+    },
+    {
+      "Citing_Paper_ID": "Neural Architecture Design for GPU-Efficient Networks",
+      "Cited_Paper_ID": "Hu et al., \"Squeeze-and-Excitation Networks\" (2018)"
+    },
+    {
+      "Citing_Paper_ID": "Neural Architecture Design for GPU-Efficient Networks",
+      "Cited_Paper_ID": "Li et al., \"Blockwisely Supervised Neural Architecture Search with Knowledge Distillation\" (2019)"
+    }
+  ],
+  "RESEARCH PAPER 11": [
+    {
+      "Citing_Paper_ID": "Quantum generative adversarial learning",
+      "Cited_Paper_ID": "Mathieu et al., \"Deep multi-scale video prediction beyond mean square error\" (2015)"
+    },
+    {
+      "Citing_Paper_ID": "Quantum generative adversarial learning",
+      "Cited_Paper_ID": "Ledig et al., \"Photo-realistic single image super-resolution using a generative adversarial network\" (2016)"
+    },
+    {
+      "Citing_Paper_ID": "Quantum generative adversarial learning",
+      "Cited_Paper_ID": "Pathak et al., \"Context encoders: feature learning by inpainting\" (2016)"
+    },
+    {
+      "Citing_Paper_ID": "Quantum generative adversarial learning",
+      "Cited_Paper_ID": "Biamonte et al., \"Nature 549, 195\" (2017)"
+    },
+    {
+      "Citing_Paper_ID": "Quantum generative adversarial learning",
+      "Cited_Paper_ID": "Preskill, \"Quantum computing in the NISQ era and beyond\" (2018)"
+    },
+    {
+      "Citing_Paper_ID": "Quantum generative adversarial learning",
+      "Cited_Paper_ID": "Helstrom, \"Quantum detection and estimation theory\" (1976)"
+    },
+    {
+      "Citing_Paper_ID": "Quantum generative adversarial learning",
+      "Cited_Paper_ID": "Nielsen and Chuang, \"Quantum computation and quantum information\" (2000)"
+    },
+    {
+      "Citing_Paper_ID": "Quantum generative adversarial learning",
+      "Cited_Paper_ID": "LeCun et al., \"Nature 521, 436\" (2015)"
+    },
+    {
+      "Citing_Paper_ID": "Quantum generative adversarial learning",
+      "Cited_Paper_ID": "Kakutani, \"Duke Mathematical Journal\" (1941)"
+    }
+  ],
+  "RESEARCH PAPER 12": [
+    {
+      "Citing_Paper_ID": "The New Inline 4 Cylinder 2.5L Gasoline Engine with Toyota New Global Architecture Concept",
+      "Cited_Paper_ID": "Ohta et al., \"The New PRIUS Powertrain: The New 1.8L ESTEC 2ZR-FXE Engine...\" (2016)"
+    },
+    {
+      "Citing_Paper_ID": "The New Inline 4 Cylinder 2.5L Gasoline Engine with Toyota New Global Architecture Concept",
+      "Cited_Paper_ID": "Nakata and Shimizu, \"Toyota's New Combustion Technology for High Engine Thermal Efficiency...\" (2016)"
+    },
+    {
+      "Citing_Paper_ID": "The New Inline 4 Cylinder 2.5L Gasoline Engine with Toyota New Global Architecture Concept",
+      "Cited_Paper_ID": "Chen and Flynn, \"Development of a Single Cylinder Compression Ignition Research Engine\" (1965)"
+    },
+    {
+      "Citing_Paper_ID": "The New Inline 4 Cylinder 2.5L Gasoline Engine with Toyota New Global Architecture Concept",
+      "Cited_Paper_ID": "Watanabe et al., \"The New Toyota 2.0-Liter Inline 4-Cylinder ESTEC D-4ST Engine...\" (2014)"
+    },
+    {
+      "Citing_Paper_ID": "The New Inline 4 Cylinder 2.5L Gasoline Engine with Toyota New Global Architecture Concept",
+      "Cited_Paper_ID": "Yoshihara et al., \"Development of High Tumble Intake-port for High Thermal Efficiency Engines\" (2016)"
+    },
+    {
+      "Citing_Paper_ID": "The New Inline 4 Cylinder 2.5L Gasoline Engine with Toyota New Global Architecture Concept",
+      "Cited_Paper_ID": "Tokuda et al., \"Development of CFD Shape Optimization Technology using the Adjoint Method...\" (2013)"
+    },
+    {
+      "Citing_Paper_ID": "The New Inline 4 Cylinder 2.5L Gasoline Engine with Toyota New Global Architecture Concept",
+      "Cited_Paper_ID": "Murase and Shimizu, \"Innovative Gasoline Combustion Concepts for Toyota New Global Architecture\" (2016)"
+    },
+    {
+      "Citing_Paper_ID": "The New Inline 4 Cylinder 2.5L Gasoline Engine with Toyota New Global Architecture Concept",
+      "Cited_Paper_ID": "Kuroda, \"Nurturing of 'Performance Feel'\" (2003)"
+    },
+    {
+      "Citing_Paper_ID": "The New Inline 4 Cylinder 2.5L Gasoline Engine with Toyota New Global Architecture Concept",
+      "Cited_Paper_ID": "Tanaka, \"A Study on the Mechanism of Driving Pleasure\" (2016)"
+    },
+    {
+      "Citing_Paper_ID": "The New Inline 4 Cylinder 2.5L Gasoline Engine with Toyota New Global Architecture Concept",
+      "Cited_Paper_ID": "Matsumoto, \"Development of Dynamic Performance for the New Prius\" (2016)"
+    }
+  ],
+  "RESEARCH PAPER 13": [
+    {
+      "Citing_Paper_ID": "The Transformer Architecture in Large Language Models",
+      "Cited_Paper_ID": "Google Developers, \"Text Classification Guide, Word Embeddings\" (2023)"
+    },
+    {
+      "Citing_Paper_ID": "The Transformer Architecture in Large Language Models",
+      "Cited_Paper_ID": "A. Vaswani et al., \"Attention Is All You Need\" (2017)"
+    },
+    {
+      "Citing_Paper_ID": "The Transformer Architecture in Large Language Models",
+      "Cited_Paper_ID": "S. J. D. Prince, \"Understanding Deep Learning\" (2024)"
+    },
+    {
+      "Citing_Paper_ID": "The Transformer Architecture in Large Language Models",
+      "Cited_Paper_ID": "Wikipedia, \"Softmax function\""
+    },
+    {
+      "Citing_Paper_ID": "The Transformer Architecture in Large Language Models",
+      "Cited_Paper_ID": "Wikipedia, \"Large language model\""
+    },
+    {
+      "Citing_Paper_ID": "The Transformer Architecture in Large Language Models",
+      "Cited_Paper_ID": "L. A. Mullen et al., \"Fast, Consistent Tokenization of Natural Language Text\""
+    },
+    {
+      "Citing_Paper_ID": "The Transformer Architecture in Large Language Models",
+      "Cited_Paper_ID": "M. Dehouck, \"Challenging the 'One Single Vector per Token' Assumption\" (2023)"
+    },
+    {
+      "Citing_Paper_ID": "The Transformer Architecture in Large Language Models",
+      "Cited_Paper_ID": "R. P. Lebret, \"Word Embeddings for Natural Language Processing\" (2016)"
+    },
+    {
+      "Citing_Paper_ID": "The Transformer Architecture in Large Language Models",
+      "Cited_Paper_ID": "D. Jurafsky and J. H. Martin, \"Word Meaning: Vector Semantics & Embeddings\" (2024)"
+    },
+    {
+      "Citing_Paper_ID": "The Transformer Architecture in Large Language Models",
+      "Cited_Paper_ID": "Wikipedia, \"Dot product\""
+    }
+  ],
+  "RESEARCH PAPER 14": [
+    {
+      "Citing_Paper_ID": "Understanding the Complex of Suicide in Depression: from Research to Clinics",
+      "Cited_Paper_ID": "Bertolote JM, Fleischmann A. \"A global perspective in the epidemiology of suicide\" (2002)"
+    },
+    {
+      "Citing_Paper_ID": "Understanding the Complex of Suicide in Depression: from Research to Clinics",
+      "Cited_Paper_ID": "Hawton K, van Heeringen K. \"Suicide\" (2009)"
+    },
+    {
+      "Citing_Paper_ID": "Understanding the Complex of Suicide in Depression: from Research to Clinics",
+      "Cited_Paper_ID": "WHO. \"Mental Health Atlas 2017\" (2018)"
+    },
+    {
+      "Citing_Paper_ID": "Understanding the Complex of Suicide in Depression: from Research to Clinics",
+      "Cited_Paper_ID": "Stone DM et al. \"Preventing Suicide: A Technical Package of Policies, Programs, and Practices\" (2017)"
+    },
+    {
+      "Citing_Paper_ID": "Understanding the Complex of Suicide in Depression: from Research to Clinics",
+      "Cited_Paper_ID": "Chesney E, Goodwin GM, Fazel S. \"Risks of all-cause and suicide mortality in mental disorders: a meta-review\" (2014)"
+    },
+    {
+      "Citing_Paper_ID": "Understanding the Complex of Suicide in Depression: from Research to Clinics",
+      "Cited_Paper_ID": "Andrade L et al. \"The epidemiology of major depressive episodes: results from the International Consortium of Psychiatric Epidemiology (ICPE) Surveys\" (2003)"
+    },
+    {
+      "Citing_Paper_ID": "Understanding the Complex of Suicide in Depression: from Research to Clinics",
+      "Cited_Paper_ID": "Schmidt HD, Shelton RC, Duman RS. \"Functional biomarkers of depression: diagnosis, treatment, and pathophysiology\" (2011)"
+    },
+    {
+      "Citing_Paper_ID": "Understanding the Complex of Suicide in Depression: from Research to Clinics",
+      "Cited_Paper_ID": "Ferrari AJ et al. \"Global variation in the prevalence and incidence of major depressive disorder: a systematic review of the epidemiological literature\" (2013)"
+    },
+    {
+      "Citing_Paper_ID": "Understanding the Complex of Suicide in Depression: from Research to Clinics",
+      "Cited_Paper_ID": "Mann JJ. \"A current perspective of suicide and attempted suicide\" (2002)"
+    },
+    {
+      "Citing_Paper_ID": "Understanding the Complex of Suicide in Depression: from Research to Clinics",
+      "Cited_Paper_ID": "Coryell W, Young EA. \"Clinical predictors of suicide in primary major depressive disorder\" (2005)"
+    }
+  ],
+  "RESEARCH PAPER 15": [
+    {
+      "Citing_Paper_ID": "Weather prediction using random forest machine learning model",
+      "Cited_Paper_ID": "Wen-Yeau Chang, \"A literature review of wind forecasting methods\" (2014) "
+    },
+    {
+      "Citing_Paper_ID": "Weather prediction using random forest machine learning model",
+      "Cited_Paper_ID": "Rahul Sharma and Diksha Singh, \"A review of wind power and wind speed forecasting\" (2018) "
+    },
+    {
+      "Citing_Paper_ID": "Weather prediction using random forest machine learning model",
+      "Cited_Paper_ID": "Saurabh S. Soman et al., \"A review of wind power and wind speed forecasting methods with different time horizons\" (2010) "
+    },
+    {
+      "Citing_Paper_ID": "Weather prediction using random forest machine learning model",
+      "Cited_Paper_ID": "R. Meenal et al., \"Review on mathematical models for the prediction of global solar radiation\" (2019) "
+    },
+    {
+      "Citing_Paper_ID": "Weather prediction using random forest machine learning model",
+      "Cited_Paper_ID": "Sani Salisu et al., \"A Wavelet Based Solar Radiation Prediction in Nigeria Using Adaptive Neuro-Fuzzy Approach\" (2018) "
+    },
+    {
+      "Citing_Paper_ID": "Weather prediction using random forest machine learning model",
+      "Cited_Paper_ID": "Makarand A. et al., \"Wind speed prediction using statistical regression and neural network\" (2008) "
+    },
+    {
+      "Citing_Paper_ID": "Weather prediction using random forest machine learning model",
+      "Cited_Paper_ID": "Salisu Muhammad Lawan et al., \"Wind speed prediction in non-monitored areas based on topographic radial basis neural network (T-RBNN)\" (2018) "
+    },
+    {
+      "Citing_Paper_ID": "Weather prediction using random forest machine learning model",
+      "Cited_Paper_ID": "Cabral Lima et al., \"A model to forecast wind speed through singular spectrum analysis and artificial neural networks\" (2017) "
+    },
+    {
+      "Citing_Paper_ID": "Weather prediction using random forest machine learning model",
+      "Cited_Paper_ID": "R. Meenal et al., \"Sensitivity analysis based artificial neural network approach for global solar radiation prediction in India\" (2020) "
+    },
+    {
+      "Citing_Paper_ID": "Weather prediction using random forest machine learning model",
+      "Cited_Paper_ID": "R. Meenal and A.I. Selvakumar, \"Review on artificial neural network based solar radiation prediction\" (2018) "
+    }
+  ]
+}

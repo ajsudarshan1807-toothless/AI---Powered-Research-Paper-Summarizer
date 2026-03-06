@@ -1,0 +1,36 @@
+{
+    "source_file": "output_docx_words15.json",
+    "entities": [],
+    "triples": [
+        {
+            "subject": "Abstract",
+            "relation": "pose",
+            "object": "challenge"
+        },
+        {
+            "subject": "models",
+            "relation": "pose",
+            "object": "challenge"
+        },
+        {
+            "subject": "models",
+            "relation": "produce",
+            "object": "predictions"
+        },
+        {
+            "subject": "India",
+            "relation": "use",
+            "object": "model"
+        },
+        {
+            "subject": "model",
+            "relation": "have",
+            "object": "values"
+        },
+        {
+            "subject": "study",
+            "relation": "neglect",
+            "object": "need"
+        }
+    ]
+}

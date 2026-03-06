@@ -1,0 +1,8062 @@
+{
+    "source_file": "output7.json",
+    "entities": [
+        {
+            "text": "DoclingDocument",
+            "label": "ORG"
+        },
+        {
+            "text": "1.9.0",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/texts/0",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/15",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/16",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/groups/1 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/21 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/24",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/36",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/45",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/47 #/texts/48",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/49 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/52",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/79",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/118",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/groups/4 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/texts/7 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "/texts/8",
+            "label": "PERSON"
+        },
+        {
+            "text": "#/groups/1 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/texts/62",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/63",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/66",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/groups/3 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/81 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/83",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/91 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/93",
+            "label": "MONEY"
+        },
+        {
+            "text": "#",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/texts/96",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/104",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/109 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/111 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/113 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/groups/4 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/120 #/texts/121",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/0 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "International Journal of Home Science",
+            "label": "ORG"
+        },
+        {
+            "text": "2016",
+            "label": "DATE"
+        },
+        {
+            "text": "2(1",
+            "label": "DATE"
+        },
+        {
+            "text": "69",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "International Journal of Home Science",
+            "label": "ORG"
+        },
+        {
+            "text": "2016",
+            "label": "DATE"
+        },
+        {
+            "text": "2(1",
+            "label": "DATE"
+        },
+        {
+            "text": "69-74 #/texts/1 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "ISSN",
+            "label": "ORG"
+        },
+        {
+            "text": "ISSN",
+            "label": "ORG"
+        },
+        {
+            "text": "#/texts/3 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "2395-7476",
+            "label": "DATE"
+        },
+        {
+            "text": "2395-7476",
+            "label": "DATE"
+        },
+        {
+            "text": "#/texts/4 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "2016",
+            "label": "DATE"
+        },
+        {
+            "text": "2(1",
+            "label": "DATE"
+        },
+        {
+            "text": "69-74",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "2016",
+            "label": "DATE"
+        },
+        {
+            "text": "2(1",
+            "label": "DATE"
+        },
+        {
+            "text": "69-74 #/texts/5 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "\u00a9 2016",
+            "label": "DATE"
+        },
+        {
+            "text": "2016",
+            "label": "DATE"
+        },
+        {
+            "text": "#/texts/7 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "12-11-2015",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "12-11-2015",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/texts/8 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "13-12-2015",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "13-12-2015",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/texts/9 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "Vandana Goswami",
+            "label": "ORG"
+        },
+        {
+            "text": "#/texts/10 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "Research Scholar",
+            "label": "PERSON"
+        },
+        {
+            "text": "Department of Home Science",
+            "label": "ORG"
+        },
+        {
+            "text": "D.D.U. Gorakhpur University",
+            "label": "ORG"
+        },
+        {
+            "text": "273009",
+            "label": "DATE"
+        },
+        {
+            "text": "U.P.",
+            "label": "ORG"
+        },
+        {
+            "text": "India",
+            "label": "GPE"
+        },
+        {
+            "text": "Research Scholar",
+            "label": "PERSON"
+        },
+        {
+            "text": "Department of Home Science",
+            "label": "ORG"
+        },
+        {
+            "text": "D.D.U. Gorakhpur University",
+            "label": "ORG"
+        },
+        {
+            "text": "273009",
+            "label": "DATE"
+        },
+        {
+            "text": "U.P.",
+            "label": "ORG"
+        },
+        {
+            "text": "India",
+            "label": "GPE"
+        },
+        {
+            "text": "#/texts/11",
+            "label": "MONEY"
+        },
+        {
+            "text": "Divya Rani",
+            "label": "PERSON"
+        },
+        {
+            "text": "Singh",
+            "label": "GPE"
+        },
+        {
+            "text": "Divya Rani",
+            "label": "PERSON"
+        },
+        {
+            "text": "#/texts/13 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "Department of Home Science DDU Gorakhpur University",
+            "label": "ORG"
+        },
+        {
+            "text": "273009",
+            "label": "DATE"
+        },
+        {
+            "text": "U.P.",
+            "label": "ORG"
+        },
+        {
+            "text": "India",
+            "label": "GPE"
+        },
+        {
+            "text": "Department of Home Science DDU Gorakhpur University",
+            "label": "ORG"
+        },
+        {
+            "text": "273009",
+            "label": "DATE"
+        },
+        {
+            "text": "U.P.",
+            "label": "ORG"
+        },
+        {
+            "text": "India",
+            "label": "GPE"
+        },
+        {
+            "text": "#/texts/14 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "Divya Rani",
+            "label": "PERSON"
+        },
+        {
+            "text": "Department of Home Science",
+            "label": "ORG"
+        },
+        {
+            "text": "273009",
+            "label": "DATE"
+        },
+        {
+            "text": "U.P.",
+            "label": "ORG"
+        },
+        {
+            "text": "India",
+            "label": "GPE"
+        },
+        {
+            "text": "Divya Rani",
+            "label": "PERSON"
+        },
+        {
+            "text": "Department of Home Science DDU Gorakhpur University",
+            "label": "ORG"
+        },
+        {
+            "text": "273009",
+            "label": "DATE"
+        },
+        {
+            "text": "U.P.",
+            "label": "ORG"
+        },
+        {
+            "text": "India",
+            "label": "GPE"
+        },
+        {
+            "text": "#/texts/15 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/16 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "Vandana Goswami",
+            "label": "PERSON"
+        },
+        {
+            "text": "Divya Rani",
+            "label": "PERSON"
+        },
+        {
+            "text": "Singh",
+            "label": "GPE"
+        },
+        {
+            "text": "Goswami",
+            "label": "GPE"
+        },
+        {
+            "text": "Divya Rani",
+            "label": "PERSON"
+        },
+        {
+            "text": "Abstract Abstract",
+            "label": "ORG"
+        },
+        {
+            "text": "day -to-day",
+            "label": "DATE"
+        },
+        {
+            "text": "Negative",
+            "label": "ORG"
+        },
+        {
+            "text": "Mobile",
+            "label": "GPE"
+        },
+        {
+            "text": "Mobile",
+            "label": "GPE"
+        },
+        {
+            "text": "day -to-day",
+            "label": "DATE"
+        },
+        {
+            "text": "Negative",
+            "label": "ORG"
+        },
+        {
+            "text": "Mobile",
+            "label": "GPE"
+        },
+        {
+            "text": "Mobile",
+            "label": "GPE"
+        },
+        {
+            "text": "Assessment Keywords",
+            "label": "ORG"
+        },
+        {
+            "text": "#/texts/20",
+            "label": "MONEY"
+        },
+        {
+            "text": "#",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/texts/21 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "Worldwide",
+            "label": "PERSON"
+        },
+        {
+            "text": "this  century",
+            "label": "DATE"
+        },
+        {
+            "text": "this  century",
+            "label": "DATE"
+        },
+        {
+            "text": "#/texts/22",
+            "label": "MONEY"
+        },
+        {
+            "text": "today",
+            "label": "DATE"
+        },
+        {
+            "text": "around 4.5 billion",
+            "label": "MONEY"
+        },
+        {
+            "text": "Telecom Regulatory Authority of India",
+            "label": "ORG"
+        },
+        {
+            "text": "about 929.37 million",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "India",
+            "label": "GPE"
+        },
+        {
+            "text": "second",
+            "label": "ORDINAL"
+        },
+        {
+            "text": "the month of May, 2012",
+            "label": "DATE"
+        },
+        {
+            "text": "2012",
+            "label": "DATE"
+        },
+        {
+            "text": "53",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Motorola",
+            "label": "ORG"
+        },
+        {
+            "text": "Nokia",
+            "label": "ORG"
+        },
+        {
+            "text": "Samsung",
+            "label": "ORG"
+        },
+        {
+            "text": "Sony",
+            "label": "ORG"
+        },
+        {
+            "text": "Indian",
+            "label": "NORP"
+        },
+        {
+            "text": "Singla",
+            "label": "GPE"
+        },
+        {
+            "text": "2010",
+            "label": "DATE"
+        },
+        {
+            "text": "46",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "today",
+            "label": "DATE"
+        },
+        {
+            "text": "around 4.5 billion",
+            "label": "MONEY"
+        },
+        {
+            "text": "Telecom Regulatory Authority of India",
+            "label": "ORG"
+        },
+        {
+            "text": "about 929.37 million",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "India",
+            "label": "GPE"
+        },
+        {
+            "text": "second",
+            "label": "ORDINAL"
+        },
+        {
+            "text": "the month of May, 2012",
+            "label": "DATE"
+        },
+        {
+            "text": "2012",
+            "label": "DATE"
+        },
+        {
+            "text": "53",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Motorola",
+            "label": "ORG"
+        },
+        {
+            "text": "Nokia",
+            "label": "ORG"
+        },
+        {
+            "text": "Samsung",
+            "label": "ORG"
+        },
+        {
+            "text": "Sony",
+            "label": "ORG"
+        },
+        {
+            "text": "Indian",
+            "label": "NORP"
+        },
+        {
+            "text": "Singla",
+            "label": "GPE"
+        },
+        {
+            "text": "2010",
+            "label": "DATE"
+        },
+        {
+            "text": "46",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Hakoama  &  Hakoyama",
+            "label": "ORG"
+        },
+        {
+            "text": "2011",
+            "label": "DATE"
+        },
+        {
+            "text": "17",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Mackay  &  Weidlich",
+            "label": "ORG"
+        },
+        {
+            "text": "2007",
+            "label": "DATE"
+        },
+        {
+            "text": "30",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Tech",
+            "label": "ORG"
+        },
+        {
+            "text": "Johnson & Kritsonis",
+            "label": "ORG"
+        },
+        {
+            "text": "2007",
+            "label": "DATE"
+        },
+        {
+            "text": "23",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Ling, 2004",
+            "label": "DATE"
+        },
+        {
+            "text": "Baron",
+            "label": "PERSON"
+        },
+        {
+            "text": "2010",
+            "label": "DATE"
+        },
+        {
+            "text": "7",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Hakoama  &  Hakoyama",
+            "label": "ORG"
+        },
+        {
+            "text": "2011",
+            "label": "DATE"
+        },
+        {
+            "text": "17",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Mackay  &  Weidlich",
+            "label": "ORG"
+        },
+        {
+            "text": "2007",
+            "label": "DATE"
+        },
+        {
+            "text": "30",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Tech",
+            "label": "ORG"
+        },
+        {
+            "text": "Johnson & Kritsonis",
+            "label": "ORG"
+        },
+        {
+            "text": "2007",
+            "label": "DATE"
+        },
+        {
+            "text": "23",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Ling, 2004",
+            "label": "DATE"
+        },
+        {
+            "text": "Baron",
+            "label": "PERSON"
+        },
+        {
+            "text": "2010",
+            "label": "DATE"
+        },
+        {
+            "text": "7",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/texts/24",
+            "label": "MONEY"
+        },
+        {
+            "text": "2",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "2",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Mobile Addiction",
+            "label": "ORG"
+        },
+        {
+            "text": "recent years",
+            "label": "DATE"
+        },
+        {
+            "text": "recent years",
+            "label": "DATE"
+        },
+        {
+            "text": "69",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/texts/27 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "International Journal of Home Science International Journal of Home Science",
+            "label": "ORG"
+        },
+        {
+            "text": "#/texts/28",
+            "label": "MONEY"
+        },
+        {
+            "text": "Shaffer",
+            "label": "PERSON"
+        },
+        {
+            "text": "Hall  &  Bilt",
+            "label": "ORG"
+        },
+        {
+            "text": "1999",
+            "label": "DATE"
+        },
+        {
+            "text": "44",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Kraut",
+            "label": "PERSON"
+        },
+        {
+            "text": "al .  ",
+            "label": "PERSON"
+        },
+        {
+            "text": "1998",
+            "label": "DATE"
+        },
+        {
+            "text": "Bull",
+            "label": "PERSON"
+        },
+        {
+            "text": "2005",
+            "label": "DATE"
+        },
+        {
+            "text": "24",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "11",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Ross",
+            "label": "PERSON"
+        },
+        {
+            "text": "2001",
+            "label": "DATE"
+        },
+        {
+            "text": "' 2003",
+            "label": "DATE"
+        },
+        {
+            "text": "40",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "33",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Kubey",
+            "label": "GPE"
+        },
+        {
+            "text": "al .  ",
+            "label": "PERSON"
+        },
+        {
+            "text": "2001",
+            "label": "DATE"
+        },
+        {
+            "text": "25",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "one",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "2003",
+            "label": "DATE"
+        },
+        {
+            "text": "33",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Park",
+            "label": "LOC"
+        },
+        {
+            "text": "2005",
+            "label": "DATE"
+        },
+        {
+            "text": "36",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Shaffer",
+            "label": "PERSON"
+        },
+        {
+            "text": "Hall  &  Bilt",
+            "label": "ORG"
+        },
+        {
+            "text": "1999",
+            "label": "DATE"
+        },
+        {
+            "text": "44",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Kraut",
+            "label": "PERSON"
+        },
+        {
+            "text": "al .  ",
+            "label": "PERSON"
+        },
+        {
+            "text": "1998",
+            "label": "DATE"
+        },
+        {
+            "text": "Bull",
+            "label": "PERSON"
+        },
+        {
+            "text": "2005",
+            "label": "DATE"
+        },
+        {
+            "text": "24",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "11",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Ross",
+            "label": "PERSON"
+        },
+        {
+            "text": "2001",
+            "label": "DATE"
+        },
+        {
+            "text": "' 2003",
+            "label": "DATE"
+        },
+        {
+            "text": "40",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "33",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Kubey",
+            "label": "GPE"
+        },
+        {
+            "text": "al .  ",
+            "label": "PERSON"
+        },
+        {
+            "text": "2001",
+            "label": "DATE"
+        },
+        {
+            "text": "25",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "one",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "2003",
+            "label": "DATE"
+        },
+        {
+            "text": "33",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Park",
+            "label": "LOC"
+        },
+        {
+            "text": "2005",
+            "label": "DATE"
+        },
+        {
+            "text": "36",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/texts/29",
+            "label": "MONEY"
+        },
+        {
+            "text": "Casey",
+            "label": "PERSON"
+        },
+        {
+            "text": "Lee",
+            "label": "PERSON"
+        },
+        {
+            "text": "al",
+            "label": "PERSON"
+        },
+        {
+            "text": "2013",
+            "label": "DATE"
+        },
+        {
+            "text": "13",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "26",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Park 2005",
+            "label": "PERSON"
+        },
+        {
+            "text": "Ahmed",
+            "label": "PERSON"
+        },
+        {
+            "text": "Szpakow",
+            "label": "PERSON"
+        },
+        {
+            "text": "al",
+            "label": "PERSON"
+        },
+        {
+            "text": "36",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "3",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "51",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Billieux",
+            "label": "PERSON"
+        },
+        {
+            "text": "2008",
+            "label": "DATE"
+        },
+        {
+            "text": "2009",
+            "label": "DATE"
+        },
+        {
+            "text": "10",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "52",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "al",
+            "label": "PERSON"
+        },
+        {
+            "text": "2009",
+            "label": "DATE"
+        },
+        {
+            "text": "43",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "14",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Matthews",
+            "label": "PERSON"
+        },
+        {
+            "text": "al",
+            "label": "PERSON"
+        },
+        {
+            "text": "2009",
+            "label": "DATE"
+        },
+        {
+            "text": "Perry",
+            "label": "PERSON"
+        },
+        {
+            "text": "Lee",
+            "label": "PERSON"
+        },
+        {
+            "text": "2007",
+            "label": "DATE"
+        },
+        {
+            "text": "37",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Smartphone",
+            "label": "ORG"
+        },
+        {
+            "text": "Casey",
+            "label": "PERSON"
+        },
+        {
+            "text": "Lee",
+            "label": "PERSON"
+        },
+        {
+            "text": "al",
+            "label": "PERSON"
+        },
+        {
+            "text": "2013",
+            "label": "DATE"
+        },
+        {
+            "text": "13",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "26",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Park 2005",
+            "label": "PERSON"
+        },
+        {
+            "text": "Ahmed",
+            "label": "PERSON"
+        },
+        {
+            "text": "Szpakow",
+            "label": "PERSON"
+        },
+        {
+            "text": "al",
+            "label": "PERSON"
+        },
+        {
+            "text": "36",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "3",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "51",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Billieux",
+            "label": "PERSON"
+        },
+        {
+            "text": "2008",
+            "label": "DATE"
+        },
+        {
+            "text": "2009",
+            "label": "DATE"
+        },
+        {
+            "text": "10",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "52",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "al",
+            "label": "PERSON"
+        },
+        {
+            "text": "2009",
+            "label": "DATE"
+        },
+        {
+            "text": "43",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "14",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Matthews",
+            "label": "PERSON"
+        },
+        {
+            "text": "al",
+            "label": "PERSON"
+        },
+        {
+            "text": "2009",
+            "label": "DATE"
+        },
+        {
+            "text": "Perry",
+            "label": "PERSON"
+        },
+        {
+            "text": "Lee",
+            "label": "PERSON"
+        },
+        {
+            "text": "2007",
+            "label": "DATE"
+        },
+        {
+            "text": "37",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Smartphone",
+            "label": "ORG"
+        },
+        {
+            "text": "3",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Mobile Phone Addiction Symptoms",
+            "label": "ORG"
+        },
+        {
+            "text": "3",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Mobile Phone Addiction Symptoms",
+            "label": "ORG"
+        },
+        {
+            "text": "one",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Bianchi",
+            "label": "NORP"
+        },
+        {
+            "text": "Phillips",
+            "label": "ORG"
+        },
+        {
+            "text": "2005",
+            "label": "DATE"
+        },
+        {
+            "text": "8",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "SMS",
+            "label": "ORG"
+        },
+        {
+            "text": "Ross",
+            "label": "PERSON"
+        },
+        {
+            "text": "2011",
+            "label": "DATE"
+        },
+        {
+            "text": "40",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "three",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "first",
+            "label": "ORDINAL"
+        },
+        {
+            "text": "second",
+            "label": "ORDINAL"
+        },
+        {
+            "text": "James and Drennan",
+            "label": "PERSON"
+        },
+        {
+            "text": "2005",
+            "label": "DATE"
+        },
+        {
+            "text": "21",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Australian",
+            "label": "NORP"
+        },
+        {
+            "text": "1.5-5 hours",
+            "label": "TIME"
+        },
+        {
+            "text": "Park",
+            "label": "PERSON"
+        },
+        {
+            "text": "2005",
+            "label": "DATE"
+        },
+        {
+            "text": "36",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "less than nine minutes",
+            "label": "TIME"
+        },
+        {
+            "text": "more than nine minutes",
+            "label": "TIME"
+        },
+        {
+            "text": "less than nine minutes",
+            "label": "TIME"
+        },
+        {
+            "text": "more than nine minute",
+            "label": "TIME"
+        },
+        {
+            "text": "seven",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "one",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Bianchi",
+            "label": "NORP"
+        },
+        {
+            "text": "Phillips",
+            "label": "ORG"
+        },
+        {
+            "text": "2005",
+            "label": "DATE"
+        },
+        {
+            "text": "8",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "SMS",
+            "label": "ORG"
+        },
+        {
+            "text": "Ross",
+            "label": "PERSON"
+        },
+        {
+            "text": "2011",
+            "label": "DATE"
+        },
+        {
+            "text": "40",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "three",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "first",
+            "label": "ORDINAL"
+        },
+        {
+            "text": "second",
+            "label": "ORDINAL"
+        },
+        {
+            "text": "James and Drennan",
+            "label": "PERSON"
+        },
+        {
+            "text": "2005",
+            "label": "DATE"
+        },
+        {
+            "text": "21",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Australian",
+            "label": "NORP"
+        },
+        {
+            "text": "1.5-5 hours",
+            "label": "TIME"
+        },
+        {
+            "text": "Park",
+            "label": "PERSON"
+        },
+        {
+            "text": "2005",
+            "label": "DATE"
+        },
+        {
+            "text": "36",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "less than nine minutes",
+            "label": "TIME"
+        },
+        {
+            "text": "more than nine minutes",
+            "label": "TIME"
+        },
+        {
+            "text": "less than nine minutes",
+            "label": "TIME"
+        },
+        {
+            "text": "more than nine minute",
+            "label": "TIME"
+        },
+        {
+            "text": "seven",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/texts/32 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "4",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Mobile Phone Addiction",
+            "label": "ORG"
+        },
+        {
+            "text": "4",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Mobile Phone Addiction",
+            "label": "ORG"
+        },
+        {
+            "text": "#/texts/33 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "Billiexu",
+            "label": "ORG"
+        },
+        {
+            "text": "2007",
+            "label": "DATE"
+        },
+        {
+            "text": "al .  ",
+            "label": "PERSON"
+        },
+        {
+            "text": "2008",
+            "label": "DATE"
+        },
+        {
+            "text": "Sanchez",
+            "label": "ORG"
+        },
+        {
+            "text": "Otero",
+            "label": "PERSON"
+        },
+        {
+            "text": "2009",
+            "label": "DATE"
+        },
+        {
+            "text": "9",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "16",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "42",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "One",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Mobile  Phone Problem  Use  Scale  (MPPUS",
+            "label": "ORG"
+        },
+        {
+            "text": "Phillips",
+            "label": "ORG"
+        },
+        {
+            "text": "2005",
+            "label": "DATE"
+        },
+        {
+            "text": "8",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "27",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "10",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Likert",
+            "label": "PERSON"
+        },
+        {
+            "text": "Toda",
+            "label": "GPE"
+        },
+        {
+            "text": "al .  ",
+            "label": "PERSON"
+        },
+        {
+            "text": "2004",
+            "label": "DATE"
+        },
+        {
+            "text": "54",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "MPDQ",
+            "label": "ORG"
+        },
+        {
+            "text": "Walsh",
+            "label": "PERSON"
+        },
+        {
+            "text": "al",
+            "label": "PERSON"
+        },
+        {
+            "text": "2010",
+            "label": "DATE"
+        },
+        {
+            "text": "57",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Mobile Phone Involvement Questionnaire",
+            "label": "ORG"
+        },
+        {
+            "text": "the Problematic Mobile Phone Use Questionnaire",
+            "label": "ORG"
+        },
+        {
+            "text": "Billieux",
+            "label": "PERSON"
+        },
+        {
+            "text": "al",
+            "label": "PERSON"
+        },
+        {
+            "text": "2008",
+            "label": "DATE"
+        },
+        {
+            "text": "10",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "30",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "four",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Likert",
+            "label": "PERSON"
+        },
+        {
+            "text": "1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "2",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "3",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "4",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "daily",
+            "label": "DATE"
+        },
+        {
+            "text": "SMS",
+            "label": "ORG"
+        },
+        {
+            "text": "Rutland",
+            "label": "ORG"
+        },
+        {
+            "text": "al",
+            "label": "PERSON"
+        },
+        {
+            "text": "2007",
+            "label": "DATE"
+        },
+        {
+            "text": "41",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Billiexu",
+            "label": "ORG"
+        },
+        {
+            "text": "2007",
+            "label": "DATE"
+        },
+        {
+            "text": "al .  ",
+            "label": "PERSON"
+        },
+        {
+            "text": "2008",
+            "label": "DATE"
+        },
+        {
+            "text": "Sanchez",
+            "label": "ORG"
+        },
+        {
+            "text": "Otero",
+            "label": "PERSON"
+        },
+        {
+            "text": "2009",
+            "label": "DATE"
+        },
+        {
+            "text": "9",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "16",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "42",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "One",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Mobile  Phone Problem  Use  Scale  (MPPUS",
+            "label": "ORG"
+        },
+        {
+            "text": "Phillips",
+            "label": "ORG"
+        },
+        {
+            "text": "2005",
+            "label": "DATE"
+        },
+        {
+            "text": "8",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "27",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "10",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Likert",
+            "label": "PERSON"
+        },
+        {
+            "text": "Toda",
+            "label": "GPE"
+        },
+        {
+            "text": "al .  ",
+            "label": "PERSON"
+        },
+        {
+            "text": "2004",
+            "label": "DATE"
+        },
+        {
+            "text": "54",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "MPDQ",
+            "label": "ORG"
+        },
+        {
+            "text": "Walsh",
+            "label": "PERSON"
+        },
+        {
+            "text": "al",
+            "label": "PERSON"
+        },
+        {
+            "text": "2010",
+            "label": "DATE"
+        },
+        {
+            "text": "57",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Mobile Phone Involvement Questionnaire",
+            "label": "ORG"
+        },
+        {
+            "text": "the Problematic Mobile Phone Use Questionnaire",
+            "label": "ORG"
+        },
+        {
+            "text": "Billieux",
+            "label": "PERSON"
+        },
+        {
+            "text": "al",
+            "label": "PERSON"
+        },
+        {
+            "text": "2008",
+            "label": "DATE"
+        },
+        {
+            "text": "10",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "30",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "four",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Likert",
+            "label": "PERSON"
+        },
+        {
+            "text": "1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "2",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "3",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "4",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "daily",
+            "label": "DATE"
+        },
+        {
+            "text": "SMS",
+            "label": "ORG"
+        },
+        {
+            "text": "Rutland",
+            "label": "ORG"
+        },
+        {
+            "text": "al",
+            "label": "PERSON"
+        },
+        {
+            "text": "2007",
+            "label": "DATE"
+        },
+        {
+            "text": "41",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "70",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "70",
+            "label": "DATE"
+        },
+        {
+            "text": "International Journal of Home Science International Journal of Home Science",
+            "label": "ORG"
+        },
+        {
+            "text": "#/texts/36",
+            "label": "MONEY"
+        },
+        {
+            "text": "Igarashi",
+            "label": "ORG"
+        },
+        {
+            "text": "2008",
+            "label": "DATE"
+        },
+        {
+            "text": "20",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Igarashi",
+            "label": "ORG"
+        },
+        {
+            "text": "2008",
+            "label": "DATE"
+        },
+        {
+            "text": "20",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/texts/37 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "5",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Adolescents 5",
+            "label": "ORG"
+        },
+        {
+            "text": "Orissa",
+            "label": "PERSON"
+        },
+        {
+            "text": "September 16 2008",
+            "label": "DATE"
+        },
+        {
+            "text": "Samir  Dey",
+            "label": "PERSON"
+        },
+        {
+            "text": "first",
+            "label": "ORDINAL"
+        },
+        {
+            "text": "Gujarat  Government",
+            "label": "ORG"
+        },
+        {
+            "text": "education  department",
+            "label": "ORG"
+        },
+        {
+            "text": "Saturday 2008",
+            "label": "DATE"
+        },
+        {
+            "text": "58%",
+            "label": "PERCENT"
+        },
+        {
+            "text": "Asians",
+            "label": "NORP"
+        },
+        {
+            "text": "Indians",
+            "label": "NORP"
+        },
+        {
+            "text": "Indians",
+            "label": "NORP"
+        },
+        {
+            "text": "69%",
+            "label": "PERCENT"
+        },
+        {
+            "text": "21%",
+            "label": "PERCENT"
+        },
+        {
+            "text": "79%",
+            "label": "PERCENT"
+        },
+        {
+            "text": "25%",
+            "label": "PERCENT"
+        },
+        {
+            "text": "80%",
+            "label": "PERCENT"
+        },
+        {
+            "text": "Asians",
+            "label": "NORP"
+        },
+        {
+            "text": "Orissa",
+            "label": "PERSON"
+        },
+        {
+            "text": "September 16 2008",
+            "label": "DATE"
+        },
+        {
+            "text": "Samir  Dey",
+            "label": "PERSON"
+        },
+        {
+            "text": "first",
+            "label": "ORDINAL"
+        },
+        {
+            "text": "Gujarat  Government",
+            "label": "ORG"
+        },
+        {
+            "text": "education  department",
+            "label": "ORG"
+        },
+        {
+            "text": "Saturday 2008",
+            "label": "DATE"
+        },
+        {
+            "text": "58%",
+            "label": "PERCENT"
+        },
+        {
+            "text": "Asians",
+            "label": "NORP"
+        },
+        {
+            "text": "Indians",
+            "label": "NORP"
+        },
+        {
+            "text": "Indians",
+            "label": "NORP"
+        },
+        {
+            "text": "69%",
+            "label": "PERCENT"
+        },
+        {
+            "text": "21%",
+            "label": "PERCENT"
+        },
+        {
+            "text": "79%",
+            "label": "PERCENT"
+        },
+        {
+            "text": "25%",
+            "label": "PERCENT"
+        },
+        {
+            "text": "80%",
+            "label": "PERCENT"
+        },
+        {
+            "text": "Asians",
+            "label": "NORP"
+        },
+        {
+            "text": "#/texts/39 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "al",
+            "label": "PERSON"
+        },
+        {
+            "text": "2013",
+            "label": "DATE"
+        },
+        {
+            "text": "50",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Phantom",
+            "label": "ORG"
+        },
+        {
+            "text": "South India",
+            "label": "LOC"
+        },
+        {
+            "text": "Mangalore",
+            "label": "PERSON"
+        },
+        {
+            "text": "220",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "51%",
+            "label": "PERCENT"
+        },
+        {
+            "text": "150",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "48%",
+            "label": "PERCENT"
+        },
+        {
+            "text": "less than half hour",
+            "label": "TIME"
+        },
+        {
+            "text": "137",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "41%",
+            "label": "PERCENT"
+        },
+        {
+            "text": "99%",
+            "label": "PERCENT"
+        },
+        {
+            "text": "60.3%",
+            "label": "PERCENT"
+        },
+        {
+            "text": "Cagan",
+            "label": "PERSON"
+        },
+        {
+            "text": "2014",
+            "label": "DATE"
+        },
+        {
+            "text": "12",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "daily",
+            "label": "DATE"
+        },
+        {
+            "text": "Sheopuri",
+            "label": "GPE"
+        },
+        {
+            "text": "Sheopuri",
+            "label": "GPE"
+        },
+        {
+            "text": "2014",
+            "label": "DATE"
+        },
+        {
+            "text": "45",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Bhopal",
+            "label": "GPE"
+        },
+        {
+            "text": "India",
+            "label": "GPE"
+        },
+        {
+            "text": "al",
+            "label": "PERSON"
+        },
+        {
+            "text": "2013",
+            "label": "DATE"
+        },
+        {
+            "text": "50",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Phantom",
+            "label": "ORG"
+        },
+        {
+            "text": "South India",
+            "label": "LOC"
+        },
+        {
+            "text": "Mangalore",
+            "label": "PERSON"
+        },
+        {
+            "text": "220",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "51%",
+            "label": "PERCENT"
+        },
+        {
+            "text": "150",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "48%",
+            "label": "PERCENT"
+        },
+        {
+            "text": "less than half hour",
+            "label": "TIME"
+        },
+        {
+            "text": "137",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "41%",
+            "label": "PERCENT"
+        },
+        {
+            "text": "99%",
+            "label": "PERCENT"
+        },
+        {
+            "text": "60.3%",
+            "label": "PERCENT"
+        },
+        {
+            "text": "Cagan",
+            "label": "PERSON"
+        },
+        {
+            "text": "2014",
+            "label": "DATE"
+        },
+        {
+            "text": "12",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "daily",
+            "label": "DATE"
+        },
+        {
+            "text": "Sheopuri",
+            "label": "GPE"
+        },
+        {
+            "text": "Sheopuri",
+            "label": "GPE"
+        },
+        {
+            "text": "2014",
+            "label": "DATE"
+        },
+        {
+            "text": "45",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Bhopal",
+            "label": "GPE"
+        },
+        {
+            "text": "India",
+            "label": "GPE"
+        },
+        {
+            "text": "#/texts/40",
+            "label": "MONEY"
+        },
+        {
+            "text": "6",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Mobile  Phone",
+            "label": "ORG"
+        },
+        {
+            "text": "Adolescents  Mental",
+            "label": "ORG"
+        },
+        {
+            "text": "Physical Health",
+            "label": "ORG"
+        },
+        {
+            "text": "6",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Mobile  Phone",
+            "label": "ORG"
+        },
+        {
+            "text": "Adolescents  Mental",
+            "label": "ORG"
+        },
+        {
+            "text": "Physical Health",
+            "label": "ORG"
+        },
+        {
+            "text": "one",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "one",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/texts/42",
+            "label": "MONEY"
+        },
+        {
+            "text": "Ozturan",
+            "label": "GPE"
+        },
+        {
+            "text": "al",
+            "label": "PERSON"
+        },
+        {
+            "text": "2002",
+            "label": "DATE"
+        },
+        {
+            "text": "35",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Ear",
+            "label": "PERSON"
+        },
+        {
+            "text": "first",
+            "label": "ORDINAL"
+        },
+        {
+            "text": "Loughran",
+            "label": "PERSON"
+        },
+        {
+            "text": "al",
+            "label": "PERSON"
+        },
+        {
+            "text": "2005",
+            "label": "DATE"
+        },
+        {
+            "text": "29",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "REM",
+            "label": "ORG"
+        },
+        {
+            "text": "11.5 to 12.25",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Agrawal",
+            "label": "PERSON"
+        },
+        {
+            "text": "al .  ",
+            "label": "PERSON"
+        },
+        {
+            "text": "2008",
+            "label": "DATE"
+        },
+        {
+            "text": "2",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Soderqvist",
+            "label": "ORG"
+        },
+        {
+            "text": "al",
+            "label": "PERSON"
+        },
+        {
+            "text": "2008",
+            "label": "DATE"
+        },
+        {
+            "text": "48",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "2000",
+            "label": "DATE"
+        },
+        {
+            "text": "Swedish",
+            "label": "NORP"
+        },
+        {
+            "text": "Srivastava",
+            "label": "PERSON"
+        },
+        {
+            "text": "Tiwari",
+            "label": "PERSON"
+        },
+        {
+            "text": "2013",
+            "label": "DATE"
+        },
+        {
+            "text": "49",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "100",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Uttar  Pradesh",
+            "label": "ORG"
+        },
+        {
+            "text": "India",
+            "label": "GPE"
+        },
+        {
+            "text": "al",
+            "label": "PERSON"
+        },
+        {
+            "text": "2013",
+            "label": "DATE"
+        },
+        {
+            "text": "1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "17-23 years",
+            "label": "DATE"
+        },
+        {
+            "text": "Ozturan",
+            "label": "GPE"
+        },
+        {
+            "text": "al",
+            "label": "PERSON"
+        },
+        {
+            "text": "2002",
+            "label": "DATE"
+        },
+        {
+            "text": "35",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Ear",
+            "label": "PERSON"
+        },
+        {
+            "text": "first",
+            "label": "ORDINAL"
+        },
+        {
+            "text": "Loughran",
+            "label": "PERSON"
+        },
+        {
+            "text": "al",
+            "label": "PERSON"
+        },
+        {
+            "text": "2005",
+            "label": "DATE"
+        },
+        {
+            "text": "29",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "REM",
+            "label": "ORG"
+        },
+        {
+            "text": "11.5 to 12.25",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Agrawal",
+            "label": "PERSON"
+        },
+        {
+            "text": "al .  ",
+            "label": "PERSON"
+        },
+        {
+            "text": "2008",
+            "label": "DATE"
+        },
+        {
+            "text": "2",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Soderqvist",
+            "label": "ORG"
+        },
+        {
+            "text": "al",
+            "label": "PERSON"
+        },
+        {
+            "text": "2008",
+            "label": "DATE"
+        },
+        {
+            "text": "48",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "2000",
+            "label": "DATE"
+        },
+        {
+            "text": "Swedish",
+            "label": "NORP"
+        },
+        {
+            "text": "Srivastava",
+            "label": "PERSON"
+        },
+        {
+            "text": "Tiwari",
+            "label": "PERSON"
+        },
+        {
+            "text": "2013",
+            "label": "DATE"
+        },
+        {
+            "text": "49",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "100",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Uttar  Pradesh",
+            "label": "ORG"
+        },
+        {
+            "text": "India",
+            "label": "GPE"
+        },
+        {
+            "text": "al",
+            "label": "PERSON"
+        },
+        {
+            "text": "2013",
+            "label": "DATE"
+        },
+        {
+            "text": "1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "17-23 years",
+            "label": "DATE"
+        },
+        {
+            "text": "#/texts/43 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "7",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Mobile Phone Addiction",
+            "label": "ORG"
+        },
+        {
+            "text": "Mobile Phone Addiction",
+            "label": "ORG"
+        },
+        {
+            "text": "Oksman, 2006",
+            "label": "DATE"
+        },
+        {
+            "text": "34",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "SMS",
+            "label": "ORG"
+        },
+        {
+            "text": "Rautiainen",
+            "label": "PERSON"
+        },
+        {
+            "text": "2002",
+            "label": "DATE"
+        },
+        {
+            "text": "2004",
+            "label": "DATE"
+        },
+        {
+            "text": "58",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "2004",
+            "label": "DATE"
+        },
+        {
+            "text": "2005",
+            "label": "DATE"
+        },
+        {
+            "text": "38",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "31",
+            "label": "DATE"
+        },
+        {
+            "text": "18",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Only one",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "2004",
+            "label": "DATE"
+        },
+        {
+            "text": "Oksman, 2006",
+            "label": "DATE"
+        },
+        {
+            "text": "34",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "SMS",
+            "label": "ORG"
+        },
+        {
+            "text": "Rautiainen",
+            "label": "PERSON"
+        },
+        {
+            "text": "2002",
+            "label": "DATE"
+        },
+        {
+            "text": "2004",
+            "label": "DATE"
+        },
+        {
+            "text": "58",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "2004",
+            "label": "DATE"
+        },
+        {
+            "text": "2005",
+            "label": "DATE"
+        },
+        {
+            "text": "38",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "31",
+            "label": "DATE"
+        },
+        {
+            "text": "18",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Only one",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "2004",
+            "label": "DATE"
+        },
+        {
+            "text": "#/texts/45",
+            "label": "MONEY"
+        },
+        {
+            "text": "Lobet-Maris 2002",
+            "label": "ORG"
+        },
+        {
+            "text": "Rautiainen",
+            "label": "PERSON"
+        },
+        {
+            "text": "2001",
+            "label": "DATE"
+        },
+        {
+            "text": "61",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "60",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "2002",
+            "label": "DATE"
+        },
+        {
+            "text": "47",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Lobet-Maris 2002",
+            "label": "ORG"
+        },
+        {
+            "text": "Rautiainen",
+            "label": "PERSON"
+        },
+        {
+            "text": "2001",
+            "label": "DATE"
+        },
+        {
+            "text": "61",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "60",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "2002",
+            "label": "DATE"
+        },
+        {
+            "text": "47",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Devis",
+            "label": "PERSON"
+        },
+        {
+            "text": "al .  ",
+            "label": "PERSON"
+        },
+        {
+            "text": "2009",
+            "label": "DATE"
+        },
+        {
+            "text": "15",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "weekend",
+            "label": "DATE"
+        },
+        {
+            "text": "weekend day",
+            "label": "DATE"
+        },
+        {
+            "text": "Turner",
+            "label": "ORG"
+        },
+        {
+            "text": "al .  ",
+            "label": "PERSON"
+        },
+        {
+            "text": "2008",
+            "label": "DATE"
+        },
+        {
+            "text": "55",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Billieux et  al .  ",
+            "label": "WORK_OF_ART"
+        },
+        {
+            "text": "2008",
+            "label": "DATE"
+        },
+        {
+            "text": "10",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Devis",
+            "label": "PERSON"
+        },
+        {
+            "text": "al .  ",
+            "label": "PERSON"
+        },
+        {
+            "text": "2009",
+            "label": "DATE"
+        },
+        {
+            "text": "15",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "weekend",
+            "label": "DATE"
+        },
+        {
+            "text": "weekend day",
+            "label": "DATE"
+        },
+        {
+            "text": "Turner",
+            "label": "ORG"
+        },
+        {
+            "text": "al .  ",
+            "label": "PERSON"
+        },
+        {
+            "text": "2008",
+            "label": "DATE"
+        },
+        {
+            "text": "55",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Billieux et  al .  ",
+            "label": "WORK_OF_ART"
+        },
+        {
+            "text": "2008",
+            "label": "DATE"
+        },
+        {
+            "text": "10",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/texts/47",
+            "label": "MONEY"
+        },
+        {
+            "text": "71",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/texts/48 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "International Journal of Home Science International Journal of Home Science",
+            "label": "ORG"
+        },
+        {
+            "text": "#/texts/49",
+            "label": "MONEY"
+        },
+        {
+            "text": "337  Spanish",
+            "label": "QUANTITY"
+        },
+        {
+            "text": "Jenaro",
+            "label": "PERSON"
+        },
+        {
+            "text": "2007",
+            "label": "DATE"
+        },
+        {
+            "text": "22",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Walsh",
+            "label": "PERSON"
+        },
+        {
+            "text": "al .  ",
+            "label": "PERSON"
+        },
+        {
+            "text": "2011",
+            "label": "DATE"
+        },
+        {
+            "text": "56",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Howell",
+            "label": "ORG"
+        },
+        {
+            "text": "2008",
+            "label": "DATE"
+        },
+        {
+            "text": "19",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "337  Spanish",
+            "label": "QUANTITY"
+        },
+        {
+            "text": "Jenaro",
+            "label": "PERSON"
+        },
+        {
+            "text": "2007",
+            "label": "DATE"
+        },
+        {
+            "text": "22",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Walsh",
+            "label": "PERSON"
+        },
+        {
+            "text": "al .  ",
+            "label": "PERSON"
+        },
+        {
+            "text": "2011",
+            "label": "DATE"
+        },
+        {
+            "text": "56",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Howell",
+            "label": "ORG"
+        },
+        {
+            "text": "2008",
+            "label": "DATE"
+        },
+        {
+            "text": "19",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "8",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "8",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "al",
+            "label": "PERSON"
+        },
+        {
+            "text": "2013",
+            "label": "DATE"
+        },
+        {
+            "text": "Cagan",
+            "label": "ORG"
+        },
+        {
+            "text": "al",
+            "label": "PERSON"
+        },
+        {
+            "text": "2014",
+            "label": "DATE"
+        },
+        {
+            "text": "Sheopuri",
+            "label": "GPE"
+        },
+        {
+            "text": "Sheopuri",
+            "label": "GPE"
+        },
+        {
+            "text": "2014",
+            "label": "DATE"
+        },
+        {
+            "text": "50",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "12",
+            "label": "DATE"
+        },
+        {
+            "text": "45",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Bianchi",
+            "label": "NORP"
+        },
+        {
+            "text": "Phillips 2005",
+            "label": "ORG"
+        },
+        {
+            "text": "8",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "James",
+            "label": "PERSON"
+        },
+        {
+            "text": "Drennan 2005",
+            "label": "PERSON"
+        },
+        {
+            "text": "Park 2005",
+            "label": "DATE"
+        },
+        {
+            "text": "40",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "21",
+            "label": "DATE"
+        },
+        {
+            "text": "36",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Billiexu",
+            "label": "ORG"
+        },
+        {
+            "text": "al",
+            "label": "PERSON"
+        },
+        {
+            "text": "2007",
+            "label": "DATE"
+        },
+        {
+            "text": "al",
+            "label": "PERSON"
+        },
+        {
+            "text": "2008",
+            "label": "DATE"
+        },
+        {
+            "text": "Sanchez",
+            "label": "ORG"
+        },
+        {
+            "text": "Otero 2009",
+            "label": "DATE"
+        },
+        {
+            "text": "Bianchi",
+            "label": "GPE"
+        },
+        {
+            "text": "Phillips 2005",
+            "label": "ORG"
+        },
+        {
+            "text": "Toda",
+            "label": "GPE"
+        },
+        {
+            "text": "al",
+            "label": "PERSON"
+        },
+        {
+            "text": "2004",
+            "label": "DATE"
+        },
+        {
+            "text": "Walsh",
+            "label": "PERSON"
+        },
+        {
+            "text": "al",
+            "label": "PERSON"
+        },
+        {
+            "text": "2010",
+            "label": "DATE"
+        },
+        {
+            "text": "57",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "al",
+            "label": "PERSON"
+        },
+        {
+            "text": "2008",
+            "label": "DATE"
+        },
+        {
+            "text": "Rutland",
+            "label": "GPE"
+        },
+        {
+            "text": "al",
+            "label": "PERSON"
+        },
+        {
+            "text": "2007",
+            "label": "DATE"
+        },
+        {
+            "text": "Igarashi",
+            "label": "GPE"
+        },
+        {
+            "text": "al",
+            "label": "PERSON"
+        },
+        {
+            "text": "2008",
+            "label": "DATE"
+        },
+        {
+            "text": "9",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "16",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "12",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "8",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "54",
+            "label": "DATE"
+        },
+        {
+            "text": "10",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "41",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "20",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Mobile",
+            "label": "GPE"
+        },
+        {
+            "text": "Devis",
+            "label": "PERSON"
+        },
+        {
+            "text": "al .  ",
+            "label": "PERSON"
+        },
+        {
+            "text": "2009",
+            "label": "DATE"
+        },
+        {
+            "text": "Turner",
+            "label": "ORG"
+        },
+        {
+            "text": "al .  ",
+            "label": "PERSON"
+        },
+        {
+            "text": "2008",
+            "label": "DATE"
+        },
+        {
+            "text": "Billieux",
+            "label": "PERSON"
+        },
+        {
+            "text": "al .  ",
+            "label": "PERSON"
+        },
+        {
+            "text": "2008",
+            "label": "DATE"
+        },
+        {
+            "text": "Jenaro",
+            "label": "PERSON"
+        },
+        {
+            "text": "al .  ",
+            "label": "PERSON"
+        },
+        {
+            "text": "2007",
+            "label": "DATE"
+        },
+        {
+            "text": "Walsh",
+            "label": "PERSON"
+        },
+        {
+            "text": "al .  ",
+            "label": "PERSON"
+        },
+        {
+            "text": "2011",
+            "label": "DATE"
+        },
+        {
+            "text": "Howell",
+            "label": "ORG"
+        },
+        {
+            "text": "al .  ",
+            "label": "PERSON"
+        },
+        {
+            "text": "2008",
+            "label": "DATE"
+        },
+        {
+            "text": "15",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "55",
+            "label": "DATE"
+        },
+        {
+            "text": "10",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "22",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "56",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "19",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Ozturan",
+            "label": "GPE"
+        },
+        {
+            "text": "al .  ",
+            "label": "PERSON"
+        },
+        {
+            "text": "2002",
+            "label": "DATE"
+        },
+        {
+            "text": "Loughran",
+            "label": "PERSON"
+        },
+        {
+            "text": "al .  ",
+            "label": "PERSON"
+        },
+        {
+            "text": "2005",
+            "label": "DATE"
+        },
+        {
+            "text": "Agrawal",
+            "label": "PERSON"
+        },
+        {
+            "text": "2008",
+            "label": "DATE"
+        },
+        {
+            "text": "Soderqvist",
+            "label": "ORG"
+        },
+        {
+            "text": "al .  ",
+            "label": "PERSON"
+        },
+        {
+            "text": "2008",
+            "label": "DATE"
+        },
+        {
+            "text": "Srivastava",
+            "label": "PERSON"
+        },
+        {
+            "text": "Tiwari",
+            "label": "PERSON"
+        },
+        {
+            "text": "2013",
+            "label": "DATE"
+        },
+        {
+            "text": "Acharya",
+            "label": "ORG"
+        },
+        {
+            "text": "al",
+            "label": "PERSON"
+        },
+        {
+            "text": "2013",
+            "label": "DATE"
+        },
+        {
+            "text": "35",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "29",
+            "label": "DATE"
+        },
+        {
+            "text": "2",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "48",
+            "label": "DATE"
+        },
+        {
+            "text": "49",
+            "label": "DATE"
+        },
+        {
+            "text": "1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Tech",
+            "label": "PERSON"
+        },
+        {
+            "text": "Fatigue",
+            "label": "PERSON"
+        },
+        {
+            "text": "al",
+            "label": "PERSON"
+        },
+        {
+            "text": "2013",
+            "label": "DATE"
+        },
+        {
+            "text": "Cagan",
+            "label": "ORG"
+        },
+        {
+            "text": "al",
+            "label": "PERSON"
+        },
+        {
+            "text": "2014",
+            "label": "DATE"
+        },
+        {
+            "text": "Sheopuri",
+            "label": "GPE"
+        },
+        {
+            "text": "Sheopuri",
+            "label": "GPE"
+        },
+        {
+            "text": "2014",
+            "label": "DATE"
+        },
+        {
+            "text": "50",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "12",
+            "label": "DATE"
+        },
+        {
+            "text": "45",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Bianchi",
+            "label": "NORP"
+        },
+        {
+            "text": "Phillips 2005",
+            "label": "ORG"
+        },
+        {
+            "text": "8",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "James",
+            "label": "PERSON"
+        },
+        {
+            "text": "Drennan 2005",
+            "label": "PERSON"
+        },
+        {
+            "text": "Park 2005",
+            "label": "DATE"
+        },
+        {
+            "text": "40",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "21",
+            "label": "DATE"
+        },
+        {
+            "text": "36",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Billiexu",
+            "label": "ORG"
+        },
+        {
+            "text": "al",
+            "label": "PERSON"
+        },
+        {
+            "text": "2007",
+            "label": "DATE"
+        },
+        {
+            "text": "al",
+            "label": "PERSON"
+        },
+        {
+            "text": "2008",
+            "label": "DATE"
+        },
+        {
+            "text": "Sanchez",
+            "label": "ORG"
+        },
+        {
+            "text": "Otero 2009",
+            "label": "DATE"
+        },
+        {
+            "text": "Bianchi",
+            "label": "GPE"
+        },
+        {
+            "text": "Phillips 2005",
+            "label": "ORG"
+        },
+        {
+            "text": "Toda",
+            "label": "GPE"
+        },
+        {
+            "text": "al",
+            "label": "PERSON"
+        },
+        {
+            "text": "2004",
+            "label": "DATE"
+        },
+        {
+            "text": "Walsh",
+            "label": "PERSON"
+        },
+        {
+            "text": "al",
+            "label": "PERSON"
+        },
+        {
+            "text": "2010",
+            "label": "DATE"
+        },
+        {
+            "text": "57",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "al",
+            "label": "PERSON"
+        },
+        {
+            "text": "2008",
+            "label": "DATE"
+        },
+        {
+            "text": "Rutland",
+            "label": "GPE"
+        },
+        {
+            "text": "al",
+            "label": "PERSON"
+        },
+        {
+            "text": "2007",
+            "label": "DATE"
+        },
+        {
+            "text": "Igarashi",
+            "label": "GPE"
+        },
+        {
+            "text": "al",
+            "label": "PERSON"
+        },
+        {
+            "text": "2008",
+            "label": "DATE"
+        },
+        {
+            "text": "9",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "16",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "12",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "8",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "54",
+            "label": "DATE"
+        },
+        {
+            "text": "10",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "41",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "20",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Mobile",
+            "label": "GPE"
+        },
+        {
+            "text": "Devis",
+            "label": "PERSON"
+        },
+        {
+            "text": "al .  ",
+            "label": "PERSON"
+        },
+        {
+            "text": "2009",
+            "label": "DATE"
+        },
+        {
+            "text": "Turner",
+            "label": "ORG"
+        },
+        {
+            "text": "al .  ",
+            "label": "PERSON"
+        },
+        {
+            "text": "2008",
+            "label": "DATE"
+        },
+        {
+            "text": "Billieux",
+            "label": "PERSON"
+        },
+        {
+            "text": "al .  ",
+            "label": "PERSON"
+        },
+        {
+            "text": "2008",
+            "label": "DATE"
+        },
+        {
+            "text": "Jenaro",
+            "label": "PERSON"
+        },
+        {
+            "text": "al .  ",
+            "label": "PERSON"
+        },
+        {
+            "text": "2007",
+            "label": "DATE"
+        },
+        {
+            "text": "Walsh",
+            "label": "PERSON"
+        },
+        {
+            "text": "al .  ",
+            "label": "PERSON"
+        },
+        {
+            "text": "2011",
+            "label": "DATE"
+        },
+        {
+            "text": "Howell",
+            "label": "ORG"
+        },
+        {
+            "text": "al .  ",
+            "label": "PERSON"
+        },
+        {
+            "text": "2008",
+            "label": "DATE"
+        },
+        {
+            "text": "15",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "55",
+            "label": "DATE"
+        },
+        {
+            "text": "10",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "22",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "56",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "19",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Ozturan",
+            "label": "GPE"
+        },
+        {
+            "text": "al .  ",
+            "label": "PERSON"
+        },
+        {
+            "text": "2002",
+            "label": "DATE"
+        },
+        {
+            "text": "Loughran",
+            "label": "PERSON"
+        },
+        {
+            "text": "al .  ",
+            "label": "PERSON"
+        },
+        {
+            "text": "2005",
+            "label": "DATE"
+        },
+        {
+            "text": "Agrawal",
+            "label": "PERSON"
+        },
+        {
+            "text": "2008",
+            "label": "DATE"
+        },
+        {
+            "text": "Soderqvist",
+            "label": "ORG"
+        },
+        {
+            "text": "al .  ",
+            "label": "PERSON"
+        },
+        {
+            "text": "2008",
+            "label": "DATE"
+        },
+        {
+            "text": "Srivastava",
+            "label": "PERSON"
+        },
+        {
+            "text": "Tiwari",
+            "label": "PERSON"
+        },
+        {
+            "text": "2013",
+            "label": "DATE"
+        },
+        {
+            "text": "Acharya",
+            "label": "ORG"
+        },
+        {
+            "text": "al",
+            "label": "PERSON"
+        },
+        {
+            "text": "2013",
+            "label": "DATE"
+        },
+        {
+            "text": "35",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "29",
+            "label": "DATE"
+        },
+        {
+            "text": "2",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "48",
+            "label": "DATE"
+        },
+        {
+            "text": "49",
+            "label": "DATE"
+        },
+        {
+            "text": "1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Tech",
+            "label": "PERSON"
+        },
+        {
+            "text": "Fatigue",
+            "label": "PERSON"
+        },
+        {
+            "text": "#/texts/52",
+            "label": "MONEY"
+        },
+        {
+            "text": "9",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "9",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/texts/53 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Acharya JP",
+            "label": "PERSON"
+        },
+        {
+            "text": "Waghrey D.",
+            "label": "PERSON"
+        },
+        {
+            "text": "Common  Health  Effects",
+            "label": "ORG"
+        },
+        {
+            "text": "Cell-Phones",
+            "label": "ORG"
+        },
+        {
+            "text": "Journal",
+            "label": "ORG"
+        },
+        {
+            "text": "Community  Medicine  & Health Education",
+            "label": "ORG"
+        },
+        {
+            "text": "2013",
+            "label": "DATE"
+        },
+        {
+            "text": "3(4",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Acharya JP",
+            "label": "PERSON"
+        },
+        {
+            "text": "Waghrey D.",
+            "label": "PERSON"
+        },
+        {
+            "text": "Common  Health  Effects",
+            "label": "ORG"
+        },
+        {
+            "text": "Cell-Phones",
+            "label": "ORG"
+        },
+        {
+            "text": "Journal",
+            "label": "ORG"
+        },
+        {
+            "text": "Community  Medicine  & Health Education",
+            "label": "ORG"
+        },
+        {
+            "text": "2013",
+            "label": "DATE"
+        },
+        {
+            "text": "3(4",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "2",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Sharma",
+            "label": "NORP"
+        },
+        {
+            "text": "Rang  G",
+            "label": "PERSON"
+        },
+        {
+            "text": "Li  J. Effect",
+            "label": "PERSON"
+        },
+        {
+            "text": "Semen  Analysis",
+            "label": "ORG"
+        },
+        {
+            "text": "Men Attending Infertility Clinic",
+            "label": "ORG"
+        },
+        {
+            "text": "2008",
+            "label": "DATE"
+        },
+        {
+            "text": "89(1):124",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "128",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Sharma",
+            "label": "NORP"
+        },
+        {
+            "text": "Rang  G",
+            "label": "PERSON"
+        },
+        {
+            "text": "Li  J. Effect",
+            "label": "PERSON"
+        },
+        {
+            "text": "Semen  Analysis",
+            "label": "ORG"
+        },
+        {
+            "text": "Men Attending Infertility Clinic",
+            "label": "ORG"
+        },
+        {
+            "text": "2008",
+            "label": "DATE"
+        },
+        {
+            "text": "89(1):124",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "128",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "2",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "3",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Ahmed I",
+            "label": "PERSON"
+        },
+        {
+            "text": "Perji K. Mobile",
+            "label": "PERSON"
+        },
+        {
+            "text": "African Journal of Business Management",
+            "label": "ORG"
+        },
+        {
+            "text": "5(32):12512",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Ahmed I",
+            "label": "PERSON"
+        },
+        {
+            "text": "Perji K. Mobile",
+            "label": "PERSON"
+        },
+        {
+            "text": "African Journal of Business Management",
+            "label": "ORG"
+        },
+        {
+            "text": "5(32):12512",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "3.",
+            "label": "MONEY"
+        },
+        {
+            "text": "4",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "2011",
+            "label": "DATE"
+        },
+        {
+            "text": "2011",
+            "label": "DATE"
+        },
+        {
+            "text": "4",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "5",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "5",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "6",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "6.",
+            "label": "MONEY"
+        },
+        {
+            "text": "7",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Baron",
+            "label": "PERSON"
+        },
+        {
+            "text": "NS",
+            "label": "GPE"
+        },
+        {
+            "text": "Mobile  Phones",
+            "label": "GPE"
+        },
+        {
+            "text": "2010",
+            "label": "DATE"
+        },
+        {
+            "text": "NS",
+            "label": "GPE"
+        },
+        {
+            "text": "Mobile  Phones",
+            "label": "GPE"
+        },
+        {
+            "text": "2010",
+            "label": "DATE"
+        },
+        {
+            "text": "#/texts/61 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "8",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Bianchi A",
+            "label": "ORG"
+        },
+        {
+            "text": "Phillips J. Psychological",
+            "label": "PERSON"
+        },
+        {
+            "text": "Cyber Psychology and Behavior",
+            "label": "ORG"
+        },
+        {
+            "text": "2005",
+            "label": "DATE"
+        },
+        {
+            "text": "8(1):39-51",
+            "label": "NORP"
+        },
+        {
+            "text": "Bianchi A",
+            "label": "ORG"
+        },
+        {
+            "text": "Phillips J. Psychological",
+            "label": "PERSON"
+        },
+        {
+            "text": "Cyber Psychology and Behavior",
+            "label": "ORG"
+        },
+        {
+            "text": "2005",
+            "label": "DATE"
+        },
+        {
+            "text": "8(1):39-51",
+            "label": "NORP"
+        },
+        {
+            "text": "8",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/texts/62",
+            "label": "MONEY"
+        },
+        {
+            "text": "#",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "9",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Linden  M",
+            "label": "ORG"
+        },
+        {
+            "text": "2007",
+            "label": "DATE"
+        },
+        {
+            "text": "21(4):527",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Billieux",
+            "label": "PERSON"
+        },
+        {
+            "text": "Linden  M",
+            "label": "ORG"
+        },
+        {
+            "text": "2007",
+            "label": "DATE"
+        },
+        {
+            "text": "21(4):527",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "9",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/texts/63",
+            "label": "MONEY"
+        },
+        {
+            "text": "10",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Billieux",
+            "label": "PERSON"
+        },
+        {
+            "text": "Linden  M",
+            "label": "ORG"
+        },
+        {
+            "text": "Rochat",
+            "label": "PERSON"
+        },
+        {
+            "text": "2008",
+            "label": "DATE"
+        },
+        {
+            "text": "22(9):1195",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Billieux",
+            "label": "PERSON"
+        },
+        {
+            "text": "Linden  M",
+            "label": "ORG"
+        },
+        {
+            "text": "Rochat",
+            "label": "PERSON"
+        },
+        {
+            "text": "2008",
+            "label": "DATE"
+        },
+        {
+            "text": "22(9):1195",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "10.",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/64 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "11",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "iPod",
+            "label": "ORG"
+        },
+        {
+            "text": "Leisure Studies 2005",
+            "label": "ORG"
+        },
+        {
+            "text": "24(4):343",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "iPod",
+            "label": "ORG"
+        },
+        {
+            "text": "Leisure Studies 2005",
+            "label": "ORG"
+        },
+        {
+            "text": "24(4):343",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "355",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "11",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "12",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Cagan  O",
+            "label": "PERSON"
+        },
+        {
+            "text": "Unsal",
+            "label": "PERSON"
+        },
+        {
+            "text": "Celik N. Evaluation",
+            "label": "PERSON"
+        },
+        {
+            "text": "Cellular  Phone",
+            "label": "ORG"
+        },
+        {
+            "text": "114:831",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Cagan  O",
+            "label": "PERSON"
+        },
+        {
+            "text": "Unsal",
+            "label": "PERSON"
+        },
+        {
+            "text": "Celik N. Evaluation",
+            "label": "PERSON"
+        },
+        {
+            "text": "Cellular  Phone",
+            "label": "ORG"
+        },
+        {
+            "text": "114:831",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "839",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "12",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/texts/66",
+            "label": "MONEY"
+        },
+        {
+            "text": "13",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Casey BM",
+            "label": "PERSON"
+        },
+        {
+            "text": "Chinese",
+            "label": "NORP"
+        },
+        {
+            "text": "Hong  Kong",
+            "label": "GPE"
+        },
+        {
+            "text": "Hong Kong",
+            "label": "GPE"
+        },
+        {
+            "text": "China",
+            "label": "GPE"
+        },
+        {
+            "text": "2012",
+            "label": "DATE"
+        },
+        {
+            "text": "Casey BM",
+            "label": "PERSON"
+        },
+        {
+            "text": "Chinese",
+            "label": "NORP"
+        },
+        {
+            "text": "Hong  Kong",
+            "label": "GPE"
+        },
+        {
+            "text": "Hong Kong",
+            "label": "GPE"
+        },
+        {
+            "text": "China",
+            "label": "GPE"
+        },
+        {
+            "text": "2012",
+            "label": "DATE"
+        },
+        {
+            "text": "13",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/texts/67 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "14",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Ch\u00f3liz  M.  Mobile",
+            "label": "PERSON"
+        },
+        {
+            "text": "TMD",
+            "label": "ORG"
+        },
+        {
+            "text": "2012",
+            "label": "DATE"
+        },
+        {
+            "text": "2(1):33",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Ch\u00f3liz  M.  Mobile",
+            "label": "PERSON"
+        },
+        {
+            "text": "TMD",
+            "label": "ORG"
+        },
+        {
+            "text": "2012",
+            "label": "DATE"
+        },
+        {
+            "text": "2(1):33",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "14",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/texts/68",
+            "label": "MONEY"
+        },
+        {
+            "text": "15",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Devis  JD",
+            "label": "PERSON"
+        },
+        {
+            "text": "Vicente  JB",
+            "label": "PERSON"
+        },
+        {
+            "text": "Thomas",
+            "label": "PERSON"
+        },
+        {
+            "text": "Screen",
+            "label": "ORG"
+        },
+        {
+            "text": "12",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Spanish",
+            "label": "NORP"
+        },
+        {
+            "text": "season",
+            "label": "DATE"
+        },
+        {
+            "text": "Journal",
+            "label": "ORG"
+        },
+        {
+            "text": "2009",
+            "label": "DATE"
+        },
+        {
+            "text": "32(2):213",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Devis  JD",
+            "label": "PERSON"
+        },
+        {
+            "text": "Vicente  JB",
+            "label": "PERSON"
+        },
+        {
+            "text": "Thomas",
+            "label": "PERSON"
+        },
+        {
+            "text": "Screen",
+            "label": "ORG"
+        },
+        {
+            "text": "12",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Spanish",
+            "label": "NORP"
+        },
+        {
+            "text": "season",
+            "label": "DATE"
+        },
+        {
+            "text": "Journal",
+            "label": "ORG"
+        },
+        {
+            "text": "2009",
+            "label": "DATE"
+        },
+        {
+            "text": "32(2):213",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "15",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/texts/69",
+            "label": "MONEY"
+        },
+        {
+            "text": "16",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Chin",
+            "label": "PERSON"
+        },
+        {
+            "text": "Park  DH",
+            "label": "LOC"
+        },
+        {
+            "text": "Characteristics",
+            "label": "ORG"
+        },
+        {
+            "text": "Korean",
+            "label": "NORP"
+        },
+        {
+            "text": "Cyberpsychol Behav",
+            "label": "PERSON"
+        },
+        {
+            "text": "11(6):783-4",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Chin",
+            "label": "PERSON"
+        },
+        {
+            "text": "Park  DH",
+            "label": "LOC"
+        },
+        {
+            "text": "Characteristics",
+            "label": "ORG"
+        },
+        {
+            "text": "Korean",
+            "label": "NORP"
+        },
+        {
+            "text": "Cyberpsychol Behav",
+            "label": "PERSON"
+        },
+        {
+            "text": "11(6):783-4",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "16",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "17",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Hakoama M",
+            "label": "PERSON"
+        },
+        {
+            "text": "Social  Networking",
+            "label": "ORG"
+        },
+        {
+            "text": "College Students",
+            "label": "ORG"
+        },
+        {
+            "text": "American  Association",
+            "label": "ORG"
+        },
+        {
+            "text": "Social Sciences Journal",
+            "label": "ORG"
+        },
+        {
+            "text": "2011",
+            "label": "DATE"
+        },
+        {
+            "text": "15:1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Hakoama M",
+            "label": "PERSON"
+        },
+        {
+            "text": "Social  Networking",
+            "label": "ORG"
+        },
+        {
+            "text": "College Students",
+            "label": "ORG"
+        },
+        {
+            "text": "American  Association",
+            "label": "ORG"
+        },
+        {
+            "text": "Social Sciences Journal",
+            "label": "ORG"
+        },
+        {
+            "text": "2011",
+            "label": "DATE"
+        },
+        {
+            "text": "15:1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "17",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "18",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "H. Joined",
+            "label": "PERSON"
+        },
+        {
+            "text": "Nestl\u00e9 Social Research Programme",
+            "label": "ORG"
+        },
+        {
+            "text": "February 2005",
+            "label": "DATE"
+        },
+        {
+            "text": "January 2005",
+            "label": "DATE"
+        },
+        {
+            "text": "8, 2007",
+            "label": "DATE"
+        },
+        {
+            "text": "H. Joined-",
+            "label": "PERSON"
+        },
+        {
+            "text": "Nestl\u00e9 Social Research Programme",
+            "label": "ORG"
+        },
+        {
+            "text": "February 2005",
+            "label": "DATE"
+        },
+        {
+            "text": "January 2005",
+            "label": "DATE"
+        },
+        {
+            "text": "8, 2007",
+            "label": "DATE"
+        },
+        {
+            "text": "18",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/texts/73 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "19",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Howell  M",
+            "label": "ORG"
+        },
+        {
+            "text": "Love  S",
+            "label": "WORK_OF_ART"
+        },
+        {
+            "text": "Turner",
+            "label": "ORG"
+        },
+        {
+            "text": "2008",
+            "label": "DATE"
+        },
+        {
+            "text": "6(1):1-15",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Howell  M",
+            "label": "ORG"
+        },
+        {
+            "text": "Love  S",
+            "label": "WORK_OF_ART"
+        },
+        {
+            "text": "Turner",
+            "label": "ORG"
+        },
+        {
+            "text": "2008",
+            "label": "DATE"
+        },
+        {
+            "text": "6(1):1-15",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "19",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "20",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Igarashi",
+            "label": "ORG"
+        },
+        {
+            "text": "Motoyoshi",
+            "label": "ORG"
+        },
+        {
+            "text": "Yoshida T. No mobile",
+            "label": "PERSON"
+        },
+        {
+            "text": "Japanese",
+            "label": "NORP"
+        },
+        {
+            "text": "24(5):2311",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Igarashi",
+            "label": "PERSON"
+        },
+        {
+            "text": "Motoyoshi",
+            "label": "ORG"
+        },
+        {
+            "text": "Yoshida T. No mobile",
+            "label": "PERSON"
+        },
+        {
+            "text": "Japanese",
+            "label": "NORP"
+        },
+        {
+            "text": "24(5):2311",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "21",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "James  D",
+            "label": "PERSON"
+        },
+        {
+            "text": "Drenn  J.  Exploring",
+            "label": "PERSON"
+        },
+        {
+            "text": "Journal of Adolescence",
+            "label": "ORG"
+        },
+        {
+            "text": "2005",
+            "label": "DATE"
+        },
+        {
+            "text": "27(1):87-96",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "James  D",
+            "label": "PERSON"
+        },
+        {
+            "text": "Drenn  J.  Exploring",
+            "label": "PERSON"
+        },
+        {
+            "text": "Journal of Adolescence",
+            "label": "ORG"
+        },
+        {
+            "text": "2005",
+            "label": "DATE"
+        },
+        {
+            "text": "27(1):87-96",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "21",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/texts/76 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "22",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Jenaro",
+            "label": "PERSON"
+        },
+        {
+            "text": "Flores M",
+            "label": "PERSON"
+        },
+        {
+            "text": "F",
+            "label": "PRODUCT"
+        },
+        {
+            "text": "Gonz\u00e1lez G",
+            "label": "PERSON"
+        },
+        {
+            "text": "Caballo C. Problematic",
+            "label": "ORG"
+        },
+        {
+            "text": "Addiction Research and Theory",
+            "label": "ORG"
+        },
+        {
+            "text": "2007",
+            "label": "DATE"
+        },
+        {
+            "text": "15(3):309-20",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Jenaro",
+            "label": "PERSON"
+        },
+        {
+            "text": "Flores M",
+            "label": "PERSON"
+        },
+        {
+            "text": "F",
+            "label": "PRODUCT"
+        },
+        {
+            "text": "Gonz\u00e1lez G",
+            "label": "PERSON"
+        },
+        {
+            "text": "Caballo C. Problematic",
+            "label": "ORG"
+        },
+        {
+            "text": "Addiction Research and Theory",
+            "label": "ORG"
+        },
+        {
+            "text": "2007",
+            "label": "DATE"
+        },
+        {
+            "text": "15(3):309-20",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "22",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/texts/77 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "23",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Johnson C",
+            "label": "PERSON"
+        },
+        {
+            "text": "National School Debate: Banning  Cell  Phones",
+            "label": "ORG"
+        },
+        {
+            "text": "Public  School  Campuses",
+            "label": "ORG"
+        },
+        {
+            "text": "America",
+            "label": "GPE"
+        },
+        {
+            "text": "National forum of Education Administration and Supervision Journals",
+            "label": "ORG"
+        },
+        {
+            "text": "2007",
+            "label": "DATE"
+        },
+        {
+            "text": "25(4):1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Johnson C",
+            "label": "PERSON"
+        },
+        {
+            "text": "National School Debate: Banning  Cell  Phones",
+            "label": "ORG"
+        },
+        {
+            "text": "Public  School  Campuses",
+            "label": "ORG"
+        },
+        {
+            "text": "America",
+            "label": "GPE"
+        },
+        {
+            "text": "National forum of Education Administration and Supervision Journals",
+            "label": "ORG"
+        },
+        {
+            "text": "2007",
+            "label": "DATE"
+        },
+        {
+            "text": "25(4):1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "23",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/texts/78",
+            "label": "MONEY"
+        },
+        {
+            "text": "24",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Kraut",
+            "label": "PERSON"
+        },
+        {
+            "text": "Patterson M",
+            "label": "PERSON"
+        },
+        {
+            "text": "Kiesler S",
+            "label": "ORG"
+        },
+        {
+            "text": "Mukopadhyay",
+            "label": "PERSON"
+        },
+        {
+            "text": "Scherlis W. Internet",
+            "label": "PERSON"
+        },
+        {
+            "text": "American",
+            "label": "NORP"
+        },
+        {
+            "text": "1998",
+            "label": "DATE"
+        },
+        {
+            "text": "53(9):1017-1031",
+            "label": "DATE"
+        },
+        {
+            "text": "Kraut",
+            "label": "PERSON"
+        },
+        {
+            "text": "Patterson M",
+            "label": "PERSON"
+        },
+        {
+            "text": "Kiesler S",
+            "label": "ORG"
+        },
+        {
+            "text": "Mukopadhyay",
+            "label": "PERSON"
+        },
+        {
+            "text": "Scherlis W. Internet",
+            "label": "PERSON"
+        },
+        {
+            "text": "American",
+            "label": "NORP"
+        },
+        {
+            "text": "1998",
+            "label": "DATE"
+        },
+        {
+            "text": "53(9):1017-1031",
+            "label": "DATE"
+        },
+        {
+            "text": "24",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/texts/79",
+            "label": "MONEY"
+        },
+        {
+            "text": "72",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "72",
+            "label": "DATE"
+        },
+        {
+            "text": "#/texts/80 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "International Journal of Home Science International Journal of Home Science",
+            "label": "ORG"
+        },
+        {
+            "text": "#/texts/81",
+            "label": "MONEY"
+        },
+        {
+            "text": "25",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Kubey",
+            "label": "GPE"
+        },
+        {
+            "text": "RW",
+            "label": "ORG"
+        },
+        {
+            "text": "Lavin  MJ",
+            "label": "PERSON"
+        },
+        {
+            "text": "Barrows  JR",
+            "label": "ORG"
+        },
+        {
+            "text": "Journal",
+            "label": "ORG"
+        },
+        {
+            "text": "2001",
+            "label": "DATE"
+        },
+        {
+            "text": "51(2):366382",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Kubey",
+            "label": "GPE"
+        },
+        {
+            "text": "RW",
+            "label": "ORG"
+        },
+        {
+            "text": "Lavin  MJ",
+            "label": "PERSON"
+        },
+        {
+            "text": "Barrows  JR",
+            "label": "ORG"
+        },
+        {
+            "text": "Journal",
+            "label": "ORG"
+        },
+        {
+            "text": "2001",
+            "label": "DATE"
+        },
+        {
+            "text": "51(2):366382",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "25",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "26",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Lee Kwon M",
+            "label": "PERSON"
+        },
+        {
+            "text": "Park WY",
+            "label": "GPE"
+        },
+        {
+            "text": "Hahn JA",
+            "label": "PERSON"
+        },
+        {
+            "text": "Kim DJ",
+            "label": "PERSON"
+        },
+        {
+            "text": "SAS",
+            "label": "ORG"
+        },
+        {
+            "text": "PloS",
+            "label": "PERSON"
+        },
+        {
+            "text": "2013",
+            "label": "DATE"
+        },
+        {
+            "text": "8(2):1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Lee Kwon M",
+            "label": "PERSON"
+        },
+        {
+            "text": "Park WY",
+            "label": "GPE"
+        },
+        {
+            "text": "Hahn JA",
+            "label": "PERSON"
+        },
+        {
+            "text": "Kim DJ",
+            "label": "PERSON"
+        },
+        {
+            "text": "SAS",
+            "label": "ORG"
+        },
+        {
+            "text": "PloS",
+            "label": "PERSON"
+        },
+        {
+            "text": "2013",
+            "label": "DATE"
+        },
+        {
+            "text": "8(2):1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "26",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/texts/83 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "27",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Ling  R.  Adolescent",
+            "label": "PERSON"
+        },
+        {
+            "text": "Two",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Revista de Estudios de Juventud 2002",
+            "label": "ORG"
+        },
+        {
+            "text": "January 9, 2007",
+            "label": "DATE"
+        },
+        {
+            "text": "Ling  R.  Adolescent",
+            "label": "PERSON"
+        },
+        {
+            "text": "Two",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Revista de Estudios de Juventud 2002",
+            "label": "ORG"
+        },
+        {
+            "text": "January 9, 2007",
+            "label": "DATE"
+        },
+        {
+            "text": "27",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "28",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "28",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "29",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Loughran SP",
+            "label": "ORG"
+        },
+        {
+            "text": "Wood AW",
+            "label": "ORG"
+        },
+        {
+            "text": "Barton JM",
+            "label": "ORG"
+        },
+        {
+            "text": "Croft RJ",
+            "label": "ORG"
+        },
+        {
+            "text": "Thompson  B",
+            "label": "ORG"
+        },
+        {
+            "text": "Stough",
+            "label": "PERSON"
+        },
+        {
+            "text": "Neuroreport 2005",
+            "label": "PERSON"
+        },
+        {
+            "text": "16(17):1973-6",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Loughran SP",
+            "label": "ORG"
+        },
+        {
+            "text": "Wood AW",
+            "label": "ORG"
+        },
+        {
+            "text": "Barton JM",
+            "label": "ORG"
+        },
+        {
+            "text": "Croft RJ",
+            "label": "ORG"
+        },
+        {
+            "text": "Thompson  B",
+            "label": "ORG"
+        },
+        {
+            "text": "Stough",
+            "label": "PERSON"
+        },
+        {
+            "text": "Neuroreport 2005",
+            "label": "PERSON"
+        },
+        {
+            "text": "16(17):1973-6",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "29",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/texts/86",
+            "label": "MONEY"
+        },
+        {
+            "text": "30",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Mackay",
+            "label": "PERSON"
+        },
+        {
+            "text": "MM",
+            "label": "GPE"
+        },
+        {
+            "text": "Weidlich  O.  Australian  Mobile  ",
+            "label": "PERSON"
+        },
+        {
+            "text": "3rd",
+            "label": "ORDINAL"
+        },
+        {
+            "text": "Australian",
+            "label": "NORP"
+        },
+        {
+            "text": "Media  Industry Association",
+            "label": "ORG"
+        },
+        {
+            "text": "2007",
+            "label": "DATE"
+        },
+        {
+            "text": "MM",
+            "label": "GPE"
+        },
+        {
+            "text": "Weidlich  O.  Australian  Mobile  ",
+            "label": "PERSON"
+        },
+        {
+            "text": "3rd",
+            "label": "ORDINAL"
+        },
+        {
+            "text": "Australian",
+            "label": "NORP"
+        },
+        {
+            "text": "Media  Industry Association",
+            "label": "ORG"
+        },
+        {
+            "text": "2007",
+            "label": "DATE"
+        },
+        {
+            "text": "30",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "31",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Mumbai",
+            "label": "GPE"
+        },
+        {
+            "text": "Retrieved",
+            "label": "GPE"
+        },
+        {
+            "text": "2004",
+            "label": "DATE"
+        },
+        {
+            "text": "January 9, 2007",
+            "label": "DATE"
+        },
+        {
+            "text": "Mumbai",
+            "label": "GPE"
+        },
+        {
+            "text": "Retrieved",
+            "label": "GPE"
+        },
+        {
+            "text": "2004",
+            "label": "DATE"
+        },
+        {
+            "text": "January 9, 2007",
+            "label": "DATE"
+        },
+        {
+            "text": "#/texts/88 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "32",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "IBM Research Report",
+            "label": "ORG"
+        },
+        {
+            "text": "RJ10452",
+            "label": "PERSON"
+        },
+        {
+            "text": "2009",
+            "label": "DATE"
+        },
+        {
+            "text": "IBM Research Report",
+            "label": "ORG"
+        },
+        {
+            "text": "RJ10452",
+            "label": "PERSON"
+        },
+        {
+            "text": "2009",
+            "label": "DATE"
+        },
+        {
+            "text": "32",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "33",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "2003",
+            "label": "DATE"
+        },
+        {
+            "text": "December  10",
+            "label": "DATE"
+        },
+        {
+            "text": "May 27, 2006",
+            "label": "DATE"
+        },
+        {
+            "text": "http://www.smh.com.au/articles/2003/12/10/10707322505 Mobile",
+            "label": "ORG"
+        },
+        {
+            "text": "2003",
+            "label": "DATE"
+        },
+        {
+            "text": "December  10",
+            "label": "DATE"
+        },
+        {
+            "text": "May 27, 2006",
+            "label": "DATE"
+        },
+        {
+            "text": "#/texts/91 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "34",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "V. Young",
+            "label": "PERSON"
+        },
+        {
+            "text": "Finnish",
+            "label": "NORP"
+        },
+        {
+            "text": "Education",
+            "label": "ORG"
+        },
+        {
+            "text": "02",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "January 8, 2007",
+            "label": "DATE"
+        },
+        {
+            "text": "Oksman V. Young",
+            "label": "PERSON"
+        },
+        {
+            "text": "Finnish",
+            "label": "NORP"
+        },
+        {
+            "text": "Education",
+            "label": "ORG"
+        },
+        {
+            "text": "02",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "January 8, 2007",
+            "label": "DATE"
+        },
+        {
+            "text": "34",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/texts/92 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "35",
+            "label": "DATE"
+        },
+        {
+            "text": "Ozturan O",
+            "label": "PERSON"
+        },
+        {
+            "text": "Kalcioglu MT",
+            "label": "PERSON"
+        },
+        {
+            "text": "Oncel S. Effects",
+            "label": "PERSON"
+        },
+        {
+            "text": "Electromagnetic",
+            "label": "ORG"
+        },
+        {
+            "text": "Mobile Telephones on Hearing",
+            "label": "ORG"
+        },
+        {
+            "text": "Acta Otolaryngol",
+            "label": "PERSON"
+        },
+        {
+            "text": "2002",
+            "label": "DATE"
+        },
+        {
+            "text": "123(3):289",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Ozturan O",
+            "label": "PERSON"
+        },
+        {
+            "text": "Kalcioglu MT",
+            "label": "PERSON"
+        },
+        {
+            "text": "Oncel S. Effects",
+            "label": "PERSON"
+        },
+        {
+            "text": "Electromagnetic",
+            "label": "ORG"
+        },
+        {
+            "text": "Mobile Telephones on Hearing",
+            "label": "ORG"
+        },
+        {
+            "text": "Acta Otolaryngol",
+            "label": "PERSON"
+        },
+        {
+            "text": "2002",
+            "label": "DATE"
+        },
+        {
+            "text": "123(3):289",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/texts/93",
+            "label": "MONEY"
+        },
+        {
+            "text": "36",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Park  WK",
+            "label": "PERSON"
+        },
+        {
+            "text": "2005",
+            "label": "DATE"
+        },
+        {
+            "text": "Park  WK",
+            "label": "PERSON"
+        },
+        {
+            "text": "2005",
+            "label": "DATE"
+        },
+        {
+            "text": "272",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "36",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/texts/94",
+            "label": "MONEY"
+        },
+        {
+            "text": "37",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Perry  S",
+            "label": "PERSON"
+        },
+        {
+            "text": "Lee  K.  Mobile",
+            "label": "PERSON"
+        },
+        {
+            "text": "2007",
+            "label": "DATE"
+        },
+        {
+            "text": "Perry  S",
+            "label": "PERSON"
+        },
+        {
+            "text": "Lee  K.  Mobile",
+            "label": "PERSON"
+        },
+        {
+            "text": "2007",
+            "label": "DATE"
+        },
+        {
+            "text": "37",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "38",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Rautiainen",
+            "label": "PERSON"
+        },
+        {
+            "text": "VOP",
+            "label": "ORG"
+        },
+        {
+            "text": "Finland",
+            "label": "GPE"
+        },
+        {
+            "text": "Revista de Estudios de Juventud",
+            "label": "ORG"
+        },
+        {
+            "text": "2002",
+            "label": "DATE"
+        },
+        {
+            "text": "57(2):25",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "January 9, 2007",
+            "label": "DATE"
+        },
+        {
+            "text": "Rautiainen",
+            "label": "PERSON"
+        },
+        {
+            "text": "VOP",
+            "label": "ORG"
+        },
+        {
+            "text": "Finland",
+            "label": "GPE"
+        },
+        {
+            "text": "Revista de Estudios de Juventud",
+            "label": "ORG"
+        },
+        {
+            "text": "2002",
+            "label": "DATE"
+        },
+        {
+            "text": "57(2):25",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "January 9, 2007",
+            "label": "DATE"
+        },
+        {
+            "text": "38",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/texts/96",
+            "label": "MONEY"
+        },
+        {
+            "text": "39",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Ronald  P. User",
+            "label": "PERSON"
+        },
+        {
+            "text": "2008",
+            "label": "DATE"
+        },
+        {
+            "text": "Ronald  P. User",
+            "label": "PERSON"
+        },
+        {
+            "text": "2008",
+            "label": "DATE"
+        },
+        {
+            "text": "39",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/texts/97 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "40",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "JP",
+            "label": "ORG"
+        },
+        {
+            "text": "the European Sociological Association",
+            "label": "ORG"
+        },
+        {
+            "text": "5th Conference of the ESA",
+            "label": "ORG"
+        },
+        {
+            "text": "Helsinki",
+            "label": "GPE"
+        },
+        {
+            "text": "Finland",
+            "label": "GPE"
+        },
+        {
+            "text": "2001",
+            "label": "DATE"
+        },
+        {
+            "text": "JP",
+            "label": "ORG"
+        },
+        {
+            "text": "the European Sociological Association",
+            "label": "ORG"
+        },
+        {
+            "text": "5th Conference of the ESA",
+            "label": "ORG"
+        },
+        {
+            "text": "Helsinki",
+            "label": "GPE"
+        },
+        {
+            "text": "Finland",
+            "label": "GPE"
+        },
+        {
+            "text": "2001",
+            "label": "DATE"
+        },
+        {
+            "text": "#/texts/98 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "41",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Rutland JB",
+            "label": "ORG"
+        },
+        {
+            "text": "Young T. Development",
+            "label": "ORG"
+        },
+        {
+            "text": "the SMS Rutland JB",
+            "label": "ORG"
+        },
+        {
+            "text": "Young T. Development",
+            "label": "ORG"
+        },
+        {
+            "text": "SMS",
+            "label": "ORG"
+        },
+        {
+            "text": "41",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Cyberpsychol Behav",
+            "label": "PERSON"
+        },
+        {
+            "text": "10(6):841-4",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Cyberpsychol Behav",
+            "label": "PERSON"
+        },
+        {
+            "text": "10(6):841-4",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/texts/100 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "42",
+            "label": "DATE"
+        },
+        {
+            "text": "S\u00e1nchez-Mart\u00ednez  M",
+            "label": "ORG"
+        },
+        {
+            "text": "Madrid",
+            "label": "GPE"
+        },
+        {
+            "text": "Spain",
+            "label": "GPE"
+        },
+        {
+            "text": "Cyberpsychol Behav 2009",
+            "label": "PERSON"
+        },
+        {
+            "text": "12(2):131",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "S\u00e1nchez-Mart\u00ednez  M",
+            "label": "PERSON"
+        },
+        {
+            "text": "Madrid",
+            "label": "GPE"
+        },
+        {
+            "text": "Spain",
+            "label": "GPE"
+        },
+        {
+            "text": "Cyberpsychol Behav 2009",
+            "label": "PERSON"
+        },
+        {
+            "text": "12(2):131",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "7",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "42",
+            "label": "DATE"
+        },
+        {
+            "text": "#/texts/101 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "43",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Satoko F",
+            "label": "PERSON"
+        },
+        {
+            "text": "Masahiro Kimio",
+            "label": "PERSON"
+        },
+        {
+            "text": "Rei",
+            "label": "ORG"
+        },
+        {
+            "text": "Kanehisa M. Relationships",
+            "label": "PERSON"
+        },
+        {
+            "text": "Social Behavior",
+            "label": "ORG"
+        },
+        {
+            "text": "An International Journal",
+            "label": "ORG"
+        },
+        {
+            "text": "2009",
+            "label": "DATE"
+        },
+        {
+            "text": "37(2):231",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Satoko F",
+            "label": "PERSON"
+        },
+        {
+            "text": "Masahiro Kimio",
+            "label": "PERSON"
+        },
+        {
+            "text": "Rei",
+            "label": "ORG"
+        },
+        {
+            "text": "Kanehisa M. Relationships",
+            "label": "PERSON"
+        },
+        {
+            "text": "Social Behavior",
+            "label": "ORG"
+        },
+        {
+            "text": "An International Journal",
+            "label": "ORG"
+        },
+        {
+            "text": "2009",
+            "label": "DATE"
+        },
+        {
+            "text": "37(2):231",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "43",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/texts/102 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "44",
+            "label": "DATE"
+        },
+        {
+            "text": "Shaffer  HJ",
+            "label": "PERSON"
+        },
+        {
+            "text": "Bilt  JV",
+            "label": "ORG"
+        },
+        {
+            "text": "American Journal of Orthopsychiatry",
+            "label": "ORG"
+        },
+        {
+            "text": "1999",
+            "label": "DATE"
+        },
+        {
+            "text": "70(2):162-168",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Shaffer  HJ",
+            "label": "PERSON"
+        },
+        {
+            "text": "Bilt  JV",
+            "label": "ORG"
+        },
+        {
+            "text": "American Journal of Orthopsychiatry",
+            "label": "ORG"
+        },
+        {
+            "text": "1999",
+            "label": "DATE"
+        },
+        {
+            "text": "70(2):162-168",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "44",
+            "label": "DATE"
+        },
+        {
+            "text": "#/texts/103 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "45",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Sheopuri A",
+            "label": "PERSON"
+        },
+        {
+            "text": "Sheopuri  A.  Darker",
+            "label": "PERSON"
+        },
+        {
+            "text": "Boon",
+            "label": "PERSON"
+        },
+        {
+            "text": "Bane",
+            "label": "PERSON"
+        },
+        {
+            "text": "International Journal of Business Quantitative Economics",
+            "label": "ORG"
+        },
+        {
+            "text": "Applied Management Research",
+            "label": "ORG"
+        },
+        {
+            "text": "2014",
+            "label": "DATE"
+        },
+        {
+            "text": "1(7",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Sheopuri A",
+            "label": "PERSON"
+        },
+        {
+            "text": "Sheopuri  A.  Darker",
+            "label": "PERSON"
+        },
+        {
+            "text": "Boon",
+            "label": "PERSON"
+        },
+        {
+            "text": "Bane",
+            "label": "PERSON"
+        },
+        {
+            "text": "International Journal of Business Quantitative Economics",
+            "label": "ORG"
+        },
+        {
+            "text": "Applied Management Research",
+            "label": "ORG"
+        },
+        {
+            "text": "2014",
+            "label": "DATE"
+        },
+        {
+            "text": "1(7",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "45",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/texts/104 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "46",
+            "label": "DATE"
+        },
+        {
+            "text": "Singla  S.  Mobile  Phone  Usage  Patterns",
+            "label": "PERSON"
+        },
+        {
+            "text": "Indian",
+            "label": "NORP"
+        },
+        {
+            "text": "Asian  Journal",
+            "label": "ORG"
+        },
+        {
+            "text": "Management Research",
+            "label": "ORG"
+        },
+        {
+            "text": "2010",
+            "label": "DATE"
+        },
+        {
+            "text": "594",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Singla  S.  Mobile  Phone  Usage  Patterns",
+            "label": "PERSON"
+        },
+        {
+            "text": "Indian",
+            "label": "NORP"
+        },
+        {
+            "text": "Asian  Journal",
+            "label": "ORG"
+        },
+        {
+            "text": "Management Research",
+            "label": "ORG"
+        },
+        {
+            "text": "2010",
+            "label": "DATE"
+        },
+        {
+            "text": "594",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "46",
+            "label": "DATE"
+        },
+        {
+            "text": "47",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Skog  B. Mobiles",
+            "label": "PERSON"
+        },
+        {
+            "text": "Norwegian",
+            "label": "NORP"
+        },
+        {
+            "text": "J. E. Katz & M. A. Aakhus",
+            "label": "ORG"
+        },
+        {
+            "text": "Cambridge",
+            "label": "GPE"
+        },
+        {
+            "text": "UK",
+            "label": "GPE"
+        },
+        {
+            "text": "Cambridge University Press",
+            "label": "ORG"
+        },
+        {
+            "text": "2002",
+            "label": "DATE"
+        },
+        {
+            "text": "255",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Skog  B. Mobiles",
+            "label": "PERSON"
+        },
+        {
+            "text": "Norwegian",
+            "label": "NORP"
+        },
+        {
+            "text": "J. E. Katz & M. A. Aakhus",
+            "label": "ORG"
+        },
+        {
+            "text": "Cambridge",
+            "label": "GPE"
+        },
+        {
+            "text": "UK",
+            "label": "GPE"
+        },
+        {
+            "text": "Cambridge University Press",
+            "label": "ORG"
+        },
+        {
+            "text": "2002",
+            "label": "DATE"
+        },
+        {
+            "text": "255",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "47",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/texts/106 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "48",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Soderqvist",
+            "label": "ORG"
+        },
+        {
+            "text": "F",
+            "label": "PRODUCT"
+        },
+        {
+            "text": "Carlberg  M",
+            "label": "ORG"
+        },
+        {
+            "text": "Hardell",
+            "label": "ORG"
+        },
+        {
+            "text": "Swedish",
+            "label": "NORP"
+        },
+        {
+            "text": "years",
+            "label": "DATE"
+        },
+        {
+            "text": "2008",
+            "label": "DATE"
+        },
+        {
+            "text": "7(18):15",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "10.1186/1476-069x-7",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Soderqvist",
+            "label": "ORG"
+        },
+        {
+            "text": "F",
+            "label": "PRODUCT"
+        },
+        {
+            "text": "Carlberg  M",
+            "label": "ORG"
+        },
+        {
+            "text": "Hardell",
+            "label": "ORG"
+        },
+        {
+            "text": "Swedish",
+            "label": "NORP"
+        },
+        {
+            "text": "years",
+            "label": "DATE"
+        },
+        {
+            "text": "2008",
+            "label": "DATE"
+        },
+        {
+            "text": "7(18):15",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "10.1186/1476-069x-7",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "48",
+            "label": "DATE"
+        },
+        {
+            "text": "#/texts/107 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "49",
+            "label": "DATE"
+        },
+        {
+            "text": "Srivastava",
+            "label": "PERSON"
+        },
+        {
+            "text": "Tiwari  RP",
+            "label": "ORG"
+        },
+        {
+            "text": "Mental Health and Quality of Life",
+            "label": "ORG"
+        },
+        {
+            "text": "2013",
+            "label": "DATE"
+        },
+        {
+            "text": "Srivastava",
+            "label": "PERSON"
+        },
+        {
+            "text": "Tiwari  RP",
+            "label": "ORG"
+        },
+        {
+            "text": "Mental Health and Quality of Life",
+            "label": "ORG"
+        },
+        {
+            "text": "2013",
+            "label": "DATE"
+        },
+        {
+            "text": "49",
+            "label": "DATE"
+        },
+        {
+            "text": "50",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Mandelia",
+            "label": "GPE"
+        },
+        {
+            "text": "Nagraj  K.  Ringxiety",
+            "label": "PERSON"
+        },
+        {
+            "text": "Pattern",
+            "label": "ORG"
+        },
+        {
+            "text": "South India",
+            "label": "LOC"
+        },
+        {
+            "text": "Clin Diagn Res",
+            "label": "PERSON"
+        },
+        {
+            "text": "2013",
+            "label": "DATE"
+        },
+        {
+            "text": "7(2):205",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "209",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Mandelia",
+            "label": "GPE"
+        },
+        {
+            "text": "Nagraj  K.  Ringxiety",
+            "label": "PERSON"
+        },
+        {
+            "text": "Pattern",
+            "label": "ORG"
+        },
+        {
+            "text": "South India",
+            "label": "LOC"
+        },
+        {
+            "text": "Clin Diagn Res",
+            "label": "PERSON"
+        },
+        {
+            "text": "2013",
+            "label": "DATE"
+        },
+        {
+            "text": "7(2):205",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "209",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "50",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/texts/109 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "51",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Szpakow A",
+            "label": "PERSON"
+        },
+        {
+            "text": "Prokopowicz W. Evaluation",
+            "label": "PERSON"
+        },
+        {
+            "text": "Belarusian University",
+            "label": "ORG"
+        },
+        {
+            "text": "Health Sci 2011",
+            "label": "PERSON"
+        },
+        {
+            "text": "1(2):96",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Szpakow A",
+            "label": "PERSON"
+        },
+        {
+            "text": "Prokopowicz W. Evaluation",
+            "label": "PERSON"
+        },
+        {
+            "text": "Belarusian University",
+            "label": "ORG"
+        },
+        {
+            "text": "Health Sci 2011",
+            "label": "PERSON"
+        },
+        {
+            "text": "1(2):96",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "51",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "52",
+            "label": "DATE"
+        },
+        {
+            "text": "Takao M",
+            "label": "ORG"
+        },
+        {
+            "text": "Takahashi S",
+            "label": "PERSON"
+        },
+        {
+            "text": "Cyber psychology Behavior",
+            "label": "ORG"
+        },
+        {
+            "text": "2009",
+            "label": "DATE"
+        },
+        {
+            "text": "12(5):501-7",
+            "label": "DATE"
+        },
+        {
+            "text": "Takao M",
+            "label": "ORG"
+        },
+        {
+            "text": "Takahashi S",
+            "label": "PERSON"
+        },
+        {
+            "text": "Cyber psychology Behavior",
+            "label": "ORG"
+        },
+        {
+            "text": "2009",
+            "label": "DATE"
+        },
+        {
+            "text": "12(5):501-7",
+            "label": "DATE"
+        },
+        {
+            "text": "52",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/texts/111 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "53",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Telecom Regulatory  Authority",
+            "label": "ORG"
+        },
+        {
+            "text": "India",
+            "label": "GPE"
+        },
+        {
+            "text": "2012",
+            "label": "DATE"
+        },
+        {
+            "text": "India",
+            "label": "GPE"
+        },
+        {
+            "text": "2012",
+            "label": "DATE"
+        },
+        {
+            "text": "53",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "54",
+            "label": "DATE"
+        },
+        {
+            "text": "Toda  M",
+            "label": "ORG"
+        },
+        {
+            "text": "Monden",
+            "label": "GPE"
+        },
+        {
+            "text": "Kubo  K",
+            "label": "ORG"
+        },
+        {
+            "text": "Morimoto  K.  Cellular",
+            "label": "PERSON"
+        },
+        {
+            "text": "Jpn J Hyg",
+            "label": "PERSON"
+        },
+        {
+            "text": "2004",
+            "label": "DATE"
+        },
+        {
+            "text": "59(4):383",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Toda  M",
+            "label": "ORG"
+        },
+        {
+            "text": "Monden",
+            "label": "GPE"
+        },
+        {
+            "text": "Kubo  K",
+            "label": "ORG"
+        },
+        {
+            "text": "Morimoto  K.  Cellular",
+            "label": "PERSON"
+        },
+        {
+            "text": "Jpn J Hyg",
+            "label": "PERSON"
+        },
+        {
+            "text": "2004",
+            "label": "DATE"
+        },
+        {
+            "text": "59(4):383",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "54",
+            "label": "DATE"
+        },
+        {
+            "text": "#/texts/113 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "55",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Turner  M",
+            "label": "ORG"
+        },
+        {
+            "text": "Love  S",
+            "label": "WORK_OF_ART"
+        },
+        {
+            "text": "Howell",
+            "label": "ORG"
+        },
+        {
+            "text": "Informatics",
+            "label": "ORG"
+        },
+        {
+            "text": "2008",
+            "label": "DATE"
+        },
+        {
+            "text": "25(3):201",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Turner  M",
+            "label": "PERSON"
+        },
+        {
+            "text": "Love  S",
+            "label": "WORK_OF_ART"
+        },
+        {
+            "text": "Howell",
+            "label": "ORG"
+        },
+        {
+            "text": "Informatics",
+            "label": "ORG"
+        },
+        {
+            "text": "2008",
+            "label": "DATE"
+        },
+        {
+            "text": "25(3):201",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "55",
+            "label": "DATE"
+        },
+        {
+            "text": "56",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Walsh SP",
+            "label": "ORG"
+        },
+        {
+            "text": "White KM",
+            "label": "ORG"
+        },
+        {
+            "text": "Stephen C",
+            "label": "PERSON"
+        },
+        {
+            "text": "Australians",
+            "label": "NORP"
+        },
+        {
+            "text": "2011",
+            "label": "DATE"
+        },
+        {
+            "text": "27:333",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Walsh SP",
+            "label": "ORG"
+        },
+        {
+            "text": "White KM",
+            "label": "ORG"
+        },
+        {
+            "text": "Stephen C",
+            "label": "PERSON"
+        },
+        {
+            "text": "Australians",
+            "label": "NORP"
+        },
+        {
+            "text": "2011",
+            "label": "DATE"
+        },
+        {
+            "text": "27:333",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "56",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "57",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Walsh SP",
+            "label": "ORG"
+        },
+        {
+            "text": "White  KM",
+            "label": "ORG"
+        },
+        {
+            "text": "Young RM",
+            "label": "ORG"
+        },
+        {
+            "text": "Australian",
+            "label": "NORP"
+        },
+        {
+            "text": "2010",
+            "label": "DATE"
+        },
+        {
+            "text": "62(4",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "194",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Walsh SP",
+            "label": "ORG"
+        },
+        {
+            "text": "White  KM",
+            "label": "ORG"
+        },
+        {
+            "text": "Young RM",
+            "label": "ORG"
+        },
+        {
+            "text": "Australian",
+            "label": "NORP"
+        },
+        {
+            "text": "2010",
+            "label": "DATE"
+        },
+        {
+            "text": "62(4",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "194",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "57",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/texts/116 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "58",
+            "label": "DATE"
+        },
+        {
+            "text": "APS",
+            "label": "ORG"
+        },
+        {
+            "text": "January 9, 2007",
+            "label": "DATE"
+        },
+        {
+            "text": "http://www.psychology",
+            "label": "ORG"
+        },
+        {
+            "text": "org.au/news/mobilephoneresearch APS",
+            "label": "ORG"
+        },
+        {
+            "text": "January 9, 2007",
+            "label": "DATE"
+        },
+        {
+            "text": "http://www.psychology",
+            "label": "ORG"
+        },
+        {
+            "text": "org.au/news/mobilephoneresearch",
+            "label": "ORG"
+        },
+        {
+            "text": "58",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "73",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/texts/118 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "International Journal of Home Science International Journal of Home Science",
+            "label": "ORG"
+        },
+        {
+            "text": "#/texts/120 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "59",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Hui",
+            "label": "NORP"
+        },
+        {
+            "text": "G.L.",
+            "label": "GPE"
+        },
+        {
+            "text": "G.T.",
+            "label": "GPE"
+        },
+        {
+            "text": "SMS",
+            "label": "ORG"
+        },
+        {
+            "text": "Malaysia",
+            "label": "GPE"
+        },
+        {
+            "text": "2004",
+            "label": "DATE"
+        },
+        {
+            "text": "Hui",
+            "label": "NORP"
+        },
+        {
+            "text": "G.L.",
+            "label": "GPE"
+        },
+        {
+            "text": "G.T.",
+            "label": "GPE"
+        },
+        {
+            "text": "SMS",
+            "label": "ORG"
+        },
+        {
+            "text": "Malaysia",
+            "label": "GPE"
+        },
+        {
+            "text": "2004",
+            "label": "DATE"
+        },
+        {
+            "text": "59",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/texts/121",
+            "label": "MONEY"
+        },
+        {
+            "text": "60",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Rautiainen",
+            "label": "PERSON"
+        },
+        {
+            "text": "P.  Oksman",
+            "label": "PERSON"
+        },
+        {
+            "text": "Malinen",
+            "label": "PERSON"
+        },
+        {
+            "text": "S.",
+            "label": "ORG"
+        },
+        {
+            "text": "Utriainen",
+            "label": "GPE"
+        },
+        {
+            "text": "Liikala",
+            "label": "GPE"
+        },
+        {
+            "text": "H. Mobile",
+            "label": "GPE"
+        },
+        {
+            "text": "Finland",
+            "label": "GPE"
+        },
+        {
+            "text": "Information society Research",
+            "label": "ORG"
+        },
+        {
+            "text": "Tamper  University",
+            "label": "ORG"
+        },
+        {
+            "text": "2001",
+            "label": "DATE"
+        },
+        {
+            "text": "January  9",
+            "label": "DATE"
+        },
+        {
+            "text": "2007",
+            "label": "DATE"
+        },
+        {
+            "text": "Rautiainen",
+            "label": "GPE"
+        },
+        {
+            "text": "P.  Oksman",
+            "label": "PERSON"
+        },
+        {
+            "text": "Malinen",
+            "label": "PERSON"
+        },
+        {
+            "text": "S.",
+            "label": "ORG"
+        },
+        {
+            "text": "Utriainen",
+            "label": "GPE"
+        },
+        {
+            "text": "Liikala",
+            "label": "GPE"
+        },
+        {
+            "text": "H. Mobile",
+            "label": "GPE"
+        },
+        {
+            "text": "Finland",
+            "label": "GPE"
+        },
+        {
+            "text": "Information society Research",
+            "label": "ORG"
+        },
+        {
+            "text": "Tamper  University",
+            "label": "ORG"
+        },
+        {
+            "text": "2001",
+            "label": "DATE"
+        },
+        {
+            "text": "January  9",
+            "label": "DATE"
+        },
+        {
+            "text": "2007",
+            "label": "DATE"
+        },
+        {
+            "text": "60.",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/123 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "61",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Lobert-Maris",
+            "label": "PERSON"
+        },
+        {
+            "text": "C.",
+            "label": "NORP"
+        },
+        {
+            "text": "L. Talking",
+            "label": "PERSON"
+        },
+        {
+            "text": "GSM",
+            "label": "ORG"
+        },
+        {
+            "text": "Revista  de  Estudios  de  juventud",
+            "label": "PERSON"
+        },
+        {
+            "text": "2002",
+            "label": "DATE"
+        },
+        {
+            "text": "57(2",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "101",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Lobert-Maris",
+            "label": "PERSON"
+        },
+        {
+            "text": "C.",
+            "label": "NORP"
+        },
+        {
+            "text": "L. Talking",
+            "label": "PERSON"
+        },
+        {
+            "text": "GSM",
+            "label": "ORG"
+        },
+        {
+            "text": "Revista  de  Estudios  de  juventud",
+            "label": "PERSON"
+        },
+        {
+            "text": "2002",
+            "label": "DATE"
+        },
+        {
+            "text": "57(2",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "101",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "61",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "74",
+            "label": "CARDINAL"
+        }
+    ],
+    "triples": [
+        {
+            "subject": "symptoms",
+            "relation": "interrupt",
+            "object": "that"
+        },
+        {
+            "subject": "symptoms",
+            "relation": "interrupt",
+            "object": "activities"
+        },
+        {
+            "subject": "reviews",
+            "relation": "investigate",
+            "object": "aspects"
+        },
+        {
+            "subject": "symptoms",
+            "relation": "interrupt",
+            "object": "that"
+        },
+        {
+            "subject": "symptoms",
+            "relation": "interrupt",
+            "object": "activities"
+        },
+        {
+            "subject": "reviews",
+            "relation": "investigate",
+            "object": "aspects"
+        },
+        {
+            "subject": "technology",
+            "relation": "play",
+            "object": "role"
+        },
+        {
+            "subject": "People",
+            "relation": "use",
+            "object": "phones"
+        },
+        {
+            "subject": "technology",
+            "relation": "play",
+            "object": "role"
+        },
+        {
+            "subject": "People",
+            "relation": "use",
+            "object": "phones"
+        },
+        {
+            "subject": "people",
+            "relation": "use",
+            "object": "phone"
+        },
+        {
+            "subject": "having",
+            "relation": "strike",
+            "object": "them"
+        },
+        {
+            "subject": "market",
+            "relation": "lure",
+            "object": "customers"
+        },
+        {
+            "subject": "people",
+            "relation": "use",
+            "object": "phone"
+        },
+        {
+            "subject": "having",
+            "relation": "strike",
+            "object": "them"
+        },
+        {
+            "subject": "market",
+            "relation": "lure",
+            "object": "customers"
+        },
+        {
+            "subject": "which",
+            "relation": "create",
+            "object": "disorders"
+        },
+        {
+            "subject": "administrators",
+            "relation": "consider",
+            "object": "use"
+        },
+        {
+            "subject": "parents",
+            "relation": "have",
+            "object": "sense"
+        },
+        {
+            "subject": "which",
+            "relation": "create",
+            "object": "disorders"
+        },
+        {
+            "subject": "administrators",
+            "relation": "consider",
+            "object": "use"
+        },
+        {
+            "subject": "parents",
+            "relation": "have",
+            "object": "sense"
+        },
+        {
+            "subject": "criteria",
+            "relation": "include",
+            "object": "craving"
+        },
+        {
+            "subject": "few",
+            "relation": "include",
+            "object": "1998"
+        },
+        {
+            "subject": "criteria",
+            "relation": "include",
+            "object": "craving"
+        },
+        {
+            "subject": "few",
+            "relation": "include",
+            "object": "1998"
+        },
+        {
+            "subject": "they",
+            "relation": "neglect",
+            "object": "areas"
+        },
+        {
+            "subject": "terms",
+            "relation": "describe",
+            "object": "kind"
+        },
+        {
+            "subject": "they",
+            "relation": "neglect",
+            "object": "areas"
+        },
+        {
+            "subject": "terms",
+            "relation": "describe",
+            "object": "kind"
+        },
+        {
+            "subject": "they",
+            "relation": "use",
+            "object": "variables"
+        },
+        {
+            "subject": "addictions",
+            "relation": "offer",
+            "object": "point"
+        },
+        {
+            "subject": "40",
+            "relation": "find",
+            "object": "characteristics"
+        },
+        {
+            "subject": "people",
+            "relation": "keep",
+            "object": "phones"
+        },
+        {
+            "subject": "they",
+            "relation": "have",
+            "object": "phone"
+        },
+        {
+            "subject": "findings",
+            "relation": "show",
+            "object": "range"
+        },
+        {
+            "subject": "results",
+            "relation": "identify",
+            "object": "factors"
+        },
+        {
+            "subject": "factors",
+            "relation": "include",
+            "object": "events"
+        },
+        {
+            "subject": "factors",
+            "relation": "include",
+            "object": "abuse"
+        },
+        {
+            "subject": "range",
+            "relation": "include",
+            "object": "issues"
+        },
+        {
+            "subject": "range",
+            "relation": "include",
+            "object": "relationships"
+        },
+        {
+            "subject": "who",
+            "relation": "report",
+            "object": "minutes"
+        },
+        {
+            "subject": "who",
+            "relation": "report",
+            "object": "minutes"
+        },
+        {
+            "subject": "who",
+            "relation": "report",
+            "object": "minutes"
+        },
+        {
+            "subject": "who",
+            "relation": "report",
+            "object": "minute"
+        },
+        {
+            "subject": "they",
+            "relation": "cause",
+            "object": "problems"
+        },
+        {
+            "subject": "they",
+            "relation": "use",
+            "object": "variables"
+        },
+        {
+            "subject": "addictions",
+            "relation": "offer",
+            "object": "point"
+        },
+        {
+            "subject": "40",
+            "relation": "find",
+            "object": "characteristics"
+        },
+        {
+            "subject": "people",
+            "relation": "keep",
+            "object": "phones"
+        },
+        {
+            "subject": "they",
+            "relation": "have",
+            "object": "phone"
+        },
+        {
+            "subject": "findings",
+            "relation": "show",
+            "object": "range"
+        },
+        {
+            "subject": "results",
+            "relation": "identify",
+            "object": "factors"
+        },
+        {
+            "subject": "factors",
+            "relation": "include",
+            "object": "events"
+        },
+        {
+            "subject": "factors",
+            "relation": "include",
+            "object": "abuse"
+        },
+        {
+            "subject": "range",
+            "relation": "include",
+            "object": "issues"
+        },
+        {
+            "subject": "range",
+            "relation": "include",
+            "object": "relationships"
+        },
+        {
+            "subject": "who",
+            "relation": "report",
+            "object": "minutes"
+        },
+        {
+            "subject": "who",
+            "relation": "report",
+            "object": "minutes"
+        },
+        {
+            "subject": "who",
+            "relation": "report",
+            "object": "minutes"
+        },
+        {
+            "subject": "who",
+            "relation": "report",
+            "object": "minute"
+        },
+        {
+            "subject": "they",
+            "relation": "cause",
+            "object": "problems"
+        },
+        {
+            "subject": "studies",
+            "relation": "investigate",
+            "object": "use"
+        },
+        {
+            "subject": "which",
+            "relation": "raise",
+            "object": "problems"
+        },
+        {
+            "subject": "which",
+            "relation": "cover",
+            "object": "issues"
+        },
+        {
+            "subject": "that",
+            "relation": "measure",
+            "object": "facets"
+        },
+        {
+            "subject": "symptoms",
+            "relation": "prohibit",
+            "object": "use"
+        },
+        {
+            "subject": "which",
+            "relation": "reflect",
+            "object": "extent"
+        },
+        {
+            "subject": "studies",
+            "relation": "investigate",
+            "object": "use"
+        },
+        {
+            "subject": "which",
+            "relation": "raise",
+            "object": "problems"
+        },
+        {
+            "subject": "which",
+            "relation": "cover",
+            "object": "issues"
+        },
+        {
+            "subject": "that",
+            "relation": "measure",
+            "object": "facets"
+        },
+        {
+            "subject": "symptoms",
+            "relation": "prohibit",
+            "object": "use"
+        },
+        {
+            "subject": "which",
+            "relation": "reflect",
+            "object": "extent"
+        },
+        {
+            "subject": "Problem",
+            "relation": "use",
+            "object": "#"
+        },
+        {
+            "subject": "it",
+            "relation": "ban",
+            "object": "use"
+        },
+        {
+            "subject": "we",
+            "relation": "ban",
+            "object": "it"
+        },
+        {
+            "subject": "Government",
+            "relation": "ban",
+            "object": "use"
+        },
+        {
+            "subject": "it",
+            "relation": "affect",
+            "object": "activities"
+        },
+        {
+            "subject": "who",
+            "relation": "use",
+            "object": "phone"
+        },
+        {
+            "subject": "which",
+            "relation": "include",
+            "object": "Indians"
+        },
+        {
+            "subject": "%",
+            "relation": "use",
+            "object": "it"
+        },
+        {
+            "subject": "they",
+            "relation": "use",
+            "object": "phones"
+        },
+        {
+            "subject": "it",
+            "relation": "ban",
+            "object": "use"
+        },
+        {
+            "subject": "we",
+            "relation": "ban",
+            "object": "it"
+        },
+        {
+            "subject": "Government",
+            "relation": "ban",
+            "object": "use"
+        },
+        {
+            "subject": "it",
+            "relation": "affect",
+            "object": "activities"
+        },
+        {
+            "subject": "who",
+            "relation": "use",
+            "object": "phone"
+        },
+        {
+            "subject": "which",
+            "relation": "include",
+            "object": "Indians"
+        },
+        {
+            "subject": "%",
+            "relation": "use",
+            "object": "it"
+        },
+        {
+            "subject": "they",
+            "relation": "use",
+            "object": "phones"
+        },
+        {
+            "subject": "50",
+            "relation": "explore",
+            "object": "ringxiety"
+        },
+        {
+            "subject": "they",
+            "relation": "talk",
+            "object": "whom"
+        },
+        {
+            "subject": "use",
+            "relation": "increase",
+            "object": "level"
+        },
+        {
+            "subject": "symptoms",
+            "relation": "interrupt",
+            "object": "activities"
+        },
+        {
+            "subject": "50",
+            "relation": "explore",
+            "object": "ringxiety"
+        },
+        {
+            "subject": "they",
+            "relation": "talk",
+            "object": "whom"
+        },
+        {
+            "subject": "use",
+            "relation": "increase",
+            "object": "level"
+        },
+        {
+            "subject": "symptoms",
+            "relation": "interrupt",
+            "object": "day"
+        },
+        {
+            "subject": "it",
+            "relation": "produce",
+            "object": "tumor"
+        },
+        {
+            "subject": "They",
+            "relation": "show",
+            "object": "symptoms"
+        },
+        {
+            "subject": "it",
+            "relation": "produce",
+            "object": "tumor"
+        },
+        {
+            "subject": "They",
+            "relation": "show",
+            "object": "symptoms"
+        },
+        {
+            "subject": "29",
+            "relation": "find",
+            "object": "exposure"
+        },
+        {
+            "subject": "users",
+            "relation": "report",
+            "object": "complaints"
+        },
+        {
+            "subject": "users",
+            "relation": "have",
+            "object": "symptoms"
+        },
+        {
+            "subject": "49",
+            "relation": "investigate",
+            "object": "effects"
+        },
+        {
+            "subject": "They",
+            "relation": "select",
+            "object": "students"
+        },
+        {
+            "subject": "users",
+            "relation": "have",
+            "object": "health"
+        },
+        {
+            "subject": "symptoms",
+            "relation": "include",
+            "object": "lack"
+        },
+        {
+            "subject": "29",
+            "relation": "find",
+            "object": "exposure"
+        },
+        {
+            "subject": "users",
+            "relation": "report",
+            "object": "complaints"
+        },
+        {
+            "subject": "users",
+            "relation": "have",
+            "object": "symptoms"
+        },
+        {
+            "subject": "49",
+            "relation": "investigate",
+            "object": "effects"
+        },
+        {
+            "subject": "They",
+            "relation": "select",
+            "object": "students"
+        },
+        {
+            "subject": "users",
+            "relation": "have",
+            "object": "health"
+        },
+        {
+            "subject": "symptoms",
+            "relation": "include",
+            "object": "lack"
+        },
+        {
+            "subject": "differences",
+            "relation": "consider",
+            "object": "phone"
+        },
+        {
+            "subject": "boys",
+            "relation": "respond",
+            "object": "latter"
+        },
+        {
+            "subject": "study",
+            "relation": "contradict",
+            "object": "findings"
+        },
+        {
+            "subject": "Adolescents",
+            "relation": "consider",
+            "object": "phone"
+        },
+        {
+            "subject": "boys",
+            "relation": "respond",
+            "object": "latter"
+        },
+        {
+            "subject": "study",
+            "relation": "contradict",
+            "object": "findings"
+        },
+        {
+            "subject": "girls",
+            "relation": "use",
+            "object": "it"
+        },
+        {
+            "subject": "boys",
+            "relation": "use",
+            "object": "it"
+        },
+        {
+            "subject": "Researches",
+            "relation": "explain",
+            "object": "levels"
+        },
+        {
+            "subject": "girls",
+            "relation": "use",
+            "object": "it"
+        },
+        {
+            "subject": "boys",
+            "relation": "use",
+            "object": "it"
+        },
+        {
+            "subject": "boys",
+            "relation": "spend",
+            "object": "time"
+        },
+        {
+            "subject": "adolescents",
+            "relation": "consume",
+            "object": "time"
+        },
+        {
+            "subject": "men",
+            "relation": "use",
+            "object": "phones"
+        },
+        {
+            "subject": "men",
+            "relation": "exhibit",
+            "object": "levels"
+        },
+        {
+            "subject": "men",
+            "relation": "exhibit",
+            "object": "levels"
+        },
+        {
+            "subject": "women",
+            "relation": "reveal",
+            "object": "Devis"
+        },
+        {
+            "subject": "boys",
+            "relation": "spend",
+            "object": "time"
+        },
+        {
+            "subject": "adolescents",
+            "relation": "consume",
+            "object": "time"
+        },
+        {
+            "subject": "men",
+            "relation": "use",
+            "object": "phones"
+        },
+        {
+            "subject": "men",
+            "relation": "exhibit",
+            "object": "levels"
+        },
+        {
+            "subject": "men",
+            "relation": "exhibit",
+            "object": "levels"
+        },
+        {
+            "subject": "19",
+            "relation": "investigate",
+            "object": "differences"
+        },
+        {
+            "subject": "females",
+            "relation": "perceive",
+            "object": "service"
+        },
+        {
+            "subject": "19",
+            "relation": "investigate",
+            "object": "differences"
+        },
+        {
+            "subject": "females",
+            "relation": "perceive",
+            "object": "service"
+        },
+        {
+            "subject": "studies",
+            "relation": "highlight",
+            "object": "effects"
+        },
+        {
+            "subject": "researcher",
+            "relation": "identify",
+            "object": "nature"
+        },
+        {
+            "subject": "researcher",
+            "relation": "identify",
+            "object": "Ross"
+        },
+        {
+            "subject": "researchers",
+            "relation": "address",
+            "object": "differences"
+        },
+        {
+            "subject": "researchers",
+            "relation": "address",
+            "object": "2009"
+        },
+        {
+            "subject": "researchers",
+            "relation": "address",
+            "object": "2008"
+        },
+        {
+            "subject": "studies",
+            "relation": "examine",
+            "object": "relationship"
+        },
+        {
+            "subject": "studies",
+            "relation": "examine",
+            "object": "2002"
+        },
+        {
+            "subject": "studies",
+            "relation": "examine",
+            "object": "2005"
+        },
+        {
+            "subject": "which",
+            "relation": "create",
+            "object": "disorders"
+        },
+        {
+            "subject": "studies",
+            "relation": "highlight",
+            "object": "effects"
+        },
+        {
+            "subject": "researcher",
+            "relation": "identify",
+            "object": "nature"
+        },
+        {
+            "subject": "researcher",
+            "relation": "identify",
+            "object": "Ross"
+        },
+        {
+            "subject": "researchers",
+            "relation": "address",
+            "object": "differences"
+        },
+        {
+            "subject": "researchers",
+            "relation": "address",
+            "object": "2009"
+        },
+        {
+            "subject": "researchers",
+            "relation": "address",
+            "object": "2008"
+        },
+        {
+            "subject": "studies",
+            "relation": "examine",
+            "object": "relationship"
+        },
+        {
+            "subject": "studies",
+            "relation": "examine",
+            "object": "2002"
+        },
+        {
+            "subject": "studies",
+            "relation": "examine",
+            "object": "2005"
+        },
+        {
+            "subject": "which",
+            "relation": "create",
+            "object": "disorders"
+        },
+        {
+            "subject": "that",
+            "relation": "reduce",
+            "object": "involvement"
+        },
+        {
+            "subject": "that",
+            "relation": "reduce",
+            "object": "involvement"
+        },
+        {
+            "subject": "addiction",
+            "relation": "support",
+            "object": "work"
+        },
+        {
+            "subject": "computer",
+            "relation": "support",
+            "object": "work"
+        },
+        {
+            "subject": "addiction",
+            "relation": "support",
+            "object": "work"
+        },
+        {
+            "subject": "computer",
+            "relation": "support",
+            "object": "work"
+        },
+        {
+            "subject": "S",
+            "relation": "message",
+            "object": "overuse"
+        },
+        {
+            "subject": "S",
+            "relation": "message",
+            "object": "overuse"
+        },
+        {
+            "subject": "I",
+            "relation": "get",
+            "object": "life"
+        },
+        {
+            "subject": "I",
+            "relation": "get",
+            "object": "life"
+        },
+        {
+            "subject": "Paper",
+            "relation": "present",
+            "object": "40"
+        },
+        {
+            "subject": "problem",
+            "relation": "use",
+            "object": "questionnaire"
+        },
+        {
+            "subject": "M",
+            "relation": "experience",
+            "object": "usability"
+        },
+        {
+            "subject": "emotions",
+            "relation": "experience",
+            "object": "usability"
+        },
+        {
+            "subject": "M",
+            "relation": "experience",
+            "object": "usability"
+        },
+        {
+            "subject": "emotions",
+            "relation": "experience",
+            "object": "usability"
+        }
+    ]
+}

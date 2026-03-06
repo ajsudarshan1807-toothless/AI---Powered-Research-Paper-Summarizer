@@ -1,0 +1,10 @@
+{
+    "source_file": "output_docx_words8.json",
+    "entities": [
+        {
+            "text": "Machine         Learning         Algorithms:         A         Review         :         ",
+            "label": "ORG"
+        }
+    ],
+    "triples": []
+}

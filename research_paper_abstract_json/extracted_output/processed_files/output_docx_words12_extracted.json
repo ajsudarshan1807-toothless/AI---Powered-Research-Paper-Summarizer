@@ -1,0 +1,46 @@
+{
+    "source_file": "output_docx_words12.json",
+    "entities": [
+        {
+            "text": "The         New         Inline         4         Cylinder         2.5L         Gasoline         Engine         with         Toyota         New         Global         Architecture         Concept         :         Abstract         :         ",
+            "label": "ORG"
+        },
+        {
+            "text": "Toyota         Environmental         Challenge         2050",
+            "label": "WORK_OF_ART"
+        },
+        {
+            "text": "TNGA",
+            "label": "ORG"
+        },
+        {
+            "text": "NA",
+            "label": "ORG"
+        },
+        {
+            "text": "the         Atkinson         cycle         using         new         electrical         VVT",
+            "label": "ORG"
+        },
+        {
+            "text": "over         40%",
+            "label": "PERCENT"
+        }
+    ],
+    "triples": [
+        {
+            "subject": "Corporation",
+            "relation": "publish",
+            "object": "Challenge"
+        },
+        {
+            "subject": "Toyota",
+            "relation": "develop",
+            "object": "series"
+        },
+        {
+            "subject": "structure",
+            "relation": "valve",
+            "object": "layout"
+        }
+    ]
+}

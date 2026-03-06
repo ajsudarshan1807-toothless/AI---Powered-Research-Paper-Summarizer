@@ -1,0 +1,65 @@
+{
+    "source_file": "output_docx_words14.json",
+    "entities": [
+        {
+            "text": "the         Complex         of         Suicide         in         Depression:         from",
+            "label": "PRODUCT"
+        },
+        {
+            "text": "MDD",
+            "label": "ORG"
+        },
+        {
+            "text": "Title/Abstract",
+            "label": "ORG"
+        },
+        {
+            "text": "Title/Abstract",
+            "label": "ORG"
+        },
+        {
+            "text": "English",
+            "label": "LANGUAGE"
+        },
+        {
+            "text": "MDD",
+            "label": "ORG"
+        },
+        {
+            "text": "MDD         ",
+            "label": "ORG"
+        }
+    ],
+    "triples": [
+        {
+            "subject": "which",
+            "relation": "explain",
+            "object": "complexity"
+        },
+        {
+            "subject": "Results",
+            "relation": "suppose",
+            "object": "role"
+        },
+        {
+            "subject": "Results",
+            "relation": "suppose",
+            "object": "system"
+        },
+        {
+            "subject": "Results",
+            "relation": "suppose",
+            "object": "involvement"
+        },
+        {
+            "subject": "Results",
+            "relation": "suppose",
+            "object": "profile"
+        },
+        {
+            "subject": "psychiatry",
+            "relation": "need",
+            "object": "interpretation"
+        }
+    ]
+}

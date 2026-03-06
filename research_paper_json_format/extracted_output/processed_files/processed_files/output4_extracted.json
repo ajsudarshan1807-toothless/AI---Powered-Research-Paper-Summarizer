@@ -1,0 +1,6701 @@
+{
+    "source_file": "output4.json",
+    "entities": [
+        {
+            "text": "DoclingDocument",
+            "label": "ORG"
+        },
+        {
+            "text": "#/pictures/0 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/pictures/1 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/pictures/3 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/22",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/37 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/45",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/pictures/7 #/texts/63",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/91",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/93",
+            "label": "MONEY"
+        },
+        {
+            "text": "#",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/texts/96",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/104",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/pictures/9",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/groups/4 #/texts/180 #/texts/181",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/183",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/190 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/202 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/205 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/226 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "/groups/7",
+            "label": "PERSON"
+        },
+        {
+            "text": "#/groups/1 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/14",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/15 #/texts/16",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/groups/2 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/groups/3 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/groups/4 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/groups/5",
+            "label": "MONEY"
+        },
+        {
+            "text": "#",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/texts/210 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/220",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/groups/7 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/229",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/235 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/237 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/240 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/0",
+            "label": "MONEY"
+        },
+        {
+            "text": "/pictures/0",
+            "label": "PERSON"
+        },
+        {
+            "text": "/pictures/0",
+            "label": "PERSON"
+        },
+        {
+            "text": "#/texts/2 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "/pictures/0",
+            "label": "PERSON"
+        },
+        {
+            "text": "#/texts/3",
+            "label": "MONEY"
+        },
+        {
+            "text": "/pictures/0",
+            "label": "PERSON"
+        },
+        {
+            "text": "InternationalImterdisciplinary Joumalof InternationalImterdisciplinary",
+            "label": "ORG"
+        },
+        {
+            "text": "#",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "/pictures/0",
+            "label": "PERSON"
+        },
+        {
+            "text": "/pictures/0",
+            "label": "PERSON"
+        },
+        {
+            "text": "/pictures/0",
+            "label": "PERSON"
+        },
+        {
+            "text": "#/texts/7",
+            "label": "MONEY"
+        },
+        {
+            "text": "Journal of Human Ecology Journal of Human Ecology",
+            "label": "ORG"
+        },
+        {
+            "text": "#/texts/8",
+            "label": "MONEY"
+        },
+        {
+            "text": "ISSN",
+            "label": "ORG"
+        },
+        {
+            "text": "0970-9274",
+            "label": "DATE"
+        },
+        {
+            "text": "ISSN",
+            "label": "ORG"
+        },
+        {
+            "text": "0970-9274",
+            "label": "DATE"
+        },
+        {
+            "text": "#/texts/9 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "Nigeria General Overview of Climate Change Impacts",
+            "label": "ORG"
+        },
+        {
+            "text": "Nigeria",
+            "label": "GPE"
+        },
+        {
+            "text": "#/texts/10",
+            "label": "MONEY"
+        },
+        {
+            "text": "Peter Akpodiogaga-a & Ovuyovwiroye",
+            "label": "PERSON"
+        },
+        {
+            "text": "Peter Akpodiogaga-a & Ovuyovwiroye",
+            "label": "PERSON"
+        },
+        {
+            "text": "#/texts/11",
+            "label": "MONEY"
+        },
+        {
+            "text": "Peter Akpodiogaga-a & Ovuyovwiroye Odjugo",
+            "label": "PERSON"
+        },
+        {
+            "text": "2010",
+            "label": "DATE"
+        },
+        {
+            "text": "Nigeria",
+            "label": "GPE"
+        },
+        {
+            "text": "Journal of Human Ecology",
+            "label": "ORG"
+        },
+        {
+            "text": "29:1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "47-55",
+            "label": "DATE"
+        },
+        {
+            "text": "10.1080/09709274.2010.11906248",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Peter Akpodiogaga-a & Ovuyovwiroye Odjugo",
+            "label": "PERSON"
+        },
+        {
+            "text": "2010",
+            "label": "DATE"
+        },
+        {
+            "text": "Nigeria",
+            "label": "GPE"
+        },
+        {
+            "text": "Journal of Human Ecology",
+            "label": "ORG"
+        },
+        {
+            "text": "29:1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "47-55",
+            "label": "DATE"
+        },
+        {
+            "text": "#/texts/12 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/13",
+            "label": "MONEY"
+        },
+        {
+            "text": "24 Oct 2017",
+            "label": "DATE"
+        },
+        {
+            "text": "24 Oct 2017",
+            "label": "DATE"
+        },
+        {
+            "text": "#/texts/15",
+            "label": "MONEY"
+        },
+        {
+            "text": "C Submit",
+            "label": "ORG"
+        },
+        {
+            "text": "#/texts/16",
+            "label": "MONEY"
+        },
+        {
+            "text": "View",
+            "label": "ORG"
+        },
+        {
+            "text": "#/texts/17",
+            "label": "MONEY"
+        },
+        {
+            "text": "2",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "2",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "/groups/1",
+            "label": "PERSON"
+        },
+        {
+            "text": "#/texts/19",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/21",
+            "label": "MONEY"
+        },
+        {
+            "text": "Full Terms & Conditions",
+            "label": "ORG"
+        },
+        {
+            "text": "http://www.tandfonline.com/action/journalInformation?journalCode=rhue20 Full Terms & Conditions",
+            "label": "ORG"
+        },
+        {
+            "text": "Kamla-Raj 2010",
+            "label": "PERSON"
+        },
+        {
+            "text": "Kamla-Raj",
+            "label": "PERSON"
+        },
+        {
+            "text": "2010",
+            "label": "DATE"
+        },
+        {
+            "text": "#/texts/24",
+            "label": "MONEY"
+        },
+        {
+            "text": "29(1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "47-55",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "2010",
+            "label": "DATE"
+        },
+        {
+            "text": "29(1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "47-55",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "2010",
+            "label": "DATE"
+        },
+        {
+            "text": "#/texts/25 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "Nigeria General Overview of Climate Change Impacts",
+            "label": "ORG"
+        },
+        {
+            "text": "Nigeria",
+            "label": "GPE"
+        },
+        {
+            "text": "#/texts/26 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "Peter  Akpodiogaga-a Ovuyovwiroye",
+            "label": "PERSON"
+        },
+        {
+            "text": "Peter  Akpodiogaga-a Ovuyovwiroye",
+            "label": "PERSON"
+        },
+        {
+            "text": "#/texts/27",
+            "label": "MONEY"
+        },
+        {
+            "text": "Department of Geography and Regional Planning,",
+            "label": "ORG"
+        },
+        {
+            "text": "University of Benin",
+            "label": "ORG"
+        },
+        {
+            "text": "Benin City",
+            "label": "GPE"
+        },
+        {
+            "text": "Edo State",
+            "label": "GPE"
+        },
+        {
+            "text": "Nigeria Telephone: +23408023718654",
+            "label": "ORG"
+        },
+        {
+            "text": "Geography and Regional Planning, University of Benin",
+            "label": "ORG"
+        },
+        {
+            "text": "Benin City",
+            "label": "GPE"
+        },
+        {
+            "text": "Edo State",
+            "label": "GPE"
+        },
+        {
+            "text": "Nigeria Telephone: +23408023718654",
+            "label": "ORG"
+        },
+        {
+            "text": "#/texts/28",
+            "label": "MONEY"
+        },
+        {
+            "text": "Coastal Inundation",
+            "label": "ORG"
+        },
+        {
+            "text": "Coastal Inundation",
+            "label": "ORG"
+        },
+        {
+            "text": "#/texts/29",
+            "label": "MONEY"
+        },
+        {
+            "text": "Nigeria",
+            "label": "GPE"
+        },
+        {
+            "text": "Mean",
+            "label": "PERSON"
+        },
+        {
+            "text": "annual",
+            "label": "DATE"
+        },
+        {
+            "text": "monthly",
+            "label": "DATE"
+        },
+        {
+            "text": "Nigerian Meteorological Agency",
+            "label": "ORG"
+        },
+        {
+            "text": "105  years  (",
+            "label": "DATE"
+        },
+        {
+            "text": "1901-2005",
+            "label": "DATE"
+        },
+        {
+            "text": "Histogram",
+            "label": "NORP"
+        },
+        {
+            "text": "1.1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "105  years",
+            "label": "DATE"
+        },
+        {
+            "text": "81  mm",
+            "label": "QUANTITY"
+        },
+        {
+            "text": "Desert",
+            "label": "PERSON"
+        },
+        {
+            "text": "Nigeria",
+            "label": "GPE"
+        },
+        {
+            "text": "Mean",
+            "label": "PERSON"
+        },
+        {
+            "text": "annual",
+            "label": "DATE"
+        },
+        {
+            "text": "monthly",
+            "label": "DATE"
+        },
+        {
+            "text": "Nigerian Meteorological Agency",
+            "label": "ORG"
+        },
+        {
+            "text": "105  years  (",
+            "label": "DATE"
+        },
+        {
+            "text": "1901-2005",
+            "label": "DATE"
+        },
+        {
+            "text": "Histogram",
+            "label": "NORP"
+        },
+        {
+            "text": "1.1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "105  years",
+            "label": "DATE"
+        },
+        {
+            "text": "81  mm",
+            "label": "QUANTITY"
+        },
+        {
+            "text": "Desert",
+            "label": "PERSON"
+        },
+        {
+            "text": "#/texts/30 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/31",
+            "label": "MONEY"
+        },
+        {
+            "text": "2007",
+            "label": "DATE"
+        },
+        {
+            "text": "decades",
+            "label": "DATE"
+        },
+        {
+            "text": "Ayoade",
+            "label": "ORG"
+        },
+        {
+            "text": "2003",
+            "label": "DATE"
+        },
+        {
+            "text": "100 to 150 years",
+            "label": "DATE"
+        },
+        {
+            "text": "at least 150 years",
+            "label": "DATE"
+        },
+        {
+            "text": "monthly",
+            "label": "DATE"
+        },
+        {
+            "text": "2007",
+            "label": "DATE"
+        },
+        {
+            "text": "decades",
+            "label": "DATE"
+        },
+        {
+            "text": "Ayoade",
+            "label": "ORG"
+        },
+        {
+            "text": "2003",
+            "label": "DATE"
+        },
+        {
+            "text": "100 to 150 years",
+            "label": "DATE"
+        },
+        {
+            "text": "at least 150 years",
+            "label": "DATE"
+        },
+        {
+            "text": "monthly",
+            "label": "DATE"
+        },
+        {
+            "text": "#/texts/32 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "two",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "2007",
+            "label": "DATE"
+        },
+        {
+            "text": "two",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "2007",
+            "label": "DATE"
+        },
+        {
+            "text": "#/texts/33 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "Methane",
+            "label": "PERSON"
+        },
+        {
+            "text": "CH4",
+            "label": "ORG"
+        },
+        {
+            "text": "N20",
+            "label": "ORG"
+        },
+        {
+            "text": "1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "CH4",
+            "label": "ORG"
+        },
+        {
+            "text": "CO2",
+            "label": "PRODUCT"
+        },
+        {
+            "text": "gram",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "CH4",
+            "label": "ORG"
+        },
+        {
+            "text": "about 23",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "CO2",
+            "label": "PRODUCT"
+        },
+        {
+            "text": "gram",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "about 22,000",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "CO 2",
+            "label": "PRODUCT"
+        },
+        {
+            "text": "Methane",
+            "label": "PERSON"
+        },
+        {
+            "text": "CH4",
+            "label": "ORG"
+        },
+        {
+            "text": "N20",
+            "label": "ORG"
+        },
+        {
+            "text": "1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "CH4",
+            "label": "ORG"
+        },
+        {
+            "text": "CO2",
+            "label": "PRODUCT"
+        },
+        {
+            "text": "gram",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "CH4",
+            "label": "ORG"
+        },
+        {
+            "text": "about 23",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "CO2",
+            "label": "PRODUCT"
+        },
+        {
+            "text": "gram",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "about 22,000",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "CO 2",
+            "label": "PRODUCT"
+        },
+        {
+            "text": "48 48 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "PETER AKPODIOGAGA-A OVUYOVWIROYE ODJUGO",
+            "label": "PERSON"
+        },
+        {
+            "text": "PETER AKPODIOGAGA-A OVUYOVWIROYE ODJUGO",
+            "label": "PERSON"
+        },
+        {
+            "text": "#/texts/36",
+            "label": "MONEY"
+        },
+        {
+            "text": "1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Fig",
+            "label": "ORG"
+        },
+        {
+            "text": "1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "less than ten years",
+            "label": "DATE"
+        },
+        {
+            "text": "CH 4",
+            "label": "ORG"
+        },
+        {
+            "text": "6",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "12.2",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "120",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "50-1700",
+            "label": "DATE"
+        },
+        {
+            "text": "3200 years",
+            "label": "DATE"
+        },
+        {
+            "text": "Smith 1994",
+            "label": "DATE"
+        },
+        {
+            "text": "Msumba 2006",
+            "label": "ORG"
+        },
+        {
+            "text": "CO 2",
+            "label": "PRODUCT"
+        },
+        {
+            "text": "a few years",
+            "label": "DATE"
+        },
+        {
+            "text": "between decades to thousands of years",
+            "label": "DATE"
+        },
+        {
+            "text": "CO 2",
+            "label": "ORG"
+        },
+        {
+            "text": "less than ten years",
+            "label": "DATE"
+        },
+        {
+            "text": "CH 4",
+            "label": "ORG"
+        },
+        {
+            "text": "6",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "12.2",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "120",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "50-1700",
+            "label": "DATE"
+        },
+        {
+            "text": "3200 years",
+            "label": "DATE"
+        },
+        {
+            "text": "Smith 1994",
+            "label": "DATE"
+        },
+        {
+            "text": "Msumba 2006",
+            "label": "ORG"
+        },
+        {
+            "text": "CO 2",
+            "label": "PRODUCT"
+        },
+        {
+            "text": "a few years",
+            "label": "DATE"
+        },
+        {
+            "text": "between decades to thousands of years",
+            "label": "DATE"
+        },
+        {
+            "text": "CO 2",
+            "label": "ORG"
+        },
+        {
+            "text": "Africa",
+            "label": "LOC"
+        },
+        {
+            "text": "2007",
+            "label": "DATE"
+        },
+        {
+            "text": "Jagtap",
+            "label": "PERSON"
+        },
+        {
+            "text": "2007",
+            "label": "DATE"
+        },
+        {
+            "text": "Nigeria",
+            "label": "GPE"
+        },
+        {
+            "text": "Nigeria",
+            "label": "GPE"
+        },
+        {
+            "text": "2001a",
+            "label": "DATE"
+        },
+        {
+            "text": "2005",
+            "label": "DATE"
+        },
+        {
+            "text": "Odjugo",
+            "label": "ORG"
+        },
+        {
+            "text": "2003",
+            "label": "DATE"
+        },
+        {
+            "text": "NEST 2003",
+            "label": "DATE"
+        },
+        {
+            "text": "Chindu",
+            "label": "ORG"
+        },
+        {
+            "text": "Mshelia",
+            "label": "GPE"
+        },
+        {
+            "text": "2005",
+            "label": "DATE"
+        },
+        {
+            "text": "Ayuba",
+            "label": "GPE"
+        },
+        {
+            "text": "2007",
+            "label": "DATE"
+        },
+        {
+            "text": "Odjugo",
+            "label": "ORG"
+        },
+        {
+            "text": "2001a",
+            "label": "DATE"
+        },
+        {
+            "text": "2005",
+            "label": "DATE"
+        },
+        {
+            "text": "Nigeria",
+            "label": "GPE"
+        },
+        {
+            "text": "Odjugo",
+            "label": "ORG"
+        },
+        {
+            "text": "Ikhuoria",
+            "label": "ORG"
+        },
+        {
+            "text": "2003",
+            "label": "DATE"
+        },
+        {
+            "text": "Ayuba",
+            "label": "GPE"
+        },
+        {
+            "text": "2007",
+            "label": "DATE"
+        },
+        {
+            "text": "Northeastern Nigeria",
+            "label": "GPE"
+        },
+        {
+            "text": "Nigeria",
+            "label": "GPE"
+        },
+        {
+            "text": "Nigeria",
+            "label": "GPE"
+        },
+        {
+            "text": "Africa",
+            "label": "LOC"
+        },
+        {
+            "text": "2007",
+            "label": "DATE"
+        },
+        {
+            "text": "Jagtap",
+            "label": "PERSON"
+        },
+        {
+            "text": "2007",
+            "label": "DATE"
+        },
+        {
+            "text": "Nigeria",
+            "label": "GPE"
+        },
+        {
+            "text": "Nigeria",
+            "label": "GPE"
+        },
+        {
+            "text": "2001a",
+            "label": "DATE"
+        },
+        {
+            "text": "2005",
+            "label": "DATE"
+        },
+        {
+            "text": "Odjugo",
+            "label": "ORG"
+        },
+        {
+            "text": "2003",
+            "label": "DATE"
+        },
+        {
+            "text": "NEST 2003",
+            "label": "DATE"
+        },
+        {
+            "text": "Chindu",
+            "label": "ORG"
+        },
+        {
+            "text": "Mshelia",
+            "label": "GPE"
+        },
+        {
+            "text": "2005",
+            "label": "DATE"
+        },
+        {
+            "text": "Ayuba",
+            "label": "GPE"
+        },
+        {
+            "text": "2007",
+            "label": "DATE"
+        },
+        {
+            "text": "Odjugo",
+            "label": "ORG"
+        },
+        {
+            "text": "2001a",
+            "label": "DATE"
+        },
+        {
+            "text": "2005",
+            "label": "DATE"
+        },
+        {
+            "text": "Nigeria",
+            "label": "GPE"
+        },
+        {
+            "text": "Odjugo",
+            "label": "ORG"
+        },
+        {
+            "text": "Ikhuoria",
+            "label": "ORG"
+        },
+        {
+            "text": "2003",
+            "label": "DATE"
+        },
+        {
+            "text": "Ayuba",
+            "label": "GPE"
+        },
+        {
+            "text": "2007",
+            "label": "DATE"
+        },
+        {
+            "text": "Northeastern Nigeria",
+            "label": "GPE"
+        },
+        {
+            "text": "Nigeria",
+            "label": "GPE"
+        },
+        {
+            "text": "Nigeria",
+            "label": "GPE"
+        },
+        {
+            "text": "#/texts/39 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "annual",
+            "label": "DATE"
+        },
+        {
+            "text": "monthly",
+            "label": "DATE"
+        },
+        {
+            "text": "30",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Nigerian  Meteorological Stations",
+            "label": "ORG"
+        },
+        {
+            "text": "105 years",
+            "label": "DATE"
+        },
+        {
+            "text": "1901-2005",
+            "label": "DATE"
+        },
+        {
+            "text": "annual",
+            "label": "DATE"
+        },
+        {
+            "text": "monthly",
+            "label": "DATE"
+        },
+        {
+            "text": "30",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Nigerian  Meteorological Stations",
+            "label": "ORG"
+        },
+        {
+            "text": "105 years",
+            "label": "DATE"
+        },
+        {
+            "text": "1901-2005",
+            "label": "DATE"
+        },
+        {
+            "text": "#/texts/41",
+            "label": "MONEY"
+        },
+        {
+            "text": "DISCUSSION",
+            "label": "PERSON"
+        },
+        {
+            "text": "Climatic Variation Climatic Variation",
+            "label": "ORG"
+        },
+        {
+            "text": "#/texts/43",
+            "label": "MONEY"
+        },
+        {
+            "text": "Nigerian",
+            "label": "NORP"
+        },
+        {
+            "text": "1901",
+            "label": "DATE"
+        },
+        {
+            "text": "Fig 2",
+            "label": "PERSON"
+        },
+        {
+            "text": "the late 1960s",
+            "label": "DATE"
+        },
+        {
+            "text": "the early 1970s",
+            "label": "DATE"
+        },
+        {
+            "text": "Fig 2",
+            "label": "PERSON"
+        },
+        {
+            "text": "Nigeria",
+            "label": "GPE"
+        },
+        {
+            "text": "between 1901 and 2005",
+            "label": "DATE"
+        },
+        {
+            "text": "26.6",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "the 105 years",
+            "label": "DATE"
+        },
+        {
+            "text": "1.1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "0.74",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "1860",
+            "label": "DATE"
+        },
+        {
+            "text": "2008",
+            "label": "DATE"
+        },
+        {
+            "text": "2007",
+            "label": "DATE"
+        },
+        {
+            "text": "Nigeria",
+            "label": "GPE"
+        },
+        {
+            "text": "2.5",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "4.5",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "the year 2100",
+            "label": "DATE"
+        },
+        {
+            "text": "Nigerian",
+            "label": "NORP"
+        },
+        {
+            "text": "1901",
+            "label": "DATE"
+        },
+        {
+            "text": "Fig 2",
+            "label": "PERSON"
+        },
+        {
+            "text": "the late 1960s",
+            "label": "DATE"
+        },
+        {
+            "text": "the early 1970s",
+            "label": "DATE"
+        },
+        {
+            "text": "Fig 2",
+            "label": "PERSON"
+        },
+        {
+            "text": "Nigeria",
+            "label": "GPE"
+        },
+        {
+            "text": "between 1901 and 2005",
+            "label": "DATE"
+        },
+        {
+            "text": "26.6",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "the 105 years",
+            "label": "DATE"
+        },
+        {
+            "text": "1.1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "0.74",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "1860",
+            "label": "DATE"
+        },
+        {
+            "text": "2008",
+            "label": "DATE"
+        },
+        {
+            "text": "2007",
+            "label": "DATE"
+        },
+        {
+            "text": "Nigeria",
+            "label": "GPE"
+        },
+        {
+            "text": "2.5",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "4.5",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "the year 2100",
+            "label": "DATE"
+        },
+        {
+            "text": "Nigeria",
+            "label": "GPE"
+        },
+        {
+            "text": "between 1901 and 2005",
+            "label": "DATE"
+        },
+        {
+            "text": "Fig 3",
+            "label": "LAW"
+        },
+        {
+            "text": "the 105 years",
+            "label": "DATE"
+        },
+        {
+            "text": "Nigeria",
+            "label": "GPE"
+        },
+        {
+            "text": "81mm",
+            "label": "QUANTITY"
+        },
+        {
+            "text": "the early 1970s",
+            "label": "DATE"
+        },
+        {
+            "text": "Fig 2",
+            "label": "PERSON"
+        },
+        {
+            "text": "Nigeria",
+            "label": "GPE"
+        },
+        {
+            "text": "Nigeria",
+            "label": "GPE"
+        },
+        {
+            "text": "Warri",
+            "label": "PERSON"
+        },
+        {
+            "text": "Brass",
+            "label": "PRODUCT"
+        },
+        {
+            "text": "Calabar",
+            "label": "GPE"
+        },
+        {
+            "text": "2005",
+            "label": "DATE"
+        },
+        {
+            "text": "2007",
+            "label": "DATE"
+        },
+        {
+            "text": "1996",
+            "label": "DATE"
+        },
+        {
+            "text": "NEST 2003",
+            "label": "DATE"
+        },
+        {
+            "text": "2005",
+            "label": "DATE"
+        },
+        {
+            "text": "2007",
+            "label": "DATE"
+        },
+        {
+            "text": "53%",
+            "label": "PERCENT"
+        },
+        {
+            "text": "Nigeria",
+            "label": "GPE"
+        },
+        {
+            "text": "14%",
+            "label": "PERCENT"
+        },
+        {
+            "text": "Rainfall",
+            "label": "ORG"
+        },
+        {
+            "text": "Nigeria",
+            "label": "GPE"
+        },
+        {
+            "text": "between 1901 and 2005",
+            "label": "DATE"
+        },
+        {
+            "text": "Fig 3",
+            "label": "LAW"
+        },
+        {
+            "text": "the 105 years",
+            "label": "DATE"
+        },
+        {
+            "text": "Nigeria",
+            "label": "GPE"
+        },
+        {
+            "text": "81mm",
+            "label": "QUANTITY"
+        },
+        {
+            "text": "the early 1970s",
+            "label": "DATE"
+        },
+        {
+            "text": "Fig 2",
+            "label": "PERSON"
+        },
+        {
+            "text": "Nigeria",
+            "label": "GPE"
+        },
+        {
+            "text": "Nigeria",
+            "label": "GPE"
+        },
+        {
+            "text": "Warri",
+            "label": "PERSON"
+        },
+        {
+            "text": "Brass",
+            "label": "PRODUCT"
+        },
+        {
+            "text": "Calabar",
+            "label": "GPE"
+        },
+        {
+            "text": "2005",
+            "label": "DATE"
+        },
+        {
+            "text": "2007",
+            "label": "DATE"
+        },
+        {
+            "text": "1996",
+            "label": "DATE"
+        },
+        {
+            "text": "NEST 2003",
+            "label": "DATE"
+        },
+        {
+            "text": "2005",
+            "label": "DATE"
+        },
+        {
+            "text": "2007",
+            "label": "DATE"
+        },
+        {
+            "text": "53%",
+            "label": "PERCENT"
+        },
+        {
+            "text": "Nigeria",
+            "label": "GPE"
+        },
+        {
+            "text": "14%",
+            "label": "PERCENT"
+        },
+        {
+            "text": "#/texts/45",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/46",
+            "label": "MONEY"
+        },
+        {
+            "text": "49",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/texts/47 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "28.5 28.5 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "28 28 #/texts/49 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "27.5 27.5 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/52 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "27 27 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/54",
+            "label": "MONEY"
+        },
+        {
+            "text": "26.5 26.5 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "26",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "25.5 25.5 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "25 25 #/texts/58 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "24.5 24.5 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "24",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "23.5 23.5 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "2 2 #/texts/62 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "Years Years",
+            "label": "EVENT"
+        },
+        {
+            "text": "#/texts/63 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "Fig",
+            "label": "PERSON"
+        },
+        {
+            "text": "2",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Nigeria",
+            "label": "GPE"
+        },
+        {
+            "text": "between  1901",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "2005",
+            "label": "DATE"
+        },
+        {
+            "text": "2",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Nigeria",
+            "label": "GPE"
+        },
+        {
+            "text": "between  1901",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "2005",
+            "label": "DATE"
+        },
+        {
+            "text": "#/texts/64 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "Fig",
+            "label": "PERSON"
+        },
+        {
+            "text": "3",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Rainfall",
+            "label": "PERSON"
+        },
+        {
+            "text": "Nigeria",
+            "label": "GPE"
+        },
+        {
+            "text": "between  1901",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "2005",
+            "label": "DATE"
+        },
+        {
+            "text": "3",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Rainfall",
+            "label": "PERSON"
+        },
+        {
+            "text": "Nigeria",
+            "label": "GPE"
+        },
+        {
+            "text": "between  1901",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "2005",
+            "label": "DATE"
+        },
+        {
+            "text": "#/texts/65 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "1600 1600",
+            "label": "DATE"
+        },
+        {
+            "text": "#/texts/66",
+            "label": "MONEY"
+        },
+        {
+            "text": "+ 1379.7",
+            "label": "DATE"
+        },
+        {
+            "text": "#/texts/67",
+            "label": "MONEY"
+        },
+        {
+            "text": "1400 1400",
+            "label": "DATE"
+        },
+        {
+            "text": "#/texts/68",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/69",
+            "label": "MONEY"
+        },
+        {
+            "text": "1200 1200",
+            "label": "DATE"
+        },
+        {
+            "text": "1000 1000",
+            "label": "DATE"
+        },
+        {
+            "text": "#/texts/72 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "800 800 #/texts/73 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "600 600 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "400 400 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "200 200 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "47",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/texts/77 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "47",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/texts/78",
+            "label": "MONEY"
+        },
+        {
+            "text": "47",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/texts/79",
+            "label": "MONEY"
+        },
+        {
+            "text": "4 4 #/texts/80 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "47",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/texts/81",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/84 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "/pictures/8",
+            "label": "PERSON"
+        },
+        {
+            "text": "#/texts/85 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "47",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/texts/86",
+            "label": "MONEY"
+        },
+        {
+            "text": "47",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/texts/88",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/89",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/90 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "Years Years",
+            "label": "EVENT"
+        },
+        {
+            "text": "#/texts/91",
+            "label": "MONEY"
+        },
+        {
+            "text": "50 50 #/texts/92",
+            "label": "MONEY"
+        },
+        {
+            "text": "PETER AKPODIOGAGA-A OVUYOVWIROYE ODJUGO",
+            "label": "PERSON"
+        },
+        {
+            "text": "PETER AKPODIOGAGA-A OVUYOVWIROYE",
+            "label": "PERSON"
+        },
+        {
+            "text": "#/texts/93",
+            "label": "MONEY"
+        },
+        {
+            "text": "July",
+            "label": "DATE"
+        },
+        {
+            "text": "the month of August",
+            "label": "DATE"
+        },
+        {
+            "text": "the 1970s",
+            "label": "DATE"
+        },
+        {
+            "text": "Nigeria",
+            "label": "GPE"
+        },
+        {
+            "text": "2",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "0.82",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "2",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "0.18",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Fig 2",
+            "label": "PERSON"
+        },
+        {
+            "text": "Fig 3",
+            "label": "LAW"
+        },
+        {
+            "text": "the past 105 years",
+            "label": "DATE"
+        },
+        {
+            "text": "Nigeria",
+            "label": "GPE"
+        },
+        {
+            "text": "Nigeria",
+            "label": "GPE"
+        },
+        {
+            "text": "July",
+            "label": "DATE"
+        },
+        {
+            "text": "the month of August",
+            "label": "DATE"
+        },
+        {
+            "text": "the 1970s",
+            "label": "DATE"
+        },
+        {
+            "text": "Nigeria",
+            "label": "GPE"
+        },
+        {
+            "text": "2",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "0.82",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "2",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "0.18",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Fig 2",
+            "label": "PERSON"
+        },
+        {
+            "text": "Fig 3",
+            "label": "LAW"
+        },
+        {
+            "text": "the past 105 years",
+            "label": "DATE"
+        },
+        {
+            "text": "Nigeria",
+            "label": "GPE"
+        },
+        {
+            "text": "Nigeria",
+            "label": "GPE"
+        },
+        {
+            "text": "#/texts/94",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/95",
+            "label": "MONEY"
+        },
+        {
+            "text": "Arctic",
+            "label": "LOC"
+        },
+        {
+            "text": "0.2",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "the year 2100",
+            "label": "DATE"
+        },
+        {
+            "text": "Hengeveld",
+            "label": "GPE"
+        },
+        {
+            "text": "2002",
+            "label": "DATE"
+        },
+        {
+            "text": "Hengeveld",
+            "label": "GPE"
+        },
+        {
+            "text": "2005",
+            "label": "DATE"
+        },
+        {
+            "text": "0.2",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "3,400 km",
+            "label": "QUANTITY"
+        },
+        {
+            "text": "Nigeria",
+            "label": "GPE"
+        },
+        {
+            "text": "1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "2100",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "18,400 km",
+            "label": "QUANTITY"
+        },
+        {
+            "text": "NEST",
+            "label": "ORG"
+        },
+        {
+            "text": "2003",
+            "label": "DATE"
+        },
+        {
+            "text": "Coastal",
+            "label": "ORG"
+        },
+        {
+            "text": "Bonny, Forcados, Lagos",
+            "label": "ORG"
+        },
+        {
+            "text": "Port Harcourt",
+            "label": "GPE"
+        },
+        {
+            "text": "Warri",
+            "label": "PERSON"
+        },
+        {
+            "text": "Calabar",
+            "label": "GPE"
+        },
+        {
+            "text": "Arctic",
+            "label": "LOC"
+        },
+        {
+            "text": "0.2",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "the year 2100",
+            "label": "DATE"
+        },
+        {
+            "text": "Hengeveld",
+            "label": "GPE"
+        },
+        {
+            "text": "2002",
+            "label": "DATE"
+        },
+        {
+            "text": "Hengeveld",
+            "label": "GPE"
+        },
+        {
+            "text": "2005",
+            "label": "DATE"
+        },
+        {
+            "text": "0.2",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "3,400 km",
+            "label": "QUANTITY"
+        },
+        {
+            "text": "Nigeria",
+            "label": "GPE"
+        },
+        {
+            "text": "1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "2100",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "18,400 km",
+            "label": "QUANTITY"
+        },
+        {
+            "text": "NEST",
+            "label": "ORG"
+        },
+        {
+            "text": "2003",
+            "label": "DATE"
+        },
+        {
+            "text": "Coastal",
+            "label": "ORG"
+        },
+        {
+            "text": "Bonny, Forcados, Lagos",
+            "label": "ORG"
+        },
+        {
+            "text": "Port Harcourt",
+            "label": "GPE"
+        },
+        {
+            "text": "Warri",
+            "label": "PERSON"
+        },
+        {
+            "text": "Calabar",
+            "label": "GPE"
+        },
+        {
+            "text": "#/texts/96",
+            "label": "MONEY"
+        },
+        {
+            "text": "Nembe",
+            "label": "GPE"
+        },
+        {
+            "text": "Bayelsa",
+            "label": "GPE"
+        },
+        {
+            "text": "Delta",
+            "label": "ORG"
+        },
+        {
+            "text": "Cross River",
+            "label": "ORG"
+        },
+        {
+            "text": "Lagos States of Nigeria",
+            "label": "GPE"
+        },
+        {
+            "text": "about 14 million",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Nigeria",
+            "label": "GPE"
+        },
+        {
+            "text": "Abu 2007",
+            "label": "DATE"
+        },
+        {
+            "text": "2006",
+            "label": "DATE"
+        },
+        {
+            "text": "10",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "13",
+            "label": "DATE"
+        },
+        {
+            "text": "72 million",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Egypt",
+            "label": "GPE"
+        },
+        {
+            "text": "Bangladesh",
+            "label": "GPE"
+        },
+        {
+            "text": "China",
+            "label": "GPE"
+        },
+        {
+            "text": "Nembe",
+            "label": "GPE"
+        },
+        {
+            "text": "Bayelsa",
+            "label": "GPE"
+        },
+        {
+            "text": "Delta",
+            "label": "ORG"
+        },
+        {
+            "text": "Cross River",
+            "label": "ORG"
+        },
+        {
+            "text": "Lagos States of Nigeria",
+            "label": "GPE"
+        },
+        {
+            "text": "about 14 million",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Nigeria",
+            "label": "GPE"
+        },
+        {
+            "text": "Abu 2007",
+            "label": "DATE"
+        },
+        {
+            "text": "2006",
+            "label": "DATE"
+        },
+        {
+            "text": "10",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "13",
+            "label": "DATE"
+        },
+        {
+            "text": "72 million",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Egypt",
+            "label": "GPE"
+        },
+        {
+            "text": "Bangladesh",
+            "label": "GPE"
+        },
+        {
+            "text": "China",
+            "label": "GPE"
+        },
+        {
+            "text": "#/texts/97 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "Sahara",
+            "label": "LOC"
+        },
+        {
+            "text": "Sahellian",
+            "label": "NORP"
+        },
+        {
+            "text": "Africa",
+            "label": "LOC"
+        },
+        {
+            "text": "annual",
+            "label": "DATE"
+        },
+        {
+            "text": "1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Odjugo",
+            "label": "ORG"
+        },
+        {
+            "text": "2003",
+            "label": "DATE"
+        },
+        {
+            "text": "Yaqub 2007",
+            "label": "DATE"
+        },
+        {
+            "text": "Ikhuoria",
+            "label": "ORG"
+        },
+        {
+            "text": "2003",
+            "label": "DATE"
+        },
+        {
+            "text": "Nigeria",
+            "label": "GPE"
+        },
+        {
+            "text": "12",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Yobe",
+            "label": "GPE"
+        },
+        {
+            "text": "Borno",
+            "label": "PERSON"
+        },
+        {
+            "text": "Katsina",
+            "label": "GPE"
+        },
+        {
+            "text": "186",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "six",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Nigeria",
+            "label": "GPE"
+        },
+        {
+            "text": "between 1998 and 2006",
+            "label": "DATE"
+        },
+        {
+            "text": "Yugunda 2002",
+            "label": "DATE"
+        },
+        {
+            "text": "Yaqub 2007",
+            "label": "DATE"
+        },
+        {
+            "text": "Akonga",
+            "label": "PERSON"
+        },
+        {
+            "text": "2001",
+            "label": "DATE"
+        },
+        {
+            "text": "Sahara",
+            "label": "LOC"
+        },
+        {
+            "text": "Sahellian",
+            "label": "NORP"
+        },
+        {
+            "text": "Africa",
+            "label": "LOC"
+        },
+        {
+            "text": "annual",
+            "label": "DATE"
+        },
+        {
+            "text": "1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Odjugo",
+            "label": "ORG"
+        },
+        {
+            "text": "2003",
+            "label": "DATE"
+        },
+        {
+            "text": "Yaqub 2007",
+            "label": "DATE"
+        },
+        {
+            "text": "Ikhuoria",
+            "label": "ORG"
+        },
+        {
+            "text": "2003",
+            "label": "DATE"
+        },
+        {
+            "text": "Nigeria",
+            "label": "GPE"
+        },
+        {
+            "text": "12",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Yobe",
+            "label": "GPE"
+        },
+        {
+            "text": "Borno",
+            "label": "PERSON"
+        },
+        {
+            "text": "Katsina",
+            "label": "GPE"
+        },
+        {
+            "text": "186",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "six",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Nigeria",
+            "label": "GPE"
+        },
+        {
+            "text": "between 1998 and 2006",
+            "label": "DATE"
+        },
+        {
+            "text": "Yugunda 2002",
+            "label": "DATE"
+        },
+        {
+            "text": "Yaqub 2007",
+            "label": "DATE"
+        },
+        {
+            "text": "Akonga",
+            "label": "PERSON"
+        },
+        {
+            "text": "2001",
+            "label": "DATE"
+        },
+        {
+            "text": "#/texts/98 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "Mcguire",
+            "label": "GPE"
+        },
+        {
+            "text": "2002",
+            "label": "DATE"
+        },
+        {
+            "text": "Africa",
+            "label": "LOC"
+        },
+        {
+            "text": "Nigeria",
+            "label": "GPE"
+        },
+        {
+            "text": "Lake Chad",
+            "label": "LOC"
+        },
+        {
+            "text": "22,902 km 2",
+            "label": "QUANTITY"
+        },
+        {
+            "text": "1963",
+            "label": "DATE"
+        },
+        {
+            "text": "2",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "2000",
+            "label": "DATE"
+        },
+        {
+            "text": "Lake Chad",
+            "label": "LOC"
+        },
+        {
+            "text": "the year 2000",
+            "label": "DATE"
+        },
+        {
+            "text": "just 5.7%",
+            "label": "PERCENT"
+        },
+        {
+            "text": "1963",
+            "label": "DATE"
+        },
+        {
+            "text": "2007",
+            "label": "DATE"
+        },
+        {
+            "text": "2009",
+            "label": "DATE"
+        },
+        {
+            "text": "Lake Chad",
+            "label": "FAC"
+        },
+        {
+            "text": "95%",
+            "label": "PERCENT"
+        },
+        {
+            "text": "the 1960s",
+            "label": "DATE"
+        },
+        {
+            "text": "Aral Sea",
+            "label": "LOC"
+        },
+        {
+            "text": "Central Asia",
+            "label": "LOC"
+        },
+        {
+            "text": "1960",
+            "label": "DATE"
+        },
+        {
+            "text": "2007",
+            "label": "DATE"
+        },
+        {
+            "text": "Mcguire",
+            "label": "GPE"
+        },
+        {
+            "text": "2002",
+            "label": "DATE"
+        },
+        {
+            "text": "Africa",
+            "label": "LOC"
+        },
+        {
+            "text": "Nigeria",
+            "label": "GPE"
+        },
+        {
+            "text": "Lake Chad",
+            "label": "LOC"
+        },
+        {
+            "text": "22,902 km 2",
+            "label": "QUANTITY"
+        },
+        {
+            "text": "1963",
+            "label": "DATE"
+        },
+        {
+            "text": "2",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "2000",
+            "label": "DATE"
+        },
+        {
+            "text": "Lake Chad",
+            "label": "LOC"
+        },
+        {
+            "text": "the year 2000",
+            "label": "DATE"
+        },
+        {
+            "text": "just 5.7%",
+            "label": "PERCENT"
+        },
+        {
+            "text": "1963",
+            "label": "DATE"
+        },
+        {
+            "text": "2007",
+            "label": "DATE"
+        },
+        {
+            "text": "2009",
+            "label": "DATE"
+        },
+        {
+            "text": "Lake Chad",
+            "label": "FAC"
+        },
+        {
+            "text": "95%",
+            "label": "PERCENT"
+        },
+        {
+            "text": "the 1960s",
+            "label": "DATE"
+        },
+        {
+            "text": "Aral Sea",
+            "label": "LOC"
+        },
+        {
+            "text": "Central Asia",
+            "label": "LOC"
+        },
+        {
+            "text": "1960",
+            "label": "DATE"
+        },
+        {
+            "text": "2007",
+            "label": "DATE"
+        },
+        {
+            "text": "#",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/texts/100",
+            "label": "MONEY"
+        },
+        {
+            "text": "51 51 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/102 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/103 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/104 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/105 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/106 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "Fig",
+            "label": "PERSON"
+        },
+        {
+            "text": "4",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Fig",
+            "label": "PERSON"
+        },
+        {
+            "text": "4",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/texts/107 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/109 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/111 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "summer",
+            "label": "DATE"
+        },
+        {
+            "text": "#/texts/113 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "wanningm",
+            "label": "PERSON"
+        },
+        {
+            "text": "#/texts/115 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/116",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/117 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/118",
+            "label": "MONEY"
+        },
+        {
+            "text": "winter winter",
+            "label": "DATE"
+        },
+        {
+            "text": "#/texts/120 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "Cold",
+            "label": "WORK_OF_ART"
+        },
+        {
+            "text": "#/texts/121",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/122 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/123 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/125 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "Pesticire Pesticire",
+            "label": "PERSON"
+        },
+        {
+            "text": "#/texts/130 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/131 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/132 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/133",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/134",
+            "label": "MONEY"
+        },
+        {
+            "text": "#",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/texts/136 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/137 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/140 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/141 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/142",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/144 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/145 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/146 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/147",
+            "label": "MONEY"
+        },
+        {
+            "text": "#",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/texts/149 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/150 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/153 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/154 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/156 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/158 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/160 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/161",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/163 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/164 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "Depression Depression #",
+            "label": "EVENT"
+        },
+        {
+            "text": "#/texts/167 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "1 1 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/texts/171 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/172 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/174 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/176 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/177 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/178 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/179 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/180 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/181 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "52",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "PETER AKPODIOGAGA-A OVUYOVWIROYE ODJUGO",
+            "label": "PERSON"
+        },
+        {
+            "text": "PETER AKPODIOGAGA-A OVUYOVWIROYE",
+            "label": "PERSON"
+        },
+        {
+            "text": "#/texts/183 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "10%",
+            "label": "PERCENT"
+        },
+        {
+            "text": "Lake Chad",
+            "label": "FAC"
+        },
+        {
+            "text": "Nigeria",
+            "label": "GPE"
+        },
+        {
+            "text": "Northern  Nigeria",
+            "label": "GPE"
+        },
+        {
+            "text": "2000",
+            "label": "DATE"
+        },
+        {
+            "text": "DeWeerdt",
+            "label": "PERSON"
+        },
+        {
+            "text": "2007",
+            "label": "DATE"
+        },
+        {
+            "text": "25 days",
+            "label": "DATE"
+        },
+        {
+            "text": "10",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "32",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Fig 4",
+            "label": "PERSON"
+        },
+        {
+            "text": "4",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "10%",
+            "label": "PERCENT"
+        },
+        {
+            "text": "Lake Chad",
+            "label": "FAC"
+        },
+        {
+            "text": "Nigeria",
+            "label": "GPE"
+        },
+        {
+            "text": "Northern  Nigeria",
+            "label": "GPE"
+        },
+        {
+            "text": "2000",
+            "label": "DATE"
+        },
+        {
+            "text": "DeWeerdt",
+            "label": "PERSON"
+        },
+        {
+            "text": "2007",
+            "label": "DATE"
+        },
+        {
+            "text": "25 days",
+            "label": "DATE"
+        },
+        {
+            "text": "10",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "32",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Fig 4",
+            "label": "PERSON"
+        },
+        {
+            "text": "4",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/texts/184 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "One",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "tsunamis",
+            "label": "ORG"
+        },
+        {
+            "text": "Odjugo",
+            "label": "ORG"
+        },
+        {
+            "text": "1999",
+            "label": "DATE"
+        },
+        {
+            "text": "2001b",
+            "label": "DATE"
+        },
+        {
+            "text": "Changnon",
+            "label": "ORG"
+        },
+        {
+            "text": "2001",
+            "label": "DATE"
+        },
+        {
+            "text": "2008",
+            "label": "DATE"
+        },
+        {
+            "text": "199",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Nigeria",
+            "label": "GPE"
+        },
+        {
+            "text": "between 1992 and 2007",
+            "label": "DATE"
+        },
+        {
+            "text": "Buadi",
+            "label": "PERSON"
+        },
+        {
+            "text": "Ahmed",
+            "label": "PERSON"
+        },
+        {
+            "text": "2006",
+            "label": "DATE"
+        },
+        {
+            "text": "42",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Cameroon",
+            "label": "GPE"
+        },
+        {
+            "text": "between 2000 and 2005",
+            "label": "DATE"
+        },
+        {
+            "text": "Between 1950 and 2000",
+            "label": "DATE"
+        },
+        {
+            "text": "$87 billion",
+            "label": "MONEY"
+        },
+        {
+            "text": "$19 billion",
+            "label": "MONEY"
+        },
+        {
+            "text": "over 12,000",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "the United States of America",
+            "label": "GPE"
+        },
+        {
+            "text": "2001",
+            "label": "DATE"
+        },
+        {
+            "text": "One",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "tsunamis",
+            "label": "ORG"
+        },
+        {
+            "text": "Odjugo",
+            "label": "ORG"
+        },
+        {
+            "text": "1999",
+            "label": "DATE"
+        },
+        {
+            "text": "2001b",
+            "label": "DATE"
+        },
+        {
+            "text": "Changnon",
+            "label": "ORG"
+        },
+        {
+            "text": "2001",
+            "label": "DATE"
+        },
+        {
+            "text": "2008",
+            "label": "DATE"
+        },
+        {
+            "text": "199",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Nigeria",
+            "label": "GPE"
+        },
+        {
+            "text": "between 1992 and 2007",
+            "label": "DATE"
+        },
+        {
+            "text": "Buadi",
+            "label": "PERSON"
+        },
+        {
+            "text": "Ahmed",
+            "label": "PERSON"
+        },
+        {
+            "text": "2006",
+            "label": "DATE"
+        },
+        {
+            "text": "42",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Cameroon",
+            "label": "GPE"
+        },
+        {
+            "text": "between 2000 and 2005",
+            "label": "DATE"
+        },
+        {
+            "text": "Between 1950 and 2000",
+            "label": "DATE"
+        },
+        {
+            "text": "$87 billion",
+            "label": "MONEY"
+        },
+        {
+            "text": "$19 billion",
+            "label": "MONEY"
+        },
+        {
+            "text": "over 12,000",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "the United States of America",
+            "label": "GPE"
+        },
+        {
+            "text": "2001",
+            "label": "DATE"
+        },
+        {
+            "text": "#/texts/185 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "80 million",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "2080",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Africa",
+            "label": "LOC"
+        },
+        {
+            "text": "Asia Climate",
+            "label": "LOC"
+        },
+        {
+            "text": "80 million",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "2080",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Africa",
+            "label": "LOC"
+        },
+        {
+            "text": "Asia",
+            "label": "LOC"
+        },
+        {
+            "text": "DFID",
+            "label": "GPE"
+        },
+        {
+            "text": "2006",
+            "label": "DATE"
+        },
+        {
+            "text": "2006",
+            "label": "DATE"
+        },
+        {
+            "text": "2007",
+            "label": "DATE"
+        },
+        {
+            "text": "DeWeerdt",
+            "label": "PERSON"
+        },
+        {
+            "text": "2008",
+            "label": "DATE"
+        },
+        {
+            "text": "Nigeria",
+            "label": "GPE"
+        },
+        {
+            "text": "Odjugo",
+            "label": "ORG"
+        },
+        {
+            "text": "2008",
+            "label": "DATE"
+        },
+        {
+            "text": "Ahmed",
+            "label": "PERSON"
+        },
+        {
+            "text": "1978",
+            "label": "DATE"
+        },
+        {
+            "text": "1978",
+            "label": "DATE"
+        },
+        {
+            "text": "2007",
+            "label": "DATE"
+        },
+        {
+            "text": "Nigeria",
+            "label": "GPE"
+        },
+        {
+            "text": "Northern Nigeria",
+            "label": "GPE"
+        },
+        {
+            "text": "Odjugo",
+            "label": "ORG"
+        },
+        {
+            "text": "2003",
+            "label": "DATE"
+        },
+        {
+            "text": "Ayuba",
+            "label": "GPE"
+        },
+        {
+            "text": "2007",
+            "label": "DATE"
+        },
+        {
+            "text": "DFID",
+            "label": "GPE"
+        },
+        {
+            "text": "2006",
+            "label": "DATE"
+        },
+        {
+            "text": "2006",
+            "label": "DATE"
+        },
+        {
+            "text": "2007",
+            "label": "DATE"
+        },
+        {
+            "text": "DeWeerdt",
+            "label": "PERSON"
+        },
+        {
+            "text": "2008",
+            "label": "DATE"
+        },
+        {
+            "text": "Nigeria",
+            "label": "GPE"
+        },
+        {
+            "text": "Odjugo",
+            "label": "ORG"
+        },
+        {
+            "text": "2008",
+            "label": "DATE"
+        },
+        {
+            "text": "Ahmed",
+            "label": "PERSON"
+        },
+        {
+            "text": "1978",
+            "label": "DATE"
+        },
+        {
+            "text": "1978",
+            "label": "DATE"
+        },
+        {
+            "text": "2007",
+            "label": "DATE"
+        },
+        {
+            "text": "Nigeria",
+            "label": "GPE"
+        },
+        {
+            "text": "Northern Nigeria",
+            "label": "GPE"
+        },
+        {
+            "text": "Odjugo",
+            "label": "ORG"
+        },
+        {
+            "text": "2003",
+            "label": "DATE"
+        },
+        {
+            "text": "Ayuba",
+            "label": "GPE"
+        },
+        {
+            "text": "2007",
+            "label": "DATE"
+        },
+        {
+            "text": "Avery",
+            "label": "ORG"
+        },
+        {
+            "text": "2007",
+            "label": "DATE"
+        },
+        {
+            "text": "Automobiles  and",
+            "label": "PERSON"
+        },
+        {
+            "text": "the Niger Delta",
+            "label": "LOC"
+        },
+        {
+            "text": "Nigeria",
+            "label": "GPE"
+        },
+        {
+            "text": "Avery",
+            "label": "ORG"
+        },
+        {
+            "text": "2007",
+            "label": "DATE"
+        },
+        {
+            "text": "Automobiles  and",
+            "label": "PERSON"
+        },
+        {
+            "text": "the Niger Delta",
+            "label": "LOC"
+        },
+        {
+            "text": "Nigeria",
+            "label": "GPE"
+        },
+        {
+            "text": "#/texts/189 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "first",
+            "label": "ORDINAL"
+        },
+        {
+            "text": "Nigeria",
+            "label": "GPE"
+        },
+        {
+            "text": "first",
+            "label": "ORDINAL"
+        },
+        {
+            "text": "#/texts/190 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/191",
+            "label": "MONEY"
+        },
+        {
+            "text": "53 53",
+            "label": "DATE"
+        },
+        {
+            "text": "Nigeria",
+            "label": "GPE"
+        },
+        {
+            "text": "Nigeria",
+            "label": "GPE"
+        },
+        {
+            "text": "#/texts/193 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "Nigeria",
+            "label": "GPE"
+        },
+        {
+            "text": "Nigeria",
+            "label": "GPE"
+        },
+        {
+            "text": "bush",
+            "label": "PERSON"
+        },
+        {
+            "text": "Nigeria",
+            "label": "GPE"
+        },
+        {
+            "text": "Nigeria",
+            "label": "GPE"
+        },
+        {
+            "text": "Nigeria",
+            "label": "GPE"
+        },
+        {
+            "text": "Odjugo",
+            "label": "ORG"
+        },
+        {
+            "text": "Ikhuoria",
+            "label": "ORG"
+        },
+        {
+            "text": "2003",
+            "label": "DATE"
+        },
+        {
+            "text": "320",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "three",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "annually",
+            "label": "DATE"
+        },
+        {
+            "text": "Nigerian",
+            "label": "NORP"
+        },
+        {
+            "text": "Nigeria",
+            "label": "GPE"
+        },
+        {
+            "text": "Nigeria",
+            "label": "GPE"
+        },
+        {
+            "text": "bush",
+            "label": "PERSON"
+        },
+        {
+            "text": "Nigeria",
+            "label": "GPE"
+        },
+        {
+            "text": "Nigeria",
+            "label": "GPE"
+        },
+        {
+            "text": "Nigeria",
+            "label": "GPE"
+        },
+        {
+            "text": "Odjugo",
+            "label": "ORG"
+        },
+        {
+            "text": "Ikhuoria",
+            "label": "ORG"
+        },
+        {
+            "text": "2003",
+            "label": "DATE"
+        },
+        {
+            "text": "320",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "three",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "annually",
+            "label": "DATE"
+        },
+        {
+            "text": "Nigerian",
+            "label": "NORP"
+        },
+        {
+            "text": "#/texts/194 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "Nigeria",
+            "label": "GPE"
+        },
+        {
+            "text": "Nigeria",
+            "label": "GPE"
+        },
+        {
+            "text": "Central",
+            "label": "ORG"
+        },
+        {
+            "text": "North  America",
+            "label": "GPE"
+        },
+        {
+            "text": "1970",
+            "label": "DATE"
+        },
+        {
+            "text": "30000",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "1992",
+            "label": "DATE"
+        },
+        {
+            "text": "1994",
+            "label": "DATE"
+        },
+        {
+            "text": "200",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "2007",
+            "label": "DATE"
+        },
+        {
+            "text": "Lake Chad",
+            "label": "FAC"
+        },
+        {
+            "text": "the Congo Basin",
+            "label": "LOC"
+        },
+        {
+            "text": "Atlantic Ocean",
+            "label": "LOC"
+        },
+        {
+            "text": "the Lake Chad",
+            "label": "LOC"
+        },
+        {
+            "text": "the Atlantic Ocean",
+            "label": "LOC"
+        },
+        {
+            "text": "Northern Nigeria",
+            "label": "GPE"
+        },
+        {
+            "text": "Nigeria",
+            "label": "GPE"
+        },
+        {
+            "text": "Nigeria",
+            "label": "GPE"
+        },
+        {
+            "text": "Central",
+            "label": "ORG"
+        },
+        {
+            "text": "North  America",
+            "label": "GPE"
+        },
+        {
+            "text": "1970",
+            "label": "DATE"
+        },
+        {
+            "text": "30000",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "1992",
+            "label": "DATE"
+        },
+        {
+            "text": "1994",
+            "label": "DATE"
+        },
+        {
+            "text": "200",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "2007",
+            "label": "DATE"
+        },
+        {
+            "text": "Lake Chad",
+            "label": "FAC"
+        },
+        {
+            "text": "the Congo Basin",
+            "label": "LOC"
+        },
+        {
+            "text": "Atlantic Ocean",
+            "label": "LOC"
+        },
+        {
+            "text": "the Lake Chad",
+            "label": "LOC"
+        },
+        {
+            "text": "the Atlantic Ocean",
+            "label": "LOC"
+        },
+        {
+            "text": "Northern Nigeria",
+            "label": "GPE"
+        },
+        {
+            "text": "54",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "PETER AKPODIOGAGA-A OVUYOVWIROYE ODJUGO",
+            "label": "PERSON"
+        },
+        {
+            "text": "PETER AKPODIOGAGA-A OVUYOVWIROYE ODJUGO",
+            "label": "PERSON"
+        },
+        {
+            "text": "Lake",
+            "label": "LOC"
+        },
+        {
+            "text": "Lake",
+            "label": "LOC"
+        },
+        {
+            "text": "#/texts/199 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/200 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "Nigeria",
+            "label": "GPE"
+        },
+        {
+            "text": "between 1901 and 2005",
+            "label": "DATE"
+        },
+        {
+            "text": "1.1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Nigeria",
+            "label": "GPE"
+        },
+        {
+            "text": "the 105 years",
+            "label": "DATE"
+        },
+        {
+            "text": "81mm",
+            "label": "QUANTITY"
+        },
+        {
+            "text": "Nigeria",
+            "label": "GPE"
+        },
+        {
+            "text": "the early  1970s",
+            "label": "DATE"
+        },
+        {
+            "text": "August",
+            "label": "DATE"
+        },
+        {
+            "text": "the month of July",
+            "label": "DATE"
+        },
+        {
+            "text": "August",
+            "label": "DATE"
+        },
+        {
+            "text": "3400km",
+            "label": "QUANTITY"
+        },
+        {
+            "text": "2",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "1-10",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "1978",
+            "label": "DATE"
+        },
+        {
+            "text": "2007",
+            "label": "DATE"
+        },
+        {
+            "text": "Lake Chad",
+            "label": "FAC"
+        },
+        {
+            "text": "5.7%",
+            "label": "PERCENT"
+        },
+        {
+            "text": "1960",
+            "label": "DATE"
+        },
+        {
+            "text": "199",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Nigeria",
+            "label": "GPE"
+        },
+        {
+            "text": "between 1997 and 2007",
+            "label": "DATE"
+        },
+        {
+            "text": "Nigeria",
+            "label": "GPE"
+        },
+        {
+            "text": "between 1901 and 2005",
+            "label": "DATE"
+        },
+        {
+            "text": "1.1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Nigeria",
+            "label": "GPE"
+        },
+        {
+            "text": "the 105 years",
+            "label": "DATE"
+        },
+        {
+            "text": "81mm",
+            "label": "QUANTITY"
+        },
+        {
+            "text": "Nigeria",
+            "label": "GPE"
+        },
+        {
+            "text": "the early  1970s",
+            "label": "DATE"
+        },
+        {
+            "text": "August",
+            "label": "DATE"
+        },
+        {
+            "text": "the month of July",
+            "label": "DATE"
+        },
+        {
+            "text": "August",
+            "label": "DATE"
+        },
+        {
+            "text": "3400km",
+            "label": "QUANTITY"
+        },
+        {
+            "text": "2",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "1-10",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "1978",
+            "label": "DATE"
+        },
+        {
+            "text": "2007",
+            "label": "DATE"
+        },
+        {
+            "text": "Lake Chad",
+            "label": "FAC"
+        },
+        {
+            "text": "5.7%",
+            "label": "PERCENT"
+        },
+        {
+            "text": "1960",
+            "label": "DATE"
+        },
+        {
+            "text": "199",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Nigeria",
+            "label": "GPE"
+        },
+        {
+            "text": "between 1997 and 2007",
+            "label": "DATE"
+        },
+        {
+            "text": "#/texts/201 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/202 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/203",
+            "label": "MONEY"
+        },
+        {
+            "text": "2007",
+            "label": "DATE"
+        },
+        {
+            "text": "the Niger Delta",
+            "label": "LOC"
+        },
+        {
+            "text": "Nigeria",
+            "label": "GPE"
+        },
+        {
+            "text": "Wetland",
+            "label": "GPE"
+        },
+        {
+            "text": "3(1",
+            "label": "PRODUCT"
+        },
+        {
+            "text": "44-52",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Abu B 2007",
+            "label": "PERSON"
+        },
+        {
+            "text": "the Niger Delta",
+            "label": "LOC"
+        },
+        {
+            "text": "Nigeria",
+            "label": "GPE"
+        },
+        {
+            "text": "Wetland",
+            "label": "GPE"
+        },
+        {
+            "text": "3(1",
+            "label": "PRODUCT"
+        },
+        {
+            "text": "44-52",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/texts/204 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "2007",
+            "label": "DATE"
+        },
+        {
+            "text": "Nigeria",
+            "label": "GPE"
+        },
+        {
+            "text": "2007",
+            "label": "DATE"
+        },
+        {
+            "text": "Nigeria",
+            "label": "GPE"
+        },
+        {
+            "text": "#/texts/205 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "Nnamdi Azikiwe University",
+            "label": "ORG"
+        },
+        {
+            "text": "June 2007",
+            "label": "DATE"
+        },
+        {
+            "text": "Nnamdi Azikiwe University",
+            "label": "ORG"
+        },
+        {
+            "text": "June 2007",
+            "label": "DATE"
+        },
+        {
+            "text": "#/texts/206 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "Ahmed HA 1978",
+            "label": "PERSON"
+        },
+        {
+            "text": "Borno  State",
+            "label": "GPE"
+        },
+        {
+            "text": "Nigeria",
+            "label": "GPE"
+        },
+        {
+            "text": "2(1",
+            "label": "DATE"
+        },
+        {
+            "text": "9-16",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Ahmed HA 1978",
+            "label": "PERSON"
+        },
+        {
+            "text": "Borno  State",
+            "label": "GPE"
+        },
+        {
+            "text": "Nigeria",
+            "label": "GPE"
+        },
+        {
+            "text": "2(1",
+            "label": "DATE"
+        },
+        {
+            "text": "9-16",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/texts/207 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "ANIS Monograph No.  ",
+            "label": "PERSON"
+        },
+        {
+            "text": "3",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "pp.  ",
+            "label": "GPE"
+        },
+        {
+            "text": "1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "ANIS Monograph No.  ",
+            "label": "PERSON"
+        },
+        {
+            "text": "3",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "pp.  ",
+            "label": "GPE"
+        },
+        {
+            "text": "1-16",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "2009",
+            "label": "DATE"
+        },
+        {
+            "text": "January 2009",
+            "label": "DATE"
+        },
+        {
+            "text": "pp.",
+            "label": "GPE"
+        },
+        {
+            "text": "3",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Awake 2009",
+            "label": "DATE"
+        },
+        {
+            "text": "January 2009",
+            "label": "DATE"
+        },
+        {
+            "text": "pp.",
+            "label": "GPE"
+        },
+        {
+            "text": "3-7",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/texts/209 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "2004",
+            "label": "DATE"
+        },
+        {
+            "text": "Ibadan",
+            "label": "GPE"
+        },
+        {
+            "text": "Vantage Publishers",
+            "label": "ORG"
+        },
+        {
+            "text": "pp.",
+            "label": "GPE"
+        },
+        {
+            "text": "45-66",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Ayoade  JO  2004",
+            "label": "PERSON"
+        },
+        {
+            "text": "Ibadan",
+            "label": "GPE"
+        },
+        {
+            "text": "Vantage Publishers",
+            "label": "ORG"
+        },
+        {
+            "text": "pp.",
+            "label": "GPE"
+        },
+        {
+            "text": "45-66",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/texts/210 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "Ayuba",
+            "label": "GPE"
+        },
+        {
+            "text": "Maryah  UM",
+            "label": "PERSON"
+        },
+        {
+            "text": "Gwary  ",
+            "label": "PERSON"
+        },
+        {
+            "text": "2007",
+            "label": "DATE"
+        },
+        {
+            "text": "six",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Northern  Nigeria",
+            "label": "GPE"
+        },
+        {
+            "text": "Nigerian Geographical Journal",
+            "label": "ORG"
+        },
+        {
+            "text": "5(1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "35-42",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Ayuba",
+            "label": "GPE"
+        },
+        {
+            "text": "Maryah  UM",
+            "label": "PERSON"
+        },
+        {
+            "text": "Gwary  ",
+            "label": "PERSON"
+        },
+        {
+            "text": "2007",
+            "label": "DATE"
+        },
+        {
+            "text": "six",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Northern  Nigeria",
+            "label": "GPE"
+        },
+        {
+            "text": "Nigerian Geographical Journal",
+            "label": "ORG"
+        },
+        {
+            "text": "5(1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "35-42",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/texts/211 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "Buadi PV",
+            "label": "PERSON"
+        },
+        {
+            "text": "Ahmed AN 2006",
+            "label": "PERSON"
+        },
+        {
+            "text": "Southern Cameroon",
+            "label": "LOC"
+        },
+        {
+            "text": "Journal",
+            "label": "ORG"
+        },
+        {
+            "text": "Physical Sciences",
+            "label": "ORG"
+        },
+        {
+            "text": "3(2",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "82-88",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Buadi PV",
+            "label": "PERSON"
+        },
+        {
+            "text": "Ahmed AN 2006",
+            "label": "PERSON"
+        },
+        {
+            "text": "Southern Cameroon",
+            "label": "LOC"
+        },
+        {
+            "text": "Journal",
+            "label": "ORG"
+        },
+        {
+            "text": "Physical Sciences",
+            "label": "ORG"
+        },
+        {
+            "text": "3(2",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "82-88",
+            "label": "DATE"
+        },
+        {
+            "text": "#/texts/212 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "Changnon SA",
+            "label": "ORG"
+        },
+        {
+            "text": "2001",
+            "label": "DATE"
+        },
+        {
+            "text": "Illinois",
+            "label": "GPE"
+        },
+        {
+            "text": "Changnon  Climatologist",
+            "label": "ORG"
+        },
+        {
+            "text": "5976",
+            "label": "DATE"
+        },
+        {
+            "text": "Changnon SA 2001",
+            "label": "ORG"
+        },
+        {
+            "text": "Illinois",
+            "label": "GPE"
+        },
+        {
+            "text": "Changnon  Climatologist",
+            "label": "ORG"
+        },
+        {
+            "text": "5976",
+            "label": "DATE"
+        },
+        {
+            "text": "#/texts/213 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "Nyelong PN 2004",
+            "label": "ORG"
+        },
+        {
+            "text": "Lake Chad",
+            "label": "FAC"
+        },
+        {
+            "text": "Arid  Wetland",
+            "label": "PERSON"
+        },
+        {
+            "text": "6",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "24",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "27",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Nyelong PN 2004",
+            "label": "ORG"
+        },
+        {
+            "text": "Lake Chad",
+            "label": "FAC"
+        },
+        {
+            "text": "Arid  Wetland",
+            "label": "PERSON"
+        },
+        {
+            "text": "6",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "24",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "27",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/texts/214 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "International  Development",
+            "label": "ORG"
+        },
+        {
+            "text": "DFID",
+            "label": "ORG"
+        },
+        {
+            "text": "2006",
+            "label": "DATE"
+        },
+        {
+            "text": "25",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "8",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "International  Development",
+            "label": "ORG"
+        },
+        {
+            "text": "DFID",
+            "label": "ORG"
+        },
+        {
+            "text": "2006",
+            "label": "DATE"
+        },
+        {
+            "text": "25",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "8",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/texts/215 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "2007",
+            "label": "DATE"
+        },
+        {
+            "text": "World Watch",
+            "label": "ORG"
+        },
+        {
+            "text": "2(3",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "6",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "DeWeerdt S 2007",
+            "label": "LAW"
+        },
+        {
+            "text": "World Watch",
+            "label": "ORG"
+        },
+        {
+            "text": "2(3",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "6",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/texts/216 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "Hengeveld GH",
+            "label": "ORG"
+        },
+        {
+            "text": "Bush",
+            "label": "PERSON"
+        },
+        {
+            "text": "2002",
+            "label": "DATE"
+        },
+        {
+            "text": "Canada",
+            "label": "GPE"
+        },
+        {
+            "text": "Canada",
+            "label": "GPE"
+        },
+        {
+            "text": "Hengeveld GH",
+            "label": "ORG"
+        },
+        {
+            "text": "Bush",
+            "label": "PERSON"
+        },
+        {
+            "text": "2002",
+            "label": "DATE"
+        },
+        {
+            "text": "Canada",
+            "label": "GPE"
+        },
+        {
+            "text": "Canada",
+            "label": "GPE"
+        },
+        {
+            "text": "#/texts/217 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "Hengeveld H",
+            "label": "ORG"
+        },
+        {
+            "text": "Whitewood B 2005",
+            "label": "PERSON"
+        },
+        {
+            "text": "2005",
+            "label": "DATE"
+        },
+        {
+            "text": "Canada",
+            "label": "GPE"
+        },
+        {
+            "text": "Canada",
+            "label": "GPE"
+        },
+        {
+            "text": "pp",
+            "label": "GPE"
+        },
+        {
+            "text": "31-35",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Hengeveld H",
+            "label": "ORG"
+        },
+        {
+            "text": "Whitewood B 2005",
+            "label": "PERSON"
+        },
+        {
+            "text": "2005",
+            "label": "DATE"
+        },
+        {
+            "text": "Canada",
+            "label": "GPE"
+        },
+        {
+            "text": "Canada",
+            "label": "GPE"
+        },
+        {
+            "text": "pp",
+            "label": "GPE"
+        },
+        {
+            "text": "31-35",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/texts/218 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "2007",
+            "label": "DATE"
+        },
+        {
+            "text": "2007",
+            "label": "DATE"
+        },
+        {
+            "text": "fourth",
+            "label": "ORDINAL"
+        },
+        {
+            "text": "Synthesis",
+            "label": "ORG"
+        },
+        {
+            "text": "Access 10th August, 2009",
+            "label": "DATE"
+        },
+        {
+            "text": "2007",
+            "label": "DATE"
+        },
+        {
+            "text": "2007",
+            "label": "DATE"
+        },
+        {
+            "text": "fourth",
+            "label": "ORDINAL"
+        },
+        {
+            "text": "Synthesis",
+            "label": "ORG"
+        },
+        {
+            "text": "Access 10th August, 2009",
+            "label": "DATE"
+        },
+        {
+            "text": "#",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Jagtap S",
+            "label": "PERSON"
+        },
+        {
+            "text": "2007",
+            "label": "DATE"
+        },
+        {
+            "text": "Africa",
+            "label": "LOC"
+        },
+        {
+            "text": "Climate  Change",
+            "label": "ORG"
+        },
+        {
+            "text": "Nnamdi Azikiwe University",
+            "label": "ORG"
+        },
+        {
+            "text": "Nigeria",
+            "label": "GPE"
+        },
+        {
+            "text": "12",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "June  2007",
+            "label": "DATE"
+        },
+        {
+            "text": "Jagtap S",
+            "label": "PERSON"
+        },
+        {
+            "text": "2007",
+            "label": "DATE"
+        },
+        {
+            "text": "Africa",
+            "label": "LOC"
+        },
+        {
+            "text": "Climate  Change",
+            "label": "ORG"
+        },
+        {
+            "text": "Nnamdi Azikiwe University",
+            "label": "ORG"
+        },
+        {
+            "text": "Nigeria",
+            "label": "GPE"
+        },
+        {
+            "text": "12",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "June  2007",
+            "label": "DATE"
+        },
+        {
+            "text": "#/texts/220 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "Mason I",
+            "label": "ORG"
+        },
+        {
+            "text": "Hazards",
+            "label": "PRODUCT"
+        },
+        {
+            "text": "Environmental  Change",
+            "label": "ORG"
+        },
+        {
+            "text": "London",
+            "label": "GPE"
+        },
+        {
+            "text": "Arnold",
+            "label": "PERSON"
+        },
+        {
+            "text": "pp",
+            "label": "GPE"
+        },
+        {
+            "text": "53-63",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Mason I",
+            "label": "ORG"
+        },
+        {
+            "text": "Hazards",
+            "label": "PRODUCT"
+        },
+        {
+            "text": "Environmental  Change",
+            "label": "ORG"
+        },
+        {
+            "text": "London",
+            "label": "GPE"
+        },
+        {
+            "text": "Arnold",
+            "label": "PERSON"
+        },
+        {
+            "text": "pp",
+            "label": "GPE"
+        },
+        {
+            "text": "53-63",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "AD  2005",
+            "label": "DATE"
+        },
+        {
+            "text": "18",
+            "label": "DATE"
+        },
+        {
+            "text": "3",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "74-81",
+            "label": "DATE"
+        },
+        {
+            "text": "Mshelia",
+            "label": "GPE"
+        },
+        {
+            "text": "AD  2005",
+            "label": "DATE"
+        },
+        {
+            "text": "18",
+            "label": "DATE"
+        },
+        {
+            "text": "3",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "74-81",
+            "label": "DATE"
+        },
+        {
+            "text": "#/texts/222",
+            "label": "MONEY"
+        },
+        {
+            "text": "2006",
+            "label": "DATE"
+        },
+        {
+            "text": "5(1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "18-24",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "2006",
+            "label": "DATE"
+        },
+        {
+            "text": "5(1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "18-24",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/texts/223 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "Nigerian",
+            "label": "NORP"
+        },
+        {
+            "text": "Environmental  Study/Action  Team",
+            "label": "ORG"
+        },
+        {
+            "text": "NEST",
+            "label": "ORG"
+        },
+        {
+            "text": "2003",
+            "label": "DATE"
+        },
+        {
+            "text": "Climate  Change",
+            "label": "ORG"
+        },
+        {
+            "text": "Nigeria",
+            "label": "GPE"
+        },
+        {
+            "text": "Ibadan",
+            "label": "PERSON"
+        },
+        {
+            "text": "5",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Nigerian",
+            "label": "NORP"
+        },
+        {
+            "text": "Environmental  Study/Action  Team",
+            "label": "ORG"
+        },
+        {
+            "text": "NEST",
+            "label": "ORG"
+        },
+        {
+            "text": "2003",
+            "label": "DATE"
+        },
+        {
+            "text": "Climate  Change",
+            "label": "ORG"
+        },
+        {
+            "text": "Nigeria",
+            "label": "GPE"
+        },
+        {
+            "text": "Ibadan",
+            "label": "PERSON"
+        },
+        {
+            "text": "5",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/texts/224 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "2006",
+            "label": "DATE"
+        },
+        {
+            "text": "Nigerian",
+            "label": "NORP"
+        },
+        {
+            "text": "DEMAK",
+            "label": "PERSON"
+        },
+        {
+            "text": "359-394",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "2006",
+            "label": "DATE"
+        },
+        {
+            "text": "Nigerian",
+            "label": "NORP"
+        },
+        {
+            "text": "DEMAK",
+            "label": "PERSON"
+        },
+        {
+            "text": "359-394",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/texts/225 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "2007",
+            "label": "DATE"
+        },
+        {
+            "text": "Sub-Saharan Africa",
+            "label": "ORG"
+        },
+        {
+            "text": "the International Confe- Nwafor JC",
+            "label": "FAC"
+        },
+        {
+            "text": "2007",
+            "label": "DATE"
+        },
+        {
+            "text": "Sub-Saharan Africa",
+            "label": "ORG"
+        },
+        {
+            "text": "the International Confe-",
+            "label": "FAC"
+        },
+        {
+            "text": "#/texts/226 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/227",
+            "label": "MONEY"
+        },
+        {
+            "text": "55",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "/groups/7",
+            "label": "PERSON"
+        },
+        {
+            "text": "Climate  Change",
+            "label": "ORG"
+        },
+        {
+            "text": "Nnamdi  Azikiwe  University",
+            "label": "ORG"
+        },
+        {
+            "text": "Enugu, Nigeria",
+            "label": "ORG"
+        },
+        {
+            "text": "12",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "June  2007",
+            "label": "DATE"
+        },
+        {
+            "text": "Climate  Change",
+            "label": "ORG"
+        },
+        {
+            "text": "Nnamdi  Azikiwe  University",
+            "label": "ORG"
+        },
+        {
+            "text": "Enugu, Nigeria",
+            "label": "ORG"
+        },
+        {
+            "text": "12",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "June  2007",
+            "label": "DATE"
+        },
+        {
+            "text": "#/texts/229 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "1999",
+            "label": "DATE"
+        },
+        {
+            "text": "GeoResearch",
+            "label": "ORG"
+        },
+        {
+            "text": "3",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "52-60",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "PAO",
+            "label": "ORG"
+        },
+        {
+            "text": "1999",
+            "label": "DATE"
+        },
+        {
+            "text": "GeoResearch",
+            "label": "ORG"
+        },
+        {
+            "text": "3",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "52-60",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/texts/230 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "/groups/7",
+            "label": "PERSON"
+        },
+        {
+            "text": "2000",
+            "label": "DATE"
+        },
+        {
+            "text": "4(2",
+            "label": "DATE"
+        },
+        {
+            "text": "49-60",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "2000",
+            "label": "DATE"
+        },
+        {
+            "text": "4(2",
+            "label": "DATE"
+        },
+        {
+            "text": "49-60",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/texts/231 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "PAO",
+            "label": "ORG"
+        },
+        {
+            "text": "2001a",
+            "label": "DATE"
+        },
+        {
+            "text": "African  Journal",
+            "label": "ORG"
+        },
+        {
+            "text": "Environmental Studies",
+            "label": "ORG"
+        },
+        {
+            "text": "2(2",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "85-91",
+            "label": "DATE"
+        },
+        {
+            "text": "PAO",
+            "label": "ORG"
+        },
+        {
+            "text": "African  Journal",
+            "label": "ORG"
+        },
+        {
+            "text": "Environmental Studies",
+            "label": "ORG"
+        },
+        {
+            "text": "2(2",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "85-91",
+            "label": "DATE"
+        },
+        {
+            "text": "#/texts/232 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "/groups/7",
+            "label": "PERSON"
+        },
+        {
+            "text": "2001b",
+            "label": "DATE"
+        },
+        {
+            "text": "Asia Pacific Journal",
+            "label": "ORG"
+        },
+        {
+            "text": "7",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "53-70",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "PAO 2001b",
+            "label": "DATE"
+        },
+        {
+            "text": "Asia Pacific Journal",
+            "label": "ORG"
+        },
+        {
+            "text": "7",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "53-70",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "/groups/7",
+            "label": "PERSON"
+        },
+        {
+            "text": "PAO",
+            "label": "ORG"
+        },
+        {
+            "text": "Ikhuoria AI",
+            "label": "ORG"
+        },
+        {
+            "text": "2003",
+            "label": "DATE"
+        },
+        {
+            "text": "Nigeria",
+            "label": "GPE"
+        },
+        {
+            "text": "Global Journal",
+            "label": "ORG"
+        },
+        {
+            "text": "2(2",
+            "label": "DATE"
+        },
+        {
+            "text": "118",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "PAO",
+            "label": "ORG"
+        },
+        {
+            "text": "Ikhuoria AI",
+            "label": "ORG"
+        },
+        {
+            "text": "2003",
+            "label": "DATE"
+        },
+        {
+            "text": "Nigeria",
+            "label": "GPE"
+        },
+        {
+            "text": "Global Journal",
+            "label": "ORG"
+        },
+        {
+            "text": "2(2",
+            "label": "DATE"
+        },
+        {
+            "text": "118",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/texts/234 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "/groups/7",
+            "label": "PERSON"
+        },
+        {
+            "text": "PAO",
+            "label": "ORG"
+        },
+        {
+            "text": "2005",
+            "label": "DATE"
+        },
+        {
+            "text": "Nigeria",
+            "label": "GPE"
+        },
+        {
+            "text": "Global Journal of Environmental Science",
+            "label": "ORG"
+        },
+        {
+            "text": "4(2",
+            "label": "DATE"
+        },
+        {
+            "text": "139",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "PAO",
+            "label": "ORG"
+        },
+        {
+            "text": "2005",
+            "label": "DATE"
+        },
+        {
+            "text": "Nigeria",
+            "label": "GPE"
+        },
+        {
+            "text": "Global Journal of Environmental Science",
+            "label": "ORG"
+        },
+        {
+            "text": "4(2",
+            "label": "DATE"
+        },
+        {
+            "text": "139",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/texts/235 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "/groups/7",
+            "label": "PERSON"
+        },
+        {
+            "text": "PAO",
+            "label": "ORG"
+        },
+        {
+            "text": "2007",
+            "label": "DATE"
+        },
+        {
+            "text": "Indonesian",
+            "label": "NORP"
+        },
+        {
+            "text": "Geography",
+            "label": "ORG"
+        },
+        {
+            "text": "39",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "23-41",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "PAO",
+            "label": "ORG"
+        },
+        {
+            "text": "2007",
+            "label": "DATE"
+        },
+        {
+            "text": "Indonesian",
+            "label": "NORP"
+        },
+        {
+            "text": "Geography",
+            "label": "ORG"
+        },
+        {
+            "text": "39",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "23-41",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "/groups/7",
+            "label": "PERSON"
+        },
+        {
+            "text": "2008",
+            "label": "DATE"
+        },
+        {
+            "text": "Nigeria",
+            "label": "GPE"
+        },
+        {
+            "text": "PAO",
+            "label": "ORG"
+        },
+        {
+            "text": "2008",
+            "label": "DATE"
+        },
+        {
+            "text": "Nigeria",
+            "label": "GPE"
+        },
+        {
+            "text": "#/texts/237 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "Avery DT 2007",
+            "label": "ORG"
+        },
+        {
+            "text": "New York",
+            "label": "GPE"
+        },
+        {
+            "text": "Rowman",
+            "label": "ORG"
+        },
+        {
+            "text": "Littlefield Publishers  Incm",
+            "label": "ORG"
+        },
+        {
+            "text": "114",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Avery DT 2007",
+            "label": "ORG"
+        },
+        {
+            "text": "New York",
+            "label": "GPE"
+        },
+        {
+            "text": "Rowman",
+            "label": "ORG"
+        },
+        {
+            "text": "Littlefield Publishers  Incm",
+            "label": "ORG"
+        },
+        {
+            "text": "114",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/texts/238 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "1994",
+            "label": "DATE"
+        },
+        {
+            "text": "IRCD",
+            "label": "ORG"
+        },
+        {
+            "text": "2",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "11-20",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "1994",
+            "label": "DATE"
+        },
+        {
+            "text": "IRCD",
+            "label": "ORG"
+        },
+        {
+            "text": "2",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "11-20",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "/groups/7",
+            "label": "PERSON"
+        },
+        {
+            "text": "2008",
+            "label": "DATE"
+        },
+        {
+            "text": "August, 2008",
+            "label": "DATE"
+        },
+        {
+            "text": "23",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "2008",
+            "label": "DATE"
+        },
+        {
+            "text": "August, 2008",
+            "label": "DATE"
+        },
+        {
+            "text": "23",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/texts/240 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "2007",
+            "label": "DATE"
+        },
+        {
+            "text": "Desert",
+            "label": "PERSON"
+        },
+        {
+            "text": "Africa",
+            "label": "LOC"
+        },
+        {
+            "text": "4(1",
+            "label": "DATE"
+        },
+        {
+            "text": "14-20",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "2007",
+            "label": "DATE"
+        },
+        {
+            "text": "Desert",
+            "label": "PERSON"
+        },
+        {
+            "text": "Africa",
+            "label": "LOC"
+        },
+        {
+            "text": "4(1",
+            "label": "DATE"
+        },
+        {
+            "text": "14-20",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/texts/241 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "2006",
+            "label": "DATE"
+        },
+        {
+            "text": "World Watch",
+            "label": "ORG"
+        },
+        {
+            "text": "19(5",
+            "label": "DATE"
+        },
+        {
+            "text": "26-31",
+            "label": "DATE"
+        },
+        {
+            "text": "J 2006",
+            "label": "DATE"
+        },
+        {
+            "text": "World Watch",
+            "label": "ORG"
+        },
+        {
+            "text": "19(5",
+            "label": "DATE"
+        },
+        {
+            "text": "26-31",
+            "label": "DATE"
+        },
+        {
+            "text": "#/texts/242 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "Yugunda BS 2002",
+            "label": "ORG"
+        },
+        {
+            "text": "Socio-economic",
+            "label": "PERSON"
+        },
+        {
+            "text": "Nigeria",
+            "label": "GPE"
+        },
+        {
+            "text": "Journal",
+            "label": "ORG"
+        },
+        {
+            "text": "Environmental  Dynamics",
+            "label": "ORG"
+        },
+        {
+            "text": "5(2",
+            "label": "DATE"
+        },
+        {
+            "text": "19-30",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Yugunda BS 2002",
+            "label": "ORG"
+        },
+        {
+            "text": "Socio-economic",
+            "label": "PERSON"
+        },
+        {
+            "text": "Nigeria",
+            "label": "GPE"
+        },
+        {
+            "text": "Journal",
+            "label": "ORG"
+        },
+        {
+            "text": "Environmental  Dynamics",
+            "label": "ORG"
+        },
+        {
+            "text": "5(2",
+            "label": "DATE"
+        },
+        {
+            "text": "19-30",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/pictures/0 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/0",
+            "label": "MONEY"
+        },
+        {
+            "text": "#",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/pictures/1 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/pictures/2 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/pictures/3",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/pictures/4 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/pictures/5 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/pictures/6 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/pictures/7 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/49 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/52",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/pictures/8 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/64",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/66",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/81",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/83",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/pictures/9",
+            "label": "MONEY"
+        },
+        {
+            "text": "#",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/texts/106 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/109 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/111",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/113 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/118",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/120 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/134",
+            "label": "MONEY"
+        },
+        {
+            "text": "#",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/texts/140",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/143 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/147 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/149 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/154 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/156",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/160 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#",
+            "label": "CARDINAL"
+        }
+    ],
+    "triples": [
+        {
+            "subject": "body",
+            "relation": "root",
+            "object": "_"
+        },
+        {
+            "subject": "BOTTOMLEFT",
+            "relation": "cite",
+            "object": "article"
+        },
+        {
+            "subject": "BOTTOMLEFT",
+            "relation": "submit",
+            "object": "article"
+        },
+        {
+            "subject": "C",
+            "relation": "submit",
+            "object": "article"
+        },
+        {
+            "subject": "BOTTOMLEFT",
+            "relation": "view",
+            "object": "articles"
+        },
+        {
+            "subject": "View",
+            "relation": "cite",
+            "object": "articles"
+        },
+        {
+            "subject": "View",
+            "relation": "cite",
+            "object": "articles"
+        },
+        {
+            "subject": "View",
+            "relation": "cite",
+            "object": "BOTTOMLEFT"
+        },
+        {
+            "subject": "View",
+            "relation": "cite",
+            "object": "\u66f2"
+        },
+        {
+            "subject": "BOTTOMLEFT",
+            "relation": "keyword",
+            "object": "Gases"
+        },
+        {
+            "subject": "Rainstorms",
+            "relation": "keyword",
+            "object": "Gases"
+        },
+        {
+            "subject": "This",
+            "relation": "prompt",
+            "object": "study"
+        },
+        {
+            "subject": "that",
+            "relation": "take",
+            "object": "overview"
+        },
+        {
+            "subject": "This",
+            "relation": "prompt",
+            "object": "study"
+        },
+        {
+            "subject": "that",
+            "relation": "take",
+            "object": "overview"
+        },
+        {
+            "subject": "IPCC",
+            "relation": "define",
+            "object": "change"
+        },
+        {
+            "subject": "IPCC",
+            "relation": "define",
+            "object": "variability"
+        },
+        {
+            "subject": "it",
+            "relation": "take",
+            "object": "changes"
+        },
+        {
+            "subject": "This",
+            "relation": "prompt",
+            "object": "Ayoade"
+        },
+        {
+            "subject": "change",
+            "relation": "take",
+            "object": "place"
+        },
+        {
+            "subject": "terms",
+            "relation": "denote",
+            "object": "nature"
+        },
+        {
+            "subject": "IPCC",
+            "relation": "define",
+            "object": "change"
+        },
+        {
+            "subject": "IPCC",
+            "relation": "define",
+            "object": "variability"
+        },
+        {
+            "subject": "it",
+            "relation": "take",
+            "object": "changes"
+        },
+        {
+            "subject": "This",
+            "relation": "prompt",
+            "object": "Ayoade"
+        },
+        {
+            "subject": "change",
+            "relation": "take",
+            "object": "place"
+        },
+        {
+            "subject": "terms",
+            "relation": "denote",
+            "object": "nature"
+        },
+        {
+            "subject": "which",
+            "relation": "include",
+            "object": "processes"
+        },
+        {
+            "subject": "factors",
+            "relation": "include",
+            "object": "changes"
+        },
+        {
+            "subject": "factor",
+            "relation": "involve",
+            "object": "activities"
+        },
+        {
+            "subject": "that",
+            "relation": "emit",
+            "object": "amount"
+        },
+        {
+            "subject": "that",
+            "relation": "deplete",
+            "object": "layer"
+        },
+        {
+            "subject": "that",
+            "relation": "reduce",
+            "object": "amount"
+        },
+        {
+            "subject": "that",
+            "relation": "emit",
+            "object": "amounts"
+        },
+        {
+            "subject": "factors",
+            "relation": "include",
+            "object": "industrialization"
+        },
+        {
+            "subject": "that",
+            "relation": "reduce",
+            "object": "amount"
+        },
+        {
+            "subject": "which",
+            "relation": "include",
+            "object": "processes"
+        },
+        {
+            "subject": "factors",
+            "relation": "include",
+            "object": "changes"
+        },
+        {
+            "subject": "factor",
+            "relation": "involve",
+            "object": "activities"
+        },
+        {
+            "subject": "that",
+            "relation": "emit",
+            "object": "amount"
+        },
+        {
+            "subject": "that",
+            "relation": "deplete",
+            "object": "layer"
+        },
+        {
+            "subject": "that",
+            "relation": "reduce",
+            "object": "amount"
+        },
+        {
+            "subject": "that",
+            "relation": "emit",
+            "object": "amounts"
+        },
+        {
+            "subject": "factors",
+            "relation": "include",
+            "object": "industrialization"
+        },
+        {
+            "subject": "that",
+            "relation": "reduce",
+            "object": "amount"
+        },
+        {
+            "subject": "CO2",
+            "relation": "contribute",
+            "object": "rate"
+        },
+        {
+            "subject": "CO2",
+            "relation": "have",
+            "object": "contribution"
+        },
+        {
+            "subject": "CO2",
+            "relation": "contribute",
+            "object": "rate"
+        },
+        {
+            "subject": "CO2",
+            "relation": "have",
+            "object": "contribution"
+        },
+        {
+            "subject": "molecule",
+            "relation": "cause",
+            "object": "damage"
+        },
+        {
+            "subject": "gases",
+            "relation": "cause",
+            "object": "damage"
+        },
+        {
+            "subject": "volume",
+            "relation": "make",
+            "object": "influence"
+        },
+        {
+            "subject": "molecule",
+            "relation": "cause",
+            "object": "damage"
+        },
+        {
+            "subject": "gases",
+            "relation": "cause",
+            "object": "damage"
+        },
+        {
+            "subject": "volume",
+            "relation": "make",
+            "object": "influence"
+        },
+        {
+            "subject": "Odjugo",
+            "relation": "observe",
+            "object": "pattern"
+        },
+        {
+            "subject": "study",
+            "relation": "take",
+            "object": "overview"
+        },
+        {
+            "subject": "Odjugo",
+            "relation": "observe",
+            "object": "pattern"
+        },
+        {
+            "subject": "study",
+            "relation": "take",
+            "object": "overview"
+        },
+        {
+            "subject": "trend",
+            "relation": "show",
+            "object": "pattern"
+        },
+        {
+            "subject": "this",
+            "relation": "give",
+            "object": "way"
+        },
+        {
+            "subject": "measurement",
+            "relation": "start",
+            "object": "Spore"
+        },
+        {
+            "subject": "trend",
+            "relation": "show",
+            "object": "pattern"
+        },
+        {
+            "subject": "this",
+            "relation": "give",
+            "object": "way"
+        },
+        {
+            "subject": "measurement",
+            "relation": "start",
+            "object": "Spore"
+        },
+        {
+            "subject": "trend",
+            "relation": "show",
+            "object": "decline"
+        },
+        {
+            "subject": "studies",
+            "relation": "show",
+            "object": "decline"
+        },
+        {
+            "subject": "trend",
+            "relation": "show",
+            "object": "decline"
+        },
+        {
+            "subject": "em",
+            "relation": "perature",
+            "object": "T"
+        },
+        {
+            "subject": "These",
+            "relation": "bring",
+            "object": "impacts"
+        },
+        {
+            "subject": "These",
+            "relation": "bring",
+            "object": "impacts"
+        },
+        {
+            "subject": "incursion",
+            "relation": "mean",
+            "object": "intrusion"
+        },
+        {
+            "subject": "rise",
+            "relation": "displace",
+            "object": "people"
+        },
+        {
+            "subject": "rise",
+            "relation": "displace",
+            "object": "10"
+        },
+        {
+            "subject": "rise",
+            "relation": "displace",
+            "object": "people"
+        },
+        {
+            "subject": "incursion",
+            "relation": "mean",
+            "object": "intrusion"
+        },
+        {
+            "subject": "rise",
+            "relation": "displace",
+            "object": "people"
+        },
+        {
+            "subject": "rise",
+            "relation": "displace",
+            "object": "10"
+        },
+        {
+            "subject": "rise",
+            "relation": "displace",
+            "object": "people"
+        },
+        {
+            "subject": "Odjugo",
+            "relation": "observe",
+            "object": "Nigeria"
+        },
+        {
+            "subject": "dunes",
+            "relation": "bury",
+            "object": "expanse"
+        },
+        {
+            "subject": "This",
+            "relation": "prompt",
+            "object": "emigration"
+        },
+        {
+            "subject": "emigration",
+            "relation": "give",
+            "object": "rise"
+        },
+        {
+            "subject": "Odjugo",
+            "relation": "observe",
+            "object": "Nigeria"
+        },
+        {
+            "subject": "dunes",
+            "relation": "bury",
+            "object": "expanse"
+        },
+        {
+            "subject": "This",
+            "relation": "prompt",
+            "object": "emigration"
+        },
+        {
+            "subject": "emigration",
+            "relation": "give",
+            "object": "rise"
+        },
+        {
+            "subject": "change",
+            "relation": "alter",
+            "object": "aspects"
+        },
+        {
+            "subject": "rainfall",
+            "relation": "produce",
+            "object": "recharge"
+        },
+        {
+            "subject": "Awake",
+            "relation": "confirm",
+            "object": "fact"
+        },
+        {
+            "subject": "it",
+            "relation": "alter",
+            "object": "aspects"
+        },
+        {
+            "subject": "change",
+            "relation": "alter",
+            "object": "aspects"
+        },
+        {
+            "subject": "rainfall",
+            "relation": "produce",
+            "object": "recharge"
+        },
+        {
+            "subject": "Awake",
+            "relation": "confirm",
+            "object": "fact"
+        },
+        {
+            "subject": "Impacts",
+            "relation": "change",
+            "object": "change"
+        },
+        {
+            "subject": "Impacts",
+            "relation": "change",
+            "object": "#"
+        },
+        {
+            "subject": "BOTTOMLEFT",
+            "relation": "change",
+            "object": "change"
+        },
+        {
+            "subject": "BOTTOMLEFT",
+            "relation": "change",
+            "object": "#"
+        },
+        {
+            "subject": "#",
+            "relation": "rspecie",
+            "object": "#"
+        },
+        {
+            "subject": "#",
+            "relation": "rspecie",
+            "object": "BOTTOMLEFT"
+        },
+        {
+            "subject": "#",
+            "relation": "rspecie",
+            "object": "I"
+        },
+        {
+            "subject": "#",
+            "relation": "rspecie",
+            "object": "Veclorbome"
+        },
+        {
+            "subject": "#",
+            "relation": "rspecie",
+            "object": "BOTTOMLEFT"
+        },
+        {
+            "subject": "intoxication",
+            "relation": "cool",
+            "object": "rise/"
+        },
+        {
+            "subject": "BOTTOMLEFT",
+            "relation": "cool",
+            "object": "rise/"
+        },
+        {
+            "subject": "BOTTOMLEFT",
+            "relation": "change",
+            "object": "change"
+        },
+        {
+            "subject": "I",
+            "relation": "disease",
+            "object": "#"
+        },
+        {
+            "subject": "I",
+            "relation": "disease",
+            "object": "/texts/164"
+        },
+        {
+            "subject": "I",
+            "relation": "disease",
+            "object": "Depression"
+        },
+        {
+            "subject": "I",
+            "relation": "disease",
+            "object": "/texts/165"
+        },
+        {
+            "subject": "I",
+            "relation": "disease",
+            "object": "BOTTOMLEFT"
+        },
+        {
+            "subject": "scarcity",
+            "relation": "create",
+            "object": "tendency"
+        },
+        {
+            "subject": "temperature",
+            "relation": "mean",
+            "object": "migration"
+        },
+        {
+            "subject": "sporogony",
+            "relation": "conceptualize",
+            "object": "relationship"
+        },
+        {
+            "subject": "paper",
+            "relation": "conceptualize",
+            "object": "relationship"
+        },
+        {
+            "subject": "scarcity",
+            "relation": "create",
+            "object": "tendency"
+        },
+        {
+            "subject": "temperature",
+            "relation": "mean",
+            "object": "migration"
+        },
+        {
+            "subject": "sporogony",
+            "relation": "conceptualize",
+            "object": "relationship"
+        },
+        {
+            "subject": "paper",
+            "relation": "conceptualize",
+            "object": "relationship"
+        },
+        {
+            "subject": "they",
+            "relation": "kill",
+            "object": "people"
+        },
+        {
+            "subject": "Buadi",
+            "relation": "have",
+            "object": "result"
+        },
+        {
+            "subject": "rainstorms",
+            "relation": "claim",
+            "object": "lives"
+        },
+        {
+            "subject": "frequency",
+            "relation": "create",
+            "object": "damages"
+        },
+        {
+            "subject": "frequency",
+            "relation": "create",
+            "object": "billion"
+        },
+        {
+            "subject": "they",
+            "relation": "kill",
+            "object": "people"
+        },
+        {
+            "subject": "Buadi",
+            "relation": "have",
+            "object": "result"
+        },
+        {
+            "subject": "rainstorms",
+            "relation": "claim",
+            "object": "lives"
+        },
+        {
+            "subject": "frequency",
+            "relation": "create",
+            "object": "damages"
+        },
+        {
+            "subject": "frequency",
+            "relation": "create",
+            "object": "billion"
+        },
+        {
+            "subject": "change",
+            "relation": "start",
+            "object": "BOTTOMLEFT"
+        },
+        {
+            "subject": "emissions",
+            "relation": "increase",
+            "object": "risk"
+        },
+        {
+            "subject": "emissions",
+            "relation": "increase",
+            "object": "risk"
+        },
+        {
+            "subject": "incursion",
+            "relation": "reduce",
+            "object": "land"
+        },
+        {
+            "subject": "encroachment",
+            "relation": "deprive",
+            "object": "farmers"
+        },
+        {
+            "subject": "It",
+            "relation": "show",
+            "object": "drought"
+        },
+        {
+            "subject": "incursion",
+            "relation": "reduce",
+            "object": "land"
+        },
+        {
+            "subject": "encroachment",
+            "relation": "deprive",
+            "object": "farmers"
+        },
+        {
+            "subject": "It",
+            "relation": "show",
+            "object": "drought"
+        },
+        {
+            "subject": "man",
+            "relation": "stop",
+            "object": "causes"
+        },
+        {
+            "subject": "that",
+            "relation": "deplete",
+            "object": "layer"
+        },
+        {
+            "subject": "that",
+            "relation": "emit",
+            "object": "limited"
+        },
+        {
+            "subject": "that",
+            "relation": "emit",
+            "object": "gases"
+        },
+        {
+            "subject": "man",
+            "relation": "stop",
+            "object": "causes"
+        },
+        {
+            "subject": "that",
+            "relation": "deplete",
+            "object": "layer"
+        },
+        {
+            "subject": "that",
+            "relation": "emit",
+            "object": "limited"
+        },
+        {
+            "subject": "that",
+            "relation": "emit",
+            "object": "gases"
+        },
+        {
+            "subject": "Nigeria",
+            "relation": "encourage",
+            "object": "use"
+        },
+        {
+            "subject": "that",
+            "relation": "convert",
+            "object": "fuel"
+        },
+        {
+            "subject": "use",
+            "relation": "encourage",
+            "object": "use"
+        },
+        {
+            "subject": "Nigeria",
+            "relation": "encourage",
+            "object": "use"
+        },
+        {
+            "subject": "that",
+            "relation": "convert",
+            "object": "fuel"
+        },
+        {
+            "subject": "makers",
+            "relation": "encourage",
+            "object": "efficiency"
+        },
+        {
+            "subject": "This",
+            "relation": "enable",
+            "object": "nations"
+        },
+        {
+            "subject": "Promoting",
+            "relation": "bring",
+            "object": "credit"
+        },
+        {
+            "subject": "makers",
+            "relation": "encourage",
+            "object": "efficiency"
+        },
+        {
+            "subject": "This",
+            "relation": "enable",
+            "object": "nations"
+        },
+        {
+            "subject": "Promoting",
+            "relation": "bring",
+            "object": "credit"
+        },
+        {
+            "subject": "Protection",
+            "relation": "require",
+            "object": "practices"
+        },
+        {
+            "subject": "use",
+            "relation": "limit",
+            "object": "pressure"
+        },
+        {
+            "subject": "bush",
+            "relation": "burn",
+            "object": "clearing"
+        },
+        {
+            "subject": "Protection",
+            "relation": "require",
+            "object": "practices"
+        },
+        {
+            "subject": "use",
+            "relation": "limit",
+            "object": "pressure"
+        },
+        {
+            "subject": "bush",
+            "relation": "burn",
+            "object": "clearing"
+        },
+        {
+            "subject": "that",
+            "relation": "cover",
+            "object": "part"
+        },
+        {
+            "subject": "that",
+            "relation": "cover",
+            "object": "part"
+        },
+        {
+            "subject": "BOTTOMLEFT",
+            "relation": "survive",
+            "object": "effects"
+        },
+        {
+            "subject": "cyclone",
+            "relation": "kill",
+            "object": "people"
+        },
+        {
+            "subject": "cyclones",
+            "relation": "cause",
+            "object": "deaths"
+        },
+        {
+            "subject": "which",
+            "relation": "include",
+            "object": "manufacturing"
+        },
+        {
+            "subject": "transfer",
+            "relation": "increase",
+            "object": "volume"
+        },
+        {
+            "subject": "cyclone",
+            "relation": "kill",
+            "object": "people"
+        },
+        {
+            "subject": "cyclones",
+            "relation": "cause",
+            "object": "deaths"
+        },
+        {
+            "subject": "which",
+            "relation": "include",
+            "object": "manufacturing"
+        },
+        {
+            "subject": "transfer",
+            "relation": "increase",
+            "object": "volume"
+        },
+        {
+            "subject": "This",
+            "relation": "mean",
+            "object": "water"
+        },
+        {
+            "subject": "This",
+            "relation": "mean",
+            "object": "water"
+        },
+        {
+            "subject": "encroachment",
+            "relation": "reduce",
+            "object": "lands"
+        },
+        {
+            "subject": "encroachment",
+            "relation": "reduce",
+            "object": "lands"
+        },
+        {
+            "subject": "world",
+            "relation": "implement",
+            "object": "cuts"
+        },
+        {
+            "subject": "countries",
+            "relation": "practice",
+            "object": "technology"
+        },
+        {
+            "subject": "world",
+            "relation": "implement",
+            "object": "cuts"
+        },
+        {
+            "subject": "countries",
+            "relation": "practice",
+            "object": "technology"
+        },
+        {
+            "subject": "Paper",
+            "relation": "present",
+            "object": "University"
+        },
+        {
+            "subject": "impacts",
+            "relation": "relate",
+            "object": "hazards"
+        },
+        {
+            "subject": "impacts",
+            "relation": "relate",
+            "object": "hazards"
+        },
+        {
+            "subject": "Emphasis",
+            "relation": "quantify",
+            "object": "cost"
+        },
+        {
+            "subject": "Emphasis",
+            "relation": "quantify",
+            "object": "cost"
+        },
+        {
+            "subject": "SF",
+            "relation": "DT",
+            "object": "2007"
+        },
+        {
+            "subject": "Avery",
+            "relation": "DT",
+            "object": "2007"
+        },
+        {
+            "subject": "SF",
+            "relation": "DT",
+            "object": "2007"
+        }
+    ]
+}

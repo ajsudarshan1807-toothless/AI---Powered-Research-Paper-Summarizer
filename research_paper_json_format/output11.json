@@ -1,0 +1,2421 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.9.0",
+  "name": "research paper_11",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 18402730783605806688,
+    "filename": "research paper_11.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/texts/11"
+      },
+      {
+        "$ref": "#/texts/12"
+      },
+      {
+        "$ref": "#/texts/13"
+      },
+      {
+        "$ref": "#/texts/14"
+      },
+      {
+        "$ref": "#/texts/15"
+      },
+      {
+        "$ref": "#/texts/16"
+      },
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/texts/24"
+      },
+      {
+        "$ref": "#/texts/25"
+      },
+      {
+        "$ref": "#/texts/26"
+      },
+      {
+        "$ref": "#/texts/27"
+      },
+      {
+        "$ref": "#/texts/28"
+      },
+      {
+        "$ref": "#/texts/29"
+      },
+      {
+        "$ref": "#/texts/30"
+      },
+      {
+        "$ref": "#/texts/31"
+      },
+      {
+        "$ref": "#/texts/32"
+      },
+      {
+        "$ref": "#/texts/33"
+      },
+      {
+        "$ref": "#/texts/34"
+      },
+      {
+        "$ref": "#/texts/35"
+      },
+      {
+        "$ref": "#/texts/36"
+      },
+      {
+        "$ref": "#/texts/37"
+      },
+      {
+        "$ref": "#/texts/38"
+      },
+      {
+        "$ref": "#/texts/39"
+      },
+      {
+        "$ref": "#/texts/40"
+      },
+      {
+        "$ref": "#/texts/41"
+      },
+      {
+        "$ref": "#/texts/42"
+      },
+      {
+        "$ref": "#/texts/43"
+      },
+      {
+        "$ref": "#/texts/44"
+      },
+      {
+        "$ref": "#/texts/45"
+      },
+      {
+        "$ref": "#/texts/46"
+      },
+      {
+        "$ref": "#/texts/47"
+      },
+      {
+        "$ref": "#/texts/48"
+      },
+      {
+        "$ref": "#/texts/49"
+      },
+      {
+        "$ref": "#/texts/50"
+      },
+      {
+        "$ref": "#/texts/51"
+      },
+      {
+        "$ref": "#/texts/52"
+      },
+      {
+        "$ref": "#/texts/53"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/texts/62"
+      },
+      {
+        "$ref": "#/texts/63"
+      },
+      {
+        "$ref": "#/texts/64"
+      },
+      {
+        "$ref": "#/groups/1"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [
+    {
+      "self_ref": "#/groups/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/54"
+        },
+        {
+          "$ref": "#/texts/55"
+        },
+        {
+          "$ref": "#/texts/56"
+        },
+        {
+          "$ref": "#/texts/57"
+        },
+        {
+          "$ref": "#/texts/58"
+        },
+        {
+          "$ref": "#/texts/59"
+        },
+        {
+          "$ref": "#/texts/60"
+        },
+        {
+          "$ref": "#/texts/61"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/65"
+        },
+        {
+          "$ref": "#/texts/66"
+        },
+        {
+          "$ref": "#/texts/67"
+        },
+        {
+          "$ref": "#/texts/68"
+        },
+        {
+          "$ref": "#/texts/69"
+        },
+        {
+          "$ref": "#/texts/70"
+        },
+        {
+          "$ref": "#/texts/71"
+        },
+        {
+          "$ref": "#/texts/72"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    }
+  ],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 18.34,
+            "t": 609.62,
+            "r": 36.34,
+            "b": 238.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            43
+          ]
+        }
+      ],
+      "orig": "arXiv:1804.09139v1  [quant-ph]  24 Apr 2018",
+      "text": "arXiv:1804.09139v1  [quant-ph]  24 Apr 2018"
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 188.04,
+            "t": 738.305,
+            "r": 427.799,
+            "b": 727.557,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            39
+          ]
+        }
+      ],
+      "orig": "Quantum generative adversarial learning",
+      "text": "Quantum generative adversarial learning",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 218.76,
+            "t": 714.38,
+            "r": 396.968,
+            "b": 703.589,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            38
+          ]
+        }
+      ],
+      "orig": "Seth Lloyd 1 and Christian Weedbrook 2",
+      "text": "Seth Lloyd 1 and Christian Weedbrook 2"
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 144.24,
+            "t": 699.855,
+            "r": 471.777,
+            "b": 690.322,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            78
+          ]
+        }
+      ],
+      "orig": "1 Massachusetts Institute of Technology, Department of Mechanical Engineering,",
+      "text": "1 Massachusetts Institute of Technology, Department of Mechanical Engineering,"
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 171.24,
+            "t": 688.02,
+            "r": 444.832,
+            "b": 679.762,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            60
+          ]
+        }
+      ],
+      "orig": "77 Massachusetts Avenue, Cambridge, Massachusetts 02139, USA",
+      "text": "77 Massachusetts Avenue, Cambridge, Massachusetts 02139, USA"
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 157.32,
+            "t": 678.975,
+            "r": 458.779,
+            "b": 669.322,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            65
+          ]
+        }
+      ],
+      "orig": "2 Xanadu, 372 Richmond Street W, Toronto, Ontario M5V 1X6, Canada",
+      "text": "2 Xanadu, 372 Richmond Street W, Toronto, Ontario M5V 1X6, Canada"
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 260.4,
+            "t": 667.445,
+            "r": 355.538,
+            "b": 658.478,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            23
+          ]
+        }
+      ],
+      "orig": "(Dated: April 25, 2018)",
+      "text": "(Dated: April 25, 2018)"
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 108.84,
+            "t": 650.525,
+            "r": 507.476,
+            "b": 505.599,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1302
+          ]
+        }
+      ],
+      "orig": "Generative adversarial networks (GANs) represent a powerful tool for classical machine learning: a generator tries to create statistics for data that mimics those of a true data set, while a discriminator tries to discriminate between the true and fake data. The learning process for generator and discriminator can be thought of as an adversarial game, and under reasonable assumptions, the game converges to the point where the generator generates the same statistics as the true data and the discriminator is unable to discriminate between the true and the generated data. This paper introduces the notion of quantum generative adversarial networks (QuGANs), where the data consists either of quantum states, or of classical data, and the generator and discriminator are equipped with quantum information processors. We show that the unique fixed point of the quantum adversarial game also occurs when the generator produces the same statistics as the data. Since quantum systems are intrinsically probabilistic the proof of the quantum case is different from - and simpler than - the classical case. We show that when the data consists of samples of measurements made on high-dimensional spaces, quantum adversarial networks may exhibit an exponential advantage over classical adversarial networks.",
+      "text": "Generative adversarial networks (GANs) represent a powerful tool for classical machine learning: a generator tries to create statistics for data that mimics those of a true data set, while a discriminator tries to discriminate between the true and fake data. The learning process for generator and discriminator can be thought of as an adversarial game, and under reasonable assumptions, the game converges to the point where the generator generates the same statistics as the true data and the discriminator is unable to discriminate between the true and the generated data. This paper introduces the notion of quantum generative adversarial networks (QuGANs), where the data consists either of quantum states, or of classical data, and the generator and discriminator are equipped with quantum information processors. We show that the unique fixed point of the quantum adversarial game also occurs when the generator produces the same statistics as the data. Since quantum systems are intrinsically probabilistic the proof of the quantum case is different from - and simpler than - the classical case. We show that when the data consists of samples of measurements made on high-dimensional spaces, quantum adversarial networks may exhibit an exponential advantage over classical adversarial networks."
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 124.32,
+            "t": 484.717,
+            "r": 228.725,
+            "b": 476.701,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "I. INTRODUCTION",
+      "text": "I. INTRODUCTION",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 54.0,
+            "t": 458.312,
+            "r": 299.236,
+            "b": 299.43,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            741
+          ]
+        }
+      ],
+      "orig": "In machine learning by generative adversarial networks [1], a generator learns to generate statistics of data by trying to fool a discriminator into believing that the generated statistics actually come from the data. The discriminator is presented either with real data, or with data generated by the generator: her goal is to maximize the probability of assigning the correct label, real or fake, to data. The generator is equipped with a random number generator which he uses to try to produce data that minimizes the probability of the discriminator assigning the correct label: his goal is to produce data that matches the statistics of the true data. That is, the discriminator and generator are adversaries in a machine learning game.",
+      "text": "In machine learning by generative adversarial networks [1], a generator learns to generate statistics of data by trying to fool a discriminator into believing that the generated statistics actually come from the data. The discriminator is presented either with real data, or with data generated by the generator: her goal is to maximize the probability of assigning the correct label, real or fake, to data. The generator is equipped with a random number generator which he uses to try to produce data that minimizes the probability of the discriminator assigning the correct label: his goal is to produce data that matches the statistics of the true data. That is, the discriminator and generator are adversaries in a machine learning game."
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 54.0,
+            "t": 296.072,
+            "r": 299.278,
+            "b": 91.23000000000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            983
+          ]
+        }
+      ],
+      "orig": "The endpoint of such an adversarial game, under reasonable assumptions [1], results in the generator producing data with the true statistics, and the discriminator having a probability of 1 / 2 of discriminating correctly. In practice, adversarial games work well in training the generator to generate data with the true statistics of the data. This has lead to practical applications such generating photorealistic images [2] and videos [3], image super resolution [4], and image inpainting [5]. This has resulted in significant interest in industries such as driverless cars, finance, medicine and cybersecurity. In this paper, we introduce quantum generative adversarial networks, or QuGANs, where the discriminator, the generator, and the system generating the actual data can be quantum mechanical. Various other such quantum machine learning algorithms exists [6] and show significant benefits over their classical counterparts. Here we consider three specific QuGAN protocols.",
+      "text": "The endpoint of such an adversarial game, under reasonable assumptions [1], results in the generator producing data with the true statistics, and the discriminator having a probability of 1 / 2 of discriminating correctly. In practice, adversarial games work well in training the generator to generate data with the true statistics of the data. This has lead to practical applications such generating photorealistic images [2] and videos [3], image super resolution [4], and image inpainting [5]. This has resulted in significant interest in industries such as driverless cars, finance, medicine and cybersecurity. In this paper, we introduce quantum generative adversarial networks, or QuGANs, where the discriminator, the generator, and the system generating the actual data can be quantum mechanical. Various other such quantum machine learning algorithms exists [6] and show significant benefits over their classical counterparts. Here we consider three specific QuGAN protocols."
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 54.0,
+            "t": 87.87300000000005,
+            "r": 299.158,
+            "b": 66.50999999999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            111
+          ]
+        },
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 317.04,
+            "t": 485.913,
+            "r": 562.29,
+            "b": 349.83,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            112,
+            773
+          ]
+        }
+      ],
+      "orig": "First, we look at the situation where the system, data, discriminator, and generator, are all fully quantum me- chanical: the data takes the form of an ensemble of quantum states generated by the system, the generator has access to a quantum information processor and tries to match that ensemble; the discriminator can make arbitrary quantum measurements. In this fully quantum setting, in analog to the classical result, we will show that the quantum discriminator and generator perform convex optimization with the unique fixed point for the quantum adversarial game. This is the situation where the generator accurately reproduces the true ensemble of quantum states, and the discriminator can't tell the difference between the true ensemble and the generated ensemble.",
+      "text": "First, we look at the situation where the system, data, discriminator, and generator, are all fully quantum me- chanical: the data takes the form of an ensemble of quantum states generated by the system, the generator has access to a quantum information processor and tries to match that ensemble; the discriminator can make arbitrary quantum measurements. In this fully quantum setting, in analog to the classical result, we will show that the quantum discriminator and generator perform convex optimization with the unique fixed point for the quantum adversarial game. This is the situation where the generator accurately reproduces the true ensemble of quantum states, and the discriminator can't tell the difference between the true ensemble and the generated ensemble."
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 317.04,
+            "t": 344.192,
+            "r": 562.284,
+            "b": 231.02999999999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            553
+          ]
+        }
+      ],
+      "orig": "The quantum adversarial game can be formulated in the language of Nash equilibria for a process in which the discriminator tries to optimize her strategy over a fixed number of trials with the generator's strategy fixed. This is followed by the generator trying to optimize his strategy over a number of trials with the discriminator's strategy fixed. The endpoint of the game, with the generator finding the correct statistics and the discriminator unable to tell the difference between true data and the generated data, is the unique Nash equilibrium.",
+      "text": "The quantum adversarial game can be formulated in the language of Nash equilibria for a process in which the discriminator tries to optimize her strategy over a fixed number of trials with the generator's strategy fixed. This is followed by the generator trying to optimize his strategy over a number of trials with the discriminator's strategy fixed. The endpoint of the game, with the generator finding the correct statistics and the discriminator unable to tell the difference between true data and the generated data, is the unique Nash equilibrium."
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 317.04,
+            "t": 225.39200000000005,
+            "r": 562.318,
+            "b": 66.50999999999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            761
+          ]
+        }
+      ],
+      "orig": "Second, we look at situations where the real data is generated from the quantum system by a fixed measurement. The key point in this setting is that relatively simple quantum systems can generate data whose statistics - under reasonable assumptions of computational complexity - cannot be generated efficiently by any classical system equipped with a random number generator. This feature of quantum systems is sometimes called quantum supremacy or quantum advantage [7]. Quantum supremacy implies that a generator that does not have access to quantum information processing will in general be unable to match the statistics of data generated by another quantum system. Consequently, a classical generator will fail to generate the correct data, and a classical",
+      "text": "Second, we look at situations where the real data is generated from the quantum system by a fixed measurement. The key point in this setting is that relatively simple quantum systems can generate data whose statistics - under reasonable assumptions of computational complexity - cannot be generated efficiently by any classical system equipped with a random number generator. This feature of quantum systems is sometimes called quantum supremacy or quantum advantage [7]. Quantum supremacy implies that a generator that does not have access to quantum information processing will in general be unable to match the statistics of data generated by another quantum system. Consequently, a classical generator will fail to generate the correct data, and a classical"
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 557.16,
+            "t": 763.352,
+            "r": 562.141,
+            "b": 753.389,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "2",
+      "text": "2"
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 54.0,
+            "t": 737.432,
+            "r": 299.236,
+            "b": 670.229,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            283
+          ]
+        }
+      ],
+      "orig": "discriminator - either classical or quantum - can in principle make measurements that will discriminate between the true data and the generated data. Whether or not the discriminator can make such measurements in practice, either systematically or by adaptation, is an open question.",
+      "text": "discriminator - either classical or quantum - can in principle make measurements that will discriminate between the true data and the generated data. Whether or not the discriminator can make such measurements in practice, either systematically or by adaptation, is an open question."
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 54.0,
+            "t": 668.672,
+            "r": 299.279,
+            "b": 532.709,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            630
+          ]
+        }
+      ],
+      "orig": "Finally, we look at the question of whether a quantum generator can do better than a classical generator at generating classical data. The ability of quantum information processors to represent vectors in N -dimensional spaces using log N qubits, and to perform manipulations of sparse and low-rank matrices in time O (poly(log N )) implies that QuGANs exhibit a potential exponential advantage over classical GANs when the object of the game is to reproduce the statistics of measurements made on very high-dimensional data sets. Note that a more indepth practical implementation of QuGANs can be found in a companion paper [15].",
+      "text": "Finally, we look at the question of whether a quantum generator can do better than a classical generator at generating classical data. The ability of quantum information processors to represent vectors in N -dimensional spaces using log N qubits, and to perform manipulations of sparse and low-rank matrices in time O (poly(log N )) implies that QuGANs exhibit a potential exponential advantage over classical GANs when the object of the game is to reproduce the statistics of measurements made on very high-dimensional data sets. Note that a more indepth practical implementation of QuGANs can be found in a companion paper [15]."
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 54.0,
+            "t": 318.725,
+            "r": 299.195,
+            "b": 184.24,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            733
+          ]
+        }
+      ],
+      "orig": "FIG. 1. Schematic of a general quantum generative adversarial network (QuGAN) protocol. The ultimate goal of this adversarial game is for the discriminator (D) to determine whether the input data is real ( σ ) or fake ( ρ ). Here G is the generator which generates fake data hoping to fool the discriminator. We consider a variety of QuGAN situations. Firstly, where the real data is quantum, the generator is quantum (and hence generates fake quantum data), and the discriminator is quantum. Secondly, the real data is quantum, the generator is classical and the discriminator is either classical or quantum. Finally, we consider the case where the real data is purely classical and the generator and discriminator are both quantum.",
+      "text": "FIG. 1. Schematic of a general quantum generative adversarial network (QuGAN) protocol. The ultimate goal of this adversarial game is for the discriminator (D) to determine whether the input data is real ( σ ) or fake ( ρ ). Here G is the generator which generates fake data hoping to fool the discriminator. We consider a variety of QuGAN situations. Firstly, where the real data is quantum, the generator is quantum (and hence generates fake quantum data), and the discriminator is quantum. Secondly, the real data is quantum, the generator is classical and the discriminator is either classical or quantum. Finally, we consider the case where the real data is purely classical and the generator and discriminator are both quantum."
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 134.614,
+            "t": 512.046,
+            "r": 149.784,
+            "b": 506.35,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "Real",
+      "text": "Real"
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 194.316,
+            "t": 512.046,
+            "r": 210.29,
+            "b": 506.35,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "Fake",
+      "text": "Fake"
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 196.691,
+            "t": 359.336,
+            "r": 210.923,
+            "b": 344.687,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "G",
+      "text": "G"
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 162.203,
+            "t": 462.032,
+            "r": 176.074,
+            "b": 447.383,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "D",
+      "text": "D"
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 193.694,
+            "t": 407.004,
+            "r": 199.427,
+            "b": 398.223,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "/g85",
+      "text": "/g85"
+    },
+    {
+      "self_ref": "#/texts/23",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 139.526,
+            "t": 405.699,
+            "r": 145.822,
+            "b": 396.917,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "/g86",
+      "text": "/g86"
+    },
+    {
+      "self_ref": "#/texts/24",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 77.76,
+            "t": 147.15800000000002,
+            "r": 275.304,
+            "b": 128.702,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            56
+          ]
+        }
+      ],
+      "orig": "II. DATA QUANTUM, DISCRIMATOR QUANTUM, GENERATOR QUANTUM",
+      "text": "II. DATA QUANTUM, DISCRIMATOR QUANTUM, GENERATOR QUANTUM",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/25",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 54.0,
+            "t": 112.23400000000004,
+            "r": 299.363,
+            "b": 67.95100000000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            224
+          ]
+        },
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 317.039,
+            "t": 737.434,
+            "r": 562.254,
+            "b": 544.111,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            225,
+            1133
+          ]
+        }
+      ],
+      "orig": "As in the classical adversarial game [1], the quantum adversarial game is set up as follows. First the discriminator tries to improve her strategy, with the generator's strategy fixed. Then the generator tries to improve his strategy, with the discriminator's strategy fixed. The players continue updating in turn until a fixed point is reached. We will show that as long as the generator is producing statistics that are different from those of the true data, the discriminator can always adjust her measurement towards the minimum error discriminating measurement, so that she succeeds in discriminating true from fake data with probability > 1 / 2. Next we show that the generator can always decrease the probability of success of the discriminator by moving in a direction that decreases the relative entropy between the true data and the generated data. As this is a convex optimization problem, there is a unique endpoint to the process, which is where the generator correctly matches the statistics of the data, and the discriminator is unable to distinguish between real and fake data with a probability different from 1 / 2.",
+      "text": "As in the classical adversarial game [1], the quantum adversarial game is set up as follows. First the discriminator tries to improve her strategy, with the generator's strategy fixed. Then the generator tries to improve his strategy, with the discriminator's strategy fixed. The players continue updating in turn until a fixed point is reached. We will show that as long as the generator is producing statistics that are different from those of the true data, the discriminator can always adjust her measurement towards the minimum error discriminating measurement, so that she succeeds in discriminating true from fake data with probability > 1 / 2. Next we show that the generator can always decrease the probability of success of the discriminator by moving in a direction that decreases the relative entropy between the true data and the generated data. As this is a convex optimization problem, there is a unique endpoint to the process, which is where the generator correctly matches the statistics of the data, and the discriminator is unable to distinguish between real and fake data with a probability different from 1 / 2."
+    },
+    {
+      "self_ref": "#/texts/26",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 317.039,
+            "t": 540.514,
+            "r": 562.29,
+            "b": 393.031,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            713
+          ]
+        }
+      ],
+      "orig": "To see that quantum adversarial networks also result in the generator correctly matching the data, suppose that the true data is described by an ensemble of states described by a density matrix σ , and the generator generates an ensemble of states with density matrix ρ , cf. Fig. 1. The discriminator is presented either with a state from the true ensemble or the generated ensemble, and has to try to discriminate between them. First, we assume that the generator is fixed, and generates ρ for each trial; we then train the discriminator to try to distinguish between σ and ρ . Next, we fix the measurement strategy of the discriminator and train the generator into trying to adjust ρ to fool the discriminator.",
+      "text": "To see that quantum adversarial networks also result in the generator correctly matching the data, suppose that the true data is described by an ensemble of states described by a density matrix σ , and the generator generates an ensemble of states with density matrix ρ , cf. Fig. 1. The discriminator is presented either with a state from the true ensemble or the generated ensemble, and has to try to discriminate between them. First, we assume that the generator is fixed, and generates ρ for each trial; we then train the discriminator to try to distinguish between σ and ρ . Next, we fix the measurement strategy of the discriminator and train the generator into trying to adjust ρ to fool the discriminator."
+    },
+    {
+      "self_ref": "#/texts/27",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 317.039,
+            "t": 389.434,
+            "r": 562.285,
+            "b": 138.87200000000007,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1191
+          ]
+        }
+      ],
+      "orig": "When ρ is fixed, the minimum error measurement to discriminate between σ and ρ is the measurement with operators P + and 1 -P + that distinguish between the positive and negative part of σ -ρ [8]. Of course, the discriminator doesn't know the optimal measurement to begin with. However, she can guess a measurement, and given feedback for the probabilities of that measurement discriminating between true and generated data, adjust the measurement by a process of gradient descent. The discriminator makes a positive operator valued measurement (POVM) [9] D with outcomes T or F , T + F = I . The probability that the measurement yields the result data given that the data was indeed selected from the true ensemble described by σ is p ( T | data ) = tr Tσ , and the probability that the measurement yields the result data given that the data was selected from the generated ensemble is p ( T | G ) = tr Tρ . T, F are positive operators with ‖ T ‖ 1 , ‖ F ‖ 1 ≤ 1. The set of positive operators with 1-norm less than or equal to 1 is convex. Accordingly, over many trials, the discriminator can simply follow the gradient of the function p ( T | data ) to find the minimum error measurement.",
+      "text": "When ρ is fixed, the minimum error measurement to discriminate between σ and ρ is the measurement with operators P + and 1 -P + that distinguish between the positive and negative part of σ -ρ [8]. Of course, the discriminator doesn't know the optimal measurement to begin with. However, she can guess a measurement, and given feedback for the probabilities of that measurement discriminating between true and generated data, adjust the measurement by a process of gradient descent. The discriminator makes a positive operator valued measurement (POVM) [9] D with outcomes T or F , T + F = I . The probability that the measurement yields the result data given that the data was indeed selected from the true ensemble described by σ is p ( T | data ) = tr Tσ , and the probability that the measurement yields the result data given that the data was selected from the generated ensemble is p ( T | G ) = tr Tρ . T, F are positive operators with ‖ T ‖ 1 , ‖ F ‖ 1 ≤ 1. The set of positive operators with 1-norm less than or equal to 1 is convex. Accordingly, over many trials, the discriminator can simply follow the gradient of the function p ( T | data ) to find the minimum error measurement."
+    },
+    {
+      "self_ref": "#/texts/28",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 317.042,
+            "t": 135.154,
+            "r": 562.208,
+            "b": 67.952,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            332
+          ]
+        }
+      ],
+      "orig": "In classical adversarial learning, the discriminator is supplied with a deep learning network [10] such as a perceptron, whose weights she adjusts to try to find an optimal measurement. In the quantum case we assume that the discriminator is supplied with a quantum information processor such as a quantum deep learning network or a",
+      "text": "In classical adversarial learning, the discriminator is supplied with a deep learning network [10] such as a perceptron, whose weights she adjusts to try to find an optimal measurement. In the quantum case we assume that the discriminator is supplied with a quantum information processor such as a quantum deep learning network or a"
+    },
+    {
+      "self_ref": "#/texts/29",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 557.16,
+            "t": 763.352,
+            "r": 562.141,
+            "b": 753.389,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "3",
+      "text": "3"
+    },
+    {
+      "self_ref": "#/texts/30",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 54.0,
+            "t": 737.432,
+            "r": 299.142,
+            "b": 658.709,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            375
+          ]
+        }
+      ],
+      "orig": "quantum circuit that takes as input the quantum state from the data or the generator and performs the discriminating measurement. Just as in the classical case, we assume that the discriminator is able to adjust the weights of her network to follow the gradient of the p ( T | σ ) for at least some distance, which may be all the way to the optimal minimum error measurement.",
+      "text": "quantum circuit that takes as input the quantum state from the data or the generator and performs the discriminating measurement. Just as in the classical case, we assume that the discriminator is able to adjust the weights of her network to follow the gradient of the p ( T | σ ) for at least some distance, which may be all the way to the optimal minimum error measurement."
+    },
+    {
+      "self_ref": "#/texts/31",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 53.999,
+            "t": 656.432,
+            "r": 299.235,
+            "b": 531.99,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            593
+          ]
+        }
+      ],
+      "orig": "Once the discriminator has found a good measurement T, F to distinguish the true from fake data, it is the generator's turn. The generator tries to adjust the state ρ of the generated data to maximize p ( T | ρ ) = tr Tρ . The set of density matrices ρ is convex, and the generator can follow the gradient of p ( T | ρ ) to find the state of the generated data that maximizes the probability of fooling the discriminator. Once again, we assume that the generator possesses a deep quantum network or quantum circuit whose weights he can adjust to follow the gradient for at least some distance.",
+      "text": "Once the discriminator has found a good measurement T, F to distinguish the true from fake data, it is the generator's turn. The generator tries to adjust the state ρ of the generated data to maximize p ( T | ρ ) = tr Tρ . The set of density matrices ρ is convex, and the generator can follow the gradient of p ( T | ρ ) to find the state of the generated data that maximizes the probability of fooling the discriminator. Once again, we assume that the generator possesses a deep quantum network or quantum circuit whose weights he can adjust to follow the gradient for at least some distance."
+    },
+    {
+      "self_ref": "#/texts/32",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 279.72,
+            "t": 403.712,
+            "r": 279.72,
+            "b": 393.749,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            14
+          ]
+        }
+      ],
+      "orig": "/negationslash",
+      "text": "/negationslash"
+    },
+    {
+      "self_ref": "#/texts/33",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 53.999,
+            "t": 529.712,
+            "r": 299.246,
+            "b": 290.55,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1169
+          ]
+        }
+      ],
+      "orig": "The adversarial game can be described in the language of Nash equilibria. The discriminator's strategy is given by the measurement operator T , and the generator's strategy is given by the density matrix ρ . The set of possible positive measurement operators T made by the discriminator is convex and compact, as is the set of possible density matrices ρ generated by the generator. Applying the Kakutani fixed point theorem [11], we see that the discrimator-generator strategy space has at least one fixed point. In fact, there is only one fixed point. Suppose that the discriminator has found a measurement T such that p ( T | σ ) > p ( T | ρ ), so that tr Tσ -tr Tρ > 0. If ρ = σ , such a measurement always exist (e.g., the minimum error measurement described above). The generator can then always increase p ( T | ρ ) by taking ρ → α ( σ -ρ ), α > 0. Accordingly, the unique Nash equilibrium occurs when ρ = σ and p ( T | σ ) = p ( T | ρ ) = 1 / 2. Moreover, as shown above, at each move of the game the discriminator or generator can move directly towards this equilibrium by following the gradient of p ( T | σ ) or p ( T | ρ ) through the convex strategy space.",
+      "text": "The adversarial game can be described in the language of Nash equilibria. The discriminator's strategy is given by the measurement operator T , and the generator's strategy is given by the density matrix ρ . The set of possible positive measurement operators T made by the discriminator is convex and compact, as is the set of possible density matrices ρ generated by the generator. Applying the Kakutani fixed point theorem [11], we see that the discrimator-generator strategy space has at least one fixed point. In fact, there is only one fixed point. Suppose that the discriminator has found a measurement T such that p ( T | σ ) > p ( T | ρ ), so that tr Tσ -tr Tρ > 0. If ρ = σ , such a measurement always exist (e.g., the minimum error measurement described above). The generator can then always increase p ( T | ρ ) by taking ρ → α ( σ -ρ ), α > 0. Accordingly, the unique Nash equilibrium occurs when ρ = σ and p ( T | σ ) = p ( T | ρ ) = 1 / 2. Moreover, as shown above, at each move of the game the discriminator or generator can move directly towards this equilibrium by following the gradient of p ( T | σ ) or p ( T | ρ ) through the convex strategy space."
+    },
+    {
+      "self_ref": "#/texts/34",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 53.999,
+            "t": 288.392,
+            "r": 299.234,
+            "b": 221.06999999999994,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            339
+          ]
+        }
+      ],
+      "orig": "The result of the quantum adversarial game is the same as the result of the classical: the generator learns to generate the data and the discriminator does no better than chance. Since quantum systems are intrinsically probabilistic, however, the proof of the quantum case is different from - and indeed, simpler than - the classical case.",
+      "text": "The result of the quantum adversarial game is the same as the result of the classical: the generator learns to generate the data and the discriminator does no better than chance. Since quantum systems are intrinsically probabilistic, however, the proof of the quantum case is different from - and indeed, simpler than - the classical case."
+    },
+    {
+      "self_ref": "#/texts/35",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 68.399,
+            "t": 192.75700000000006,
+            "r": 284.663,
+            "b": 163.861,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            74
+          ]
+        }
+      ],
+      "orig": "III. DATA QUANTUM, DISCRIMINATOR QUANTUM OR CLASSICAL, GENERATOR CLASSICAL",
+      "text": "III. DATA QUANTUM, DISCRIMINATOR QUANTUM OR CLASSICAL, GENERATOR CLASSICAL",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/36",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 53.999,
+            "t": 146.67200000000003,
+            "r": 299.236,
+            "b": 67.25700000000006,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            395
+          ]
+        },
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 317.039,
+            "t": 737.433,
+            "r": 562.218,
+            "b": 624.39,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            396,
+            924
+          ]
+        }
+      ],
+      "orig": "We now consider the case in which the real data σ is being generated by a quantum system via a fixed measurement, yielding statistics p true ( x ) for measurement outcomes x . In this case, quantum supremacy [7] implies that the classical generator can't efficiently match the statistics of the quantum data. More precisely the generator is unable to match his statistics p g ( x ) with the true statistics of the data p true ( x ), unless he has exponentially scaling resources: p g is bounded away from p true in 1-norm. Consequently, there exists a measurement that the discriminator can make that distinguishes p true from p g with probability strictly bounded away from 1 / 2. The minimum error measurement is a projector onto the positive part of p true -p g , that is, a projector on the set X + such that p true ( x ) -p g ( x ) ≥ 0. As long as the discriminator can find this measurement, then she can win the game.",
+      "text": "We now consider the case in which the real data σ is being generated by a quantum system via a fixed measurement, yielding statistics p true ( x ) for measurement outcomes x . In this case, quantum supremacy [7] implies that the classical generator can't efficiently match the statistics of the quantum data. More precisely the generator is unable to match his statistics p g ( x ) with the true statistics of the data p true ( x ), unless he has exponentially scaling resources: p g is bounded away from p true in 1-norm. Consequently, there exists a measurement that the discriminator can make that distinguishes p true from p g with probability strictly bounded away from 1 / 2. The minimum error measurement is a projector onto the positive part of p true -p g , that is, a projector on the set X + such that p true ( x ) -p g ( x ) ≥ 0. As long as the discriminator can find this measurement, then she can win the game."
+    },
+    {
+      "self_ref": "#/texts/37",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 317.039,
+            "t": 622.233,
+            "r": 562.285,
+            "b": 497.67,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            572
+          ]
+        }
+      ],
+      "orig": "The key question here is whether the discriminator can actually find the minimum error measurement or the optimal probabilistic strategy. The discriminator's measurement now corresponds to a POVM with operators T, F that are diagonal in the measurement basis. Once again, the set of such operators is convex, so under the same assumptions as above on the efficacy of deep learning in exploring the space of such measurements, when the generator's probabilities p g are fixed, the discriminator can adjust her measurement strategy to the optimal one, at least in principal.",
+      "text": "The key question here is whether the discriminator can actually find the minimum error measurement or the optimal probabilistic strategy. The discriminator's measurement now corresponds to a POVM with operators T, F that are diagonal in the measurement basis. Once again, the set of such operators is convex, so under the same assumptions as above on the efficacy of deep learning in exploring the space of such measurements, when the generator's probabilities p g are fixed, the discriminator can adjust her measurement strategy to the optimal one, at least in principal."
+    },
+    {
+      "self_ref": "#/texts/38",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 317.039,
+            "t": 495.513,
+            "r": 562.252,
+            "b": 325.231,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            773
+          ]
+        }
+      ],
+      "orig": "In the case where the data is generated by a system that exhibits quantum supremacy, however, under plausible assumptions of computational complexity, a classical device can't reproduce the true probabilities for the data p true ( x ). In particular, there is no known nonexponential classical algorithm for determining the optimal measurement to demonstrate quantum supremacy. If the discriminator has access to a quantum information processor to adjust her measurement strategy, then we conjecture that she can find the optimal measurement to discriminate between the quantumly generated data and the classically generated data. If the discriminator only has access to classical information processing, then we conjecture that she can't determine the optimal measurement.",
+      "text": "In the case where the data is generated by a system that exhibits quantum supremacy, however, under plausible assumptions of computational complexity, a classical device can't reproduce the true probabilities for the data p true ( x ). In particular, there is no known nonexponential classical algorithm for determining the optimal measurement to demonstrate quantum supremacy. If the discriminator has access to a quantum information processor to adjust her measurement strategy, then we conjecture that she can find the optimal measurement to discriminate between the quantumly generated data and the classically generated data. If the discriminator only has access to classical information processing, then we conjecture that she can't determine the optimal measurement."
+    },
+    {
+      "self_ref": "#/texts/39",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 317.039,
+            "t": 323.073,
+            "r": 562.282,
+            "b": 210.03099999999995,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            536
+          ]
+        }
+      ],
+      "orig": "When the quantum system generating the data does not exhibit quantum supremacy, as is the case, for example, for Gaussian continuous-variable systems [12], then both discriminator and generator can in principle reproduce the statistics of the data using classical methods. They can search through possible Gaussian states and measurements using classical computation, and the adversarial quantum learning game will in general lead to an equilibrium where the generator successfully generates the statistics of the Gaussian quantum data.",
+      "text": "When the quantum system generating the data does not exhibit quantum supremacy, as is the case, for example, for Gaussian continuous-variable systems [12], then both discriminator and generator can in principle reproduce the statistics of the data using classical methods. They can search through possible Gaussian states and measurements using classical computation, and the adversarial quantum learning game will in general lead to an equilibrium where the generator successfully generates the statistics of the Gaussian quantum data."
+    },
+    {
+      "self_ref": "#/texts/40",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 317.879,
+            "t": 182.19799999999998,
+            "r": 561.204,
+            "b": 163.74199999999996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            55
+          ]
+        }
+      ],
+      "orig": "IV. DATA CLASSICAL, DISCRIMINATOR AND GENERATOR QUANTUM",
+      "text": "IV. DATA CLASSICAL, DISCRIMINATOR AND GENERATOR QUANTUM",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/41",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 317.039,
+            "t": 146.673,
+            "r": 562.155,
+            "b": 67.95100000000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            384
+          ]
+        }
+      ],
+      "orig": "Now suppose that the data is purely classical, for example, a set of images taken from the internet, or sequences of prices of stocks on the stock market, but the generator and discriminator have access to quantum information processing. Are there classical data sets for which the quantum adversarial game is more efficient than the classical one? Here, 'more efficient' means either",
+      "text": "Now suppose that the data is purely classical, for example, a set of images taken from the internet, or sequences of prices of stocks on the stock market, but the generator and discriminator have access to quantum information processing. Are there classical data sets for which the quantum adversarial game is more efficient than the classical one? Here, 'more efficient' means either"
+    },
+    {
+      "self_ref": "#/texts/42",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 557.16,
+            "t": 763.352,
+            "r": 562.141,
+            "b": 753.389,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "4",
+      "text": "4"
+    },
+    {
+      "self_ref": "#/texts/43",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 54.0,
+            "t": 737.432,
+            "r": 299.125,
+            "b": 704.549,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            152
+          ]
+        }
+      ],
+      "orig": "that the quantum game converges faster, or that it uses many fewer resources. When the data set is classical, no guarantee of quantum supremacy applies.",
+      "text": "that the quantum game converges faster, or that it uses many fewer resources. When the data set is classical, no guarantee of quantum supremacy applies."
+    },
+    {
+      "self_ref": "#/texts/44",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 54.0,
+            "t": 701.912,
+            "r": 299.289,
+            "b": 483.989,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1064
+          ]
+        }
+      ],
+      "orig": "The ability of quantum information processors to represent N -dimensional vectors using log N qubits, and to perform linear algebra on those vectors in time O (poly(log N )), implies that quantum information processors might indeed be able to provide a highly compressed version of generative adversarial learning tasks. Suppose that the underlying data consists of M normalized vectors /vector v j in an N -dimensional real or complex space, so that the (normalized) covariance matrix of the data is C = (1 /M ) ∑ j /vector v j /vector v † j . A quantum information processor can represent those vectors by quantum states | v j 〉 over log N qubits, and the normalized covariance matrix of the data is equal to the density matrix ρ = (1 /M ) ∑ j | v j 〉〈 v j | . Suppose that the actual observed data consists of the expectation values and higher moments of a relatively small number r of sparse or low-rank Hermitian matrices R /lscript . The goal of both the classical and quantum generative adversarial games is to reproduce the statistics of the observed data.",
+      "text": "The ability of quantum information processors to represent N -dimensional vectors using log N qubits, and to perform linear algebra on those vectors in time O (poly(log N )), implies that quantum information processors might indeed be able to provide a highly compressed version of generative adversarial learning tasks. Suppose that the underlying data consists of M normalized vectors /vector v j in an N -dimensional real or complex space, so that the (normalized) covariance matrix of the data is C = (1 /M ) ∑ j /vector v j /vector v † j . A quantum information processor can represent those vectors by quantum states | v j 〉 over log N qubits, and the normalized covariance matrix of the data is equal to the density matrix ρ = (1 /M ) ∑ j | v j 〉〈 v j | . Suppose that the actual observed data consists of the expectation values and higher moments of a relatively small number r of sparse or low-rank Hermitian matrices R /lscript . The goal of both the classical and quantum generative adversarial games is to reproduce the statistics of the observed data."
+    },
+    {
+      "self_ref": "#/texts/45",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 54.0,
+            "t": 481.351,
+            "r": 299.276,
+            "b": 333.869,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            738
+          ]
+        }
+      ],
+      "orig": "Clearly, the classical generator can produce the observed data by performing gradient descent in the convex set of normalized covariance matrices, a task that takes time O ( N 2 ). If N is large, e.g., N = 10 12 , then the time to perform this convex optimization is prohibitively large, O (10 24 ) steps. By contrast, a quantum generator can represent candidate covariance matrices using O (log N ) qubits, and evaluate the statistics generated by such a candidate covariance matrix using O (poly(log N )) quantum logic operations. The gradients the quantum device must follow to try to reproduce the moments tr R k /lscript ρ are simply ∂ tr R k /lscript ρ/∂ρ = R k /lscript , which are themselves sparse or low-rank Hermitian matrices.",
+      "text": "Clearly, the classical generator can produce the observed data by performing gradient descent in the convex set of normalized covariance matrices, a task that takes time O ( N 2 ). If N is large, e.g., N = 10 12 , then the time to perform this convex optimization is prohibitively large, O (10 24 ) steps. By contrast, a quantum generator can represent candidate covariance matrices using O (log N ) qubits, and evaluate the statistics generated by such a candidate covariance matrix using O (poly(log N )) quantum logic operations. The gradients the quantum device must follow to try to reproduce the moments tr R k /lscript ρ are simply ∂ tr R k /lscript ρ/∂ρ = R k /lscript , which are themselves sparse or low-rank Hermitian matrices."
+    },
+    {
+      "self_ref": "#/texts/46",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 54.0,
+            "t": 331.112,
+            "r": 299.168,
+            "b": 206.66999999999996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            592
+          ]
+        }
+      ],
+      "orig": "The quantum system can follow these gradients efficiently. Assume for the moment that the R k /lscript are positive. If a positive matrix R is low-rank, then methods of density matrix exponentiation [13] allow one to implement ρ → ρ + αR by the modified swap operations of [13]. If they are sparse, then we can use the methods of [14] to implement R 1 / 2 and to construct the density matrix R/ tr R . An infinitesimal swap then yields ρ → ρ + αR . That is, a quantum generator with O (log N ) qubits can follow the gradients of the moments of the observed operators in time O (poly(log N )).",
+      "text": "The quantum system can follow these gradients efficiently. Assume for the moment that the R k /lscript are positive. If a positive matrix R is low-rank, then methods of density matrix exponentiation [13] allow one to implement ρ → ρ + αR by the modified swap operations of [13]. If they are sparse, then we can use the methods of [14] to implement R 1 / 2 and to construct the density matrix R/ tr R . An infinitesimal swap then yields ρ → ρ + αR . That is, a quantum generator with O (log N ) qubits can follow the gradients of the moments of the observed operators in time O (poly(log N ))."
+    },
+    {
+      "self_ref": "#/texts/47",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 54.0,
+            "t": 203.91200000000003,
+            "r": 299.303,
+            "b": 67.95000000000005,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            666
+          ]
+        },
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 317.04,
+            "t": 737.432,
+            "r": 562.289,
+            "b": 658.71,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            667,
+            1033
+          ]
+        }
+      ],
+      "orig": "By contrast, a classical generator that tries to follow the gradients of the observables explicitly by gradient descent on the set of covariance operators takes O ( N 2 ) bits and time O ( N 2 ). Of course, it may be that a much smaller deep classical network such as a perceptron or Boltzmann machine may be able to perform such optimization implicitly . Whether a deep network of size O (poly(log N )) can in fact reproduce the statistics of operators sampled from a very high dimensional space is an open question, which could be tested by direct numerical experiment. As in the classical case, the analysis of convergence for QuGANs assumes that quantum networks do indeed have enough flexibility to track the necessary gradients. In a companion paper [15], the authors analyze the ability of such networks to track gradients and show in the case of small networks that they can do so effectively. The corresponding result for large quantum generative networks will have to be verified directly on quantum information processors.",
+      "text": "By contrast, a classical generator that tries to follow the gradients of the observables explicitly by gradient descent on the set of covariance operators takes O ( N 2 ) bits and time O ( N 2 ). Of course, it may be that a much smaller deep classical network such as a perceptron or Boltzmann machine may be able to perform such optimization implicitly . Whether a deep network of size O (poly(log N )) can in fact reproduce the statistics of operators sampled from a very high dimensional space is an open question, which could be tested by direct numerical experiment. As in the classical case, the analysis of convergence for QuGANs assumes that quantum networks do indeed have enough flexibility to track the necessary gradients. In a companion paper [15], the authors analyze the ability of such networks to track gradients and show in the case of small networks that they can do so effectively. The corresponding result for large quantum generative networks will have to be verified directly on quantum information processors."
+    },
+    {
+      "self_ref": "#/texts/48",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 343.921,
+            "t": 598.837,
+            "r": 534.966,
+            "b": 590.821,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            28
+          ]
+        }
+      ],
+      "orig": "V. DISCUSSION AND CONCLUSION",
+      "text": "V. DISCUSSION AND CONCLUSION",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/49",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 317.04,
+            "t": 567.752,
+            "r": 562.291,
+            "b": 420.27,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            653
+          ]
+        }
+      ],
+      "orig": "Future work will entail running QuGAN simulations on quantum software packages such as Strawberry Fields [16]. For example, in the classically simulable case of Gaussian states [12], we can simulate both the fully quantum case, where the data, discriminator, and generator have access to arbitrary Gaussian processes. And also in the quantum-classical case, where the data is generated by a Gaussian process and the discriminator and generator are trying to reproduce the statistics of Gaussian measurements. One could simulate a multi-mode Gaussian process with injected squeezed states, a unitary mode-mixing transformation, and homodyne measurements.",
+      "text": "Future work will entail running QuGAN simulations on quantum software packages such as Strawberry Fields [16]. For example, in the classically simulable case of Gaussian states [12], we can simulate both the fully quantum case, where the data, discriminator, and generator have access to arbitrary Gaussian processes. And also in the quantum-classical case, where the data is generated by a Gaussian process and the discriminator and generator are trying to reproduce the statistics of Gaussian measurements. One could simulate a multi-mode Gaussian process with injected squeezed states, a unitary mode-mixing transformation, and homodyne measurements."
+    },
+    {
+      "self_ref": "#/texts/50",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 317.04,
+            "t": 412.112,
+            "r": 562.318,
+            "b": 287.55,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            601
+          ]
+        }
+      ],
+      "orig": "We have shown that in the quantum-quantum case, the unique Nash equilibrium occurs when the generator reproduces the statistics of the data correctly. In the quantum-classical case, this is still the unique Nash equilibrium, but quantum supremacy prevents a classical generative network from generating the true data efficiently. Furthermore, investigating and generalizing other known variants of generative adversarial networks to the quantum mechanical regime would also be fascinating. This would include such adversarial networks as convolutional, conditional, bidirectional, and semi-supervised.",
+      "text": "We have shown that in the quantum-quantum case, the unique Nash equilibrium occurs when the generator reproduces the statistics of the data correctly. In the quantum-classical case, this is still the unique Nash equilibrium, but quantum supremacy prevents a classical generative network from generating the true data efficiently. Furthermore, investigating and generalizing other known variants of generative adversarial networks to the quantum mechanical regime would also be fascinating. This would include such adversarial networks as convolutional, conditional, bidirectional, and semi-supervised."
+    },
+    {
+      "self_ref": "#/texts/51",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 317.04,
+            "t": 279.39200000000005,
+            "r": 562.318,
+            "b": 166.35000000000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            543
+          ]
+        }
+      ],
+      "orig": "In conclusion, we have introduced a quantum mechanical generalization of a generative adversarial network, known as a QuGAN. Such a quantum adversarial learning game consists of a generator and a discriminator where the generator is working to trick the discriminator into passing off fake data as real data. In the case of the quantum game converging, the generator generates the same statistics as the true data. Due to the inherent probabilistic nature of quantum mechanics, the proof of the quantum case is simpler than the classical case.",
+      "text": "In conclusion, we have introduced a quantum mechanical generalization of a generative adversarial network, known as a QuGAN. Such a quantum adversarial learning game consists of a generator and a discriminator where the generator is working to trick the discriminator into passing off fake data as real data. In the case of the quantum game converging, the generator generates the same statistics as the true data. Due to the inherent probabilistic nature of quantum mechanics, the proof of the quantum case is simpler than the classical case."
+    },
+    {
+      "self_ref": "#/texts/52",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 317.04,
+            "t": 158.07299999999998,
+            "r": 562.398,
+            "b": 67.95000000000005,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            420
+          ]
+        }
+      ],
+      "orig": "Finally, we introduced three versions of QuGANs in this work based on whether the real data, fake data, discriminator and generator are quantum mechanical or classical. In the case where the real data is purely classical and high dimensional, and the generator and discriminator are both quantum, we find that quantum adversarial networks potentially exhibit an exponential advantage over classical adversarial networks.",
+      "text": "Finally, we introduced three versions of QuGANs in this work based on whether the real data, fake data, discriminator and generator are quantum mechanical or classical. In the case where the real data is purely classical and high dimensional, and the generator and discriminator are both quantum, we find that quantum adversarial networks potentially exhibit an exponential advantage over classical adversarial networks."
+    },
+    {
+      "self_ref": "#/texts/53",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 557.16,
+            "t": 763.352,
+            "r": 562.141,
+            "b": 753.389,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "5",
+      "text": "5"
+    },
+    {
+      "self_ref": "#/texts/54",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 58.56,
+            "t": 645.605,
+            "r": 299.195,
+            "b": 594.758,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            243
+          ]
+        }
+      ],
+      "orig": "[1] I. J. Goodfellow, J. Pouget-Abadie, M. Mirza, B. Xu, D. Warde-Farley, S. Ozair, A. Courville, Y. Bengio, in Proceedings of the 27th International Conference on Neural Information Processing Systems-Volume 2 (MIT Press, 2014) pp. 2672-2680.",
+      "text": "I. J. Goodfellow, J. Pouget-Abadie, M. Mirza, B. Xu, D. Warde-Farley, S. Ozair, A. Courville, Y. Bengio, in Proceedings of the 27th International Conference on Neural Information Processing Systems-Volume 2 (MIT Press, 2014) pp. 2672-2680.",
+      "enumerated": true,
+      "marker": "[1]"
+    },
+    {
+      "self_ref": "#/texts/55",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 58.56,
+            "t": 593.285,
+            "r": 299.08,
+            "b": 563.439,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            139
+          ]
+        }
+      ],
+      "orig": "[2] T. Salimans, I. Goodfellow, W. Zaremba, V. Cheung, A. Radford, X. Chen, Improved techniques for training GANs, arXiv:1606.03498 (2016).",
+      "text": "T. Salimans, I. Goodfellow, W. Zaremba, V. Cheung, A. Radford, X. Chen, Improved techniques for training GANs, arXiv:1606.03498 (2016).",
+      "enumerated": true,
+      "marker": "[2]"
+    },
+    {
+      "self_ref": "#/texts/56",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 58.56,
+            "t": 561.965,
+            "r": 299.107,
+            "b": 531.999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            121
+          ]
+        }
+      ],
+      "orig": "[3] M. Mathieu, C. Couprie, Y. LeCun, Deep multiscale video prediction beyond mean square error, arXiv:1511.05440 (2015).",
+      "text": "M. Mathieu, C. Couprie, Y. LeCun, Deep multiscale video prediction beyond mean square error, arXiv:1511.05440 (2015).",
+      "enumerated": true,
+      "marker": "[3]"
+    },
+    {
+      "self_ref": "#/texts/57",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 58.56,
+            "t": 530.525,
+            "r": 299.107,
+            "b": 500.679,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            131
+          ]
+        }
+      ],
+      "orig": "[4] C. Ledig, et al., Photo-realistic single image superresolution using a generative adversarial network, arXiv:1607.07539 (2016).",
+      "text": "C. Ledig, et al., Photo-realistic single image superresolution using a generative adversarial network, arXiv:1607.07539 (2016).",
+      "enumerated": true,
+      "marker": "[4]"
+    },
+    {
+      "self_ref": "#/texts/58",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 58.56,
+            "t": 499.205,
+            "r": 299.106,
+            "b": 469.239,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            141
+          ]
+        }
+      ],
+      "orig": "[5] D. Pathak, P. Krahenbuhl, J. Donahue, T. Darrell, A. A. Efros, Context encoders: feature learning by inpainting, arXiv:1604.07379 (2016).",
+      "text": "D. Pathak, P. Krahenbuhl, J. Donahue, T. Darrell, A. A. Efros, Context encoders: feature learning by inpainting, arXiv:1604.07379 (2016).",
+      "enumerated": true,
+      "marker": "[5]"
+    },
+    {
+      "self_ref": "#/texts/59",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 58.56,
+            "t": 467.765,
+            "r": 250.356,
+            "b": 458.799,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            49
+          ]
+        }
+      ],
+      "orig": "[6] J. Biamonte, et al., Nature 549 , 195 (2017).",
+      "text": "J. Biamonte, et al., Nature 549 , 195 (2017).",
+      "enumerated": true,
+      "marker": "[6]"
+    },
+    {
+      "self_ref": "#/texts/60",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 58.56,
+            "t": 457.325,
+            "r": 299.111,
+            "b": 437.919,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            87
+          ]
+        }
+      ],
+      "orig": "[7] J. Preskill, Quantum computing in the NISQ era and beyond, arXiv:1801.00862 (2018).",
+      "text": "J. Preskill, Quantum computing in the NISQ era and beyond, arXiv:1801.00862 (2018).",
+      "enumerated": true,
+      "marker": "[7]"
+    },
+    {
+      "self_ref": "#/texts/61",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 58.56,
+            "t": 436.445,
+            "r": 299.107,
+            "b": 417.039,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            110
+          ]
+        }
+      ],
+      "orig": "[8] C. W. Helstrom, Quantum detection and estimation theory, Mathematics in Science and Engineering, 123 (Aca-",
+      "text": "C. W. Helstrom, Quantum detection and estimation theory, Mathematics in Science and Engineering, 123 (Aca-",
+      "enumerated": true,
+      "marker": "[8]"
+    },
+    {
+      "self_ref": "#/texts/62",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 380.04,
+            "t": 736.237,
+            "r": 499.091,
+            "b": 728.221,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "ACKNOWLEDGMENTS",
+      "text": "ACKNOWLEDGMENTS",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/63",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 317.04,
+            "t": 711.752,
+            "r": 562.156,
+            "b": 690.389,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            96
+          ]
+        }
+      ],
+      "orig": "We thank Pierre-Luc Dallaire-Demers and Nathan Killoran for helpful discussions and suggestions.",
+      "text": "We thank Pierre-Luc Dallaire-Demers and Nathan Killoran for helpful discussions and suggestions."
+    },
+    {
+      "self_ref": "#/texts/64",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 335.28,
+            "t": 645.605,
+            "r": 458.795,
+            "b": 636.639,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            29
+          ]
+        }
+      ],
+      "orig": "demic Press, New York, 1976).",
+      "text": "demic Press, New York, 1976)."
+    },
+    {
+      "self_ref": "#/texts/65",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 321.6,
+            "t": 635.165,
+            "r": 562.031,
+            "b": 605.319,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            130
+          ]
+        }
+      ],
+      "orig": "[9] M. A. Nielsen and I. L. Chuang, Quantum computation and quantum information (Cambridge University Press, Cambridge, UK, 2000).",
+      "text": "M. A. Nielsen and I. L. Chuang, Quantum computation and quantum information (Cambridge University Press, Cambridge, UK, 2000).",
+      "enumerated": true,
+      "marker": "[9]"
+    },
+    {
+      "self_ref": "#/texts/66",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 317.04,
+            "t": 603.725,
+            "r": 561.875,
+            "b": 594.759,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            61
+          ]
+        }
+      ],
+      "orig": "[10] Y. LeCun, Y. Bengio, G. Hinton, Nature 521 , 436 (2015).",
+      "text": "Y. LeCun, Y. Bengio, G. Hinton, Nature 521 , 436 (2015).",
+      "enumerated": true,
+      "marker": "[10]"
+    },
+    {
+      "self_ref": "#/texts/67",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 317.04,
+            "t": 593.286,
+            "r": 561.88,
+            "b": 573.879,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            66
+          ]
+        }
+      ],
+      "orig": "[11] S. Kakutani, Duke Mathematical Journal 8 (3): 457-459 (1941).",
+      "text": "S. Kakutani, Duke Mathematical Journal 8 (3): 457-459 (1941).",
+      "enumerated": true,
+      "marker": "[11]"
+    },
+    {
+      "self_ref": "#/texts/68",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 317.04,
+            "t": 572.406,
+            "r": 562.115,
+            "b": 542.56,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            133
+          ]
+        }
+      ],
+      "orig": "[12] C. Weedbrook, S. Pirandola, R. Garcia-Patron, N. J. Cerf, T. C. Ralph, J. H. Shapiro, S. Lloyd, Rev. Mod. Phys. 84 , 621 (2012).",
+      "text": "C. Weedbrook, S. Pirandola, R. Garcia-Patron, N. J. Cerf, T. C. Ralph, J. H. Shapiro, S. Lloyd, Rev. Mod. Phys. 84 , 621 (2012).",
+      "enumerated": true,
+      "marker": "[12]"
+    },
+    {
+      "self_ref": "#/texts/69",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 317.04,
+            "t": 540.966,
+            "r": 562.0,
+            "b": 521.56,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            69
+          ]
+        }
+      ],
+      "orig": "[13] S. Lloyd, M. Mohseni, P. Rebentrost, Nat. Phys. 10 , 631 (2014).",
+      "text": "S. Lloyd, M. Mohseni, P. Rebentrost, Nat. Phys. 10 , 631 (2014).",
+      "enumerated": true,
+      "marker": "[13]"
+    },
+    {
+      "self_ref": "#/texts/70",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 317.04,
+            "t": 520.086,
+            "r": 562.115,
+            "b": 500.68,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            79
+          ]
+        }
+      ],
+      "orig": "[14] A. W. Harrow, A. Hassidim, S. Lloyd, Phys. Rev. Lett. 103 , 150502 (2009).",
+      "text": "A. W. Harrow, A. Hassidim, S. Lloyd, Phys. Rev. Lett. 103 , 150502 (2009).",
+      "enumerated": true,
+      "marker": "[14]"
+    },
+    {
+      "self_ref": "#/texts/71",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 317.04,
+            "t": 499.206,
+            "r": 562.097,
+            "b": 479.8,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            96
+          ]
+        }
+      ],
+      "orig": "[15] P. -L. Dallaire-Demers, N. Killoran, Quantum generative adversarial networks, arxiv (2018).",
+      "text": "P. -L. Dallaire-Demers, N. Killoran, Quantum generative adversarial networks, arxiv (2018).",
+      "enumerated": true,
+      "marker": "[15]"
+    },
+    {
+      "self_ref": "#/texts/72",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 317.039,
+            "t": 478.206,
+            "r": 562.235,
+            "b": 437.92,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            170
+          ]
+        }
+      ],
+      "orig": "[16] N. Killoran, J. Izaac, N. Quesada, V. Bergholm, M. Amy, C. Weedbrook, Strawberry Fields: a software platform for photonic quantum computing, arXiv:1804.03159 (2018).",
+      "text": "N. Killoran, J. Izaac, N. Quesada, V. Bergholm, M. Amy, C. Weedbrook, Strawberry Fields: a software platform for photonic quantum computing, arXiv:1804.03159 (2018).",
+      "enumerated": true,
+      "marker": "[16]"
+    }
+  ],
+  "pictures": [
+    {
+      "self_ref": "#/pictures/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/17"
+        },
+        {
+          "$ref": "#/texts/18"
+        },
+        {
+          "$ref": "#/texts/19"
+        },
+        {
+          "$ref": "#/texts/20"
+        },
+        {
+          "$ref": "#/texts/21"
+        },
+        {
+          "$ref": "#/texts/22"
+        },
+        {
+          "$ref": "#/texts/23"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 125.40391540527344,
+            "t": 522.1699829101562,
+            "r": 226.5754852294922,
+            "b": 334.28363037109375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/17"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    }
+  ],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 2
+    },
+    "3": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 3
+    },
+    "4": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 4
+    },
+    "5": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 5
+    }
+  }
+}

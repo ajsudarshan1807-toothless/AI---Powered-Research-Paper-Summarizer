@@ -1,0 +1,36 @@
+{
+    "source_file": "output_docx_words1.json",
+    "entities": [
+        {
+            "text": "Smart         Agriculture         System         using",
+            "label": "ORG"
+        }
+    ],
+    "triples": [
+        {
+            "subject": "System",
+            "relation": "use",
+            "object": "Technology"
+        },
+        {
+            "subject": "modernization",
+            "relation": "help",
+            "object": "discovery"
+        },
+        {
+            "subject": "IOT",
+            "relation": "utilize",
+            "object": "farmers"
+        },
+        {
+            "subject": "development",
+            "relation": "diminish",
+            "object": "cost"
+        },
+        {
+            "subject": "They",
+            "relation": "utilize",
+            "object": "pesticides"
+        }
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "source_file": "output_docx_words7.json",
+    "entities": [],
+    "triples": [
+        {
+            "subject": "reviews",
+            "relation": "investigate",
+            "object": "aspects"
+        }
+    ]
+}

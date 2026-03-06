@@ -1,0 +1,1048 @@
+{
+    "source_file": "output_referencedata.json",
+    "entities": [
+        {
+            "text": "P01 R01 Good",
+            "label": "PERSON"
+        },
+        {
+            "text": "weekly",
+            "label": "DATE"
+        },
+        {
+            "text": "P01 R02 IOT",
+            "label": "ORG"
+        },
+        {
+            "text": "P01 R03",
+            "label": "PERSON"
+        },
+        {
+            "text": "Better Yielding Using",
+            "label": "ORG"
+        },
+        {
+            "text": "IoT  IEEE International Conference on Technological Innovations",
+            "label": "ORG"
+        },
+        {
+            "text": "Agriculture and Rural Development (",
+            "label": "ORG"
+        },
+        {
+            "text": "P01 R04 Plan",
+            "label": "PRODUCT"
+        },
+        {
+            "text": "P01 R05 Design and Implementation of Modern Automated Real Time Monitoring System for Agriculture",
+            "label": "ORG"
+        },
+        {
+            "text": "Journal of Engineering",
+            "label": "ORG"
+        },
+        {
+            "text": "Applied Sciences",
+            "label": "ORG"
+        },
+        {
+            "text": "GPRS Module   IEEE Transactions on Instrumentation",
+            "label": "ORG"
+        },
+        {
+            "text": "Intelligent Systems",
+            "label": "ORG"
+        },
+        {
+            "text": "Computing  P01 R08 Continuous",
+            "label": "ORG"
+        },
+        {
+            "text": "Universal",
+            "label": "PERSON"
+        },
+        {
+            "text": "P01 R09 Agrarian Protection System Based",
+            "label": "ORG"
+        },
+        {
+            "text": "IoT",
+            "label": "ORG"
+        },
+        {
+            "text": "International Conference on Computational Science and Engineering P02 R01 Deep",
+            "label": "ORG"
+        },
+        {
+            "text": "NAACL",
+            "label": "NORP"
+        },
+        {
+            "text": "GPT",
+            "label": "ORG"
+        },
+        {
+            "text": "OpenAI Technical Report P02 R03 Attention",
+            "label": "ORG"
+        },
+        {
+            "text": "R04 Semi-",
+            "label": "PERSON"
+        },
+        {
+            "text": "Neural Information Processing Systems P02 R05 Universal",
+            "label": "ORG"
+        },
+        {
+            "text": "100,000",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "P02",
+            "label": "ORG"
+        },
+        {
+            "text": "Workshop BlackboxNLP P02 R09 Cloze",
+            "label": "ORG"
+        },
+        {
+            "text": "Journalism Bulletin P02 R10 Aligning",
+            "label": "ORG"
+        },
+        {
+            "text": "IEEE International Conference on Computer Vision P03 R01 Osteoporosis",
+            "label": "ORG"
+        },
+        {
+            "text": "Handbook of Diagnostic Endocrinology",
+            "label": "ORG"
+        },
+        {
+            "text": "Humana Press P03 R02 Assessment",
+            "label": "ORG"
+        },
+        {
+            "text": "World Health Organization",
+            "label": "ORG"
+        },
+        {
+            "text": "Best Pract Res",
+            "label": "ORG"
+        },
+        {
+            "text": "Clin Rheumatol P03",
+            "label": "PERSON"
+        },
+        {
+            "text": "International Congress Series  ",
+            "label": "EVENT"
+        },
+        {
+            "text": "Philippines",
+            "label": "GPE"
+        },
+        {
+            "text": "Arch Osteoporos",
+            "label": "PERSON"
+        },
+        {
+            "text": "Joint Bone Spine P03 R07 QUS Methods",
+            "label": "PERSON"
+        },
+        {
+            "text": "Children  Pediatr Res P03 R08 Infant",
+            "label": "ORG"
+        },
+        {
+            "text": "Clin Calcium P03 R09 Quantitative Ultrasound",
+            "label": "ORG"
+        },
+        {
+            "text": "the Management of Osteoporosis",
+            "label": "ORG"
+        },
+        {
+            "text": "2007",
+            "label": "DATE"
+        },
+        {
+            "text": "ISCD Official Positions  J",
+            "label": "LAW"
+        },
+        {
+            "text": "Borno State",
+            "label": "GPE"
+        },
+        {
+            "text": "Nigeria  Journal of Agricultural Science  P04 R02",
+            "label": "ORG"
+        },
+        {
+            "text": "3",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "P04 R03 Climate Change",
+            "label": "ORG"
+        },
+        {
+            "text": "Vantage Publishers P04",
+            "label": "ORG"
+        },
+        {
+            "text": "six",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Northern Nigeria",
+            "label": "LOC"
+        },
+        {
+            "text": "Nigerian Geographical Journal",
+            "label": "ORG"
+        },
+        {
+            "text": "6",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "P04 R06 Climate",
+            "label": "ORG"
+        },
+        {
+            "text": "2007",
+            "label": "DATE"
+        },
+        {
+            "text": "fourth",
+            "label": "ORDINAL"
+        },
+        {
+            "text": "Synthesis Report",
+            "label": "ORG"
+        },
+        {
+            "text": "Nigeria",
+            "label": "GPE"
+        },
+        {
+            "text": "A Communication Guide for Reporters",
+            "label": "ORG"
+        },
+        {
+            "text": "African Journal of Environmental Studies P04 R09",
+            "label": "ORG"
+        },
+        {
+            "text": "Nigeria",
+            "label": "GPE"
+        },
+        {
+            "text": "Global Journal of Environmental Science P04 R10 Unstoppable Global Warming",
+            "label": "ORG"
+        },
+        {
+            "text": "Rowman",
+            "label": "ORG"
+        },
+        {
+            "text": "Littlefield Publishers P05 R01 Malnutrition",
+            "label": "ORG"
+        },
+        {
+            "text": "UK",
+            "label": "GPE"
+        },
+        {
+            "text": "Proc Nutr Soc P05",
+            "label": "FAC"
+        },
+        {
+            "text": "J Am Med Dir Assoc",
+            "label": "ORG"
+        },
+        {
+            "text": "Br J Nutr  P05 R05 Malnutrition",
+            "label": "PERSON"
+        },
+        {
+            "text": "Clin Nutr",
+            "label": "PERSON"
+        },
+        {
+            "text": "P05 R06 Malnutrition",
+            "label": "ORG"
+        },
+        {
+            "text": "BMJ Open",
+            "label": "EVENT"
+        },
+        {
+            "text": "Ireland",
+            "label": "GPE"
+        },
+        {
+            "text": "Clin Nutr",
+            "label": "PERSON"
+        },
+        {
+            "text": "P05 R10 Effectiveness",
+            "label": "ORG"
+        },
+        {
+            "text": "P06 R01 BERT",
+            "label": "PRODUCT"
+        },
+        {
+            "text": "Deep Bidirectional Transformers  ArXiv",
+            "label": "WORK_OF_ART"
+        },
+        {
+            "text": "R02 GPT-4 Technical Report",
+            "label": "ORG"
+        },
+        {
+            "text": "OpenAI Technical Report",
+            "label": "ORG"
+        },
+        {
+            "text": "Stanford University Working Paper",
+            "label": "ORG"
+        },
+        {
+            "text": "P06 R04",
+            "label": "PRODUCT"
+        },
+        {
+            "text": "AEA Papers",
+            "label": "PERSON"
+        },
+        {
+            "text": "Princeton University Press (Frey",
+            "label": "ORG"
+        },
+        {
+            "text": "P06",
+            "label": "PRODUCT"
+        },
+        {
+            "text": "Journal of Econometrics",
+            "label": "ORG"
+        },
+        {
+            "text": "Felten et al",
+            "label": "PERSON"
+        },
+        {
+            "text": "P06 R09 Language",
+            "label": "PERSON"
+        },
+        {
+            "text": "Thoppilan et al.",
+            "label": "PERSON"
+        },
+        {
+            "text": "P06 R10",
+            "label": "PRODUCT"
+        },
+        {
+            "text": "The Quarterly Journal of Economics  P07 R01 Psychological",
+            "label": "ORG"
+        },
+        {
+            "text": "Cyber Psychology and Behavior  P07",
+            "label": "ORG"
+        },
+        {
+            "text": "Applied Cognitive Psychology  P07",
+            "label": "ORG"
+        },
+        {
+            "text": "R03 Mobile-phone",
+            "label": "PERSON"
+        },
+        {
+            "text": "TMD",
+            "label": "ORG"
+        },
+        {
+            "text": "Progress in Health Sciences P07 R04 Development",
+            "label": "ORG"
+        },
+        {
+            "text": "SAS",
+            "label": "ORG"
+        },
+        {
+            "text": "PLoS",
+            "label": "PERSON"
+        },
+        {
+            "text": "ONE",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Neuroreport",
+            "label": "GPE"
+        },
+        {
+            "text": "Electromagnetic",
+            "label": "ORG"
+        },
+        {
+            "text": "Mobile Telephones on Hearing  Acta Otolaryngologica  P07 R07 Mobile",
+            "label": "ORG"
+        },
+        {
+            "text": "Journal of Interactive Media",
+            "label": "ORG"
+        },
+        {
+            "text": "Education",
+            "label": "ORG"
+        },
+        {
+            "text": "American Journal of Orthopsychiatry P07 R09 Mobile",
+            "label": "ORG"
+        },
+        {
+            "text": "Finland",
+            "label": "GPE"
+        },
+        {
+            "text": "Information Society Research Centre P07 R10",
+            "label": "ORG"
+        },
+        {
+            "text": "the Common Health Effects of Cell-Phones",
+            "label": "ORG"
+        },
+        {
+            "text": "Journal of Community Medicine & Health Education P08 R01 Machine Learning and Optimization  NYU CIMS",
+            "label": "ORG"
+        },
+        {
+            "text": "P08 R02 Glossary",
+            "label": "ORG"
+        },
+        {
+            "text": "Machine Learning  Kohavi & Provost",
+            "label": "PERSON"
+        },
+        {
+            "text": "P08 R03",
+            "label": "ORG"
+        },
+        {
+            "text": "Computing, Power and Comm",
+            "label": "ORG"
+        },
+        {
+            "text": "P08 R05 Support Vector Machines",
+            "label": "ORG"
+        },
+        {
+            "text": "Interface",
+            "label": "ORG"
+        },
+        {
+            "text": "1071",
+            "label": "DATE"
+        },
+        {
+            "text": "David Meyer",
+            "label": "PERSON"
+        },
+        {
+            "text": "Journal",
+            "label": "ORG"
+        },
+        {
+            "text": "the American Statistical Association",
+            "label": "ORG"
+        },
+        {
+            "text": "Manning Publications Co. P08 R09 Investigating the Performance of Naive Bayes Classifiers",
+            "label": "ORG"
+        },
+        {
+            "text": "KNN",
+            "label": "ORG"
+        },
+        {
+            "text": "Journal on Convergence Information Tech",
+            "label": "ORG"
+        },
+        {
+            "text": "P08 R10 Ensemble Learning  ",
+            "label": "ORG"
+        },
+        {
+            "text": "Nanjing University",
+            "label": "ORG"
+        },
+        {
+            "text": "Z.H. Zhou",
+            "label": "PERSON"
+        },
+        {
+            "text": "R01 Epidemiology",
+            "label": "PERSON"
+        },
+        {
+            "text": "Lancet P09 R02 World",
+            "label": "ORG"
+        },
+        {
+            "text": "Osteoporos",
+            "label": "PERSON"
+        },
+        {
+            "text": "R03 Clinician's",
+            "label": "PERSON"
+        },
+        {
+            "text": "Osteoporos",
+            "label": "PERSON"
+        },
+        {
+            "text": "R04",
+            "label": "PERSON"
+        },
+        {
+            "text": "Nat",
+            "label": "PERSON"
+        },
+        {
+            "text": "R06 Artificial",
+            "label": "PERSON"
+        },
+        {
+            "text": "BMC Res",
+            "label": "ORG"
+        },
+        {
+            "text": "R07 Computer",
+            "label": "PERSON"
+        },
+        {
+            "text": "DXA",
+            "label": "ORG"
+        },
+        {
+            "text": "Progr",
+            "label": "GPE"
+        },
+        {
+            "text": "R08 Machine",
+            "label": "PERSON"
+        },
+        {
+            "text": "Calcif",
+            "label": "ORG"
+        },
+        {
+            "text": "Tissue Int",
+            "label": "PERSON"
+        },
+        {
+            "text": "R09 Predicting",
+            "label": "ORG"
+        },
+        {
+            "text": "PLoS",
+            "label": "PERSON"
+        },
+        {
+            "text": "ONE",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "R10 Scikit",
+            "label": "ORG"
+        },
+        {
+            "text": "J. Mach",
+            "label": "PERSON"
+        },
+        {
+            "text": "Learn",
+            "label": "PERSON"
+        },
+        {
+            "text": "Res",
+            "label": "PERSON"
+        },
+        {
+            "text": "NAS",
+            "label": "ORG"
+        },
+        {
+            "text": "Direct Neural Architecture Search on Target Task",
+            "label": "ORG"
+        },
+        {
+            "text": "Hardware",
+            "label": "ORG"
+        },
+        {
+            "text": "P10 R02 Once",
+            "label": "PRODUCT"
+        },
+        {
+            "text": "Specialize",
+            "label": "NORP"
+        },
+        {
+            "text": "ResNet",
+            "label": "ORG"
+        },
+        {
+            "text": "R04",
+            "label": "PRODUCT"
+        },
+        {
+            "text": "Efficient Convolutional Neural Networks for Mobile Vision",
+            "label": "ORG"
+        },
+        {
+            "text": "P10 R05 MobileNetV2",
+            "label": "ORG"
+        },
+        {
+            "text": "Inverted Residuals",
+            "label": "ORG"
+        },
+        {
+            "text": "Linear Bottlenecks  CVPR",
+            "label": "ORG"
+        },
+        {
+            "text": "Platform-Aware Neural Architecture Search for Mobile  CVPR P10 R08 Designing Network Design Spaces",
+            "label": "ORG"
+        },
+        {
+            "text": "P11 R01 Generative",
+            "label": "PRODUCT"
+        },
+        {
+            "text": "Salimans",
+            "label": "NORP"
+        },
+        {
+            "text": "P11 R03",
+            "label": "PERSON"
+        },
+        {
+            "text": "Mathieu",
+            "label": "PERSON"
+        },
+        {
+            "text": "P11",
+            "label": "ORG"
+        },
+        {
+            "text": "GAN",
+            "label": "ORG"
+        },
+        {
+            "text": "Ledig et al.",
+            "label": "PERSON"
+        },
+        {
+            "text": "P11 R05 Context",
+            "label": "ORG"
+        },
+        {
+            "text": "P11",
+            "label": "ORG"
+        },
+        {
+            "text": "Nature (Biamonte et al.",
+            "label": "WORK_OF_ART"
+        },
+        {
+            "text": "P11 R07 Quantum",
+            "label": "ORG"
+        },
+        {
+            "text": "NISQ",
+            "label": "ORG"
+        },
+        {
+            "text": "Academic Press",
+            "label": "ORG"
+        },
+        {
+            "text": "Cambridge Univ",
+            "label": "ORG"
+        },
+        {
+            "text": "P11 R10",
+            "label": "PRODUCT"
+        },
+        {
+            "text": "Nature",
+            "label": "PERSON"
+        },
+        {
+            "text": "LeCun et al",
+            "label": "PERSON"
+        },
+        {
+            "text": "P12 R01",
+            "label": "PERSON"
+        },
+        {
+            "text": "the New Generation Hybrid System",
+            "label": "ORG"
+        },
+        {
+            "text": "37th",
+            "label": "ORDINAL"
+        },
+        {
+            "text": "International Vienna Motor",
+            "label": "EVENT"
+        },
+        {
+            "text": "Toyota",
+            "label": "ORG"
+        },
+        {
+            "text": "New Combustion Technology",
+            "label": "ORG"
+        },
+        {
+            "text": "37th",
+            "label": "ORDINAL"
+        },
+        {
+            "text": "International Vienna Motor Symposium",
+            "label": "EVENT"
+        },
+        {
+            "text": "SAE Technical Paper 650733",
+            "label": "ORG"
+        },
+        {
+            "text": "Toyota",
+            "label": "ORG"
+        },
+        {
+            "text": "2.0-Liter Inline 4-Cylinder",
+            "label": "PRODUCT"
+        },
+        {
+            "text": "23rd",
+            "label": "DATE"
+        },
+        {
+            "text": "Aachen Colloquium Automobile and Engine Technology P12 R05 Development of High Tumble Intake",
+            "label": "ORG"
+        },
+        {
+            "text": "High Thermal Efficiency Engines",
+            "label": "ORG"
+        },
+        {
+            "text": "2016-01-0692",
+            "label": "DATE"
+        },
+        {
+            "text": "CFD Shape Optimization Technology",
+            "label": "ORG"
+        },
+        {
+            "text": "the Adjoint Method",
+            "label": "ORG"
+        },
+        {
+            "text": "Application to Engine Intake Port Design  ",
+            "label": "ORG"
+        },
+        {
+            "text": "2013-01-0969",
+            "label": "DATE"
+        },
+        {
+            "text": "Toyota New Global Architecture",
+            "label": "ORG"
+        },
+        {
+            "text": "Aachen Colloquium Automobile and Engine Technology",
+            "label": "ORG"
+        },
+        {
+            "text": "Performance Feel",
+            "label": "WORK_OF_ART"
+        },
+        {
+            "text": "MAZDA Technical Review  P12 R09 A Study",
+            "label": "ORG"
+        },
+        {
+            "text": "TOYOTA Technical Review  ",
+            "label": "ORG"
+        },
+        {
+            "text": "P13",
+            "label": "PERSON"
+        },
+        {
+            "text": "Deep Learning  MIT Press",
+            "label": "PERSON"
+        },
+        {
+            "text": "S. J. D. Prince",
+            "label": "PERSON"
+        },
+        {
+            "text": "R04 Softmax",
+            "label": "PERSON"
+        },
+        {
+            "text": "Wikipedia  P13",
+            "label": "ORG"
+        },
+        {
+            "text": "Wikipedia",
+            "label": "ORG"
+        },
+        {
+            "text": "P13 R06",
+            "label": "PERSON"
+        },
+        {
+            "text": "Consistent Tokenization of Natural Language Text  Journal of Open Source Software",
+            "label": "ORG"
+        },
+        {
+            "text": "P13 R07",
+            "label": "PERSON"
+        },
+        {
+            "text": "One",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Token",
+            "label": "ORG"
+        },
+        {
+            "text": "Assumption  CoNLL Proceedings  P13",
+            "label": "ORG"
+        },
+        {
+            "text": "\u00c9cole Polytechnique",
+            "label": "PERSON"
+        },
+        {
+            "text": "Vector Semantics & Embeddings",
+            "label": "ORG"
+        },
+        {
+            "text": "Stanford University",
+            "label": "ORG"
+        },
+        {
+            "text": "Wikipedia",
+            "label": "ORG"
+        },
+        {
+            "text": "P14 R01",
+            "label": "ORG"
+        },
+        {
+            "text": "Suicidology P14",
+            "label": "ORG"
+        },
+        {
+            "text": "R02 Suicide",
+            "label": "PERSON"
+        },
+        {
+            "text": "Lancet",
+            "label": "ORG"
+        },
+        {
+            "text": "P14 R03 Risks",
+            "label": "ORG"
+        },
+        {
+            "text": "World Psychiatry  ",
+            "label": "ORG"
+        },
+        {
+            "text": "P14",
+            "label": "ORG"
+        },
+        {
+            "text": "R04 Global",
+            "label": "PRODUCT"
+        },
+        {
+            "text": "MDD",
+            "label": "ORG"
+        },
+        {
+            "text": "Psychol Med P14 R05",
+            "label": "ORG"
+        },
+        {
+            "text": "Ann Intern Med",
+            "label": "PERSON"
+        },
+        {
+            "text": "Lancet Psychiatry",
+            "label": "ORG"
+        },
+        {
+            "text": "P14 R07 Family",
+            "label": "PERSON"
+        },
+        {
+            "text": "The Neurobiological Basis of Suicide P14 R09",
+            "label": "ORG"
+        },
+        {
+            "text": "Arch Gen Psychiatry",
+            "label": "PERSON"
+        },
+        {
+            "text": "Journal of Power and Energy Engineering P15 R02 Review",
+            "label": "ORG"
+        },
+        {
+            "text": "Indonesian Journal of Electrical Engineering",
+            "label": "ORG"
+        },
+        {
+            "text": "Journal of Earth System Science  P15 R04 Weather",
+            "label": "ORG"
+        },
+        {
+            "text": "India",
+            "label": "GPE"
+        },
+        {
+            "text": "Mausam P15 R05",
+            "label": "PERSON"
+        },
+        {
+            "text": "Journal of Advances",
+            "label": "ORG"
+        },
+        {
+            "text": "Modeling Earth Systems",
+            "label": "ORG"
+        },
+        {
+            "text": "Indonesian Journal of Electrical Engineering",
+            "label": "ORG"
+        },
+        {
+            "text": "India",
+            "label": "GPE"
+        },
+        {
+            "text": "Journal of Physics: Conference Series  ",
+            "label": "ORG"
+        },
+        {
+            "text": "Machine Learning P15 R09 Assessment",
+            "label": "PERSON"
+        },
+        {
+            "text": "ANN",
+            "label": "ORG"
+        }
+    ],
+    "triples": [
+        {
+            "subject": "particularity",
+            "relation": "station",
+            "object": "almanac"
+        },
+        {
+            "subject": "intensity",
+            "relation": "wire",
+            "object": "Design"
+        },
+        {
+            "subject": "Journal",
+            "relation": "probe",
+            "object": "knowledge"
+        },
+        {
+            "subject": "Journal",
+            "relation": "probe",
+            "object": "representations"
+        },
+        {
+            "subject": "you",
+            "relation": "need",
+            "object": "sequence"
+        },
+        {
+            "subject": "overview",
+            "relation": "predict",
+            "object": "fractures"
+        },
+        {
+            "subject": "machines",
+            "relation": "learn",
+            "object": "What"
+        },
+        {
+            "subject": "it",
+            "relation": "mean",
+            "object": "what"
+        },
+        {
+            "subject": "principles",
+            "relation": "improve",
+            "object": "Calcif"
+        },
+        {
+            "subject": "NAS",
+            "relation": "ICLR",
+            "object": "R02"
+        },
+        {
+            "subject": "Development",
+            "relation": "use",
+            "object": "Method"
+        },
+        {
+            "subject": "You",
+            "relation": "need",
+            "object": "arXiv"
+        },
+        {
+            "subject": "product",
+            "relation": "specify",
+            "object": "Wikipedia"
+        },
+        {
+            "subject": "mapping",
+            "relation": "use",
+            "object": "Journal"
+        },
+        {
+            "subject": "using",
+            "relation": "forest",
+            "object": "Assessment"
+        },
+        {
+            "subject": "Random",
+            "relation": "forest",
+            "object": "Assessment"
+        },
+        {
+            "subject": "ANN",
+            "relation": "base",
+            "object": "models"
+        }
+    ]
+}

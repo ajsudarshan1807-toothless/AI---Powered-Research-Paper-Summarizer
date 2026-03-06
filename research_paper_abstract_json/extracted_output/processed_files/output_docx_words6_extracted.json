@@ -1,0 +1,45 @@
+{
+    "source_file": "output_docx_words6.json",
+    "entities": [
+        {
+            "text": "approximately         19%",
+            "label": "PERCENT"
+        },
+        {
+            "text": "about         15%",
+            "label": "PERCENT"
+        }
+    ],
+    "triples": [
+        {
+            "subject": "We",
+            "relation": "investigate",
+            "object": "implications"
+        },
+        {
+            "subject": "we",
+            "relation": "assess",
+            "object": "occupations"
+        },
+        {
+            "subject": "We",
+            "relation": "make",
+            "object": "predictions"
+        },
+        {
+            "subject": "software",
+            "relation": "have",
+            "object": "effect"
+        },
+        {
+            "subject": "We",
+            "relation": "conclude",
+            "object": "that"
+        },
+        {
+            "subject": "they",
+            "relation": "have",
+            "object": "implications"
+        }
+    ]
+}

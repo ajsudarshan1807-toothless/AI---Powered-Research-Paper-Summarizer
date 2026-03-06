@@ -1,0 +1,4105 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.9.0",
+  "name": "research paper_7",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 18051317856732339899,
+    "filename": "research paper_7.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/texts/11"
+      },
+      {
+        "$ref": "#/texts/12"
+      },
+      {
+        "$ref": "#/texts/13"
+      },
+      {
+        "$ref": "#/texts/14"
+      },
+      {
+        "$ref": "#/texts/15"
+      },
+      {
+        "$ref": "#/texts/16"
+      },
+      {
+        "$ref": "#/texts/17"
+      },
+      {
+        "$ref": "#/texts/18"
+      },
+      {
+        "$ref": "#/groups/1"
+      },
+      {
+        "$ref": "#/texts/20"
+      },
+      {
+        "$ref": "#/texts/21"
+      },
+      {
+        "$ref": "#/texts/22"
+      },
+      {
+        "$ref": "#/texts/23"
+      },
+      {
+        "$ref": "#/texts/24"
+      },
+      {
+        "$ref": "#/texts/25"
+      },
+      {
+        "$ref": "#/texts/26"
+      },
+      {
+        "$ref": "#/texts/27"
+      },
+      {
+        "$ref": "#/texts/28"
+      },
+      {
+        "$ref": "#/texts/29"
+      },
+      {
+        "$ref": "#/texts/30"
+      },
+      {
+        "$ref": "#/texts/31"
+      },
+      {
+        "$ref": "#/texts/32"
+      },
+      {
+        "$ref": "#/texts/33"
+      },
+      {
+        "$ref": "#/texts/34"
+      },
+      {
+        "$ref": "#/texts/35"
+      },
+      {
+        "$ref": "#/texts/36"
+      },
+      {
+        "$ref": "#/texts/37"
+      },
+      {
+        "$ref": "#/texts/38"
+      },
+      {
+        "$ref": "#/texts/39"
+      },
+      {
+        "$ref": "#/texts/40"
+      },
+      {
+        "$ref": "#/texts/41"
+      },
+      {
+        "$ref": "#/texts/42"
+      },
+      {
+        "$ref": "#/texts/43"
+      },
+      {
+        "$ref": "#/texts/44"
+      },
+      {
+        "$ref": "#/texts/45"
+      },
+      {
+        "$ref": "#/texts/46"
+      },
+      {
+        "$ref": "#/texts/47"
+      },
+      {
+        "$ref": "#/texts/48"
+      },
+      {
+        "$ref": "#/texts/49"
+      },
+      {
+        "$ref": "#/texts/50"
+      },
+      {
+        "$ref": "#/texts/51"
+      },
+      {
+        "$ref": "#/texts/52"
+      },
+      {
+        "$ref": "#/groups/2"
+      },
+      {
+        "$ref": "#/texts/79"
+      },
+      {
+        "$ref": "#/texts/80"
+      },
+      {
+        "$ref": "#/groups/3"
+      },
+      {
+        "$ref": "#/texts/117"
+      },
+      {
+        "$ref": "#/texts/118"
+      },
+      {
+        "$ref": "#/texts/119"
+      },
+      {
+        "$ref": "#/groups/4"
+      },
+      {
+        "$ref": "#/texts/124"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [
+    {
+      "self_ref": "#/groups/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/2"
+        },
+        {
+          "$ref": "#/texts/3"
+        },
+        {
+          "$ref": "#/texts/4"
+        },
+        {
+          "$ref": "#/texts/5"
+        },
+        {
+          "$ref": "#/texts/6"
+        },
+        {
+          "$ref": "#/texts/7"
+        },
+        {
+          "$ref": "#/texts/8"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    },
+    {
+      "self_ref": "#/groups/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/19"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    },
+    {
+      "self_ref": "#/groups/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/53"
+        },
+        {
+          "$ref": "#/texts/54"
+        },
+        {
+          "$ref": "#/texts/55"
+        },
+        {
+          "$ref": "#/texts/56"
+        },
+        {
+          "$ref": "#/texts/57"
+        },
+        {
+          "$ref": "#/texts/58"
+        },
+        {
+          "$ref": "#/texts/59"
+        },
+        {
+          "$ref": "#/texts/60"
+        },
+        {
+          "$ref": "#/texts/61"
+        },
+        {
+          "$ref": "#/texts/62"
+        },
+        {
+          "$ref": "#/texts/63"
+        },
+        {
+          "$ref": "#/texts/64"
+        },
+        {
+          "$ref": "#/texts/65"
+        },
+        {
+          "$ref": "#/texts/66"
+        },
+        {
+          "$ref": "#/texts/67"
+        },
+        {
+          "$ref": "#/texts/68"
+        },
+        {
+          "$ref": "#/texts/69"
+        },
+        {
+          "$ref": "#/texts/70"
+        },
+        {
+          "$ref": "#/texts/71"
+        },
+        {
+          "$ref": "#/texts/72"
+        },
+        {
+          "$ref": "#/texts/73"
+        },
+        {
+          "$ref": "#/texts/74"
+        },
+        {
+          "$ref": "#/texts/75"
+        },
+        {
+          "$ref": "#/texts/76"
+        },
+        {
+          "$ref": "#/texts/77"
+        },
+        {
+          "$ref": "#/texts/78"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/81"
+        },
+        {
+          "$ref": "#/texts/82"
+        },
+        {
+          "$ref": "#/texts/83"
+        },
+        {
+          "$ref": "#/texts/84"
+        },
+        {
+          "$ref": "#/texts/85"
+        },
+        {
+          "$ref": "#/texts/86"
+        },
+        {
+          "$ref": "#/texts/87"
+        },
+        {
+          "$ref": "#/texts/88"
+        },
+        {
+          "$ref": "#/texts/89"
+        },
+        {
+          "$ref": "#/texts/90"
+        },
+        {
+          "$ref": "#/texts/91"
+        },
+        {
+          "$ref": "#/texts/92"
+        },
+        {
+          "$ref": "#/texts/93"
+        },
+        {
+          "$ref": "#/texts/94"
+        },
+        {
+          "$ref": "#/texts/95"
+        },
+        {
+          "$ref": "#/texts/96"
+        },
+        {
+          "$ref": "#/texts/97"
+        },
+        {
+          "$ref": "#/texts/98"
+        },
+        {
+          "$ref": "#/texts/99"
+        },
+        {
+          "$ref": "#/texts/100"
+        },
+        {
+          "$ref": "#/texts/101"
+        },
+        {
+          "$ref": "#/texts/102"
+        },
+        {
+          "$ref": "#/texts/103"
+        },
+        {
+          "$ref": "#/texts/104"
+        },
+        {
+          "$ref": "#/texts/105"
+        },
+        {
+          "$ref": "#/texts/106"
+        },
+        {
+          "$ref": "#/texts/107"
+        },
+        {
+          "$ref": "#/texts/108"
+        },
+        {
+          "$ref": "#/texts/109"
+        },
+        {
+          "$ref": "#/texts/110"
+        },
+        {
+          "$ref": "#/texts/111"
+        },
+        {
+          "$ref": "#/texts/112"
+        },
+        {
+          "$ref": "#/texts/113"
+        },
+        {
+          "$ref": "#/texts/114"
+        },
+        {
+          "$ref": "#/texts/115"
+        },
+        {
+          "$ref": "#/texts/116"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/120"
+        },
+        {
+          "$ref": "#/texts/121"
+        },
+        {
+          "$ref": "#/texts/122"
+        },
+        {
+          "$ref": "#/texts/123"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    }
+  ],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 195.66,
+            "t": 747.643,
+            "r": 421.173,
+            "b": 739.184,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            55
+          ]
+        }
+      ],
+      "orig": "International Journal of Home Science 2016; 2(1): 69-74",
+      "text": "International Journal of Home Science 2016; 2(1): 69-74"
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 214.0,
+            "t": 688.6666666666666,
+            "r": 539.3333333333333,
+            "b": 664.3333333333334,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            36
+          ]
+        }
+      ],
+      "orig": "International lJournal ofHomeScience",
+      "text": "International lJournal ofHomeScience",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 60.06,
+            "t": 613.267,
+            "r": 78.942,
+            "b": 606.58,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "ISSN:",
+      "text": "ISSN:"
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 78.96,
+            "t": 613.912,
+            "r": 112.705,
+            "b": 606.345,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "2395-7476",
+      "text": "2395-7476"
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 60.06,
+            "t": 604.793,
+            "r": 133.156,
+            "b": 597.225,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            22
+          ]
+        }
+      ],
+      "orig": "IJHS 2016; 2(1): 69-74",
+      "text": "IJHS 2016; 2(1): 69-74"
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 60.06,
+            "t": 595.793,
+            "r": 103.53,
+            "b": 588.225,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            11
+          ]
+        }
+      ],
+      "orig": "© 2016 IJHS",
+      "text": "© 2016 IJHS"
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 60.06,
+            "t": 586.733,
+            "r": 156.713,
+            "b": 579.165,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            26
+          ]
+        }
+      ],
+      "orig": "www.homesciencejournal.com",
+      "text": "www.homesciencejournal.com"
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 60.06,
+            "t": 576.353,
+            "r": 128.79,
+            "b": 568.785,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            20
+          ]
+        }
+      ],
+      "orig": "Received: 12-11-2015",
+      "text": "Received: 12-11-2015"
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 60.06,
+            "t": 565.973,
+            "r": 129.2,
+            "b": 558.405,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            20
+          ]
+        }
+      ],
+      "orig": "Accepted: 13-12-2015",
+      "text": "Accepted: 13-12-2015"
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 60.06,
+            "t": 546.727,
+            "r": 119.966,
+            "b": 540.041,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "Vandana Goswami",
+      "text": "Vandana Goswami",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 60.06,
+            "t": 538.493,
+            "r": 164.922,
+            "b": 503.865,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            104
+          ]
+        }
+      ],
+      "orig": "Research Scholar, Department of Home Science D.D.U. Gorakhpur University Gorakhpur 273009 (U.P.), India.",
+      "text": "Research Scholar, Department of Home Science D.D.U. Gorakhpur University Gorakhpur 273009 (U.P.), India."
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 60.06,
+            "t": 492.606,
+            "r": 126.46,
+            "b": 485.919,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            20
+          ]
+        }
+      ],
+      "orig": "Dr. Divya Rani Singh",
+      "text": "Dr. Divya Rani Singh",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 60.06,
+            "t": 484.311,
+            "r": 124.243,
+            "b": 476.743,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            20
+          ]
+        }
+      ],
+      "orig": "Assistant Professor,",
+      "text": "Assistant Professor,"
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 60.06,
+            "t": 475.311,
+            "r": 164.922,
+            "b": 449.683,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            83
+          ]
+        }
+      ],
+      "orig": "Department of Home Science DDU Gorakhpur University Gorakhpur 273009 (U.P.), India.",
+      "text": "Department of Home Science DDU Gorakhpur University Gorakhpur 273009 (U.P.), India."
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 60.06,
+            "t": 101.04700000000003,
+            "r": 164.922,
+            "b": 49.184999999999945,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            140
+          ]
+        }
+      ],
+      "orig": "Correspondence Dr. Divya Rani Singh Assistant Professor, Department of Home Science DDU Gorakhpur University Gorakhpur 273009 (U.P.), India.",
+      "text": "Correspondence Dr. Divya Rani Singh Assistant Professor, Department of Home Science DDU Gorakhpur University Gorakhpur 273009 (U.P.), India."
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 199.501,
+            "t": 598.853,
+            "r": 549.998,
+            "b": 567.208,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            74
+          ]
+        }
+      ],
+      "orig": "Impact of mobile phone addiction on adolescent's life: A literature review",
+      "text": "Impact of mobile phone addiction on adolescent's life: A literature review",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 193.619,
+            "t": 546.735,
+            "r": 397.615,
+            "b": 536.604,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            37
+          ]
+        }
+      ],
+      "orig": "Vandana Goswami, Dr. Divya Rani Singh",
+      "text": "Vandana Goswami, Dr. Divya Rani Singh",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 193.619,
+            "t": 521.623,
+            "r": 225.139,
+            "b": 514.024,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "Abstract",
+      "text": "Abstract",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 193.619,
+            "t": 512.048,
+            "r": 554.338,
+            "b": 455.657,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            624
+          ]
+        }
+      ],
+      "orig": "Mobile phone usage is so strongly integrated into young people's behavior that symptoms of behavioral addiction, such as cell phone usage interrupting their day -to-day activities. Main aim of this paper is the reviews  investigate  some  aspects  of  the  emerging  literature  on  the  impact  of  mobile  phone  on adolescent's life. There are several reviews addressing the definition, Mobile phone addiction symptoms, Assessment of Mobile phone addiction, Negative effect of Mobile phone addiction on adolescents and some reviews addressing the role of Mobile phone addiction on adolescent's mental and physical health.",
+      "text": "Mobile phone usage is so strongly integrated into young people's behavior that symptoms of behavioral addiction, such as cell phone usage interrupting their day -to-day activities. Main aim of this paper is the reviews  investigate  some  aspects  of  the  emerging  literature  on  the  impact  of  mobile  phone  on adolescent's life. There are several reviews addressing the definition, Mobile phone addiction symptoms, Assessment of Mobile phone addiction, Negative effect of Mobile phone addiction on adolescents and some reviews addressing the role of Mobile phone addiction on adolescent's mental and physical health."
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 193.619,
+            "t": 443.923,
+            "r": 478.212,
+            "b": 436.217,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            78
+          ]
+        }
+      ],
+      "orig": "Keywords: Adolescent's, Mobile phone, Addiction, Literature review, Assessment",
+      "text": "Keywords: Adolescent's, Mobile phone, Addiction, Literature review, Assessment"
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 193.619,
+            "t": 422.926,
+            "r": 256.629,
+            "b": 414.467,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "1. Introduction",
+      "text": "1. Introduction",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 193.619,
+            "t": 412.269,
+            "r": 554.617,
+            "b": 349.79,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            504
+          ]
+        }
+      ],
+      "orig": "Worldwide technology and its changes play a major role in each individual's life. The current trend of the society is to adopt every change in the field of communication technology. The mobile  phones  are  boon  of  this  century.  Mobile  phone  is  considered  as  an  important communication tool and became the integral part of the society, it is not only a communication device but it also a necessary social accessory. People are increasingly using mobile phones rather than the fixed telephones .",
+      "text": "Worldwide technology and its changes play a major role in each individual's life. The current trend of the society is to adopt every change in the field of communication technology. The mobile  phones  are  boon  of  this  century.  Mobile  phone  is  considered  as  an  important communication tool and became the integral part of the society, it is not only a communication device but it also a necessary social accessory. People are increasingly using mobile phones rather than the fixed telephones ."
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 193.62,
+            "t": 347.649,
+            "r": 554.571,
+            "b": 209.74800000000005,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1241
+          ]
+        }
+      ],
+      "orig": "The cell phone today is a lifeline for many. It is estimated that around 4.5 billion people use the  cell  phone  worldwide.  And  it  comes  as  no  surprise  that  a  huge  chunk  of  this  quantity consists of the youth. The cell phone is more of a necessity for them than a luxury. Umpteen number of surveys conducted on the youth worldwide have figured out that they consider cell phones an integral part of survival and some have even gone to the extent of saying that they would rather go without food for a day than without their cell phones. With constant texting, calling, listening to music, playing phone games or simply fiddling with the phone being such an integral part of their lifestyles, it is little wonder that not having it around strikes them with paranoia. According to Telecom Regulatory Authority of India, there are about 929.37 million mobile  phone  subscribers  in  India  making  it  the  world's  second-largest  cell  phone  using developing country in the month of May, 2012 (TRAI, 2012)  [53] . Motorola, Nokia, Samsung, Sony  Ericsson  etc.  are  the  popular  mobile  phone  brands  in  Indian  market  luring  their customers by introducing latest mobile phones at regular intervals (Singla, 2010) [46] .",
+      "text": "The cell phone today is a lifeline for many. It is estimated that around 4.5 billion people use the  cell  phone  worldwide.  And  it  comes  as  no  surprise  that  a  huge  chunk  of  this  quantity consists of the youth. The cell phone is more of a necessity for them than a luxury. Umpteen number of surveys conducted on the youth worldwide have figured out that they consider cell phones an integral part of survival and some have even gone to the extent of saying that they would rather go without food for a day than without their cell phones. With constant texting, calling, listening to music, playing phone games or simply fiddling with the phone being such an integral part of their lifestyles, it is little wonder that not having it around strikes them with paranoia. According to Telecom Regulatory Authority of India, there are about 929.37 million mobile  phone  subscribers  in  India  making  it  the  world's  second-largest  cell  phone  using developing country in the month of May, 2012 (TRAI, 2012)  [53] . Motorola, Nokia, Samsung, Sony  Ericsson  etc.  are  the  popular  mobile  phone  brands  in  Indian  market  luring  their customers by introducing latest mobile phones at regular intervals (Singla, 2010) [46] ."
+    },
+    {
+      "self_ref": "#/texts/23",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 193.619,
+            "t": 207.54899999999998,
+            "r": 554.527,
+            "b": 91.24800000000005,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1038
+          ]
+        }
+      ],
+      "orig": "There  has  been  quite  an  enormous  amount  of  popularity  of  cellular  phones  in  younger generation  within  a  short  span  of  time  (Hakoama  &  Hakoyama,  2011) [17] .  Youth  is  more inclined  towards  using  mobile  phones  for  activities  other  than  communication  than  older generation  (Mackay  &  Weidlich,  2007) [30] because  in  adolescence  stage,  people  are  more susceptible to changing fashion trends and style, building them more Tech savvy which creates certain behavioral disorders. On the contrary, administrators and teachers frequently consider the use of cell phones by students at schools, restraining them from their education and this arises as hurdles in their education (Johnson & Kritsonis, 2007) [23] . Moreover, mobile phones have aided in smoothening the progress of social release of youngsters from parental authority (Ling, 2004). But, their parents often have more sense of security when their children travel independently outside their home along with their phones (Baron, 2010) [7] .",
+      "text": "There  has  been  quite  an  enormous  amount  of  popularity  of  cellular  phones  in  younger generation  within  a  short  span  of  time  (Hakoama  &  Hakoyama,  2011) [17] .  Youth  is  more inclined  towards  using  mobile  phones  for  activities  other  than  communication  than  older generation  (Mackay  &  Weidlich,  2007) [30] because  in  adolescence  stage,  people  are  more susceptible to changing fashion trends and style, building them more Tech savvy which creates certain behavioral disorders. On the contrary, administrators and teachers frequently consider the use of cell phones by students at schools, restraining them from their education and this arises as hurdles in their education (Johnson & Kritsonis, 2007) [23] . Moreover, mobile phones have aided in smoothening the progress of social release of youngsters from parental authority (Ling, 2004). But, their parents often have more sense of security when their children travel independently outside their home along with their phones (Baron, 2010) [7] ."
+    },
+    {
+      "self_ref": "#/texts/24",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 193.619,
+            "t": 78.16700000000003,
+            "r": 328.537,
+            "b": 69.707,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            33
+          ]
+        }
+      ],
+      "orig": "2. Definition of Mobile Addiction",
+      "text": "2. Definition of Mobile Addiction",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/25",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 193.619,
+            "t": 67.44899999999996,
+            "r": 554.545,
+            "b": 48.168000000000006,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            184
+          ]
+        }
+      ],
+      "orig": "As mobile phone use has dramatically increased in recent years, so too  have the  reports  of mobile phone addiction. However, while there are many studies supporting the idea of media",
+      "text": "As mobile phone use has dramatically increased in recent years, so too  have the  reports  of mobile phone addiction. However, while there are many studies supporting the idea of media"
+    },
+    {
+      "self_ref": "#/texts/26",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 296.76,
+            "t": 41.46500000000003,
+            "r": 315.259,
+            "b": 36.60000000000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "~ 69 ~",
+      "text": "~ 69 ~"
+    },
+    {
+      "self_ref": "#/texts/27",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 49.86,
+            "t": 769.145,
+            "r": 166.13,
+            "b": 762.343,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            37
+          ]
+        }
+      ],
+      "orig": "International Journal of Home Science",
+      "text": "International Journal of Home Science"
+    },
+    {
+      "self_ref": "#/texts/28",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 60.059,
+            "t": 752.586,
+            "r": 300.503,
+            "b": 560.865,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1127
+          ]
+        }
+      ],
+      "orig": "addictions  to  television  and  the  Internet,  research  on  mobile phone  addiction  hardly  seems  to  exist.  The  criteria  used  to determine media addiction include a 'craving or compulsion, loss of control, and persistence in the behavior despite accruing  adverse  consequences'  (Shaffer,  Hall  &  Bilt,  1999) [44] . A few of these adverse effects include isolating their users from  others  (e.g.,  Kraut, et  al .  1998;  Bull,  2005) [24, 11] , deleteriously effecting their users' finances, turning their users into  criminals  (e.g.,  Ross,  2001;  'Mobile  phones  becoming,' 2003) [40,  33] ,  and negatively impacting academic performance (Kubey, et  al .  2001) [25] .  Some  psychiatrists  believe  that mobile phone addiction is no different from any other type of addiction  (e.g.,  drug,  the  Internet)  and  that  mobile  phone addiction  has  become  one  of  the  most  prevalent  non-drug addictions  ('Mobile  phones  becoming,'  2003) [33] .  Several scholars  (e.g.,  Park,  2005) [36] have  reported  that  some  users are more dependent on their mobile phones than they themselves are aware.",
+      "text": "addictions  to  television  and  the  Internet,  research  on  mobile phone  addiction  hardly  seems  to  exist.  The  criteria  used  to determine media addiction include a 'craving or compulsion, loss of control, and persistence in the behavior despite accruing  adverse  consequences'  (Shaffer,  Hall  &  Bilt,  1999) [44] . A few of these adverse effects include isolating their users from  others  (e.g.,  Kraut, et  al .  1998;  Bull,  2005) [24, 11] , deleteriously effecting their users' finances, turning their users into  criminals  (e.g.,  Ross,  2001;  'Mobile  phones  becoming,' 2003) [40,  33] ,  and negatively impacting academic performance (Kubey, et  al .  2001) [25] .  Some  psychiatrists  believe  that mobile phone addiction is no different from any other type of addiction  (e.g.,  drug,  the  Internet)  and  that  mobile  phone addiction  has  become  one  of  the  most  prevalent  non-drug addictions  ('Mobile  phones  becoming,'  2003) [33] .  Several scholars  (e.g.,  Park,  2005) [36] have  reported  that  some  users are more dependent on their mobile phones than they themselves are aware."
+    },
+    {
+      "self_ref": "#/texts/29",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 60.059,
+            "t": 558.666,
+            "r": 300.483,
+            "b": 431.626,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            752
+          ]
+        }
+      ],
+      "orig": "Terms such as \"Smartphone addiction\" [Casey 2012; Lee, et al. 2013] [13, 26]  \"mobile phone addiction\" [Park 2005; Ahmed, et al 2011; Szpakow, et al. 2011] [36, 3, 51] \"problematic mobile phone use\" [Billieux, et  al. 2008;  Takao, et  al. 2009] [10,  52] , \"mobile phone dependence\" [Satoko, et al. 2009; Choliz 2012] [43, 14] , \"compulsive mobile phone use\" [Matthews, et al. 2009] and \"mobile phone overuse\" [Perry and Lee 2007] [37] , have all been used to describe more or less the same phenomenon, that is, individuals engrossed in their Smartphone use to the extent that they neglect other areas of life. The most commonly used terms  to  describe  this  kind  of  addiction  are  \"mobile  phone addiction\" and, recently, \"Smartphone addiction\".",
+      "text": "Terms such as \"Smartphone addiction\" [Casey 2012; Lee, et al. 2013] [13, 26]  \"mobile phone addiction\" [Park 2005; Ahmed, et al 2011; Szpakow, et al. 2011] [36, 3, 51] \"problematic mobile phone use\" [Billieux, et  al. 2008;  Takao, et  al. 2009] [10,  52] , \"mobile phone dependence\" [Satoko, et al. 2009; Choliz 2012] [43, 14] , \"compulsive mobile phone use\" [Matthews, et al. 2009] and \"mobile phone overuse\" [Perry and Lee 2007] [37] , have all been used to describe more or less the same phenomenon, that is, individuals engrossed in their Smartphone use to the extent that they neglect other areas of life. The most commonly used terms  to  describe  this  kind  of  addiction  are  \"mobile  phone addiction\" and, recently, \"Smartphone addiction\"."
+    },
+    {
+      "self_ref": "#/texts/30",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 60.061,
+            "t": 418.544,
+            "r": 293.635,
+            "b": 410.084,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            52
+          ]
+        }
+      ],
+      "orig": "3. Mobile Phone Addiction Symptoms among Adolescents",
+      "text": "3. Mobile Phone Addiction Symptoms among Adolescents",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/31",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 60.06,
+            "t": 407.827,
+            "r": 300.542,
+            "b": 54.52800000000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2128
+          ]
+        },
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 314.04,
+            "t": 752.587,
+            "r": 554.619,
+            "b": 560.867,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            2129,
+            3256
+          ]
+        }
+      ],
+      "orig": "In  one  of  the  earliest  relevant  studies,  Bianchi  and  Phillips (2005) [8] argued that the problem of mobile phone use may be a symptom  of  an  impulse  control  deficit or depression. Addressing  the  underlying  problem  as  well  as  inappropriate mobile  phone  use,  they  used  some  dependent  variables  to predict  mobile  phone  addiction,  such  as  reported  time  per week  spent  simply  using  the  device  problem  use,  reported percentage  of  use  socially  based,  and  reported  percentage  of business-based  use. Other  variables were  also  considered including  reported  percentage  of  use  in  other  features.  The results  indicated  that  the  technological  addictions  offer  an appropriate  starting  point  for  a  consideration  of  problem mobile phone use. The results also revealed that young people, in particular, appear to be susceptible to high use and problem use.  They  were  the  heaviest  users  of  the  SMS  function  and other  features  of  mobile  phones. Ross  (2011) [40] found  that three characteristics of mobile phone addiction, the first is that people  who  are  addicted  to  mobile  phone  always  keep  their mobile  phones  on.  The  second  is  that  they  tend  to  use  their mobile  phones  even  when  they  have  a  land-line  phone  at home. Finally, they normally are confronted with financial and social  difficulties  due  to  their  excessive  mobile  phone  use. James and Drennan (2005) [21] carried out research on Australian university students' mobile phone use and discovered a large use rate of 1.5-5 hours a day. Their findings showed  a  range  of  characteristics  associated  with  addictive use.  These  were:  impulsiveness,  mounting  tension  prior  to using the  device,  failure  of  control  strategies  and  withdrawal symptoms.  The results also identified some  factors that correlated with consumer engagement in addictive or compulsive  behavior.  Situational  factors  affecting  excessive use  included  special  events,  alcohol  abuse  and  depressive circumstances.  A  wide  range  of  other  negative  consequences from  mobile  phone  addiction  among  consumers  included financial  issues,  damaged  relationships,  emotional  stress  and falling  literacy.  Park  (2005) [36] asked  respondents  to  report their minutes of mobile phone use and divided them into light user who reported less than nine minutes of use and heavy user who reported more than nine minutes of use. Respondents who reported less than nine minutes of use were considered 'light' users, while respondents who reported more than nine minute of use were considered 'heavy' users. Mobile phone addiction was  measured  based  on  seven  criteria  of  dependency.  These were:  tolerance,  withdrawal,  unintended  use,  cutting  down, time spent, displacement of other activities and continued use. The results showed that mobile phone users grew tolerant of mobile  phones  despite  the  fact  that  they  might  cause  such problems  as  high  phone  bills  and  public  annoyance.  Also, when  the  mobile  phone  was  unavailable  for  a  time,  users became highly anxious and irritated. This behavior continued although these were troubling signs of addiction.",
+      "text": "In  one  of  the  earliest  relevant  studies,  Bianchi  and  Phillips (2005) [8] argued that the problem of mobile phone use may be a symptom  of  an  impulse  control  deficit or depression. Addressing  the  underlying  problem  as  well  as  inappropriate mobile  phone  use,  they  used  some  dependent  variables  to predict  mobile  phone  addiction,  such  as  reported  time  per week  spent  simply  using  the  device  problem  use,  reported percentage  of  use  socially  based,  and  reported  percentage  of business-based  use. Other  variables were  also  considered including  reported  percentage  of  use  in  other  features.  The results  indicated  that  the  technological  addictions  offer  an appropriate  starting  point  for  a  consideration  of  problem mobile phone use. The results also revealed that young people, in particular, appear to be susceptible to high use and problem use.  They  were  the  heaviest  users  of  the  SMS  function  and other  features  of  mobile  phones. Ross  (2011) [40] found  that three characteristics of mobile phone addiction, the first is that people  who  are  addicted  to  mobile  phone  always  keep  their mobile  phones  on.  The  second  is  that  they  tend  to  use  their mobile  phones  even  when  they  have  a  land-line  phone  at home. Finally, they normally are confronted with financial and social  difficulties  due  to  their  excessive  mobile  phone  use. James and Drennan (2005) [21] carried out research on Australian university students' mobile phone use and discovered a large use rate of 1.5-5 hours a day. Their findings showed  a  range  of  characteristics  associated  with  addictive use.  These  were:  impulsiveness,  mounting  tension  prior  to using the  device,  failure  of  control  strategies  and  withdrawal symptoms.  The results also identified some  factors that correlated with consumer engagement in addictive or compulsive  behavior.  Situational  factors  affecting  excessive use  included  special  events,  alcohol  abuse  and  depressive circumstances.  A  wide  range  of  other  negative  consequences from  mobile  phone  addiction  among  consumers  included financial  issues,  damaged  relationships,  emotional  stress  and falling  literacy.  Park  (2005) [36] asked  respondents  to  report their minutes of mobile phone use and divided them into light user who reported less than nine minutes of use and heavy user who reported more than nine minutes of use. Respondents who reported less than nine minutes of use were considered 'light' users, while respondents who reported more than nine minute of use were considered 'heavy' users. Mobile phone addiction was  measured  based  on  seven  criteria  of  dependency.  These were:  tolerance,  withdrawal,  unintended  use,  cutting  down, time spent, displacement of other activities and continued use. The results showed that mobile phone users grew tolerant of mobile  phones  despite  the  fact  that  they  might  cause  such problems  as  high  phone  bills  and  public  annoyance.  Also, when  the  mobile  phone  was  unavailable  for  a  time,  users became highly anxious and irritated. This behavior continued although these were troubling signs of addiction."
+    },
+    {
+      "self_ref": "#/texts/32",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 314.041,
+            "t": 547.845,
+            "r": 482.122,
+            "b": 539.385,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            39
+          ]
+        }
+      ],
+      "orig": "4. Assessment of Mobile Phone Addiction",
+      "text": "4. Assessment of Mobile Phone Addiction",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/33",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 314.04,
+            "t": 537.127,
+            "r": 554.584,
+            "b": 54.52999999999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2821
+          ]
+        }
+      ],
+      "orig": "Only a few validated scales are currently available for researchers and clinicians. As a consequence, many published studies have investigated problematic use of the mobile phone by using their own pooled items (e.g., Billiexu et al . 2007; Ha JH, et  al .  2008;  Sanchez  and  Otero  2009) [9,  16,  42] ,  which, among  other  issues,  raises  problems  in  replicating  results. There is thus a real need to translate and diffuse the available validated  instruments.  One  of  the  most  used  among  them  is Mobile  Phone Problem  Use  Scale  (MPPUS)  (Bianchi  and Phillips,  2005) [8] .  The  MPPUS  is  an  unifactorial  27-item questionnaire inspired by the addiction literature, which covers issues  such  as  tolerance,  withdrawals,  escape  from  other problems, craving and negative consequences upon daily life (at  social,  familial,  professional  and  financial  levels).  The items are scored with a 10-point Likert scale, allowing dimensional rather than categorical (i.e., 'yes' or 'no') responses.  The  MPPUS  was  administered  in  several  studies and can be considered a useful tool to assess a global score of mobile  phone  addiction.  Other  comparable  unidimensional tools have been developed by Toda, et  al .  (2004) [54] Mobile Phone Dependence Questionnaire (MPDQ), and Walsh, et al . (2010) [57]  Mobile Phone Involvement Questionnaire including scales based on diagnostic criteria (inspired by the substance abuse nosography). Mobile phone use was nevertheless shown to imply various types of dysfunctional behaviors and adverse consequences,  raising  the  need  to  develop  multidimensional measures. Currently, the only validated multidimensional scale is the Problematic Mobile Phone Use Questionnaire (PMPUQ) (Billieux, et al . 2008) [10] . The PMPUQ  is  a 30-item questionnaire that measures four distinct facets of problematic mobile phone use. Each item is assessed on a 4- point Likert scale, allowing dimensional answers. The constructs measured by the PMPUQ are the following: (1) dangerous use, defined as  the  tendency  to  use  the  mobile  phone  while  driving;  (2) prohibited  use,  defined  as  the  tendency  to  use  the  mobile phone in banned places; (3) dependence symptoms, based on features of addictive behaviors (e.g., loss of control, occurrence of negative effect in situations or contexts in which the use of the mobile phone is not possible or allowed); and (4) financial  problems,  which  reflect  the  extent  to  which  mobile phone  use  resulted  in  tangible  financial  problems  (this  latter subscale can be considered a measure of negative outcome in daily life). Finally, attempts have been made to develop scales that specifically focus on the assessment of problematic use of SMS  by  Rutland, et al . (2007) [41]   SMS  Problem  Use",
+      "text": "Only a few validated scales are currently available for researchers and clinicians. As a consequence, many published studies have investigated problematic use of the mobile phone by using their own pooled items (e.g., Billiexu et al . 2007; Ha JH, et  al .  2008;  Sanchez  and  Otero  2009) [9,  16,  42] ,  which, among  other  issues,  raises  problems  in  replicating  results. There is thus a real need to translate and diffuse the available validated  instruments.  One  of  the  most  used  among  them  is Mobile  Phone Problem  Use  Scale  (MPPUS)  (Bianchi  and Phillips,  2005) [8] .  The  MPPUS  is  an  unifactorial  27-item questionnaire inspired by the addiction literature, which covers issues  such  as  tolerance,  withdrawals,  escape  from  other problems, craving and negative consequences upon daily life (at  social,  familial,  professional  and  financial  levels).  The items are scored with a 10-point Likert scale, allowing dimensional rather than categorical (i.e., 'yes' or 'no') responses.  The  MPPUS  was  administered  in  several  studies and can be considered a useful tool to assess a global score of mobile  phone  addiction.  Other  comparable  unidimensional tools have been developed by Toda, et  al .  (2004) [54] Mobile Phone Dependence Questionnaire (MPDQ), and Walsh, et al . (2010) [57]  Mobile Phone Involvement Questionnaire including scales based on diagnostic criteria (inspired by the substance abuse nosography). Mobile phone use was nevertheless shown to imply various types of dysfunctional behaviors and adverse consequences,  raising  the  need  to  develop  multidimensional measures. Currently, the only validated multidimensional scale is the Problematic Mobile Phone Use Questionnaire (PMPUQ) (Billieux, et al . 2008) [10] . The PMPUQ  is  a 30-item questionnaire that measures four distinct facets of problematic mobile phone use. Each item is assessed on a 4- point Likert scale, allowing dimensional answers. The constructs measured by the PMPUQ are the following: (1) dangerous use, defined as  the  tendency  to  use  the  mobile  phone  while  driving;  (2) prohibited  use,  defined  as  the  tendency  to  use  the  mobile phone in banned places; (3) dependence symptoms, based on features of addictive behaviors (e.g., loss of control, occurrence of negative effect in situations or contexts in which the use of the mobile phone is not possible or allowed); and (4) financial  problems,  which  reflect  the  extent  to  which  mobile phone  use  resulted  in  tangible  financial  problems  (this  latter subscale can be considered a measure of negative outcome in daily life). Finally, attempts have been made to develop scales that specifically focus on the assessment of problematic use of SMS  by  Rutland, et al . (2007) [41]   SMS  Problem  Use"
+    },
+    {
+      "self_ref": "#/texts/34",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 296.76,
+            "t": 41.46500000000003,
+            "r": 315.259,
+            "b": 36.60000000000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "~ 70 ~",
+      "text": "~ 70 ~"
+    },
+    {
+      "self_ref": "#/texts/35",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 49.86,
+            "t": 769.145,
+            "r": 166.13,
+            "b": 762.343,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            37
+          ]
+        }
+      ],
+      "orig": "International Journal of Home Science",
+      "text": "International Journal of Home Science"
+    },
+    {
+      "self_ref": "#/texts/36",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 60.058,
+            "t": 752.586,
+            "r": 300.435,
+            "b": 733.245,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            113
+          ]
+        }
+      ],
+      "orig": "Diagnostic  Questionnaire  (SMS-PUDQ)  and  Igarashi, et  al . (2008) [20]  Text Message Dependence Scale (TMDS).",
+      "text": "Diagnostic  Questionnaire  (SMS-PUDQ)  and  Igarashi, et  al . (2008) [20]  Text Message Dependence Scale (TMDS)."
+    },
+    {
+      "self_ref": "#/texts/37",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 60.059,
+            "t": 720.164,
+            "r": 270.578,
+            "b": 711.704,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            49
+          ]
+        }
+      ],
+      "orig": "5. Negative Impact of Mobile Phone on Adolescents",
+      "text": "5. Negative Impact of Mobile Phone on Adolescents",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/38",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 60.059,
+            "t": 709.507,
+            "r": 300.509,
+            "b": 442.37,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1540
+          ]
+        }
+      ],
+      "orig": "The Orissa government (September 16 2008) announced that it has  banned  the  use  of  mobile  phones  in  college  campuses. 'The mobile  phones  are  found  to  be  a  disturbing  element  in college campus. Therefore, we have banned it in the campus,' said  higher  education  minister  Samir  Dey,  adding  that  the order  would  be  implemented  in  both  government  and  nongovernment colleges across the state. In the first instance of its kind  in  the  country,  Gujarat  Government  has  banned  use of mobile phones in schools and colleges, saying it  was affecting educational activities in the institutes. A resolution to this  effect  was  passed  by  the  state  education  department  on Saturday 2008. Teenagers who excessively use their cell phone are  more  prone  to  disrupted  sleep,  restlessness,  stress  and fatigue. 58% of Asians, which includes Indians, have comprised  to  use  mobile  phones  when  travelling  by  air. According to the survey they have also found that Indians are the \"most social\" with 69% most likely to use their phones in cinema halls/ movie theatres, 21% use it in a place of worship, and 79% while attending a wedding ceremony. 25% of users across  the  markets  surveyed  have  said  they  used  mobile phones  in  the  meetings,  80%  of  Asians  use  a  mobile  phone while  eating.  With  so  many  utility  applications  being  made available on mobile phones, be it to surf the internet or to pay bills,  this  dependency  on  mobile  phones  is  escalating  at  a greater pace.",
+      "text": "The Orissa government (September 16 2008) announced that it has  banned  the  use  of  mobile  phones  in  college  campuses. 'The mobile  phones  are  found  to  be  a  disturbing  element  in college campus. Therefore, we have banned it in the campus,' said  higher  education  minister  Samir  Dey,  adding  that  the order  would  be  implemented  in  both  government  and  nongovernment colleges across the state. In the first instance of its kind  in  the  country,  Gujarat  Government  has  banned  use of mobile phones in schools and colleges, saying it  was affecting educational activities in the institutes. A resolution to this  effect  was  passed  by  the  state  education  department  on Saturday 2008. Teenagers who excessively use their cell phone are  more  prone  to  disrupted  sleep,  restlessness,  stress  and fatigue. 58% of Asians, which includes Indians, have comprised  to  use  mobile  phones  when  travelling  by  air. According to the survey they have also found that Indians are the \"most social\" with 69% most likely to use their phones in cinema halls/ movie theatres, 21% use it in a place of worship, and 79% while attending a wedding ceremony. 25% of users across  the  markets  surveyed  have  said  they  used  mobile phones  in  the  meetings,  80%  of  Asians  use  a  mobile  phone while  eating.  With  so  many  utility  applications  being  made available on mobile phones, be it to surf the internet or to pay bills,  this  dependency  on  mobile  phones  is  escalating  at  a greater pace."
+    },
+    {
+      "self_ref": "#/texts/39",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 60.059,
+            "t": 441.117,
+            "r": 300.497,
+            "b": 205.36900000000003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1347
+          ]
+        }
+      ],
+      "orig": "Subba, et al. (2013) [50] explored  the  ringxiety  (Phantom ringing) and other perceived effects, as well as the pattern of the mobile phone usage among college students in South India, Mangalore, and they found that mostly, the person whom they talked  to  on  their  phones  were  parents  for  220  (51%)  of  the students. 150 (48%) talked for less than half hour in a day and 137 (41%) were high volume message users. 'Ringxiety' were more  likely  to  use  their  phones  at  restricted  place  like  class rooms  (99%)  and  libraries  (60.3%). Cagan, et  al. (2014) [12] stated that daily cellular phone use has increased the level of addiction.  It  has  been  established  that  there  is  a  negative correlation between addiction to cellular phone and academic success  and  also  a  positive  correlation  between  addiction  to cellular  phone  and  the  level  of  depression. Sheopuri  and Sheopuri (2014) [45] observed that extent of addictive behaviour towards the usage of mobile phones and the relation between  the  users  of  the  mobiles  and  the  psychological behaviour among adolescents in Bhopal, India. They showed that  cell  phone  usage  is  so  strongly  integrated  in  to  young people's  behaviour  that  symptoms  of  behavioural  addiction, such as cell phone  usage interrupting their day to day activities.",
+      "text": "Subba, et al. (2013) [50] explored  the  ringxiety  (Phantom ringing) and other perceived effects, as well as the pattern of the mobile phone usage among college students in South India, Mangalore, and they found that mostly, the person whom they talked  to  on  their  phones  were  parents  for  220  (51%)  of  the students. 150 (48%) talked for less than half hour in a day and 137 (41%) were high volume message users. 'Ringxiety' were more  likely  to  use  their  phones  at  restricted  place  like  class rooms  (99%)  and  libraries  (60.3%). Cagan, et  al. (2014) [12] stated that daily cellular phone use has increased the level of addiction.  It  has  been  established  that  there  is  a  negative correlation between addiction to cellular phone and academic success  and  also  a  positive  correlation  between  addiction  to cellular  phone  and  the  level  of  depression. Sheopuri  and Sheopuri (2014) [45] observed that extent of addictive behaviour towards the usage of mobile phones and the relation between  the  users  of  the  mobiles  and  the  psychological behaviour among adolescents in Bhopal, India. They showed that  cell  phone  usage  is  so  strongly  integrated  in  to  young people's  behaviour  that  symptoms  of  behavioural  addiction, such as cell phone  usage interrupting their day to day activities."
+    },
+    {
+      "self_ref": "#/texts/40",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 60.059,
+            "t": 192.288,
+            "r": 300.51,
+            "b": 173.08799999999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            75
+          ]
+        }
+      ],
+      "orig": "6.  Effect  of  Mobile  Phone  on  Adolescents  Mental  and Physical Health",
+      "text": "6.  Effect  of  Mobile  Phone  on  Adolescents  Mental  and Physical Health",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/41",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 60.059,
+            "t": 170.83000000000004,
+            "r": 300.496,
+            "b": 76.07100000000003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            533
+          ]
+        }
+      ],
+      "orig": "Over usage of the mobile phone leads to physiological health hazards like headaches, earache, warmth sensation, fatigue and musculoskeletal  symptoms.  Usage  of  mobile  phones  during driving  is  one  of  the  leading  cause  of  accident,  and  some controversy still  exist  in  the  over  usage  of  the  mobile  phone whether  it  produces  tumor  or  not.  Mobile-addicts  can  be seriously affected at the psychological level. They don't show any physical and psychological symptoms, their disorder goes unnoticed by others.",
+      "text": "Over usage of the mobile phone leads to physiological health hazards like headaches, earache, warmth sensation, fatigue and musculoskeletal  symptoms.  Usage  of  mobile  phones  during driving  is  one  of  the  leading  cause  of  accident,  and  some controversy still  exist  in  the  over  usage  of  the  mobile  phone whether  it  produces  tumor  or  not.  Mobile-addicts  can  be seriously affected at the psychological level. They don't show any physical and psychological symptoms, their disorder goes unnoticed by others."
+    },
+    {
+      "self_ref": "#/texts/42",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 60.059,
+            "t": 74.81799999999998,
+            "r": 300.453,
+            "b": 54.528999999999996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            131
+          ]
+        },
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 314.038,
+            "t": 752.587,
+            "r": 554.548,
+            "b": 388.55,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            132,
+            2241
+          ]
+        }
+      ],
+      "orig": "Ozturan, et al. (2002) [35] concluded that Ear is the first organ dealing  with  the  cell  phones,  there  is  a  elevated  energy deposition in the ear as compared to other organs and its effect on hearing are debated. Loughran, et al . (2005) [29] found that exposure  to  electromagnetic  fields  emitted  by  digital  mobile phones handsets prior to sleep decreased the rapid eye movement (REM), sleep latency and increased the electroencephalogram spectral power in the 11.5 to 12.25 Hz frequency  range  during  the  initial  part  of  sleep  following exposure.  Agrawal, et  al .  (2008) [2] reported  that  the  cell phones harmful radiations were able to degrade the quality of sperm with regard to quantity, viability, motility, morphology and few mutations in DNA causing severe changes in sperms. Soderqvist, et al . (2008) [48] explored the assess use of wireless phones and health symptoms in 2000 Swedish adolescents and they showed that frequent mobile phone users reported health complaints, such as tiredness, stress, headache, anxiety, concentration difficulties and sleep disturbances. Regular users of  wireless  phones  had  health  symptoms  more  often  and reported  poorer  perceived  health  than  less  frequent  users. Srivastava and Tiwari (2013) [49] investigated that the  effects of excess use of cell phone on adolescent's mental health and quality of life. They randomly selected 100 male students from Uttar  Pradesh,  India.  They  found  that  limited  users  of  cell phone  have  better  mental  health  and  quality  of  life  than unlimited  users  of  cell  phone. Acharya, et al. (2013) [1] examined that the health effects of cell phones usage amongst students  pursuing  professional  courses  in  colleges.  College students of both sexes in the age group 17-23 years from urban and  rural  backgrounds  were  selected  at  random  (those  using cell  phones).  Result  showed  that  headache  was  to  be  the commonest  symptoms  followed  by  irritability/anger.  Other common mental symptoms included lack of concentration and poor  academic  performance,  insomnia,  anxiety  etc.  Among physical symptoms- body aches, eye strain, digital thumb were found to be frequently in both sexes.",
+      "text": "Ozturan, et al. (2002) [35] concluded that Ear is the first organ dealing  with  the  cell  phones,  there  is  a  elevated  energy deposition in the ear as compared to other organs and its effect on hearing are debated. Loughran, et al . (2005) [29] found that exposure  to  electromagnetic  fields  emitted  by  digital  mobile phones handsets prior to sleep decreased the rapid eye movement (REM), sleep latency and increased the electroencephalogram spectral power in the 11.5 to 12.25 Hz frequency  range  during  the  initial  part  of  sleep  following exposure.  Agrawal, et  al .  (2008) [2] reported  that  the  cell phones harmful radiations were able to degrade the quality of sperm with regard to quantity, viability, motility, morphology and few mutations in DNA causing severe changes in sperms. Soderqvist, et al . (2008) [48] explored the assess use of wireless phones and health symptoms in 2000 Swedish adolescents and they showed that frequent mobile phone users reported health complaints, such as tiredness, stress, headache, anxiety, concentration difficulties and sleep disturbances. Regular users of  wireless  phones  had  health  symptoms  more  often  and reported  poorer  perceived  health  than  less  frequent  users. Srivastava and Tiwari (2013) [49] investigated that the  effects of excess use of cell phone on adolescent's mental health and quality of life. They randomly selected 100 male students from Uttar  Pradesh,  India.  They  found  that  limited  users  of  cell phone  have  better  mental  health  and  quality  of  life  than unlimited  users  of  cell  phone. Acharya, et al. (2013) [1] examined that the health effects of cell phones usage amongst students  pursuing  professional  courses  in  colleges.  College students of both sexes in the age group 17-23 years from urban and  rural  backgrounds  were  selected  at  random  (those  using cell  phones).  Result  showed  that  headache  was  to  be  the commonest  symptoms  followed  by  irritability/anger.  Other common mental symptoms included lack of concentration and poor  academic  performance,  insomnia,  anxiety  etc.  Among physical symptoms- body aches, eye strain, digital thumb were found to be frequently in both sexes."
+    },
+    {
+      "self_ref": "#/texts/43",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 314.038,
+            "t": 375.409,
+            "r": 519.949,
+            "b": 366.95,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            48
+          ]
+        }
+      ],
+      "orig": "7. Gender differences and Mobile Phone Addiction",
+      "text": "7. Gender differences and Mobile Phone Addiction",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/44",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 314.037,
+            "t": 364.752,
+            "r": 554.484,
+            "b": 302.33,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            376
+          ]
+        }
+      ],
+      "orig": "Adolescents  consider  the  mobile  phone  as  important  in  their lives: girls more than boys (Oksman, 2006) [34] .  According to previous  studies,  boys  and  girls  respond  differently  to  SMS, the latter using it more than the former (Rautiainen 2002; APS 2004;  [58] MACRO 2004; Haste 2005)  [38, 31, 18] . Only one study contradicts these findings (Sze & Hock 2004).",
+      "text": "Adolescents  consider  the  mobile  phone  as  important  in  their lives: girls more than boys (Oksman, 2006) [34] .  According to previous  studies,  boys  and  girls  respond  differently  to  SMS, the latter using it more than the former (Rautiainen 2002; APS 2004;  [58] MACRO 2004; Haste 2005)  [38, 31, 18] . Only one study contradicts these findings (Sze & Hock 2004)."
+    },
+    {
+      "self_ref": "#/texts/45",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 314.037,
+            "t": 300.071,
+            "r": 554.531,
+            "b": 205.36900000000003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            550
+          ]
+        }
+      ],
+      "orig": "Researches  explain  how  the  mobile  phone  levels  the  gender differences between boys and girls precisely by giving rise to 'gendered' sub-cultures; so that while girls use it primarily as a tool for communication and maintenance of peer-groups and contacts,  and  social  aspects  (such  as  design,  ringtone,  and colour),  boys  use  it  more  for  its  own  sake,  exploring  its features, and as a toy; this difference in use balancing out the amount of use among both groups (Lobet-Maris 2002; Rautiainen 2001; [61, 60] Skog 2002)  [47] .",
+      "text": "Researches  explain  how  the  mobile  phone  levels  the  gender differences between boys and girls precisely by giving rise to 'gendered' sub-cultures; so that while girls use it primarily as a tool for communication and maintenance of peer-groups and contacts,  and  social  aspects  (such  as  design,  ringtone,  and colour),  boys  use  it  more  for  its  own  sake,  exploring  its features, and as a toy; this difference in use balancing out the amount of use among both groups (Lobet-Maris 2002; Rautiainen 2001; [61, 60] Skog 2002)  [47] ."
+    },
+    {
+      "self_ref": "#/texts/46",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 314.037,
+            "t": 204.11900000000003,
+            "r": 554.526,
+            "b": 54.52999999999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            882
+          ]
+        }
+      ],
+      "orig": "Devis, et al .  (2009) [15] concluded that boys spend more time on using mobile  phones  than girls and also adolescents consume more time on using mobile phones on weekend than on  casual  weekend day. Turner et  al .  (2008) [55] suggest  that \"user  personality  and  individual  attributes  such  as  age  and gender  were  found  to  be  differentially  associated  with  some aspects of phone-related behaviors\" Billieux et  al .  (2008) [10] tested  gender  differences  in  both  teams  of  impulsion  and problematic mobile phone use among the young. The results showed that men use their mobile phones more frequently in dangerous  situations  whereas  women  are  more  dependent  on them.  The  results  on  impulsion  showed  that  men  exhibit significantly  higher  levels  of  sensation  seeking  and  lower levels of perseverance, while women  reveal  significantly",
+      "text": "Devis, et al .  (2009) [15] concluded that boys spend more time on using mobile  phones  than girls and also adolescents consume more time on using mobile phones on weekend than on  casual  weekend day. Turner et  al .  (2008) [55] suggest  that \"user  personality  and  individual  attributes  such  as  age  and gender  were  found  to  be  differentially  associated  with  some aspects of phone-related behaviors\" Billieux et  al .  (2008) [10] tested  gender  differences  in  both  teams  of  impulsion  and problematic mobile phone use among the young. The results showed that men use their mobile phones more frequently in dangerous  situations  whereas  women  are  more  dependent  on them.  The  results  on  impulsion  showed  that  men  exhibit significantly  higher  levels  of  sensation  seeking  and  lower levels of perseverance, while women  reveal  significantly"
+    },
+    {
+      "self_ref": "#/texts/47",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 296.76,
+            "t": 41.46500000000003,
+            "r": 315.259,
+            "b": 36.60000000000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "~ 71 ~",
+      "text": "~ 71 ~"
+    },
+    {
+      "self_ref": "#/texts/48",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 49.86,
+            "t": 769.145,
+            "r": 166.13,
+            "b": 762.343,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            37
+          ]
+        }
+      ],
+      "orig": "International Journal of Home Science",
+      "text": "International Journal of Home Science"
+    },
+    {
+      "self_ref": "#/texts/49",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 60.059,
+            "t": 752.586,
+            "r": 300.502,
+            "b": 625.546,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            747
+          ]
+        }
+      ],
+      "orig": "higher  levels  of  urgency.  Assessing  the  pathological  Internet and  cell  phone  use  among  337  Spanish  college  students, Jenaro et  al .  (2007) [22] found  that  high  cell-phone  use  is associated  to  being  female,  and  having  high  anxiety  and insomnia.  Walsh et  al .  (2011) [56] found  that  gender  was associated with mobile phone involvement but not frequency of use. Howell et al . (2008) [19] investigated gender differences related  to  their  mobile  phones  and  users'  perception  and attitude  towards  their  use  in  public  and  private  places.  They concluded  that while females  perceived  the service very positively, there was a persistent trend for males to dislike the service, regardless of location.",
+      "text": "higher  levels  of  urgency.  Assessing  the  pathological  Internet and  cell  phone  use  among  337  Spanish  college  students, Jenaro et  al .  (2007) [22] found  that  high  cell-phone  use  is associated  to  being  female,  and  having  high  anxiety  and insomnia.  Walsh et  al .  (2011) [56] found  that  gender  was associated with mobile phone involvement but not frequency of use. Howell et al . (2008) [19] investigated gender differences related  to  their  mobile  phones  and  users'  perception  and attitude  towards  their  use  in  public  and  private  places.  They concluded  that while females  perceived  the service very positively, there was a persistent trend for males to dislike the service, regardless of location."
+    },
+    {
+      "self_ref": "#/texts/50",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 60.059,
+            "t": 612.465,
+            "r": 116.768,
+            "b": 604.005,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            13
+          ]
+        }
+      ],
+      "orig": "8. Conclusion",
+      "text": "8. Conclusion",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/51",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 60.057,
+            "t": 601.748,
+            "r": 300.513,
+            "b": 291.528,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1886
+          ]
+        }
+      ],
+      "orig": "Some studies highlighted the negative effects of mobile phone addiction among adolescents (Subba, et al . 2013, Cagan, et al . 2014, Sheopuri and Sheopuri 2014)  [50, 12, 45] . Some researcher identified the nature of this type of addiction by indicating its symptoms, classifying its levels (Bianchi and Phillips 2005, [8] Ross 2011, James and Drennan 2005, Park 2005)  [40, 21, 36] and developing tools to measure it (Billiexu, et al . 2007, Ha JH, et al . 2008, Sanchez and Otero 2009, Bianchi and Phillips 2005, Toda, et al . 2004,  Walsh, et al . 2010, [57] Billieux, et al . 2008, Rutland, et al . 2007, Igarashi, et al . 2008) [9,  16,  12,  8,  54,  10,  41,  20] many researchers have addressed gender differences in Mobile phone  addiction  (Devis, et  al .  2009,  Turner, et  al .  2008, Billieux, et  al .  2008,  Jenaro, et  al .  2007,  Walsh, et  al .  2011, Howell, et  al .  2008) [15,  55,  10,  22,  56,  19] .  A  few  studies  have examined  the  relationship between  Mobile  phone  addiction and adolescent's mental and physical health problems (Ozturan, et  al .  2002,  Loughran, et  al .  2005,  Agrawal, et  al . 2008,  Soderqvist, et  al .  2008,  Srivastava  and  Tiwari  2013, Acharya, et al . 2013) [35, 29, 2, 48, 49, 1] On the basis of this review paper  we  have  understand  that  adolescent's  is  more  inclined towards using mobile phones for activities other than communication than older generation because in adolescence stage, people are more susceptible to changing fashion trends and  style,  building  them  more  Tech  savvy  which  creates certain behavioral disorders. The fame of the mobile phones is followed  by  an  alarm  towards  the  detrimental  effects  of  cell phone  radiation,  Fatigue,  headache,  decreased  concentration and  local  irritation  and  burning  are  the  major  effects  of excessive usage of mobile phones.",
+      "text": "Some studies highlighted the negative effects of mobile phone addiction among adolescents (Subba, et al . 2013, Cagan, et al . 2014, Sheopuri and Sheopuri 2014)  [50, 12, 45] . Some researcher identified the nature of this type of addiction by indicating its symptoms, classifying its levels (Bianchi and Phillips 2005, [8] Ross 2011, James and Drennan 2005, Park 2005)  [40, 21, 36] and developing tools to measure it (Billiexu, et al . 2007, Ha JH, et al . 2008, Sanchez and Otero 2009, Bianchi and Phillips 2005, Toda, et al . 2004,  Walsh, et al . 2010, [57] Billieux, et al . 2008, Rutland, et al . 2007, Igarashi, et al . 2008) [9,  16,  12,  8,  54,  10,  41,  20] many researchers have addressed gender differences in Mobile phone  addiction  (Devis, et  al .  2009,  Turner, et  al .  2008, Billieux, et  al .  2008,  Jenaro, et  al .  2007,  Walsh, et  al .  2011, Howell, et  al .  2008) [15,  55,  10,  22,  56,  19] .  A  few  studies  have examined  the  relationship between  Mobile  phone  addiction and adolescent's mental and physical health problems (Ozturan, et  al .  2002,  Loughran, et  al .  2005,  Agrawal, et  al . 2008,  Soderqvist, et  al .  2008,  Srivastava  and  Tiwari  2013, Acharya, et al . 2013) [35, 29, 2, 48, 49, 1] On the basis of this review paper  we  have  understand  that  adolescent's  is  more  inclined towards using mobile phones for activities other than communication than older generation because in adolescence stage, people are more susceptible to changing fashion trends and  style,  building  them  more  Tech  savvy  which  creates certain behavioral disorders. The fame of the mobile phones is followed  by  an  alarm  towards  the  detrimental  effects  of  cell phone  radiation,  Fatigue,  headache,  decreased  concentration and  local  irritation  and  burning  are  the  major  effects  of excessive usage of mobile phones."
+    },
+    {
+      "self_ref": "#/texts/52",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 60.057,
+            "t": 278.446,
+            "r": 115.658,
+            "b": 269.9870000000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            13
+          ]
+        }
+      ],
+      "orig": "9. References",
+      "text": "9. References",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/53",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 60.057,
+            "t": 267.789,
+            "r": 300.486,
+            "b": 226.909,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            196
+          ]
+        }
+      ],
+      "orig": "1. Acharya JP, Acharya I, Waghrey D. A study on some of the  Common  Health  Effects  of  Cell-Phones  amongst college  students.  Journal  of  Community  Medicine  & Health Education. 2013, 3(4).",
+      "text": "Acharya JP, Acharya I, Waghrey D. A study on some of the  Common  Health  Effects  of  Cell-Phones  amongst college  students.  Journal  of  Community  Medicine  & Health Education. 2013, 3(4).",
+      "enumerated": true,
+      "marker": "1."
+    },
+    {
+      "self_ref": "#/texts/54",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 60.059,
+            "t": 224.64999999999998,
+            "r": 300.482,
+            "b": 183.82899999999995,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            222
+          ]
+        }
+      ],
+      "orig": "2. Agrawal  A,  Deepinder  D,  Sharma  RK,  Rang  G,  Li  J. Effect  of  Cell  phone  usage  on  Semen  Analysis  in  Men Attending Infertility Clinic: An  Observational study. Fertility and Sterility, 2008; 89(1):124-128.",
+      "text": "Agrawal  A,  Deepinder  D,  Sharma  RK,  Rang  G,  Li  J. Effect  of  Cell  phone  usage  on  Semen  Analysis  in  Men Attending Infertility Clinic: An  Observational study. Fertility and Sterility, 2008; 89(1):124-128.",
+      "enumerated": true,
+      "marker": "2."
+    },
+    {
+      "self_ref": "#/texts/55",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 60.059,
+            "t": 181.63,
+            "r": 300.454,
+            "b": 151.49,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            143
+          ]
+        }
+      ],
+      "orig": "3. Ahmed I, Qazi TF, Perji K. Mobile phone to youngsters: necessity or addiction. African Journal of Business Management. 2011; 5(32):12512-19.",
+      "text": "Ahmed I, Qazi TF, Perji K. Mobile phone to youngsters: necessity or addiction. African Journal of Business Management. 2011; 5(32):12512-19.",
+      "enumerated": true,
+      "marker": "3."
+    },
+    {
+      "self_ref": "#/texts/56",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 60.061,
+            "t": 149.23199999999997,
+            "r": 300.484,
+            "b": 108.41100000000006,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            158
+          ]
+        }
+      ],
+      "orig": "4. Article,  Radiofrequency  radiation  associated  with  cell phone. 2011. Available from URL:http://www.ewg.org/cellphoneradiation/cellphonesafety-standards",
+      "text": "Article,  Radiofrequency  radiation  associated  with  cell phone. 2011. Available from URL:http://www.ewg.org/cellphoneradiation/cellphonesafety-standards",
+      "enumerated": true,
+      "marker": "4."
+    },
+    {
+      "self_ref": "#/texts/57",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 60.061,
+            "t": 106.21100000000001,
+            "r": 213.102,
+            "b": 97.67100000000005,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            36
+          ]
+        }
+      ],
+      "orig": "5. Available: Mobile phone addiction",
+      "text": "Available: Mobile phone addiction",
+      "enumerated": true,
+      "marker": "5."
+    },
+    {
+      "self_ref": "#/texts/58",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 60.062,
+            "t": 95.41200000000003,
+            "r": 288.984,
+            "b": 76.07100000000003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            73
+          ]
+        }
+      ],
+      "orig": "6. http://hubpages.com/hub/Indians-among-most-addictedmobile-phones-users",
+      "text": "http://hubpages.com/hub/Indians-among-most-addictedmobile-phones-users",
+      "enumerated": true,
+      "marker": "6."
+    },
+    {
+      "self_ref": "#/texts/59",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 60.063,
+            "t": 73.81299999999999,
+            "r": 300.402,
+            "b": 54.53200000000004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            114
+          ]
+        }
+      ],
+      "orig": "7. Baron  NS.  The  Dark  Side  of  Mobile  Phones,  2010. Retrieved from http://www.american.edu/cas/lfs/.../The-",
+      "text": "Baron  NS.  The  Dark  Side  of  Mobile  Phones,  2010. Retrieved from http://www.american.edu/cas/lfs/.../The-",
+      "enumerated": true,
+      "marker": "7."
+    },
+    {
+      "self_ref": "#/texts/60",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 331.024,
+            "t": 752.591,
+            "r": 460.772,
+            "b": 744.05,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            31
+          ]
+        }
+      ],
+      "orig": "Dark-Side-of- Mobile-Phones.pdf",
+      "text": "Dark-Side-of- Mobile-Phones.pdf",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/61",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 314.044,
+            "t": 741.791,
+            "r": 554.572,
+            "b": 711.709,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            129
+          ]
+        }
+      ],
+      "orig": "8. Bianchi A, Phillips J. Psychological predictors of problem mobile phone use. Cyber Psychology and Behavior . 2005; 8(1):39-51.",
+      "text": "Bianchi A, Phillips J. Psychological predictors of problem mobile phone use. Cyber Psychology and Behavior . 2005; 8(1):39-51.",
+      "enumerated": true,
+      "marker": "8."
+    },
+    {
+      "self_ref": "#/texts/62",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 314.044,
+            "t": 709.51,
+            "r": 554.559,
+            "b": 668.628,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            180
+          ]
+        }
+      ],
+      "orig": "9. Billieux  J.  Van  der  Linden  M,  d'  Acremont  M.  Does impulsivity relate to perceived dependence and actual use of the mobile phone? Appl Cognit Psychol 2007; 21(4):527-37.",
+      "text": "Billieux  J.  Van  der  Linden  M,  d'  Acremont  M.  Does impulsivity relate to perceived dependence and actual use of the mobile phone? Appl Cognit Psychol 2007; 21(4):527-37.",
+      "enumerated": true,
+      "marker": "9."
+    },
+    {
+      "self_ref": "#/texts/63",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 314.044,
+            "t": 666.369,
+            "r": 554.531,
+            "b": 636.289,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            179
+          ]
+        }
+      ],
+      "orig": "10. Billieux  J,  Van  der  Linden  M,  Rochat  L.  The  role  of impulsivity  in  actual  and  problematic  use  of  the  mobile phone. Appl Cognit Psychol; 2008; 22(9):1195-210.",
+      "text": "Billieux  J,  Van  der  Linden  M,  Rochat  L.  The  role  of impulsivity  in  actual  and  problematic  use  of  the  mobile phone. Appl Cognit Psychol; 2008; 22(9):1195-210.",
+      "enumerated": true,
+      "marker": "10."
+    },
+    {
+      "self_ref": "#/texts/64",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 314.044,
+            "t": 634.089,
+            "r": 554.538,
+            "b": 614.808,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            107
+          ]
+        }
+      ],
+      "orig": "11. Bull M. No dead air! The iPod and the culture of mobile listening. Leisure Studies 2005; 24(4):343-355.",
+      "text": "Bull M. No dead air! The iPod and the culture of mobile listening. Leisure Studies 2005; 24(4):343-355.",
+      "enumerated": true,
+      "marker": "11."
+    },
+    {
+      "self_ref": "#/texts/65",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 314.044,
+            "t": 612.55,
+            "r": 554.52,
+            "b": 560.87,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            265
+          ]
+        }
+      ],
+      "orig": "12. Cagan  O,  Unsal  A,  Celik N. Evaluation of college students  the  level  of  Addiction  to  Cellular  Phone  and Investigation  on  the  Relationship  between  the  Addiction and  the  Level  of  Depression . Social  and  Behavioral Science 2014; 114:831-839.",
+      "text": "Cagan  O,  Unsal  A,  Celik N. Evaluation of college students  the  level  of  Addiction  to  Cellular  Phone  and Investigation  on  the  Relationship  between  the  Addiction and  the  Level  of  Depression . Social  and  Behavioral Science 2014; 114:831-839.",
+      "enumerated": true,
+      "marker": "12."
+    },
+    {
+      "self_ref": "#/texts/66",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 314.044,
+            "t": 558.671,
+            "r": 554.559,
+            "b": 507.051,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            238
+          ]
+        }
+      ],
+      "orig": "13. Casey BM. Linking psychological attributes to smartphone addiction, face-to-face communication, present  absence  and  social  capital.  Unpublished  Master's thesis.  The  Chinese  University  of  Hong  Kong,  Hong Kong, China, 2012.",
+      "text": "Casey BM. Linking psychological attributes to smartphone addiction, face-to-face communication, present  absence  and  social  capital.  Unpublished  Master's thesis.  The  Chinese  University  of  Hong  Kong,  Hong Kong, China, 2012.",
+      "enumerated": true,
+      "marker": "13."
+    },
+    {
+      "self_ref": "#/texts/67",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 314.044,
+            "t": 504.792,
+            "r": 554.477,
+            "b": 474.712,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            137
+          ]
+        }
+      ],
+      "orig": "14. Chóliz  M.  Mobile-phone  addiction  in  adolescence:  The test of mobile-phone dependence (TMD) . Prog. Health Sc. 2012; 2(1):33-44.",
+      "text": "Chóliz  M.  Mobile-phone  addiction  in  adolescence:  The test of mobile-phone dependence (TMD) . Prog. Health Sc. 2012; 2(1):33-44.",
+      "enumerated": true,
+      "marker": "14."
+    },
+    {
+      "self_ref": "#/texts/68",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 314.044,
+            "t": 472.512,
+            "r": 554.533,
+            "b": 420.833,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            255
+          ]
+        }
+      ],
+      "orig": "15. Devis  JD,  Carmen  P,  Vicente  JB,  Thomas  JM.  Screen media  time  usage  of  12-16  year  old  Spanish  school adolescents: Effects of personal and socioeconomic factors,  season  and type  of  day.  Journal  of  Adolescence. 2009; 32(2):213-231.",
+      "text": "Devis  JD,  Carmen  P,  Vicente  JB,  Thomas  JM.  Screen media  time  usage  of  12-16  year  old  Spanish  school adolescents: Effects of personal and socioeconomic factors,  season  and type  of  day.  Journal  of  Adolescence. 2009; 32(2):213-231.",
+      "enumerated": true,
+      "marker": "15."
+    },
+    {
+      "self_ref": "#/texts/69",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 314.044,
+            "t": 418.633,
+            "r": 554.453,
+            "b": 388.553,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            150
+          ]
+        }
+      ],
+      "orig": "16. Ha  JH,  Chin  B,  Park  DH.  Characteristics  of  excessive cellular  phone  use  in  Korean  adolescents.  Cyberpsychol Behav 2008; 11(6):783-4.",
+      "text": "Ha  JH,  Chin  B,  Park  DH.  Characteristics  of  excessive cellular  phone  use  in  Korean  adolescents.  Cyberpsychol Behav 2008; 11(6):783-4.",
+      "enumerated": true,
+      "marker": "16."
+    },
+    {
+      "self_ref": "#/texts/70",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 314.037,
+            "t": 386.287,
+            "r": 554.522,
+            "b": 345.407,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            211
+          ]
+        }
+      ],
+      "orig": "17. Hakoama M, Hakoyama S. The Impact of Cell Phone Use on  Social  Networking  and  Development  among  College Students.  The  American  Association  of  Behavioral  and Social Sciences Journal. 2011; 15:1-20.",
+      "text": "Hakoama M, Hakoyama S. The Impact of Cell Phone Use on  Social  Networking  and  Development  among  College Students.  The  American  Association  of  Behavioral  and Social Sciences Journal. 2011; 15:1-20.",
+      "enumerated": true,
+      "marker": "17."
+    },
+    {
+      "self_ref": "#/texts/71",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 314.037,
+            "t": 343.208,
+            "r": 554.52,
+            "b": 302.327,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            183
+          ]
+        }
+      ],
+      "orig": "18. Haste H. Joined-up texting: The role of mobile phones in young people's lives. Nestlé Social Research Programme, Report no. 3, February 2005. Retrieved January 2005; 8, 2007. from",
+      "text": "Haste H. Joined-up texting: The role of mobile phones in young people's lives. Nestlé Social Research Programme, Report no. 3, February 2005. Retrieved January 2005; 8, 2007. from",
+      "enumerated": true,
+      "marker": "18."
+    },
+    {
+      "self_ref": "#/texts/72",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 331.017,
+            "t": 300.069,
+            "r": 549.756,
+            "b": 291.528,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            55
+          ]
+        }
+      ],
+      "orig": "http://www.ipsosmori.com/polls/2004/pdf/nestlesrp3.pdf.",
+      "text": "http://www.ipsosmori.com/polls/2004/pdf/nestlesrp3.pdf.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/73",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 314.037,
+            "t": 289.328,
+            "r": 554.576,
+            "b": 259.24800000000005,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            161
+          ]
+        }
+      ],
+      "orig": "19. Howell  M,  Love  S,  Turner  M.  User  characteristics  and performance with automated mobile phone systems . Int. J Mobile Communications. 2008; 6(1):1-15.",
+      "text": "Howell  M,  Love  S,  Turner  M.  User  characteristics  and performance with automated mobile phone systems . Int. J Mobile Communications. 2008; 6(1):1-15.",
+      "enumerated": true,
+      "marker": "19."
+    },
+    {
+      "self_ref": "#/texts/74",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 314.037,
+            "t": 256.98900000000003,
+            "r": 554.605,
+            "b": 216.10900000000004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            194
+          ]
+        }
+      ],
+      "orig": "20. Igarashi T, Motoyoshi T, Takai J, Yoshida T. No mobile, no life: self-perception and text-message  dependency among  Japanese  high  school  students.  Comput  Hum Behav 2008; 24(5):2311-24.",
+      "text": "Igarashi T, Motoyoshi T, Takai J, Yoshida T. No mobile, no life: self-perception and text-message  dependency among  Japanese  high  school  students.  Comput  Hum Behav 2008; 24(5):2311-24.",
+      "enumerated": true,
+      "marker": "20."
+    },
+    {
+      "self_ref": "#/texts/75",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 314.037,
+            "t": 213.90999999999997,
+            "r": 554.499,
+            "b": 194.56899999999996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            121
+          ]
+        }
+      ],
+      "orig": "21. James  D,  Drenn  J.  Exploring  addictive  consumption  of mobile phone. Journal of Adolescence . 2005; 27(1):87-96.",
+      "text": "James  D,  Drenn  J.  Exploring  addictive  consumption  of mobile phone. Journal of Adolescence . 2005; 27(1):87-96.",
+      "enumerated": true,
+      "marker": "21."
+    },
+    {
+      "self_ref": "#/texts/76",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 314.037,
+            "t": 192.37,
+            "r": 554.526,
+            "b": 151.49,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            206
+          ]
+        }
+      ],
+      "orig": "22. Jenaro CN,  Flores M,  Gómez-Vela  F,  González G, Caballo C. Problematic internet and cell-phone use: Psychological, behavioral, and health correlates. Addiction Research and Theory 2007; 15(3):309-20.",
+      "text": "Jenaro CN,  Flores M,  Gómez-Vela  F,  González G, Caballo C. Problematic internet and cell-phone use: Psychological, behavioral, and health correlates. Addiction Research and Theory 2007; 15(3):309-20.",
+      "enumerated": true,
+      "marker": "22."
+    },
+    {
+      "self_ref": "#/texts/77",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 314.037,
+            "t": 149.231,
+            "r": 554.596,
+            "b": 108.40999999999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            204
+          ]
+        }
+      ],
+      "orig": "23. Johnson C, Kritsonis WA.  National School Debate: Banning  Cell  Phones  on  Public  School  Campuses  in America. National forum of Education Administration and Supervision Journals. 2007; 25(4):1-6.",
+      "text": "Johnson C, Kritsonis WA.  National School Debate: Banning  Cell  Phones  on  Public  School  Campuses  in America. National forum of Education Administration and Supervision Journals. 2007; 25(4):1-6.",
+      "enumerated": true,
+      "marker": "23."
+    },
+    {
+      "self_ref": "#/texts/78",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 314.038,
+            "t": 106.21100000000001,
+            "r": 554.503,
+            "b": 54.53099999999995,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            221
+          ]
+        }
+      ],
+      "orig": "24. Kraut R, Patterson M, Lundmark V, Kiesler S, Mukopadhyay T, Scherlis W. Internet paradox: A social technology that reduces social involvement and psycholog ical well-being? American Psychologist 1998; 53(9):1017-1031.",
+      "text": "Kraut R, Patterson M, Lundmark V, Kiesler S, Mukopadhyay T, Scherlis W. Internet paradox: A social technology that reduces social involvement and psycholog ical well-being? American Psychologist 1998; 53(9):1017-1031.",
+      "enumerated": true,
+      "marker": "24."
+    },
+    {
+      "self_ref": "#/texts/79",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 296.76,
+            "t": 41.46500000000003,
+            "r": 315.259,
+            "b": 36.60000000000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "~ 72 ~",
+      "text": "~ 72 ~"
+    },
+    {
+      "self_ref": "#/texts/80",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 49.86,
+            "t": 769.145,
+            "r": 166.13,
+            "b": 762.343,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            37
+          ]
+        }
+      ],
+      "orig": "International Journal of Home Science",
+      "text": "International Journal of Home Science"
+    },
+    {
+      "self_ref": "#/texts/81",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 60.06,
+            "t": 752.586,
+            "r": 300.455,
+            "b": 711.705,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            170
+          ]
+        }
+      ],
+      "orig": "25. Kubey  RW,  Lavin  MJ,  Barrows  JR.  Internet  use  and collegiate academic performance decrements: Early findings.  Journal  of  Communication. 2001;  51(2):366382.",
+      "text": "Kubey  RW,  Lavin  MJ,  Barrows  JR.  Internet  use  and collegiate academic performance decrements: Early findings.  Journal  of  Communication. 2001;  51(2):366382.",
+      "enumerated": true,
+      "marker": "25."
+    },
+    {
+      "self_ref": "#/texts/82",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 60.062,
+            "t": 709.505,
+            "r": 300.463,
+            "b": 668.623,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            183
+          ]
+        }
+      ],
+      "orig": "26. Lee Kwon M, Won JY, Park WY, Min JW, Hahn JA, Kim DJ. Development and validation of a smartphone addiction scale (SAS). PloS one. 2013; 8(2):1-7. DOI:10.1371/journal.pone.0056936.",
+      "text": "Lee Kwon M, Won JY, Park WY, Min JW, Hahn JA, Kim DJ. Development and validation of a smartphone addiction scale (SAS). PloS one. 2013; 8(2):1-7. DOI:10.1371/journal.pone.0056936.",
+      "enumerated": true,
+      "marker": "26."
+    },
+    {
+      "self_ref": "#/texts/83",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 60.062,
+            "t": 666.365,
+            "r": 300.489,
+            "b": 625.544,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            180
+          ]
+        }
+      ],
+      "orig": "27. Ling  R.  Adolescent  girls  and  young  adult  men:  Two subcultures of the mobile telephone. Revista de Estudios de Juventud 2002; 57(2):33-46. Retrieved January 9, 2007 from",
+      "text": "Ling  R.  Adolescent  girls  and  young  adult  men:  Two subcultures of the mobile telephone. Revista de Estudios de Juventud 2002; 57(2):33-46. Retrieved January 9, 2007 from",
+      "enumerated": true,
+      "marker": "27."
+    },
+    {
+      "self_ref": "#/texts/84",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 60.062,
+            "t": 623.345,
+            "r": 295.553,
+            "b": 604.004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            78
+          ]
+        }
+      ],
+      "orig": "28. http://www.itu.int/osg/spu/ni/ubiquitous/Papers/Youth_an d_mobile_2002.pdf",
+      "text": "http://www.itu.int/osg/spu/ni/ubiquitous/Papers/Youth_an d_mobile_2002.pdf",
+      "enumerated": true,
+      "marker": "28."
+    },
+    {
+      "self_ref": "#/texts/85",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 60.062,
+            "t": 601.746,
+            "r": 300.465,
+            "b": 560.865,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            186
+          ]
+        }
+      ],
+      "orig": "29. Loughran SP, Wood AW, Barton JM, Croft RJ, Thompson  B,  Stough  C.  The  effect  of  electromagnetic fields emitted by mobile phones on human sleep. Neuroreport 2005; 16(17):1973-6.",
+      "text": "Loughran SP, Wood AW, Barton JM, Croft RJ, Thompson  B,  Stough  C.  The  effect  of  electromagnetic fields emitted by mobile phones on human sleep. Neuroreport 2005; 16(17):1973-6.",
+      "enumerated": true,
+      "marker": "29."
+    },
+    {
+      "self_ref": "#/texts/86",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 60.062,
+            "t": 558.666,
+            "r": 300.47,
+            "b": 517.786,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            201
+          ]
+        }
+      ],
+      "orig": "30. Mackay  MM,  Weidlich  O.  Australian  Mobile  Phone Lifestyle  Index  (3rd  ed.).  Special  Topic:  Advertising  on the  Mobile  Phone.  Australian  Interactive  Media  Industry Association, 2007.",
+      "text": "Mackay  MM,  Weidlich  O.  Australian  Mobile  Phone Lifestyle  Index  (3rd  ed.).  Special  Topic:  Advertising  on the  Mobile  Phone.  Australian  Interactive  Media  Industry Association, 2007.",
+      "enumerated": true,
+      "marker": "30."
+    },
+    {
+      "self_ref": "#/texts/87",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 60.062,
+            "t": 515.587,
+            "r": 300.464,
+            "b": 463.966,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            238
+          ]
+        }
+      ],
+      "orig": "31. MACRO. A report on the  study  of  mobile  phone  usage among  the  teenagers  and  youth  in  Mumbai.  Retrieved, 2004. January 9, 2007, from http://www.itu.int/osg/spu/ni/futuremobile/socialaspects/I ndiaMacroMobileYouthStudy04.pdf.",
+      "text": "MACRO. A report on the  study  of  mobile  phone  usage among  the  teenagers  and  youth  in  Mumbai.  Retrieved, 2004. January 9, 2007, from http://www.itu.int/osg/spu/ni/futuremobile/socialaspects/I ndiaMacroMobileYouthStudy04.pdf.",
+      "enumerated": true,
+      "marker": "31."
+    },
+    {
+      "self_ref": "#/texts/88",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 60.062,
+            "t": 461.708,
+            "r": 300.509,
+            "b": 431.627,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            176
+          ]
+        }
+      ],
+      "orig": "32. Matthews T, Pierce J, Tang J. No smartphone is an island: The  impact  of  places,  situations  and  other  devices  on smartphone use. IBM Research Report #RJ10452., 2009.",
+      "text": "Matthews T, Pierce J, Tang J. No smartphone is an island: The  impact  of  places,  situations  and  other  devices  on smartphone use. IBM Research Report #RJ10452., 2009.",
+      "enumerated": true,
+      "marker": "32."
+    },
+    {
+      "self_ref": "#/texts/89",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 60.062,
+            "t": 429.369,
+            "r": 300.467,
+            "b": 388.548,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            181
+          ]
+        }
+      ],
+      "orig": "33. Mobile phones becoming a major addiction (2003, December  10).  The  Sydney  Morning  Herald . Retrieved May 27, 2006. From http://www.smh.com.au/articles/2003/12/10/10707322505",
+      "text": "Mobile phones becoming a major addiction (2003, December  10).  The  Sydney  Morning  Herald . Retrieved May 27, 2006. From http://www.smh.com.au/articles/2003/12/10/10707322505",
+      "enumerated": true,
+      "marker": "33."
+    },
+    {
+      "self_ref": "#/texts/90",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 76.981,
+            "t": 386.289,
+            "r": 225.57,
+            "b": 377.749,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            35
+          ]
+        }
+      ],
+      "orig": "32.html?from=storyrhs&oneclick=true",
+      "text": "32.html?from=storyrhs&oneclick=true",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/91",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 60.062,
+            "t": 375.49,
+            "r": 300.449,
+            "b": 334.669,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            214
+          ]
+        }
+      ],
+      "orig": "34. Oksman V. Young people and seniors in Finnish 'mobile information society'. Journal of Interactive  Media  in Education, 02. Retrieved January 8, 2007. from http://www-jime.open.ac.uk/2006/02/oksman-2006-02.pdf",
+      "text": "Oksman V. Young people and seniors in Finnish 'mobile information society'. Journal of Interactive  Media  in Education, 02. Retrieved January 8, 2007. from http://www-jime.open.ac.uk/2006/02/oksman-2006-02.pdf",
+      "enumerated": true,
+      "marker": "34."
+    },
+    {
+      "self_ref": "#/texts/92",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 60.063,
+            "t": 332.411,
+            "r": 300.483,
+            "b": 291.53,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            166
+          ]
+        }
+      ],
+      "orig": "35. Ozturan O, Erdem T, Miman MC, Kalcioglu MT, Oncel S. Effects of the Electromagnetic field of Mobile Telephones on Hearing. Acta Otolaryngol, 2002; 123(3):289-293.",
+      "text": "Ozturan O, Erdem T, Miman MC, Kalcioglu MT, Oncel S. Effects of the Electromagnetic field of Mobile Telephones on Hearing. Acta Otolaryngol, 2002; 123(3):289-293.",
+      "enumerated": true,
+      "marker": "35."
+    },
+    {
+      "self_ref": "#/texts/93",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 60.063,
+            "t": 289.331,
+            "r": 300.458,
+            "b": 259.25,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            140
+          ]
+        }
+      ],
+      "orig": "36. Park  WK.  Mobile  phone  addiction,  computer  science, mobile communications, computer supported cooperative work 2005; 31(3):253-272.",
+      "text": "Park  WK.  Mobile  phone  addiction,  computer  science, mobile communications, computer supported cooperative work 2005; 31(3):253-272.",
+      "enumerated": true,
+      "marker": "36."
+    },
+    {
+      "self_ref": "#/texts/94",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 60.063,
+            "t": 256.99199999999996,
+            "r": 300.443,
+            "b": 226.91100000000006,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            142
+          ]
+        }
+      ],
+      "orig": "37. Perry  S,  Lee  K.  Mobile  phone  text  messaging  overuse among developing world university students . Communication. 2007; 33(2):63-79.",
+      "text": "Perry  S,  Lee  K.  Mobile  phone  text  messaging  overuse among developing world university students . Communication. 2007; 33(2):63-79.",
+      "enumerated": true,
+      "marker": "37."
+    },
+    {
+      "self_ref": "#/texts/95",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 60.063,
+            "t": 224.65200000000004,
+            "r": 300.518,
+            "b": 162.29200000000003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            309
+          ]
+        }
+      ],
+      "orig": "38. Rautiainen  VOP.  I've  got  my  whole  life  in  my  hand: Mobile  communication  in  the  everyday  life  of  children and teenagers in Finland. Revista de Estudios de Juventud, 2002; 57(2):25-32. Retrieved January 9, 2007 from http://www.itu.int/osg/spu/ni/ubiquitous/Papers/Youth_an d_mobile_2002.pdf.",
+      "text": "Rautiainen  VOP.  I've  got  my  whole  life  in  my  hand: Mobile  communication  in  the  everyday  life  of  children and teenagers in Finland. Revista de Estudios de Juventud, 2002; 57(2):25-32. Retrieved January 9, 2007 from http://www.itu.int/osg/spu/ni/ubiquitous/Papers/Youth_an d_mobile_2002.pdf.",
+      "enumerated": true,
+      "marker": "38."
+    },
+    {
+      "self_ref": "#/texts/96",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 60.063,
+            "t": 160.03300000000002,
+            "r": 300.478,
+            "b": 119.15300000000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            172
+          ]
+        }
+      ],
+      "orig": "39. Ronald  P. User awareness  about security threats on mobile  phone  is  very  low,  says  F-  Secure:  Interview. [Online] Available from: URL: www.techshout.com, 2008.",
+      "text": "Ronald  P. User awareness  about security threats on mobile  phone  is  very  low,  says  F-  Secure:  Interview. [Online] Available from: URL: www.techshout.com, 2008.",
+      "enumerated": true,
+      "marker": "39."
+    },
+    {
+      "self_ref": "#/texts/97",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 60.063,
+            "t": 116.95399999999995,
+            "r": 300.502,
+            "b": 76.06700000000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            186
+          ]
+        }
+      ],
+      "orig": "40. Roos  JP.  Postmodernity  and  mobile  communications . Paper presented at the meeting of the European Sociological Association on 5th Conference of the ESA, Helsinki, Finland, 2001.",
+      "text": "Roos  JP.  Postmodernity  and  mobile  communications . Paper presented at the meeting of the European Sociological Association on 5th Conference of the ESA, Helsinki, Finland, 2001.",
+      "enumerated": true,
+      "marker": "40."
+    },
+    {
+      "self_ref": "#/texts/98",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 60.06,
+            "t": 73.80799999999999,
+            "r": 300.494,
+            "b": 54.527000000000044,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            114
+          ]
+        }
+      ],
+      "orig": "41. Rutland JB, Sheets T, Young T. Development of a scale to measure problem use of short message service: the SMS",
+      "text": "Rutland JB, Sheets T, Young T. Development of a scale to measure problem use of short message service: the SMS",
+      "enumerated": true,
+      "marker": "41."
+    },
+    {
+      "self_ref": "#/texts/99",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 331.019,
+            "t": 752.586,
+            "r": 552.116,
+            "b": 733.246,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            75
+          ]
+        }
+      ],
+      "orig": "problem use diagnostic questionnaire. Cyberpsychol Behav 2007; 10(6):841-4.",
+      "text": "problem use diagnostic questionnaire. Cyberpsychol Behav 2007; 10(6):841-4.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/100",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 314.04,
+            "t": 731.046,
+            "r": 554.492,
+            "b": 700.965,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            166
+          ]
+        }
+      ],
+      "orig": "42. Sánchez-Martínez  M,  Otero  A.  Factors  associated  with cell phone use in adolescents in the community of Madrid (Spain). Cyberpsychol Behav 2009; 12(2):131-7.",
+      "text": "Sánchez-Martínez  M,  Otero  A.  Factors  associated  with cell phone use in adolescents in the community of Madrid (Spain). Cyberpsychol Behav 2009; 12(2):131-7.",
+      "enumerated": true,
+      "marker": "42."
+    },
+    {
+      "self_ref": "#/texts/101",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 314.04,
+            "t": 698.766,
+            "r": 554.54,
+            "b": 647.083,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            240
+          ]
+        }
+      ],
+      "orig": "43. Satoko F, Masahiro Kimio T, Aki YN, Rei D, Kanehisa M. Relationships of personality and lifestyle with mobile phone dependence among female nursing students. Social Behavior and Personality: An International Journal. 2009; 37(2):231-38.",
+      "text": "Satoko F, Masahiro Kimio T, Aki YN, Rei D, Kanehisa M. Relationships of personality and lifestyle with mobile phone dependence among female nursing students. Social Behavior and Personality: An International Journal. 2009; 37(2):231-38.",
+      "enumerated": true,
+      "marker": "43."
+    },
+    {
+      "self_ref": "#/texts/102",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 314.04,
+            "t": 644.825,
+            "r": 554.519,
+            "b": 614.804,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            145
+          ]
+        }
+      ],
+      "orig": "44. Shaffer  HJ,  Hall  MN,  Bilt  JV.  Computer  addiction:  A critical consideration. American Journal of Orthopsychiatry. 1999; 70(2):162-168.",
+      "text": "Shaffer  HJ,  Hall  MN,  Bilt  JV.  Computer  addiction:  A critical consideration. American Journal of Orthopsychiatry. 1999; 70(2):162-168.",
+      "enumerated": true,
+      "marker": "44."
+    },
+    {
+      "self_ref": "#/texts/103",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 314.039,
+            "t": 612.545,
+            "r": 554.542,
+            "b": 571.665,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            178
+          ]
+        }
+      ],
+      "orig": "45. Sheopuri A,  Sheopuri  A.  Darker  shade of smart  phones: Boon to Bane. International Journal of Business Quantitative Economics and Applied Management Research, 2014, 1(7).",
+      "text": "Sheopuri A,  Sheopuri  A.  Darker  shade of smart  phones: Boon to Bane. International Journal of Business Quantitative Economics and Applied Management Research, 2014, 1(7).",
+      "enumerated": true,
+      "marker": "45."
+    },
+    {
+      "self_ref": "#/texts/104",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 314.039,
+            "t": 569.406,
+            "r": 554.498,
+            "b": 539.385,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            154
+          ]
+        }
+      ],
+      "orig": "46. Singla  S.  Mobile  Phone  Usage  Patterns  among  Indian Consumer  -  An  Exploratory  Study.  Asian  Journal  of Management Research. 2010, 594-599.",
+      "text": "Singla  S.  Mobile  Phone  Usage  Patterns  among  Indian Consumer  -  An  Exploratory  Study.  Asian  Journal  of Management Research. 2010, 594-599.",
+      "enumerated": true,
+      "marker": "46."
+    },
+    {
+      "self_ref": "#/texts/105",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 314.039,
+            "t": 537.126,
+            "r": 554.525,
+            "b": 485.446,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            249
+          ]
+        }
+      ],
+      "orig": "47. Skog  B. Mobiles  and  the Norwegian  teen: Identity, gender, and class. In J. E. Katz & M. A. Aakhus (Eds.), perpetual  contact: Mobile  communication,  private  talk, public performance Cambridge, UK: Cambridge University Press. 2002, 255-273.",
+      "text": "Skog  B. Mobiles  and  the Norwegian  teen: Identity, gender, and class. In J. E. Katz & M. A. Aakhus (Eds.), perpetual  contact: Mobile  communication,  private  talk, public performance Cambridge, UK: Cambridge University Press. 2002, 255-273.",
+      "enumerated": true,
+      "marker": "47."
+    },
+    {
+      "self_ref": "#/texts/106",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 314.04,
+            "t": 483.247,
+            "r": 554.512,
+            "b": 431.627,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            242
+          ]
+        }
+      ],
+      "orig": "48. Soderqvist  F,  Carlberg  M,  Hardell  L.  Use  of  wireless telephones and self-reported health symptoms: A population based study among Swedish adolescents aged years. Environmental Health 2008; 7(18):15-19. doi: 10.1186/1476-069x-7-18.",
+      "text": "Soderqvist  F,  Carlberg  M,  Hardell  L.  Use  of  wireless telephones and self-reported health symptoms: A population based study among Swedish adolescents aged years. Environmental Health 2008; 7(18):15-19. doi: 10.1186/1476-069x-7-18.",
+      "enumerated": true,
+      "marker": "48."
+    },
+    {
+      "self_ref": "#/texts/107",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 314.04,
+            "t": 429.368,
+            "r": 554.536,
+            "b": 399.288,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            172
+          ]
+        }
+      ],
+      "orig": "49. Srivastava  A,  Tiwari  RP.  Effect  of  Excess  use  of  Cell Phone on Adolescent's Mental Health and Quality of Life. International Multidisciplinary e-Journal. 2013.",
+      "text": "Srivastava  A,  Tiwari  RP.  Effect  of  Excess  use  of  Cell Phone on Adolescent's Mental Health and Quality of Life. International Multidisciplinary e-Journal. 2013.",
+      "enumerated": true,
+      "marker": "49."
+    },
+    {
+      "self_ref": "#/texts/108",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 314.04,
+            "t": 397.088,
+            "r": 554.539,
+            "b": 356.209,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            190
+          ]
+        }
+      ],
+      "orig": "50. Subba  SH,  Mandelia  C,  Nagraj  K.  Ringxiety  and  the Mobile  Phone  usage  Pattern  among  the  Students  of  a Medical college in South India. J Clin Diagn Res. 2013; 7(2):205-209.",
+      "text": "Subba  SH,  Mandelia  C,  Nagraj  K.  Ringxiety  and  the Mobile  Phone  usage  Pattern  among  the  Students  of  a Medical college in South India. J Clin Diagn Res. 2013; 7(2):205-209.",
+      "enumerated": true,
+      "marker": "50."
+    },
+    {
+      "self_ref": "#/texts/109",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 314.04,
+            "t": 353.95,
+            "r": 554.531,
+            "b": 323.87,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            171
+          ]
+        }
+      ],
+      "orig": "51. Szpakow A, Stryzhak A, Prokopowicz W. Evaluation of threat  of  mobile  phone  -  addiction  among  Belarusian University students. Prog. Health Sci 2011; 1(2):96-101.",
+      "text": "Szpakow A, Stryzhak A, Prokopowicz W. Evaluation of threat  of  mobile  phone  -  addiction  among  Belarusian University students. Prog. Health Sci 2011; 1(2):96-101.",
+      "enumerated": true,
+      "marker": "51."
+    },
+    {
+      "self_ref": "#/texts/110",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 314.04,
+            "t": 321.671,
+            "r": 554.536,
+            "b": 291.531,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            145
+          ]
+        }
+      ],
+      "orig": "52. Takao M, Takahashi S, Kitamura M. Addictive personality  and  problematic  mobile  phone  use.  Cyber psychology Behavior 2009; 12(5):501-7 .",
+      "text": "Takao M, Takahashi S, Kitamura M. Addictive personality  and  problematic  mobile  phone  use.  Cyber psychology Behavior 2009; 12(5):501-7 .",
+      "enumerated": true,
+      "marker": "52."
+    },
+    {
+      "self_ref": "#/texts/111",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 314.04,
+            "t": 289.332,
+            "r": 554.535,
+            "b": 248.452,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            146
+          ]
+        }
+      ],
+      "orig": "53. Telecom Regulatory  Authority  of  India,  2012.  Retrieved from http://www.trai.gov.in/WriteReadData/PressRealease/ Document/PR-TSD-May12.pdf",
+      "text": "Telecom Regulatory  Authority  of  India,  2012.  Retrieved from http://www.trai.gov.in/WriteReadData/PressRealease/ Document/PR-TSD-May12.pdf",
+      "enumerated": true,
+      "marker": "53."
+    },
+    {
+      "self_ref": "#/texts/112",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 314.04,
+            "t": 246.25299999999993,
+            "r": 554.489,
+            "b": 216.11300000000006,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            145
+          ]
+        }
+      ],
+      "orig": "54. Toda  M,  Monden  K,  Kubo  K,  Morimoto  K.  Cellular phone dependence tendency of female university students. Jpn J Hyg; 2004; 59(4):383-6.",
+      "text": "Toda  M,  Monden  K,  Kubo  K,  Morimoto  K.  Cellular phone dependence tendency of female university students. Jpn J Hyg; 2004; 59(4):383-6.",
+      "enumerated": true,
+      "marker": "54."
+    },
+    {
+      "self_ref": "#/texts/113",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 314.04,
+            "t": 213.914,
+            "r": 554.51,
+            "b": 173.09299999999996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            222
+          ]
+        }
+      ],
+      "orig": "55. Turner  M,  Love  S,  Howell  M.  Understanding  emotions experienced  when  using  a  mobile  phone  in  public:  The social usability of mobile (cellular) telephones . Telematics and Informatics . 2008; 25(3):201-15.",
+      "text": "Turner  M,  Love  S,  Howell  M.  Understanding  emotions experienced  when  using  a  mobile  phone  in  public:  The social usability of mobile (cellular) telephones . Telematics and Informatics . 2008; 25(3):201-15.",
+      "enumerated": true,
+      "marker": "55."
+    },
+    {
+      "self_ref": "#/texts/114",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 314.04,
+            "t": 170.83400000000006,
+            "r": 554.544,
+            "b": 129.94900000000007,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            181
+          ]
+        }
+      ],
+      "orig": "56. Walsh SP, White KM, Stephen C, Young RM. Keeping in constant touch: the predictors of young  Australians' mobile phone involvement. Computers in Human Behavior 2011; 27:333-42 .",
+      "text": "Walsh SP, White KM, Stephen C, Young RM. Keeping in constant touch: the predictors of young  Australians' mobile phone involvement. Computers in Human Behavior 2011; 27:333-42 .",
+      "enumerated": true,
+      "marker": "56."
+    },
+    {
+      "self_ref": "#/texts/115",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 314.04,
+            "t": 127.69000000000005,
+            "r": 554.5,
+            "b": 86.87,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            201
+          ]
+        }
+      ],
+      "orig": "57. Walsh SP,  White  KM,  Young RM.  Needing  to  connect. The effect of self and others on young people's involvement with their mobile phones. Australian journal of Psychology. 2010; 62(4): 194-203.",
+      "text": "Walsh SP,  White  KM,  Young RM.  Needing  to  connect. The effect of self and others on young people's involvement with their mobile phones. Australian journal of Psychology. 2010; 62(4): 194-203.",
+      "enumerated": true,
+      "marker": "57."
+    },
+    {
+      "self_ref": "#/texts/116",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 314.04,
+            "t": 84.61099999999999,
+            "r": 554.467,
+            "b": 54.53099999999995,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            166
+          ]
+        }
+      ],
+      "orig": "58. APS.  Psychological  aspects  of  mobile  phone  use  among adolescents.2004. Retrieved January 9, 2007 from http://www.psychology,org.au/news/mobilephoneresearch",
+      "text": "APS.  Psychological  aspects  of  mobile  phone  use  among adolescents.2004. Retrieved January 9, 2007 from http://www.psychology,org.au/news/mobilephoneresearch",
+      "enumerated": true,
+      "marker": "58."
+    },
+    {
+      "self_ref": "#/texts/117",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 296.76,
+            "t": 41.46500000000003,
+            "r": 315.259,
+            "b": 36.60000000000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "~ 73 ~",
+      "text": "~ 73 ~"
+    },
+    {
+      "self_ref": "#/texts/118",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 49.86,
+            "t": 769.145,
+            "r": 166.13,
+            "b": 762.343,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            37
+          ]
+        }
+      ],
+      "orig": "International Journal of Home Science",
+      "text": "International Journal of Home Science"
+    },
+    {
+      "self_ref": "#/texts/119",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 76.98,
+            "t": 752.586,
+            "r": 119.006,
+            "b": 744.045,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            11
+          ]
+        }
+      ],
+      "orig": "report.pdf.",
+      "text": "report.pdf."
+    },
+    {
+      "self_ref": "#/texts/120",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 60.061,
+            "t": 741.786,
+            "r": 300.508,
+            "b": 711.705,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            144
+          ]
+        }
+      ],
+      "orig": "59. Sze Hui, G.L., & Hock, G.T. The acceptance of SMS text notification services among college students in Malaysia, proceeding of M2USIC. 2004.",
+      "text": "Sze Hui, G.L., & Hock, G.T. The acceptance of SMS text notification services among college students in Malaysia, proceeding of M2USIC. 2004.",
+      "enumerated": true,
+      "marker": "59."
+    },
+    {
+      "self_ref": "#/texts/121",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 60.061,
+            "t": 709.505,
+            "r": 300.579,
+            "b": 657.823,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            246
+          ]
+        }
+      ],
+      "orig": "60. Rautiainen,  P.  Oksman,  V.,  Malinen,  S.,  Utriainen,  A., Liikala, H. Mobile communication culture of children and teenagers in Finland. Information society Research centre of  Tamper  University.  2001.  Retrieved  January  9,  2007 from",
+      "text": "Rautiainen,  P.  Oksman,  V.,  Malinen,  S.,  Utriainen,  A., Liikala, H. Mobile communication culture of children and teenagers in Finland. Information society Research centre of  Tamper  University.  2001.  Retrieved  January  9,  2007 from",
+      "enumerated": true,
+      "marker": "60."
+    },
+    {
+      "self_ref": "#/texts/122",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 76.98,
+            "t": 655.624,
+            "r": 295.518,
+            "b": 636.283,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            70
+          ]
+        }
+      ],
+      "orig": "http://www.netlabhut.fi/opetus/s38001/s01/materiaali/4/ra utianen.pdf.",
+      "text": "http://www.netlabhut.fi/opetus/s38001/s01/materiaali/4/ra utianen.pdf.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/123",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 60.061,
+            "t": 634.084,
+            "r": 300.52,
+            "b": 593.204,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            189
+          ]
+        }
+      ],
+      "orig": "61. Lobert-Maris, C., Henin, L. Talking without communication  or  communicating  without  talking:  from the  GSM  to  the  SMS.  Revista  de  Estudios  de  juventud. 2002, 57(2), 101-114.",
+      "text": "Lobert-Maris, C., Henin, L. Talking without communication  or  communicating  without  talking:  from the  GSM  to  the  SMS.  Revista  de  Estudios  de  juventud. 2002, 57(2), 101-114.",
+      "enumerated": true,
+      "marker": "61."
+    },
+    {
+      "self_ref": "#/texts/124",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 296.76,
+            "t": 41.46500000000003,
+            "r": 315.259,
+            "b": 36.60000000000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "~ 74 ~",
+      "text": "~ 74 ~"
+    }
+  ],
+  "pictures": [
+    {
+      "self_ref": "#/pictures/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 57.53083038330078,
+            "t": 739.1049156188965,
+            "r": 201.67543029785156,
+            "b": 620.2091979980469,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    }
+  ],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 2
+    },
+    "3": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 3
+    },
+    "4": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 4
+    },
+    "5": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 5
+    },
+    "6": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 6
+    }
+  }
+}

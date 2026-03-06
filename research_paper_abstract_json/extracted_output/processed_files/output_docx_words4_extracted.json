@@ -1,0 +1,25 @@
+{
+    "source_file": "output_docx_words4.json",
+    "entities": [
+        {
+            "text": "General         Overview         of         Climate         Change         Impacts         in         Nigeria         :         ABSTRACT         :         ",
+            "label": "ORG"
+        },
+        {
+            "text": "1901-2005",
+            "label": "DATE"
+        }
+    ],
+    "triples": [
+        {
+            "subject": "This",
+            "relation": "prompt",
+            "object": "study"
+        },
+        {
+            "subject": "that",
+            "relation": "take",
+            "object": "overview"
+        }
+    ]
+}

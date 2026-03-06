@@ -1,0 +1,30 @@
+{
+    "source_file": "output_docx_words3.json",
+    "entities": [
+        {
+            "text": "QUS",
+            "label": "ORG"
+        },
+        {
+            "text": "QUS         indices         were         found         to         be         ",
+            "label": "ORG"
+        }
+    ],
+    "triples": [
+        {
+            "subject": "It",
+            "relation": "reflect",
+            "object": "Properties"
+        },
+        {
+            "subject": "QUS",
+            "relation": "employ",
+            "object": "waves"
+        },
+        {
+            "subject": "QUS",
+            "relation": "discriminate",
+            "object": "subjects"
+        }
+    ]
+}

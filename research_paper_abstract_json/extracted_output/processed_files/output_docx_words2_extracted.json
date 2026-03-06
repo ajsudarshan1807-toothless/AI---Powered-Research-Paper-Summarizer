@@ -1,0 +1,64 @@
+{
+    "source_file": "output_docx_words2.json",
+    "entities": [
+        {
+            "text": "BERT",
+            "label": "ORG"
+        },
+        {
+            "text": "one",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "80.5%",
+            "label": "PERCENT"
+        },
+        {
+            "text": "7.7%",
+            "label": "PERCENT"
+        },
+        {
+            "text": "86.7%",
+            "label": "PERCENT"
+        },
+        {
+            "text": "4.6%",
+            "label": "PERCENT"
+        },
+        {
+            "text": "1.5",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "5.1",
+            "label": "CARDINAL"
+        }
+    ],
+    "triples": [
+        {
+            "subject": "We",
+            "relation": "introduce",
+            "object": "model"
+        },
+        {
+            "subject": "It",
+            "relation": "obtain",
+            "object": "state"
+        },
+        {
+            "subject": "It",
+            "relation": "obtain",
+            "object": "accuracy"
+        },
+        {
+            "subject": "It",
+            "relation": "obtain",
+            "object": "F1"
+        },
+        {
+            "subject": "It",
+            "relation": "obtain",
+            "object": "provement"
+        }
+    ]
+}

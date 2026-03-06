@@ -1,0 +1,878 @@
+{
+    "source_file": "output_metadata.json",
+    "entities": [
+        {
+            "text": "RESEARCH",
+            "label": "ORG"
+        },
+        {
+            "text": "Smart Agriculture System",
+            "label": "ORG"
+        },
+        {
+            "text": "IoT Technology Muthunoori Naresh",
+            "label": "ORG"
+        },
+        {
+            "text": "P Munaswamy  Department of Electronics and Communication Engineering",
+            "label": "ORG"
+        },
+        {
+            "text": "Institute of Aeronautical Engineering",
+            "label": "ORG"
+        },
+        {
+            "text": "Hyderabad",
+            "label": "ORG"
+        },
+        {
+            "text": "India",
+            "label": "GPE"
+        },
+        {
+            "text": "International Journal of Recent Technology and Engineering",
+            "label": "ORG"
+        },
+        {
+            "text": "IJRTE",
+            "label": "ORG"
+        },
+        {
+            "text": "IoT",
+            "label": "ORG"
+        },
+        {
+            "text": "IoT",
+            "label": "ORG"
+        },
+        {
+            "text": "Precision Agriculture",
+            "label": "ORG"
+        },
+        {
+            "text": "Deep Bidirectional Transformers for Language Understanding",
+            "label": "WORK_OF_ART"
+        },
+        {
+            "text": "Jacob Devlin",
+            "label": "PERSON"
+        },
+        {
+            "text": "Ming-Wei Chang",
+            "label": "PERSON"
+        },
+        {
+            "text": "Kenton Lee",
+            "label": "PERSON"
+        },
+        {
+            "text": "Kristina Toutanova Google",
+            "label": "PERSON"
+        },
+        {
+            "text": "AI Language",
+            "label": "PERSON"
+        },
+        {
+            "text": "BERT",
+            "label": "ORG"
+        },
+        {
+            "text": "Masked Language Model",
+            "label": "WORK_OF_ART"
+        },
+        {
+            "text": "MLM",
+            "label": "ORG"
+        },
+        {
+            "text": "NLP",
+            "label": "ORG"
+        },
+        {
+            "text": "Machine Learning",
+            "label": "PERSON"
+        },
+        {
+            "text": "Quantitative Ultrasound",
+            "label": "PERSON"
+        },
+        {
+            "text": "Kok-Yong Chin",
+            "label": "PERSON"
+        },
+        {
+            "text": "Soelaiman Ima-Nirwana Department of Pharmacology, Faculty of Medicine",
+            "label": "ORG"
+        },
+        {
+            "text": "International Journal of Medical Sciences",
+            "label": "ORG"
+        },
+        {
+            "text": "Calcaneus",
+            "label": "GPE"
+        },
+        {
+            "text": "Osteoporosis, Bone Health Assessment",
+            "label": "ORG"
+        },
+        {
+            "text": "Nigeria",
+            "label": "GPE"
+        },
+        {
+            "text": "Peter Akpodiogaga-a & Ovuyovwiroye Odjugo Department",
+            "label": "PERSON"
+        },
+        {
+            "text": "Geography and Regional Planning, University of Benin",
+            "label": "ORG"
+        },
+        {
+            "text": "Benin City",
+            "label": "GPE"
+        },
+        {
+            "text": "Edo State",
+            "label": "GPE"
+        },
+        {
+            "text": "Nigeria  Journal of Human Ecology 10.1080/09709274.2010.11906248 Greenhouse Gases",
+            "label": "ORG"
+        },
+        {
+            "text": "Windstorms Climate Change Impacts",
+            "label": "ORG"
+        },
+        {
+            "text": "Geography  RESEARCH PAPER_5",
+            "label": "ORG"
+        },
+        {
+            "text": "Patricia Dominguez Castro",
+            "label": "PERSON"
+        },
+        {
+            "text": "Ciara ME",
+            "label": "PERSON"
+        },
+        {
+            "text": "Reynolds",
+            "label": "ORG"
+        },
+        {
+            "text": "Sharon Kennelly",
+            "label": "PERSON"
+        },
+        {
+            "text": "Barbara Clyne",
+            "label": "PERSON"
+        },
+        {
+            "text": "Gerard Bury",
+            "label": "PERSON"
+        },
+        {
+            "text": "David Hanlon",
+            "label": "PERSON"
+        },
+        {
+            "text": "Celine Murrin",
+            "label": "PERSON"
+        },
+        {
+            "text": "Laura McCullagh",
+            "label": "PERSON"
+        },
+        {
+            "text": "Karen Finnigan",
+            "label": "PERSON"
+        },
+        {
+            "text": "Sarah Clarke",
+            "label": "PERSON"
+        },
+        {
+            "text": "Sarah Browne",
+            "label": "PERSON"
+        },
+        {
+            "text": "Carla Perrotta",
+            "label": "PERSON"
+        },
+        {
+            "text": "Eileen R. Gibney",
+            "label": "PERSON"
+        },
+        {
+            "text": "Clare A. Corish University",
+            "label": "ORG"
+        },
+        {
+            "text": "UCD",
+            "label": "ORG"
+        },
+        {
+            "text": "Health Service Executive",
+            "label": "ORG"
+        },
+        {
+            "text": "HSE",
+            "label": "ORG"
+        },
+        {
+            "text": "Royal College of Surgeons",
+            "label": "ORG"
+        },
+        {
+            "text": "Ireland",
+            "label": "GPE"
+        },
+        {
+            "text": "RCSI",
+            "label": "PERSON"
+        },
+        {
+            "text": "Trinity College Dublin  Clinical Nutrition",
+            "label": "ORG"
+        },
+        {
+            "text": "10.1016",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Qualitative",
+            "label": "ORG"
+        },
+        {
+            "text": "Dietetics",
+            "label": "ORG"
+        },
+        {
+            "text": "Community Clinical Nutrition",
+            "label": "ORG"
+        },
+        {
+            "text": "Community Health  RESEARCH PAPER_6",
+            "label": "ORG"
+        },
+        {
+            "text": "Sam Manning",
+            "label": "PERSON"
+        },
+        {
+            "text": "Pamela Mishkin",
+            "label": "PERSON"
+        },
+        {
+            "text": "Daniel Rock OpenAI",
+            "label": "PERSON"
+        },
+        {
+            "text": "OpenResearch",
+            "label": "ORG"
+        },
+        {
+            "text": "University of Pennsylvania",
+            "label": "ORG"
+        },
+        {
+            "text": "Generative Pre-trained",
+            "label": "PERSON"
+        },
+        {
+            "text": "Task Automation",
+            "label": "PRODUCT"
+        },
+        {
+            "text": "Exposure  Economics",
+            "label": "ORG"
+        },
+        {
+            "text": "Labor Markets",
+            "label": "ORG"
+        },
+        {
+            "text": "Artificial Intelligence  RESEARCH PAPER_7",
+            "label": "ORG"
+        },
+        {
+            "text": "Vandana Goswami",
+            "label": "PERSON"
+        },
+        {
+            "text": "Divya Rani",
+            "label": "PERSON"
+        },
+        {
+            "text": "Singh Department of Home Science",
+            "label": "ORG"
+        },
+        {
+            "text": "D.D.U. Gorakhpur University",
+            "label": "ORG"
+        },
+        {
+            "text": "Gorakhpur",
+            "label": "GPE"
+        },
+        {
+            "text": "India",
+            "label": "GPE"
+        },
+        {
+            "text": "International Journal of Home Science ISSN",
+            "label": "ORG"
+        },
+        {
+            "text": "2395-7476",
+            "label": "DATE"
+        },
+        {
+            "text": "Assessment Home Science, Psychology (Behavioral Addiction",
+            "label": "ORG"
+        },
+        {
+            "text": "Adolescent Health  RESEARCH PAPER_8 Machine Learning Algorithms",
+            "label": "ORG"
+        },
+        {
+            "text": "Bharti Chourasia  Department of Electronics & Communication",
+            "label": "ORG"
+        },
+        {
+            "text": "M.P.",
+            "label": "GPE"
+        },
+        {
+            "text": "India",
+            "label": "GPE"
+        },
+        {
+            "text": "International Research Journal of Engineering and Technology",
+            "label": "ORG"
+        },
+        {
+            "text": "ISSN",
+            "label": "ORG"
+        },
+        {
+            "text": "2395-0056",
+            "label": "DATE"
+        },
+        {
+            "text": "2395-0072",
+            "label": "DATE"
+        },
+        {
+            "text": "Machine Learning",
+            "label": "PERSON"
+        },
+        {
+            "text": "Artificial Intelligence",
+            "label": "ORG"
+        },
+        {
+            "text": "5130",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Qing Wu",
+            "label": "PERSON"
+        },
+        {
+            "text": "Fatma Nasoz",
+            "label": "PERSON"
+        },
+        {
+            "text": "Jongyun Jung",
+            "label": "PERSON"
+        },
+        {
+            "text": "Bibek Bhattarai",
+            "label": "PERSON"
+        },
+        {
+            "text": "Mira V. Han",
+            "label": "PERSON"
+        },
+        {
+            "text": "Robert A. Greenes",
+            "label": "PERSON"
+        },
+        {
+            "text": "Kenneth G. Saag University",
+            "label": "PERSON"
+        },
+        {
+            "text": "Las Vegas",
+            "label": "GPE"
+        },
+        {
+            "text": "Nevada Institute of Personalized Medicine",
+            "label": "ORG"
+        },
+        {
+            "text": "Arizona State University",
+            "label": "ORG"
+        },
+        {
+            "text": "University of Alabama at Birmingham  Scientific Reports",
+            "label": "ORG"
+        },
+        {
+            "text": "10.1038",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Machine",
+            "label": "ORG"
+        },
+        {
+            "text": "Genomic",
+            "label": "ORG"
+        },
+        {
+            "text": "Phenotypic",
+            "label": "ORG"
+        },
+        {
+            "text": "Single",
+            "label": "NORP"
+        },
+        {
+            "text": "Genomic Medicine",
+            "label": "PERSON"
+        },
+        {
+            "text": "Healthcare",
+            "label": "ORG"
+        },
+        {
+            "text": "GPU-Efficient Networks",
+            "label": "ORG"
+        },
+        {
+            "text": "Lin",
+            "label": "PERSON"
+        },
+        {
+            "text": "Hesen Chen",
+            "label": "PERSON"
+        },
+        {
+            "text": "Xiuyu Sun",
+            "label": "PERSON"
+        },
+        {
+            "text": "Qi Qian",
+            "label": "PERSON"
+        },
+        {
+            "text": "Hao Li",
+            "label": "PERSON"
+        },
+        {
+            "text": "Rong Jin",
+            "label": "PERSON"
+        },
+        {
+            "text": "Bellevue",
+            "label": "GPE"
+        },
+        {
+            "text": "Washington",
+            "label": "GPE"
+        },
+        {
+            "text": "USA",
+            "label": "GPE"
+        },
+        {
+            "text": "Hangzhou",
+            "label": "GPE"
+        },
+        {
+            "text": "Zhejiang",
+            "label": "GPE"
+        },
+        {
+            "text": "China",
+            "label": "GPE"
+        },
+        {
+            "text": "GPU-Efficient Networks",
+            "label": "ORG"
+        },
+        {
+            "text": "GENet",
+            "label": "ORG"
+        },
+        {
+            "text": "Neural Architecture Search",
+            "label": "ORG"
+        },
+        {
+            "text": "NAS",
+            "label": "ORG"
+        },
+        {
+            "text": "Inference Latency",
+            "label": "ORG"
+        },
+        {
+            "text": "Modern GPU Architecture Computer Vision",
+            "label": "ORG"
+        },
+        {
+            "text": "CV",
+            "label": "PERSON"
+        },
+        {
+            "text": "Neural Architecture Design",
+            "label": "ORG"
+        },
+        {
+            "text": "Quantum",
+            "label": "ORG"
+        },
+        {
+            "text": "Seth Lloyd",
+            "label": "PERSON"
+        },
+        {
+            "text": "MIT",
+            "label": "ORG"
+        },
+        {
+            "text": "Xanadu",
+            "label": "ORG"
+        },
+        {
+            "text": "Adversarial Networks",
+            "label": "ORG"
+        },
+        {
+            "text": "Quantum Machine Learning",
+            "label": "ORG"
+        },
+        {
+            "text": "Quantum Information Processors",
+            "label": "ORG"
+        },
+        {
+            "text": "Adversarial Game",
+            "label": "ORG"
+        },
+        {
+            "text": "Quantum States",
+            "label": "GPE"
+        },
+        {
+            "text": "Quantum Physics",
+            "label": "ORG"
+        },
+        {
+            "text": "Quantum Information",
+            "label": "ORG"
+        },
+        {
+            "text": "Machine Learning  RESEARCH PAPER_12",
+            "label": "PERSON"
+        },
+        {
+            "text": "Toyota New Global Architecture Concept",
+            "label": "ORG"
+        },
+        {
+            "text": "Tadashi Toda",
+            "label": "PERSON"
+        },
+        {
+            "text": "Mitsuto Sakai",
+            "label": "PERSON"
+        },
+        {
+            "text": "Masashi Hakariya",
+            "label": "ORG"
+        },
+        {
+            "text": "Toshikazu Kato Toyota Motor Corporation",
+            "label": "PERSON"
+        },
+        {
+            "text": "38",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Internationales Wiener Motorensymposium    ",
+            "label": "PERSON"
+        },
+        {
+            "text": "TNGA",
+            "label": "ORG"
+        },
+        {
+            "text": "Automotive Engineering",
+            "label": "ORG"
+        },
+        {
+            "text": "Internal Combustion Engines  RESEARCH PAPER_13",
+            "label": "ORG"
+        },
+        {
+            "text": "Univerza v Ljubljani",
+            "label": "ORG"
+        },
+        {
+            "text": "University of Ljubljana",
+            "label": "ORG"
+        },
+        {
+            "text": "Matrika  Transformer",
+            "label": "ORG"
+        },
+        {
+            "text": "Vector",
+            "label": "DATE"
+        },
+        {
+            "text": "Large Language Models",
+            "label": "PERSON"
+        },
+        {
+            "text": "NLP",
+            "label": "ORG"
+        },
+        {
+            "text": "Deep Learning",
+            "label": "PERSON"
+        },
+        {
+            "text": "Computational Linguistics  RESEARCH PAPER_14 Understanding",
+            "label": "PERSON"
+        },
+        {
+            "text": "the Complex of Suicide",
+            "label": "FAC"
+        },
+        {
+            "text": "Research",
+            "label": "ORG"
+        },
+        {
+            "text": "Laura Orsolini",
+            "label": "PERSON"
+        },
+        {
+            "text": "Roberto Latini",
+            "label": "PERSON"
+        },
+        {
+            "text": "Maurizio Pompili",
+            "label": "PERSON"
+        },
+        {
+            "text": "Gianluca Serafini",
+            "label": "PERSON"
+        },
+        {
+            "text": "Umberto Volpe",
+            "label": "PERSON"
+        },
+        {
+            "text": "Federica Vellante",
+            "label": "PERSON"
+        },
+        {
+            "text": "Michele Fornaro",
+            "label": "PERSON"
+        },
+        {
+            "text": "Alessandro Valchera",
+            "label": "PERSON"
+        },
+        {
+            "text": "Carmine Tomasetti",
+            "label": "PERSON"
+        },
+        {
+            "text": "Silvia Fraticelli",
+            "label": "PERSON"
+        },
+        {
+            "text": "Marco Alessandrini",
+            "label": "PERSON"
+        },
+        {
+            "text": "Raffaella La Rovere",
+            "label": "PERSON"
+        },
+        {
+            "text": "Trotta",
+            "label": "ORG"
+        },
+        {
+            "text": "Giovanni Martinotti",
+            "label": "ORG"
+        },
+        {
+            "text": "Massimo Di Giannantonio",
+            "label": "PERSON"
+        },
+        {
+            "text": "Domenico De Berardis University of Hertfordshire",
+            "label": "ORG"
+        },
+        {
+            "text": "UK",
+            "label": "GPE"
+        },
+        {
+            "text": "Neomesia Mental Health",
+            "label": "ORG"
+        },
+        {
+            "text": "Italy",
+            "label": "GPE"
+        },
+        {
+            "text": "Sapienza University",
+            "label": "ORG"
+        },
+        {
+            "text": "Italy",
+            "label": "GPE"
+        },
+        {
+            "text": "University of Genoa (Italy",
+            "label": "ORG"
+        },
+        {
+            "text": "Polytechnic University of Marche",
+            "label": "ORG"
+        },
+        {
+            "text": "Italy",
+            "label": "GPE"
+        },
+        {
+            "text": "University of \u201cG. D\u2019Annunzio",
+            "label": "ORG"
+        },
+        {
+            "text": "Italy",
+            "label": "GPE"
+        },
+        {
+            "text": "University of Naples Federico II",
+            "label": "ORG"
+        },
+        {
+            "text": "Italy",
+            "label": "GPE"
+        },
+        {
+            "text": "10.30773",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Suicidal",
+            "label": "NORP"
+        },
+        {
+            "text": "Suicide",
+            "label": "GPE"
+        },
+        {
+            "text": "R. Meenal",
+            "label": "ORG"
+        },
+        {
+            "text": "Prawin Angel Michael",
+            "label": "PERSON"
+        },
+        {
+            "text": "D. Pamela",
+            "label": "PERSON"
+        },
+        {
+            "text": "E. Rajasekaran Karunya Institute of Technology and Sciences",
+            "label": "ORG"
+        },
+        {
+            "text": "Coimbatore",
+            "label": "ORG"
+        },
+        {
+            "text": "VSB Engineering College",
+            "label": "ORG"
+        },
+        {
+            "text": "Karur",
+            "label": "GPE"
+        },
+        {
+            "text": "India",
+            "label": "GPE"
+        },
+        {
+            "text": "Indonesian Journal of Electrical Engineering",
+            "label": "ORG"
+        },
+        {
+            "text": "10.11591",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Machine",
+            "label": "ORG"
+        },
+        {
+            "text": "Random",
+            "label": "ORG"
+        },
+        {
+            "text": "Machine Learning",
+            "label": "PERSON"
+        }
+    ],
+    "triples": [
+        {
+            "subject": "It",
+            "relation": "reflect",
+            "object": "Properties"
+        },
+        {
+            "subject": "Quantitative",
+            "relation": "ultrasound",
+            "object": "Osteoporosis"
+        },
+        {
+            "subject": "Quantitative",
+            "relation": "ultrasound",
+            "object": "Gases"
+        },
+        {
+            "subject": "Look",
+            "relation": "arxiv:2303.10130v5",
+            "object": "Models"
+        },
+        {
+            "subject": "arXiv",
+            "relation": "arxiv:2303.10130v5",
+            "object": "Models"
+        },
+        {
+            "subject": "Design",
+            "relation": "generative",
+            "object": "Lloyd"
+        },
+        {
+            "subject": "Softmax",
+            "relation": "function",
+            "object": "Processing"
+        }
+    ]
+}

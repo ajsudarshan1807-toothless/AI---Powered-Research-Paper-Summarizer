@@ -1,0 +1,5742 @@
+{
+    "source_file": "output8.json",
+    "entities": [
+        {
+            "text": "DoclingDocument",
+            "label": "ORG"
+        },
+        {
+            "text": "#/texts/0",
+            "label": "MONEY"
+        },
+        {
+            "text": "#",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/texts/8 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/15",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/36",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/67 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/77 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/93",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/groups/7 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/pictures/7 #/texts/125",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/pictures/8 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/groups/8 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/groups/10",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/groups/11",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/149 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/152 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/groups/15",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/groups/16",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/pictures/10 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/238 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/pictures/14 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/254 #/pictures/15",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/groups/21",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/pictures/16",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/312 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/groups/22",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/335 #/groups/23",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/groups/24 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/358 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/groups/26 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/groups/1 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/13 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/groups/3 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/groups/4 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/groups/5",
+            "label": "MONEY"
+        },
+        {
+            "text": "#",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/groups/7 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/96",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/groups/8 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/groups/10",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/134 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/groups/11",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/groups/12",
+            "label": "MONEY"
+        },
+        {
+            "text": "#",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/groups/15",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/156",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/160 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/groups/16",
+            "label": "MONEY"
+        },
+        {
+            "text": "#",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "body group",
+            "label": "ORG"
+        },
+        {
+            "text": "#",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/groups/20",
+            "label": "MONEY"
+        },
+        {
+            "text": "/texts/240",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/groups/21",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/groups/22",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/groups/23",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/groups/24",
+            "label": "MONEY"
+        },
+        {
+            "text": "#",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/texts/349 #/texts/350",
+            "label": "MONEY"
+        },
+        {
+            "text": "#",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/texts/355 #/texts/356",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/groups/26",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/groups/27",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/groups/28",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/363 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/365 #/texts/366 #/texts/367 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/371 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/375",
+            "label": "MONEY"
+        },
+        {
+            "text": "/texts/376",
+            "label": "LAW"
+        },
+        {
+            "text": "#/groups/29",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/0 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "International Research Journal of Engineering and Technology",
+            "label": "ORG"
+        },
+        {
+            "text": "International Research Journal of Engineering and Technology",
+            "label": "ORG"
+        },
+        {
+            "text": "06",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "02 | Feb 2019",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "2395-0072",
+            "label": "DATE"
+        },
+        {
+            "text": "06",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "02 | Feb 2019",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "2395-0072",
+            "label": "DATE"
+        },
+        {
+            "text": "#",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Machine Learning Algorithms",
+            "label": "PERSON"
+        },
+        {
+            "text": "Bharti Chourasia 3 Darpan Pandey 1",
+            "label": "ORG"
+        },
+        {
+            "text": "Bharti Chourasia",
+            "label": "ORG"
+        },
+        {
+            "text": "3 #/texts/4 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "D.C.",
+            "label": "GPE"
+        },
+        {
+            "text": "M.P.",
+            "label": "GPE"
+        },
+        {
+            "text": "2",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Electronics & Communication",
+            "label": "ORG"
+        },
+        {
+            "text": "M.P.",
+            "label": "GPE"
+        },
+        {
+            "text": "India",
+            "label": "GPE"
+        },
+        {
+            "text": "3",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Electronics & Communication",
+            "label": "ORG"
+        },
+        {
+            "text": "M.P.",
+            "label": "GPE"
+        },
+        {
+            "text": "D.C.",
+            "label": "GPE"
+        },
+        {
+            "text": "M.P.",
+            "label": "GPE"
+        },
+        {
+            "text": "2",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Electronics & Communication",
+            "label": "ORG"
+        },
+        {
+            "text": "M.P.",
+            "label": "GPE"
+        },
+        {
+            "text": "India",
+            "label": "GPE"
+        },
+        {
+            "text": "3",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Electronics & Communication",
+            "label": "ORG"
+        },
+        {
+            "text": "M.P.",
+            "label": "GPE"
+        },
+        {
+            "text": "India",
+            "label": "GPE"
+        },
+        {
+            "text": "one",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Alexa",
+            "label": "ORG"
+        },
+        {
+            "text": "Google Now",
+            "label": "ORG"
+        },
+        {
+            "text": "one",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Alexa",
+            "label": "ORG"
+        },
+        {
+            "text": "Google Now",
+            "label": "ORG"
+        },
+        {
+            "text": "#/texts/7 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/8 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/texts/9 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "Machine Learning",
+            "label": "PERSON"
+        },
+        {
+            "text": "1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "2",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Machine Learning",
+            "label": "PERSON"
+        },
+        {
+            "text": "1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "2",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/texts/10",
+            "label": "MONEY"
+        },
+        {
+            "text": "First",
+            "label": "ORDINAL"
+        },
+        {
+            "text": "1946",
+            "label": "DATE"
+        },
+        {
+            "text": "ENIAC",
+            "label": "ORG"
+        },
+        {
+            "text": "first",
+            "label": "ORDINAL"
+        },
+        {
+            "text": "first",
+            "label": "ORDINAL"
+        },
+        {
+            "text": "first",
+            "label": "ORDINAL"
+        },
+        {
+            "text": "Arthur Samuel",
+            "label": "PERSON"
+        },
+        {
+            "text": "IBM",
+            "label": "ORG"
+        },
+        {
+            "text": "1952",
+            "label": "DATE"
+        },
+        {
+            "text": "1957",
+            "label": "DATE"
+        },
+        {
+            "text": "Rosenblatt",
+            "label": "PERSON"
+        },
+        {
+            "text": "1967",
+            "label": "DATE"
+        },
+        {
+            "text": "1990s",
+            "label": "DATE"
+        },
+        {
+            "text": "3",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Today",
+            "label": "DATE"
+        },
+        {
+            "text": "First",
+            "label": "ORDINAL"
+        },
+        {
+            "text": "1946",
+            "label": "DATE"
+        },
+        {
+            "text": "ENIAC",
+            "label": "ORG"
+        },
+        {
+            "text": "first",
+            "label": "ORDINAL"
+        },
+        {
+            "text": "first",
+            "label": "ORDINAL"
+        },
+        {
+            "text": "first",
+            "label": "ORDINAL"
+        },
+        {
+            "text": "Arthur Samuel",
+            "label": "PERSON"
+        },
+        {
+            "text": "IBM",
+            "label": "ORG"
+        },
+        {
+            "text": "1952",
+            "label": "DATE"
+        },
+        {
+            "text": "1957",
+            "label": "DATE"
+        },
+        {
+            "text": "Rosenblatt",
+            "label": "PERSON"
+        },
+        {
+            "text": "1967",
+            "label": "DATE"
+        },
+        {
+            "text": "1990s",
+            "label": "DATE"
+        },
+        {
+            "text": "3",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Today",
+            "label": "DATE"
+        },
+        {
+            "text": "#/texts/11 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "2",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "2",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "two",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "two",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/texts/13",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/14 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/15 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "two",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "4",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "two",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "4",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/texts/16 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "/pictures/1",
+            "label": "NORP"
+        },
+        {
+            "text": "Fig -1",
+            "label": "PERSON"
+        },
+        {
+            "text": "Fig -1",
+            "label": "PERSON"
+        },
+        {
+            "text": "#/texts/17",
+            "label": "MONEY"
+        },
+        {
+            "text": "/pictures/1",
+            "label": "NORP"
+        },
+        {
+            "text": "Accessingand Accessingand",
+            "label": "EVENT"
+        },
+        {
+            "text": "/pictures/1",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/19",
+            "label": "MONEY"
+        },
+        {
+            "text": "/pictures/1",
+            "label": "NORP"
+        },
+        {
+            "text": "Trainingofmodel Trainingofmodel",
+            "label": "ORG"
+        },
+        {
+            "text": "#/texts/21 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "/pictures/1",
+            "label": "NORP"
+        },
+        {
+            "text": "#/texts/22",
+            "label": "MONEY"
+        },
+        {
+            "text": "/pictures/1",
+            "label": "NORP"
+        },
+        {
+            "text": "/pictures/1",
+            "label": "NORP"
+        },
+        {
+            "text": "/pictures/1",
+            "label": "NORP"
+        },
+        {
+            "text": "Testdata Testdata",
+            "label": "ORG"
+        },
+        {
+            "text": "/pictures/1",
+            "label": "NORP"
+        },
+        {
+            "text": "/pictures/1",
+            "label": "NORP"
+        },
+        {
+            "text": "#/texts/27",
+            "label": "MONEY"
+        },
+        {
+            "text": "/pictures/1",
+            "label": "NORP"
+        },
+        {
+            "text": "#/texts/28",
+            "label": "MONEY"
+        },
+        {
+            "text": "3",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "3",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/texts/29",
+            "label": "MONEY"
+        },
+        {
+            "text": "three",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "one",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "4",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "three",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "one",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "4",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "3.1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "4",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "5",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "4",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "5",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/texts/32 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "ISSN",
+            "label": "ORG"
+        },
+        {
+            "text": "2395-0056",
+            "label": "DATE"
+        },
+        {
+            "text": "2395-0056",
+            "label": "DATE"
+        },
+        {
+            "text": "#/texts/33 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "2019",
+            "label": "DATE"
+        },
+        {
+            "text": "7.211",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "ISO 9001:2008",
+            "label": "ORG"
+        },
+        {
+            "text": "2019",
+            "label": "DATE"
+        },
+        {
+            "text": "7.211",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "ISO 9001:2008 Certified Journal",
+            "label": "ORG"
+        },
+        {
+            "text": "#",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "916",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "916 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "06",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "02 | Feb 2019",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "2395-0072",
+            "label": "DATE"
+        },
+        {
+            "text": "06",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "02 | Feb 2019",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "2395-0072",
+            "label": "DATE"
+        },
+        {
+            "text": "#/texts/36 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "International Research Journal of Engineering and Technology",
+            "label": "ORG"
+        },
+        {
+            "text": "International Research Journal of Engineering and Technology",
+            "label": "ORG"
+        },
+        {
+            "text": "#/texts/37 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "Support Vector Machine",
+            "label": "ORG"
+        },
+        {
+            "text": "#/texts/39 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "Discriminative Analysis",
+            "label": "ORG"
+        },
+        {
+            "text": "#/texts/41 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "Naive Bayes",
+            "label": "ORG"
+        },
+        {
+            "text": "Nearest Neighbor",
+            "label": "GPE"
+        },
+        {
+            "text": "Nearest Neighbor",
+            "label": "GPE"
+        },
+        {
+            "text": "#/texts/43",
+            "label": "MONEY"
+        },
+        {
+            "text": "Neural Network",
+            "label": "PERSON"
+        },
+        {
+            "text": "#/texts/44 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/45",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/46",
+            "label": "MONEY"
+        },
+        {
+            "text": "Linear Regression",
+            "label": "ORG"
+        },
+        {
+            "text": "#/texts/47",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/49",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/51",
+            "label": "MONEY"
+        },
+        {
+            "text": "Neural Network",
+            "label": "PERSON"
+        },
+        {
+            "text": "#/texts/52",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/53",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/54",
+            "label": "MONEY"
+        },
+        {
+            "text": "Data",
+            "label": "ORG"
+        },
+        {
+            "text": "#/texts/55",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/56",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/57",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/58 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/59",
+            "label": "MONEY"
+        },
+        {
+            "text": "saeZuguen saeZuguen",
+            "label": "FAC"
+        },
+        {
+            "text": "#/texts/60 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "Algorithm",
+            "label": "GPE"
+        },
+        {
+            "text": "Algorithm",
+            "label": "GPE"
+        },
+        {
+            "text": "#/texts/61 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "Parameter",
+            "label": "ORG"
+        },
+        {
+            "text": "#/texts/62",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/63",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/64",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/65",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/66",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/67",
+            "label": "MONEY"
+        },
+        {
+            "text": "3.1.1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "3.1.1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/texts/68",
+            "label": "MONEY"
+        },
+        {
+            "text": "two",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "6",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "7",
+            "label": "DATE"
+        },
+        {
+            "text": "8",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "two",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "6",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "7",
+            "label": "DATE"
+        },
+        {
+            "text": "8",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/texts/71 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/72 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "/pictures/5",
+            "label": "PERSON"
+        },
+        {
+            "text": "#/texts/76 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "ISSN",
+            "label": "ORG"
+        },
+        {
+            "text": "2395-0056",
+            "label": "DATE"
+        },
+        {
+            "text": "2395-0056",
+            "label": "DATE"
+        },
+        {
+            "text": "#/texts/77 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/78 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "Support Vector",
+            "label": "ORG"
+        },
+        {
+            "text": "8",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Support Vector",
+            "label": "ORG"
+        },
+        {
+            "text": "8] #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/80",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/81 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "ChooseACS",
+            "label": "GPE"
+        },
+        {
+            "text": "ChooseACS",
+            "label": "GPE"
+        },
+        {
+            "text": "#/texts/83 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "Xt Xt",
+            "label": "PERSON"
+        },
+        {
+            "text": "SetWt+ SetWt+",
+            "label": "ORG"
+        },
+        {
+            "text": "Setwt+1= Setwt+1= #/texts/88",
+            "label": "LAW"
+        },
+        {
+            "text": "#/texts/90 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "1/\u221aX",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/texts/91",
+            "label": "MONEY"
+        },
+        {
+            "text": "Wt+ Wt+",
+            "label": "EVENT"
+        },
+        {
+            "text": "#/texts/92",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/93",
+            "label": "MONEY"
+        },
+        {
+            "text": "3.1.2",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/texts/94",
+            "label": "MONEY"
+        },
+        {
+            "text": "5",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "5",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "9",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "5",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "5",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "9",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/texts/95 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "/groups/7",
+            "label": "PERSON"
+        },
+        {
+            "text": "\uf0b7 Multidimensional Scaling (MDS",
+            "label": "WORK_OF_ART"
+        },
+        {
+            "text": "MDS",
+            "label": "ORG"
+        },
+        {
+            "text": "#/texts/96",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/97 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "MDA",
+            "label": "ORG"
+        },
+        {
+            "text": "MDA",
+            "label": "ORG"
+        },
+        {
+            "text": "#/texts/98 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "QDA",
+            "label": "ORG"
+        },
+        {
+            "text": "QDA",
+            "label": "ORG"
+        },
+        {
+            "text": "/groups/7",
+            "label": "PERSON"
+        },
+        {
+            "text": "FDA",
+            "label": "ORG"
+        },
+        {
+            "text": "FDA",
+            "label": "ORG"
+        },
+        {
+            "text": "#/texts/100 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "3.1.3",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Na\u00efve Bayes",
+            "label": "ORG"
+        },
+        {
+            "text": "3.1.3",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Na\u00efve Bayes",
+            "label": "ORG"
+        },
+        {
+            "text": "10",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Na\u00efve Bayes",
+            "label": "ORG"
+        },
+        {
+            "text": "10",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Na\u00efve Bayes",
+            "label": "ORG"
+        },
+        {
+            "text": "11",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Na\u00efve Bayes",
+            "label": "ORG"
+        },
+        {
+            "text": "11",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/texts/104 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "nentsko",
+            "label": "PERSON"
+        },
+        {
+            "text": "andconvergencethresholdsdEManddAdd",
+            "label": "PERSON"
+        },
+        {
+            "text": "nentsko",
+            "label": "PERSON"
+        },
+        {
+            "text": "andconvergencethresholdsdEManddAdd",
+            "label": "PERSON"
+        },
+        {
+            "text": "InitializeMwithonecomponent",
+            "label": "ORG"
+        },
+        {
+            "text": "InitializeMwithonecomponent",
+            "label": "ORG"
+        },
+        {
+            "text": "#/texts/106 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/107 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/109",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/111 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/112",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/113 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/115 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "Min Mbest",
+            "label": "PERSON"
+        },
+        {
+            "text": "Min Mbest",
+            "label": "PERSON"
+        },
+        {
+            "text": "#/texts/116 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "prunelow-weightcomponentsofM. Every5cycles",
+            "label": "ORG"
+        },
+        {
+            "text": "#/texts/117 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "untillogP(H|M)failstoimprovebyratioEM",
+            "label": "ORG"
+        },
+        {
+            "text": "#/texts/118",
+            "label": "MONEY"
+        },
+        {
+            "text": "MMbest MMbest",
+            "label": "ORG"
+        },
+        {
+            "text": "#/texts/120 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/121",
+            "label": "MONEY"
+        },
+        {
+            "text": "until logP\uff08H|M)failstoimprovebyratio8Add.",
+            "label": "PERSON"
+        },
+        {
+            "text": "#/texts/124 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "Retum Mbest",
+            "label": "ORG"
+        },
+        {
+            "text": "Retum Mbest",
+            "label": "ORG"
+        },
+        {
+            "text": "#/texts/125 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "2019",
+            "label": "DATE"
+        },
+        {
+            "text": "7.211",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "ISO 9001:2008",
+            "label": "ORG"
+        },
+        {
+            "text": "2019",
+            "label": "DATE"
+        },
+        {
+            "text": "7.211",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "ISO 9001:2008 Certified Journal",
+            "label": "ORG"
+        },
+        {
+            "text": "917",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "917 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "International Research Journal of Engineering and Technology",
+            "label": "ORG"
+        },
+        {
+            "text": "International Research Journal of Engineering and Technology",
+            "label": "ORG"
+        },
+        {
+            "text": "#/texts/128",
+            "label": "MONEY"
+        },
+        {
+            "text": "ISSN",
+            "label": "ORG"
+        },
+        {
+            "text": "2395-0056",
+            "label": "DATE"
+        },
+        {
+            "text": "2395-0056",
+            "label": "DATE"
+        },
+        {
+            "text": "06",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "02 | Feb 2019",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "2395-0072",
+            "label": "DATE"
+        },
+        {
+            "text": "06",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "02 | Feb 2019",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "2395-0072",
+            "label": "DATE"
+        },
+        {
+            "text": "3.1.4",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Nearest",
+            "label": "FAC"
+        },
+        {
+            "text": "Nearest",
+            "label": "LOC"
+        },
+        {
+            "text": "#/texts/131 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "Nearest",
+            "label": "PERSON"
+        },
+        {
+            "text": "KNN",
+            "label": "ORG"
+        },
+        {
+            "text": "4",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "5",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "KNN",
+            "label": "ORG"
+        },
+        {
+            "text": "4",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "5",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/texts/132 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "3.1.5",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "3.1.5",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/texts/133",
+            "label": "MONEY"
+        },
+        {
+            "text": "2",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "5",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "2",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "5",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/texts/134 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/135 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/137 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/138 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "MARS",
+            "label": "FAC"
+        },
+        {
+            "text": "MARS",
+            "label": "FAC"
+        },
+        {
+            "text": "#/texts/139 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/140 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "LetW-{x\uff0cx\uff0c\uff0cx,\uff09}be",
+            "label": "PERSON"
+        },
+        {
+            "text": "BEGIN Input",
+            "label": "PERSON"
+        },
+        {
+            "text": "Initialize",
+            "label": "ORG"
+        },
+        {
+            "text": "Delete",
+            "label": "ORG"
+        },
+        {
+            "text": "ENDIF Incrementi",
+            "label": "PERSON"
+        },
+        {
+            "text": "Knearest",
+            "label": "PERSON"
+        },
+        {
+            "text": "Compute",
+            "label": "ORG"
+        },
+        {
+            "text": "LetW-{x\uff0cx\uff0c\uff0cx,\uff09}be",
+            "label": "PERSON"
+        },
+        {
+            "text": "BEGIN Input",
+            "label": "PERSON"
+        },
+        {
+            "text": "Initialize",
+            "label": "ORG"
+        },
+        {
+            "text": "Delete",
+            "label": "ORG"
+        },
+        {
+            "text": "ENDIF Incrementi",
+            "label": "PERSON"
+        },
+        {
+            "text": "Knearest",
+            "label": "PERSON"
+        },
+        {
+            "text": "Compute",
+            "label": "ORG"
+        },
+        {
+            "text": "#/texts/141",
+            "label": "MONEY"
+        },
+        {
+            "text": "Nearest Neighbor",
+            "label": "FAC"
+        },
+        {
+            "text": "12",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Nearest Neighbor",
+            "label": "FAC"
+        },
+        {
+            "text": "12",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "1990s",
+            "label": "DATE"
+        },
+        {
+            "text": "5",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "two",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "1990s",
+            "label": "DATE"
+        },
+        {
+            "text": "5",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "two",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/texts/144 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "5",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "13",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "5",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "13",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/texts/146 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "l,",
+            "label": "PERSON"
+        },
+        {
+            "text": "C(D",
+            "label": "NORP"
+        },
+        {
+            "text": "#/texts/147 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "AdaBoost",
+            "label": "ORG"
+        },
+        {
+            "text": "13",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "AdaBoost",
+            "label": "ORG"
+        },
+        {
+            "text": "13] #",
+            "label": "MONEY"
+        },
+        {
+            "text": "C(D",
+            "label": "NORP"
+        },
+        {
+            "text": "#/texts/149 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "Bagging",
+            "label": "ORG"
+        },
+        {
+            "text": "13",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Bagging",
+            "label": "ORG"
+        },
+        {
+            "text": "13]",
+            "label": "MONEY"
+        },
+        {
+            "text": "2019",
+            "label": "DATE"
+        },
+        {
+            "text": "7.211",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "ISO 9001:2008",
+            "label": "ORG"
+        },
+        {
+            "text": "2019",
+            "label": "DATE"
+        },
+        {
+            "text": "7.211",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "ISO 9001:2008 Certified Journal",
+            "label": "ORG"
+        },
+        {
+            "text": "918",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "International Research Journal of Engineering and Technology",
+            "label": "ORG"
+        },
+        {
+            "text": "International Research Journal of Engineering and Technology",
+            "label": "ORG"
+        },
+        {
+            "text": "#/texts/153 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "ISSN",
+            "label": "ORG"
+        },
+        {
+            "text": "2395-0056",
+            "label": "DATE"
+        },
+        {
+            "text": "2395-0056",
+            "label": "DATE"
+        },
+        {
+            "text": "#/texts/154 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "06",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "02 | Feb 2019",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "2395-0072",
+            "label": "DATE"
+        },
+        {
+            "text": "06",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "02 | Feb 2019",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "2395-0072",
+            "label": "DATE"
+        },
+        {
+            "text": "#/texts/155 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "3",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "3",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/texts/156 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "Random Forest",
+            "label": "ORG"
+        },
+        {
+            "text": "#/texts/158 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "GBRT",
+            "label": "ORG"
+        },
+        {
+            "text": "Gradient Boosted Regression Trees",
+            "label": "ORG"
+        },
+        {
+            "text": "GBRT",
+            "label": "ORG"
+        },
+        {
+            "text": "#",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/texts/160 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/161 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "GBM",
+            "label": "ORG"
+        },
+        {
+            "text": "Gradient Boosting Machines",
+            "label": "ORG"
+        },
+        {
+            "text": "GBM",
+            "label": "ORG"
+        },
+        {
+            "text": "#/texts/162 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "3.1.7",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "4",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "14",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "4",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "14",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "14",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "14",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/texts/165 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "Iterative Dichotomiser",
+            "label": "PERSON"
+        },
+        {
+            "text": "#/texts/167 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/168 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "Automatic  Interaction  Detection",
+            "label": "ORG"
+        },
+        {
+            "text": "Automatic  Interaction  Detection",
+            "label": "ORG"
+        },
+        {
+            "text": "#/texts/169 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/texts/171 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/173",
+            "label": "MONEY"
+        },
+        {
+            "text": "30",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "30 #/texts/174 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "30",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Gender Gender",
+            "label": "ORG"
+        },
+        {
+            "text": "#/texts/178 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/179 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/180 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "Fig-10",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "14",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "14",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/texts/183 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "2",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "2",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "TreeGrowing(S",
+            "label": "PERSON"
+        },
+        {
+            "text": "TreeGrowing(S",
+            "label": "PERSON"
+        },
+        {
+            "text": "#/texts/186 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "2",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Oneof theStoppingCriteria",
+            "label": "ORG"
+        },
+        {
+            "text": "2",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Oneof theStoppingCriteria",
+            "label": "ORG"
+        },
+        {
+            "text": "#/texts/188 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "3",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "MarktherootnodeinTasaleafwiththemostcommon",
+            "label": "PERSON"
+        },
+        {
+            "text": "3",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "MarktherootnodeinTasaleafwiththemostcommon",
+            "label": "PERSON"
+        },
+        {
+            "text": "#/texts/189",
+            "label": "MONEY"
+        },
+        {
+            "text": "4",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "4",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/texts/190 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/191 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "5",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "5",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/texts/192 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "6",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "6",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "7",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "7",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/texts/198 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "8",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "8",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/texts/200 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/201 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "9",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "9",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/texts/202 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/203 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "10",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "10",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/texts/204 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/205 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/206 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "11",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "11",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/texts/207 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "12",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "12",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/texts/210 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "13",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "13",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/texts/211 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "Mark therootnodeinTasa",
+            "label": "PERSON"
+        },
+        {
+            "text": "Mark therootnodeinTasa",
+            "label": "PERSON"
+        },
+        {
+            "text": "#/texts/212 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/213 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "14",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "14",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/texts/214 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "15",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "15",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/texts/216 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "16",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "2",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "2",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/texts/220 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "Selecta",
+            "label": "PERSON"
+        },
+        {
+            "text": "Selecta",
+            "label": "PERSON"
+        },
+        {
+            "text": "#/texts/222 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "3",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "3",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/texts/223 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/224 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "4",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "4",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/texts/226 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "5",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "5",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/texts/227 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/228 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "6",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "6",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/texts/229 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "7",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Neural",
+            "label": "ORG"
+        },
+        {
+            "text": "Neural",
+            "label": "ORG"
+        },
+        {
+            "text": "#/texts/231 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "one",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "4",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "5",
+            "label": "DATE"
+        },
+        {
+            "text": "15",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "one",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "4",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "5",
+            "label": "DATE"
+        },
+        {
+            "text": "15",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Fig-11",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Hidden",
+            "label": "GPE"
+        },
+        {
+            "text": "Hidden",
+            "label": "GPE"
+        },
+        {
+            "text": "#",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Inputlayer Inputlayer",
+            "label": "ORG"
+        },
+        {
+            "text": "Outputlayer Outputlayer",
+            "label": "ORG"
+        },
+        {
+            "text": "#/texts/236",
+            "label": "MONEY"
+        },
+        {
+            "text": "Neural",
+            "label": "ORG"
+        },
+        {
+            "text": "#/texts/237 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "2019",
+            "label": "DATE"
+        },
+        {
+            "text": "7.211",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "ISO 9001:2008 Certified Journal",
+            "label": "ORG"
+        },
+        {
+            "text": "2019",
+            "label": "DATE"
+        },
+        {
+            "text": "7.211",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "ISO 9001:2008 Certified Journal",
+            "label": "ORG"
+        },
+        {
+            "text": "#/texts/238 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "919",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "919 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "International Research Journal of Engineering and Technology",
+            "label": "ORG"
+        },
+        {
+            "text": "International Research Journal of Engineering and Technology",
+            "label": "ORG"
+        },
+        {
+            "text": "#/texts/240 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "/groups/20",
+            "label": "PERSON"
+        },
+        {
+            "text": "ISSN",
+            "label": "ORG"
+        },
+        {
+            "text": "2395-0056",
+            "label": "DATE"
+        },
+        {
+            "text": "2395-0056",
+            "label": "DATE"
+        },
+        {
+            "text": "#/texts/241 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "06",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "02 | Feb 2019",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "2395-0072",
+            "label": "DATE"
+        },
+        {
+            "text": "06",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "02 | Feb 2019",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "2395-0072",
+            "label": "DATE"
+        },
+        {
+            "text": "#/texts/242 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "Perceptron",
+            "label": "GPE"
+        },
+        {
+            "text": "Hopfield Network",
+            "label": "PERSON"
+        },
+        {
+            "text": "Radial Basis Function Network",
+            "label": "ORG"
+        },
+        {
+            "text": "RBFN",
+            "label": "ORG"
+        },
+        {
+            "text": "Perceptron",
+            "label": "GPE"
+        },
+        {
+            "text": "Hopfield Network",
+            "label": "PERSON"
+        },
+        {
+            "text": "Radial Basis Function Network",
+            "label": "ORG"
+        },
+        {
+            "text": "RBFN",
+            "label": "ORG"
+        },
+        {
+            "text": "Fig-12",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/texts/244 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/245 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/247",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/250",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/251 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "Signal Signal",
+            "label": "ORG"
+        },
+        {
+            "text": "#/texts/252 #/pictures/14",
+            "label": "MONEY"
+        },
+        {
+            "text": "Signal Signal",
+            "label": "ORG"
+        },
+        {
+            "text": "3.2",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Unsupervised Learning",
+            "label": "ORG"
+        },
+        {
+            "text": "3.2",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Unsupervised Learning  ",
+            "label": "ORG"
+        },
+        {
+            "text": "3",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "16",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "3",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "16",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Fig-12",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Unsupervised Learning",
+            "label": "ORG"
+        },
+        {
+            "text": "Fig-12",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Unsupervised Learning",
+            "label": "ORG"
+        },
+        {
+            "text": "#/texts/256 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "NewInput",
+            "label": "ORG"
+        },
+        {
+            "text": "NewInput",
+            "label": "ORG"
+        },
+        {
+            "text": "Data",
+            "label": "ORG"
+        },
+        {
+            "text": "#/texts/258 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "Unlabeled Unlabeled",
+            "label": "ORG"
+        },
+        {
+            "text": "#/texts/262",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/263 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "ML algorithm ML algorithm",
+            "label": "ORG"
+        },
+        {
+            "text": "Newdata Newdata",
+            "label": "PERSON"
+        },
+        {
+            "text": "#/texts/267 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "one",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "one #/texts/268",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/269 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "PCA",
+            "label": "ORG"
+        },
+        {
+            "text": "Hidden Markov",
+            "label": "PERSON"
+        },
+        {
+            "text": "4",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "PCA",
+            "label": "ORG"
+        },
+        {
+            "text": "Hidden Markov",
+            "label": "PERSON"
+        },
+        {
+            "text": "4",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "3.2.1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "3.2.1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Kmeans",
+            "label": "NORP"
+        },
+        {
+            "text": "4",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "17",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Kmeans",
+            "label": "NORP"
+        },
+        {
+            "text": "4",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "17",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/texts/272 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "17",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "17",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/texts/274 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "k).\u2208{1",
+            "label": "PERSON"
+        },
+        {
+            "text": "#/texts/276 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/277 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "Repeat Repeat",
+            "label": "EVENT"
+        },
+        {
+            "text": "#/texts/280 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "Cj.with near-",
+            "label": "LAW"
+        },
+        {
+            "text": "Cj.with near-",
+            "label": "LAW"
+        },
+        {
+            "text": "#/texts/281 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/282",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/284",
+            "label": "MONEY"
+        },
+        {
+            "text": "1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/texts/285 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "j\u2208",
+            "label": "PERSON"
+        },
+        {
+            "text": "1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "j\u2208",
+            "label": "PERSON"
+        },
+        {
+            "text": "1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/texts/286 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "Update",
+            "label": "ORG"
+        },
+        {
+            "text": "#/texts/287 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/288 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/289 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/290 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/291 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "1i",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Untii",
+            "label": "PERSON"
+        },
+        {
+            "text": "#/texts/295 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "PCA",
+            "label": "ORG"
+        },
+        {
+            "text": "PCA",
+            "label": "ORG"
+        },
+        {
+            "text": "#/texts/296 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "PCA",
+            "label": "ORG"
+        },
+        {
+            "text": "PCA",
+            "label": "ORG"
+        },
+        {
+            "text": "one",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "4",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "18",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "PCA",
+            "label": "ORG"
+        },
+        {
+            "text": "PCA",
+            "label": "ORG"
+        },
+        {
+            "text": "one",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "4",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "18",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/texts/297 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "PCA",
+            "label": "ORG"
+        },
+        {
+            "text": "18",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "PCA",
+            "label": "ORG"
+        },
+        {
+            "text": "18] #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "0= 0=",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/301 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/302 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "for\uff08j=0",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/texts/303 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "T(k)RP(k",
+            "label": "GPE"
+        },
+        {
+            "text": "T(k)RP(k",
+            "label": "GPE"
+        },
+        {
+            "text": "#/texts/305 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/307 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/308 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/309 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/310 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "3.2.3",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/texts/311",
+            "label": "MONEY"
+        },
+        {
+            "text": "16",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "16",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/texts/312 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "2019",
+            "label": "DATE"
+        },
+        {
+            "text": "7.211",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "ISO 9001:2008",
+            "label": "ORG"
+        },
+        {
+            "text": "2019",
+            "label": "DATE"
+        },
+        {
+            "text": "7.211",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "ISO 9001:2008 Certified Journal",
+            "label": "ORG"
+        },
+        {
+            "text": "#/texts/313 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "920",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "920 #/texts/314 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "06",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "02 | Feb 2019",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "2395-0072",
+            "label": "DATE"
+        },
+        {
+            "text": "06",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "02 | Feb 2019",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "2395-0072",
+            "label": "DATE"
+        },
+        {
+            "text": "#/texts/315 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "International Research Journal of Engineering and Technology",
+            "label": "ORG"
+        },
+        {
+            "text": "International Research Journal of Engineering and Technology",
+            "label": "ORG"
+        },
+        {
+            "text": "#/texts/316 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "/pictures/19",
+            "label": "MONEY"
+        },
+        {
+            "text": "Unsupervised Learning",
+            "label": "ORG"
+        },
+        {
+            "text": "Fig-15",
+            "label": "PRODUCT"
+        },
+        {
+            "text": "Unsupervised Learning",
+            "label": "ORG"
+        },
+        {
+            "text": "#/texts/317 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/318 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "/pictures/19",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/320 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "/pictures/19",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/321 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "/pictures/19",
+            "label": "MONEY"
+        },
+        {
+            "text": "/pictures/19",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/324 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "3.3",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Reinforcement Learning 3.3",
+            "label": "ORG"
+        },
+        {
+            "text": "19",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "19",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "two",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "20",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "two",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "20",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/texts/327 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "Fig-16",
+            "label": "FAC"
+        },
+        {
+            "text": "#/texts/328 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/329 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/330",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/332 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/333 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "7 7 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "21",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "21",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "ISSN",
+            "label": "ORG"
+        },
+        {
+            "text": "2395-0056",
+            "label": "DATE"
+        },
+        {
+            "text": "2395-0056",
+            "label": "DATE"
+        },
+        {
+            "text": "#/texts/337 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "Fig-16",
+            "label": "PERSON"
+        },
+        {
+            "text": "Reinforced Neural Network",
+            "label": "ORG"
+        },
+        {
+            "text": "Reinforced Neural Network",
+            "label": "ORG"
+        },
+        {
+            "text": "#/texts/339 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/340 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/341",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/342",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/343",
+            "label": "MONEY"
+        },
+        {
+            "text": "NETWORK",
+            "label": "ORG"
+        },
+        {
+            "text": "Inputsigna",
+            "label": "GPE"
+        },
+        {
+            "text": "Inputsigna",
+            "label": "GPE"
+        },
+        {
+            "text": "#/texts/345 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "Signar Signar",
+            "label": "FAC"
+        },
+        {
+            "text": "#",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "4",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "4",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/texts/348 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "today",
+            "label": "DATE"
+        },
+        {
+            "text": "daily",
+            "label": "DATE"
+        },
+        {
+            "text": "today",
+            "label": "DATE"
+        },
+        {
+            "text": "daily",
+            "label": "DATE"
+        },
+        {
+            "text": "#/texts/349 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Munoz",
+            "label": "GPE"
+        },
+        {
+            "text": "Andres",
+            "label": "PERSON"
+        },
+        {
+            "text": "Machine Learning and Optimization",
+            "label": "ORG"
+        },
+        {
+            "text": "1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Munoz",
+            "label": "GPE"
+        },
+        {
+            "text": "Andres",
+            "label": "PERSON"
+        },
+        {
+            "text": "Machine Learning and Optimization",
+            "label": "ORG"
+        },
+        {
+            "text": "#/texts/350 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/351 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "2",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "L. William",
+            "label": "PERSON"
+        },
+        {
+            "text": "Machine Learning",
+            "label": "PERSON"
+        },
+        {
+            "text": "2017-06-01",
+            "label": "DATE"
+        },
+        {
+            "text": "Hosch",
+            "label": "GPE"
+        },
+        {
+            "text": "L. William",
+            "label": "PERSON"
+        },
+        {
+            "text": "Machine Learning",
+            "label": "PERSON"
+        },
+        {
+            "text": "2017-06-01",
+            "label": "DATE"
+        },
+        {
+            "text": "2] #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/353 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "3",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Ron Kohavi",
+            "label": "PERSON"
+        },
+        {
+            "text": "Foster Provost",
+            "label": "PERSON"
+        },
+        {
+            "text": "Machine Learning",
+            "label": "PERSON"
+        },
+        {
+            "text": "271274",
+            "label": "DATE"
+        },
+        {
+            "text": "1998",
+            "label": "DATE"
+        },
+        {
+            "text": "Ron Kohavi",
+            "label": "PERSON"
+        },
+        {
+            "text": "Foster Provost",
+            "label": "PERSON"
+        },
+        {
+            "text": "Machine Learning",
+            "label": "PERSON"
+        },
+        {
+            "text": "271274",
+            "label": "DATE"
+        },
+        {
+            "text": "1998",
+            "label": "DATE"
+        },
+        {
+            "text": "3] #",
+            "label": "MONEY"
+        },
+        {
+            "text": "5",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Supervised Machine Learning:",
+            "label": "WORK_OF_ART"
+        },
+        {
+            "text": "Classification  Techniques '",
+            "label": "ORG"
+        },
+        {
+            "text": "Informatica",
+            "label": "ORG"
+        },
+        {
+            "text": "31  (2007",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "249",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Supervised Machine Learning: A Review of  Classification  Techniques '",
+            "label": "WORK_OF_ART"
+        },
+        {
+            "text": "Informatica",
+            "label": "ORG"
+        },
+        {
+            "text": "31  (2007",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "249",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "5] #",
+            "label": "MONEY"
+        },
+        {
+            "text": "4",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "K.  Singh",
+            "label": "PERSON"
+        },
+        {
+            "text": "Conventional Machine  Learning",
+            "label": "WORK_OF_ART"
+        },
+        {
+            "text": "Deep  Learning",
+            "label": "WORK_OF_ART"
+        },
+        {
+            "text": "Communication Technologies",
+            "label": "ORG"
+        },
+        {
+            "text": "Greater Noida",
+            "label": "ORG"
+        },
+        {
+            "text": "India",
+            "label": "GPE"
+        },
+        {
+            "text": "28-29",
+            "label": "DATE"
+        },
+        {
+            "text": "K.  Singh",
+            "label": "PERSON"
+        },
+        {
+            "text": "Conventional Machine  Learning",
+            "label": "WORK_OF_ART"
+        },
+        {
+            "text": "Deep  Learning",
+            "label": "WORK_OF_ART"
+        },
+        {
+            "text": "Communication Technologies",
+            "label": "ORG"
+        },
+        {
+            "text": "Greater Noida",
+            "label": "ORG"
+        },
+        {
+            "text": "India",
+            "label": "GPE"
+        },
+        {
+            "text": "28-29",
+            "label": "DATE"
+        },
+        {
+            "text": "2018",
+            "label": "DATE"
+        },
+        {
+            "text": "4] #/texts/356 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "6",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Support Vector Machines",
+            "label": "ORG"
+        },
+        {
+            "text": "Interface",
+            "label": "ORG"
+        },
+        {
+            "text": "1071",
+            "label": "DATE"
+        },
+        {
+            "text": "August 2015",
+            "label": "DATE"
+        },
+        {
+            "text": "Support Vector Machines",
+            "label": "ORG"
+        },
+        {
+            "text": "Interface",
+            "label": "ORG"
+        },
+        {
+            "text": "1071",
+            "label": "DATE"
+        },
+        {
+            "text": "August 2015",
+            "label": "DATE"
+        },
+        {
+            "text": "6] #",
+            "label": "MONEY"
+        },
+        {
+            "text": "7",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Y.  Lin",
+            "label": "PERSON"
+        },
+        {
+            "text": "G.  Wahba",
+            "label": "PERSON"
+        },
+        {
+            "text": "Journal of the American Statistical Association",
+            "label": "WORK_OF_ART"
+        },
+        {
+            "text": "99(465):67 -81",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "March 2004",
+            "label": "DATE"
+        },
+        {
+            "text": "Y.  Le",
+            "label": "PERSON"
+        },
+        {
+            "text": "Y.  Lin",
+            "label": "PERSON"
+        },
+        {
+            "text": "G.  Wahba",
+            "label": "PERSON"
+        },
+        {
+            "text": "Journal of the American Statistical Association",
+            "label": "WORK_OF_ART"
+        },
+        {
+            "text": "99(465):67 -81",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "March 2004",
+            "label": "DATE"
+        },
+        {
+            "text": "7] #",
+            "label": "MONEY"
+        },
+        {
+            "text": "2019",
+            "label": "DATE"
+        },
+        {
+            "text": "7.211",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "ISO 9001:2008 Certified Journal",
+            "label": "ORG"
+        },
+        {
+            "text": "2019",
+            "label": "DATE"
+        },
+        {
+            "text": "7.211",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "ISO 9001:2008 Certified Journal",
+            "label": "ORG"
+        },
+        {
+            "text": "#/texts/359 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "921",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "International Research Journal of Engineering and Technology",
+            "label": "ORG"
+        },
+        {
+            "text": "International Research Journal of Engineering and Technology",
+            "label": "ORG"
+        },
+        {
+            "text": "#/texts/361 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "ISSN",
+            "label": "ORG"
+        },
+        {
+            "text": "2395-0056",
+            "label": "DATE"
+        },
+        {
+            "text": "2395-0056",
+            "label": "DATE"
+        },
+        {
+            "text": "#/texts/362 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "06",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "02 | Feb 2019",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "2395-0072",
+            "label": "DATE"
+        },
+        {
+            "text": "06",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "02 | Feb 2019",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "2395-0072",
+            "label": "DATE"
+        },
+        {
+            "text": "#/texts/363 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "P. Harrington",
+            "label": "PERSON"
+        },
+        {
+            "text": "Machine Learning",
+            "label": "PERSON"
+        },
+        {
+            "text": "Manning Publications Co.",
+            "label": "ORG"
+        },
+        {
+            "text": "Shelter Island",
+            "label": "GPE"
+        },
+        {
+            "text": "New York",
+            "label": "GPE"
+        },
+        {
+            "text": "2012",
+            "label": "DATE"
+        },
+        {
+            "text": "Machine Learning",
+            "label": "PERSON"
+        },
+        {
+            "text": "Manning Publications Co.",
+            "label": "ORG"
+        },
+        {
+            "text": "Shelter Island",
+            "label": "GPE"
+        },
+        {
+            "text": "New York",
+            "label": "GPE"
+        },
+        {
+            "text": "2012",
+            "label": "DATE"
+        },
+        {
+            "text": "8",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Y.  Si",
+            "label": "PERSON"
+        },
+        {
+            "text": "N.  Srebro",
+            "label": "PERSON"
+        },
+        {
+            "text": "Pegasos",
+            "label": "PERSON"
+        },
+        {
+            "text": "24th",
+            "label": "ORDINAL"
+        },
+        {
+            "text": "Corvallis",
+            "label": "PERSON"
+        },
+        {
+            "text": "2007",
+            "label": "DATE"
+        },
+        {
+            "text": "S.  S.  Shwartz",
+            "label": "GPE"
+        },
+        {
+            "text": "Y.  Si",
+            "label": "PERSON"
+        },
+        {
+            "text": "N.  Srebro",
+            "label": "PERSON"
+        },
+        {
+            "text": "Pegasos",
+            "label": "PERSON"
+        },
+        {
+            "text": "24th",
+            "label": "ORDINAL"
+        },
+        {
+            "text": "Corvallis",
+            "label": "PERSON"
+        },
+        {
+            "text": "2007",
+            "label": "DATE"
+        },
+        {
+            "text": "8] #",
+            "label": "MONEY"
+        },
+        {
+            "text": "9",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Q. M. J. Wu",
+            "label": "PERSON"
+        },
+        {
+            "text": "M. Ahmadi",
+            "label": "PERSON"
+        },
+        {
+            "text": "M. A. Sid-Ahmed",
+            "label": "PERSON"
+        },
+        {
+            "text": "'Investigating the Performance of Naive -Bayes Classifiers",
+            "label": "WORK_OF_ART"
+        },
+        {
+            "text": "KNearest Neighbor Classifiers",
+            "label": "ORG"
+        },
+        {
+            "text": "Journal on Convergence Information Technology",
+            "label": "ORG"
+        },
+        {
+            "text": "5",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "2010",
+            "label": "DATE"
+        },
+        {
+            "text": "M. J. Islam",
+            "label": "PERSON"
+        },
+        {
+            "text": "Q. M. J. Wu",
+            "label": "PERSON"
+        },
+        {
+            "text": "M. Ahmadi",
+            "label": "PERSON"
+        },
+        {
+            "text": "M. A. Sid-Ahmed",
+            "label": "PERSON"
+        },
+        {
+            "text": "'Investigating the Performance of Naive -Bayes Classifiers",
+            "label": "WORK_OF_ART"
+        },
+        {
+            "text": "KNearest Neighbor Classifiers",
+            "label": "ORG"
+        },
+        {
+            "text": "Journal on Convergence Information Technology",
+            "label": "ORG"
+        },
+        {
+            "text": "5",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "2010",
+            "label": "DATE"
+        },
+        {
+            "text": "9] #/texts/366 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "11",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "J. M. Keller",
+            "label": "PERSON"
+        },
+        {
+            "text": "M. R. Gray",
+            "label": "PERSON"
+        },
+        {
+            "text": "J. A. Givens Jr.",
+            "label": "PERSON"
+        },
+        {
+            "text": "IEEE",
+            "label": "ORG"
+        },
+        {
+            "text": "Vol",
+            "label": "PERSON"
+        },
+        {
+            "text": "August 1985",
+            "label": "DATE"
+        },
+        {
+            "text": "J. M. Keller",
+            "label": "PERSON"
+        },
+        {
+            "text": "M. R. Gray",
+            "label": "PERSON"
+        },
+        {
+            "text": "J. A. Givens Jr.",
+            "label": "PERSON"
+        },
+        {
+            "text": "IEEE",
+            "label": "ORG"
+        },
+        {
+            "text": "Vol",
+            "label": "PERSON"
+        },
+        {
+            "text": "August 1985",
+            "label": "DATE"
+        },
+        {
+            "text": "11",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/texts/367 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "10",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "P. Domingos",
+            "label": "PERSON"
+        },
+        {
+            "text": "Na\u00efve Bayes Models for Probability  Estimation",
+            "label": "ORG"
+        },
+        {
+            "text": "05",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "22nd",
+            "label": "DATE"
+        },
+        {
+            "text": "2005",
+            "label": "DATE"
+        },
+        {
+            "text": "P. Domingos",
+            "label": "PERSON"
+        },
+        {
+            "text": "Na\u00efve Bayes Models for Probability  Estimation",
+            "label": "ORG"
+        },
+        {
+            "text": "05",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "22nd",
+            "label": "DATE"
+        },
+        {
+            "text": "2005",
+            "label": "DATE"
+        },
+        {
+            "text": "10] #",
+            "label": "MONEY"
+        },
+        {
+            "text": "12",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Z.H. Zhou",
+            "label": "PERSON"
+        },
+        {
+            "text": "Ensemble Learning '",
+            "label": "WORK_OF_ART"
+        },
+        {
+            "text": "National Key Laboratory",
+            "label": "ORG"
+        },
+        {
+            "text": "Novel  Software  Technology",
+            "label": "ORG"
+        },
+        {
+            "text": "Nanjing",
+            "label": "GPE"
+        },
+        {
+            "text": "University",
+            "label": "GPE"
+        },
+        {
+            "text": "Nanjing",
+            "label": "GPE"
+        },
+        {
+            "text": "China",
+            "label": "GPE"
+        },
+        {
+            "text": "2013",
+            "label": "DATE"
+        },
+        {
+            "text": "Z.H. Zhou",
+            "label": "PERSON"
+        },
+        {
+            "text": "Ensemble Learning '",
+            "label": "WORK_OF_ART"
+        },
+        {
+            "text": "National Key Laboratory",
+            "label": "ORG"
+        },
+        {
+            "text": "Novel  Software  Technology",
+            "label": "ORG"
+        },
+        {
+            "text": "Nanjing",
+            "label": "GPE"
+        },
+        {
+            "text": "University",
+            "label": "GPE"
+        },
+        {
+            "text": "Nanjing",
+            "label": "GPE"
+        },
+        {
+            "text": "China",
+            "label": "GPE"
+        },
+        {
+            "text": "2013",
+            "label": "DATE"
+        },
+        {
+            "text": "12",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "13",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "O.  Maimon",
+            "label": "PERSON"
+        },
+        {
+            "text": "IEEE Transactions on Systems",
+            "label": "WORK_OF_ART"
+        },
+        {
+            "text": "Cybernetics",
+            "label": "NORP"
+        },
+        {
+            "text": "Reviews",
+            "label": "PERSON"
+        },
+        {
+            "text": "35",
+            "label": "DATE"
+        },
+        {
+            "text": "pp",
+            "label": "GPE"
+        },
+        {
+            "text": "476-487",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Nov. 2005",
+            "label": "DATE"
+        },
+        {
+            "text": "L.  Rokach",
+            "label": "PERSON"
+        },
+        {
+            "text": "O.  Maimon",
+            "label": "PERSON"
+        },
+        {
+            "text": "IEEE Transactions on Systems",
+            "label": "WORK_OF_ART"
+        },
+        {
+            "text": "Cybernetics",
+            "label": "NORP"
+        },
+        {
+            "text": "Reviews",
+            "label": "PERSON"
+        },
+        {
+            "text": "35",
+            "label": "DATE"
+        },
+        {
+            "text": "pp",
+            "label": "GPE"
+        },
+        {
+            "text": "476-487",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Nov. 2005",
+            "label": "DATE"
+        },
+        {
+            "text": "13] #",
+            "label": "MONEY"
+        },
+        {
+            "text": "14",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "S. Rai",
+            "label": "PERSON"
+        },
+        {
+            "text": "A. Dev",
+            "label": "PERSON"
+        },
+        {
+            "text": "International  Journal",
+            "label": "ORG"
+        },
+        {
+            "text": "Advanced Research",
+            "label": "ORG"
+        },
+        {
+            "text": "Computer Science and Software Engineering",
+            "label": "ORG"
+        },
+        {
+            "text": "2",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "10, October 2012",
+            "label": "DATE"
+        },
+        {
+            "text": "S. Rai",
+            "label": "PERSON"
+        },
+        {
+            "text": "A. Dev",
+            "label": "PERSON"
+        },
+        {
+            "text": "International  Journal",
+            "label": "ORG"
+        },
+        {
+            "text": "Advanced Research",
+            "label": "ORG"
+        },
+        {
+            "text": "Computer Science and Software Engineering",
+            "label": "ORG"
+        },
+        {
+            "text": "2",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "10, October 2012",
+            "label": "DATE"
+        },
+        {
+            "text": "14",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "15",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "15] #",
+            "label": "MONEY"
+        },
+        {
+            "text": "17",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Parallel GPU Implementation of Iterative PCA Algorithms'",
+            "label": "WORK_OF_ART"
+        },
+        {
+            "text": "Institute of Biocomplexity and Informatics,",
+            "label": "ORG"
+        },
+        {
+            "text": "University of Calgary",
+            "label": "ORG"
+        },
+        {
+            "text": "Canada",
+            "label": "GPE"
+        },
+        {
+            "text": "2008",
+            "label": "DATE"
+        },
+        {
+            "text": "Parallel GPU Implementation of Iterative PCA Algorithms'",
+            "label": "WORK_OF_ART"
+        },
+        {
+            "text": "Institute of Biocomplexity and Informatics,",
+            "label": "ORG"
+        },
+        {
+            "text": "University of Calgary",
+            "label": "ORG"
+        },
+        {
+            "text": "Canada",
+            "label": "GPE"
+        },
+        {
+            "text": "2008",
+            "label": "DATE"
+        },
+        {
+            "text": "17",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "16",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "S. Ranaka",
+            "label": "PERSON"
+        },
+        {
+            "text": "V. Singh",
+            "label": "PERSON"
+        },
+        {
+            "text": "Electrical Engineering",
+            "label": "ORG"
+        },
+        {
+            "text": "Computer Science",
+            "label": "PERSON"
+        },
+        {
+            "text": "1997",
+            "label": "DATE"
+        },
+        {
+            "text": "K. Alsabati",
+            "label": "PERSON"
+        },
+        {
+            "text": "S. Ranaka",
+            "label": "PERSON"
+        },
+        {
+            "text": "V. Singh",
+            "label": "PERSON"
+        },
+        {
+            "text": "Electrical Engineering",
+            "label": "ORG"
+        },
+        {
+            "text": "Computer Science",
+            "label": "PERSON"
+        },
+        {
+            "text": "1997",
+            "label": "DATE"
+        },
+        {
+            "text": "16",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "18",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "R.S. Sutton",
+            "label": "ORG"
+        },
+        {
+            "text": "The Challenge of Reinforcement  Learning '",
+            "label": "ORG"
+        },
+        {
+            "text": "Machine  Learning",
+            "label": "ORG"
+        },
+        {
+            "text": "8",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "225",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Kluwer Academic Publishers",
+            "label": "ORG"
+        },
+        {
+            "text": "Boston",
+            "label": "GPE"
+        },
+        {
+            "text": "1992",
+            "label": "DATE"
+        },
+        {
+            "text": "R.S. Sutton",
+            "label": "ORG"
+        },
+        {
+            "text": "The Challenge of Reinforcement  Learning '",
+            "label": "ORG"
+        },
+        {
+            "text": "Machine  Learning",
+            "label": "ORG"
+        },
+        {
+            "text": "8",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "225",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Kluwer Academic Publishers",
+            "label": "ORG"
+        },
+        {
+            "text": "Boston",
+            "label": "GPE"
+        },
+        {
+            "text": "1992",
+            "label": "DATE"
+        },
+        {
+            "text": "18] #/texts/375 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "19",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "L.P. Kaelbing",
+            "label": "PERSON"
+        },
+        {
+            "text": "M. L. Littman",
+            "label": "PERSON"
+        },
+        {
+            "text": "A. W. Moore",
+            "label": "PERSON"
+        },
+        {
+            "text": "Journal of Artificial Intelligence Research",
+            "label": "ORG"
+        },
+        {
+            "text": "4",
+            "label": "DATE"
+        },
+        {
+            "text": "237",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "1996",
+            "label": "DATE"
+        },
+        {
+            "text": "L.P. Kaelbing",
+            "label": "PERSON"
+        },
+        {
+            "text": "M. L. Littman",
+            "label": "PERSON"
+        },
+        {
+            "text": "A. W. Moore",
+            "label": "PERSON"
+        },
+        {
+            "text": "Journal of Artificial Intelligence Research",
+            "label": "ORG"
+        },
+        {
+            "text": "4",
+            "label": "DATE"
+        },
+        {
+            "text": "237",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "1996",
+            "label": "DATE"
+        },
+        {
+            "text": "19] #",
+            "label": "MONEY"
+        },
+        {
+            "text": "20",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "K.  S.  Patil",
+            "label": "PERSON"
+        },
+        {
+            "text": "Neural Networks '",
+            "label": "ORG"
+        },
+        {
+            "text": "International Journal",
+            "label": "ORG"
+        },
+        {
+            "text": "03",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "03",
+            "label": "DATE"
+        },
+        {
+            "text": "385",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "May",
+            "label": "DATE"
+        },
+        {
+            "text": "2014",
+            "label": "DATE"
+        },
+        {
+            "text": "K.  S.  Patil",
+            "label": "PERSON"
+        },
+        {
+            "text": "Neural Networks '",
+            "label": "ORG"
+        },
+        {
+            "text": "International Journal",
+            "label": "ORG"
+        },
+        {
+            "text": "03",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "03",
+            "label": "DATE"
+        },
+        {
+            "text": "385",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "May",
+            "label": "DATE"
+        },
+        {
+            "text": "2014",
+            "label": "DATE"
+        },
+        {
+            "text": "20] #",
+            "label": "MONEY"
+        },
+        {
+            "text": "2019",
+            "label": "DATE"
+        },
+        {
+            "text": "7.211",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "ISO 9001:2008",
+            "label": "ORG"
+        },
+        {
+            "text": "2019",
+            "label": "DATE"
+        },
+        {
+            "text": "7.211",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "ISO 9001:2008 Certified Journal",
+            "label": "ORG"
+        },
+        {
+            "text": "#/texts/378 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "922",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/pictures/1 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/16 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/21 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/24",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/pictures/2 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/pictures/3",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/37 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/45",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/47 #/texts/48",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/49 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/pictures/4 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/52",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/62",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/63",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/pictures/5 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/69",
+            "label": "MONEY"
+        },
+        {
+            "text": "/texts/75",
+            "label": "PERSON"
+        },
+        {
+            "text": "#/pictures/6 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/78",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/81",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/83",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/91 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/pictures/7 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/104",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/109 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/111 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/113 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/118",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/120 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/pictures/8 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/pictures/9 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/pictures/10",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/178 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/pictures/11 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/181 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/183",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/190 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/texts/210 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/220",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/224",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/pictures/12",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/232 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "/texts/232",
+            "label": "ORG"
+        },
+        {
+            "text": "#/pictures/13",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/pictures/14 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/244 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/247 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/251 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/pictures/15",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/258 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "/texts/255",
+            "label": "PERSON"
+        },
+        {
+            "text": "#/pictures/16",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/272 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/274 #/texts/275 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/277 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/281 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/284 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/288 #/texts/289 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/pictures/17 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/297 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/301 #/texts/302",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/306 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/pictures/18",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/pictures/19",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/316 #/texts/317 #/texts/318 #/texts/319",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/321 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/pictures/20",
+            "label": "MONEY"
+        },
+        {
+            "text": "#",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/texts/329 #/texts/330",
+            "label": "MONEY"
+        },
+        {
+            "text": "/texts/327",
+            "label": "LAW"
+        },
+        {
+            "text": "#/pictures/21",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/337",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/340 #/texts/341",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/pictures/22",
+            "label": "MONEY"
+        }
+    ],
+    "triples": [
+        {
+            "subject": "it",
+            "relation": "perform",
+            "object": "task"
+        },
+        {
+            "subject": "it",
+            "relation": "perform",
+            "object": "task"
+        },
+        {
+            "subject": "Rosenblatt",
+            "relation": "propose",
+            "object": "model"
+        },
+        {
+            "subject": "Rosenblatt",
+            "relation": "propose",
+            "object": "model"
+        },
+        {
+            "subject": "BOTTOMLEFT",
+            "relation": "involve",
+            "object": "learning"
+        },
+        {
+            "subject": "process",
+            "relation": "include",
+            "object": "steps-"
+        },
+        {
+            "subject": "method",
+            "relation": "involve",
+            "object": "learning"
+        },
+        {
+            "subject": "process",
+            "relation": "include",
+            "object": "two"
+        },
+        {
+            "subject": "Decision",
+            "relation": "make",
+            "object": "BOTTOMLEFT"
+        },
+        {
+            "subject": "we",
+            "relation": "have",
+            "object": "types"
+        },
+        {
+            "subject": "we",
+            "relation": "know",
+            "object": "result"
+        },
+        {
+            "subject": "we",
+            "relation": "have",
+            "object": "types"
+        },
+        {
+            "subject": "we",
+            "relation": "know",
+            "object": "result"
+        },
+        {
+            "subject": "We",
+            "relation": "discuss",
+            "object": "approaches"
+        },
+        {
+            "subject": "We",
+            "relation": "discuss",
+            "object": "approaches"
+        },
+        {
+            "subject": "BOTTOMLEFT",
+            "relation": "require",
+            "object": "supervision"
+        },
+        {
+            "subject": "algorithm",
+            "relation": "require",
+            "object": "supervision"
+        },
+        {
+            "subject": "algorithm",
+            "relation": "require",
+            "object": "supervision"
+        },
+        {
+            "subject": "Classification",
+            "relation": "algorithm",
+            "object": "#"
+        },
+        {
+            "subject": "Network",
+            "relation": "supervise",
+            "object": "Supervised"
+        },
+        {
+            "subject": "BOTTOMLEFT",
+            "relation": "supervise",
+            "object": "Supervised"
+        },
+        {
+            "subject": "Data",
+            "relation": "preprocesse",
+            "object": "#"
+        },
+        {
+            "subject": "Parameter",
+            "relation": "tune",
+            "object": "Parameter"
+        },
+        {
+            "subject": "approach",
+            "relation": "use",
+            "object": "hyperplane"
+        },
+        {
+            "subject": "approach",
+            "relation": "use",
+            "object": "hyperplane"
+        },
+        {
+            "subject": "BOTTOMLEFT",
+            "relation": "separate",
+            "object": "Hyperplane"
+        },
+        {
+            "subject": "BOTTOMLEFT",
+            "relation": "separate",
+            "object": "Q"
+        },
+        {
+            "subject": "BOTTOMLEFT",
+            "relation": "separate",
+            "object": "\u53e3"
+        },
+        {
+            "subject": "BOTTOMLEFT",
+            "relation": "separate",
+            "object": "\u53e3"
+        },
+        {
+            "subject": "BOTTOMLEFT",
+            "relation": "separate",
+            "object": "#"
+        },
+        {
+            "subject": "BOTTOMLEFT",
+            "relation": "separate",
+            "object": "\u53e3"
+        },
+        {
+            "subject": "BOTTOMLEFT",
+            "relation": "separate",
+            "object": "Vectors"
+        },
+        {
+            "subject": "BOTTOMLEFT",
+            "relation": "separate",
+            "object": "#"
+        },
+        {
+            "subject": "BOTTOMLEFT",
+            "relation": "separate",
+            "object": "e"
+        },
+        {
+            "subject": "BOTTOMLEFT",
+            "relation": "separate",
+            "object": "-"
+        },
+        {
+            "subject": "BOTTOMLEFT",
+            "relation": "separate",
+            "object": "ISSN"
+        },
+        {
+            "subject": "BOTTOMLEFT",
+            "relation": "separate",
+            "object": "e"
+        },
+        {
+            "subject": "BOTTOMLEFT",
+            "relation": "separate",
+            "object": "-"
+        },
+        {
+            "subject": "BOTTOMLEFT",
+            "relation": "separate",
+            "object": "ISSN"
+        },
+        {
+            "subject": "BOTTOMLEFT",
+            "relation": "separate",
+            "object": "#"
+        },
+        {
+            "subject": "BOTTOMLEFT",
+            "relation": "separate",
+            "object": "Fig-4"
+        },
+        {
+            "subject": "BOTTOMLEFT",
+            "relation": "separate",
+            "object": "Fig-4"
+        },
+        {
+            "subject": "BOTTOMLEFT",
+            "relation": "separate",
+            "object": "Fig-4"
+        },
+        {
+            "subject": "BOTTOMLEFT",
+            "relation": "separate",
+            "object": "INPUT"
+        },
+        {
+            "subject": "analysis",
+            "relation": "involve",
+            "object": "clustering"
+        },
+        {
+            "subject": "analysis",
+            "relation": "involve",
+            "object": "clustering"
+        },
+        {
+            "subject": "which",
+            "relation": "involve",
+            "object": "method"
+        },
+        {
+            "subject": "which",
+            "relation": "involve",
+            "object": "method"
+        },
+        {
+            "subject": "BOTTOMLEFT",
+            "relation": "repeat",
+            "object": "repeat"
+        },
+        {
+            "subject": "BOTTOMLEFT",
+            "relation": "repeat",
+            "object": "/texts/111"
+        },
+        {
+            "subject": "BOTTOMLEFT",
+            "relation": "repeat",
+            "object": "#"
+        },
+        {
+            "subject": "BOTTOMLEFT",
+            "relation": "repeat",
+            "object": "E"
+        },
+        {
+            "subject": "BOTTOMLEFT",
+            "relation": "repeat",
+            "object": "-"
+        },
+        {
+            "subject": "BOTTOMLEFT",
+            "relation": "repeat",
+            "object": "step"
+        },
+        {
+            "subject": "BOTTOMLEFT",
+            "relation": "repeat",
+            "object": "E"
+        },
+        {
+            "subject": "BOTTOMLEFT",
+            "relation": "repeat",
+            "object": "-"
+        },
+        {
+            "subject": "BOTTOMLEFT",
+            "relation": "repeat",
+            "object": "step"
+        },
+        {
+            "subject": "BOTTOMLEFT",
+            "relation": "repeat",
+            "object": "FractionallyassignexamplesinTtomixturecom-"
+        },
+        {
+            "subject": "Regression",
+            "relation": "algorithm",
+            "object": "algorithms"
+        },
+        {
+            "subject": "It",
+            "relation": "model",
+            "object": "relationship"
+        },
+        {
+            "subject": "It",
+            "relation": "model",
+            "object": "relationship"
+        },
+        {
+            "subject": "LetW-{x\uff0cx\uff0c\uff0cx,\uff09}be",
+            "relation": "label",
+            "object": "samples"
+        },
+        {
+            "subject": "ofn",
+            "relation": "label",
+            "object": "samples"
+        },
+        {
+            "subject": "themajority",
+            "relation": "classrepresentedin",
+            "object": "neighbors"
+        },
+        {
+            "subject": "tie",
+            "relation": "classify",
+            "object": "y"
+        },
+        {
+            "subject": "ENDIF",
+            "relation": "classify",
+            "object": "y"
+        },
+        {
+            "subject": "ENDIF",
+            "relation": "label",
+            "object": "samples"
+        },
+        {
+            "subject": "LetW-{x\uff0cx\uff0c\uff0cx,\uff09}be",
+            "relation": "label",
+            "object": "samples"
+        },
+        {
+            "subject": "themajority",
+            "relation": "classrepresentedin",
+            "object": "neighbors"
+        },
+        {
+            "subject": "tie",
+            "relation": "classify",
+            "object": "y"
+        },
+        {
+            "subject": "ENDIF",
+            "relation": "classify",
+            "object": "y"
+        },
+        {
+            "subject": "approach",
+            "relation": "provide",
+            "object": "result"
+        },
+        {
+            "subject": "approach",
+            "relation": "provide",
+            "object": "result"
+        },
+        {
+            "subject": "that",
+            "relation": "produce",
+            "object": "result"
+        },
+        {
+            "subject": "that",
+            "relation": "produce",
+            "object": "result"
+        },
+        {
+            "subject": "Data",
+            "relation": "set",
+            "object": "D={\uff08a1\uff0cy\uff09,\uff08c2\uff0cy2\uff09\uff0c,\uff08@m\uff0cym"
+        },
+        {
+            "subject": "Data",
+            "relation": "set",
+            "object": "D={\uff08,y1\uff09,\uff08\uff0cy2)\uff0c.,\uff08xm\uff0cym"
+        },
+        {
+            "subject": "Machines",
+            "relation": "involve",
+            "object": "prediction"
+        },
+        {
+            "subject": "that",
+            "relation": "create",
+            "object": "mapping"
+        },
+        {
+            "subject": "that",
+            "relation": "fix",
+            "object": "values"
+        },
+        {
+            "subject": "tree",
+            "relation": "contain",
+            "object": "nodes"
+        },
+        {
+            "subject": "which",
+            "relation": "represent",
+            "object": "feature"
+        },
+        {
+            "subject": "nodes",
+            "relation": "represent",
+            "object": "labels"
+        },
+        {
+            "subject": "Learning",
+            "relation": "involve",
+            "object": "prediction"
+        },
+        {
+            "subject": "that",
+            "relation": "create",
+            "object": "mapping"
+        },
+        {
+            "subject": "that",
+            "relation": "fix",
+            "object": "values"
+        },
+        {
+            "subject": "tree",
+            "relation": "contain",
+            "object": "nodes"
+        },
+        {
+            "subject": "which",
+            "relation": "represent",
+            "object": "feature"
+        },
+        {
+            "subject": "nodes",
+            "relation": "represent",
+            "object": "labels"
+        },
+        {
+            "subject": "theStoppingCriteria",
+            "relation": "isfulfille",
+            "object": "BOTTOMLEFT"
+        },
+        {
+            "subject": "theStoppingCriteria",
+            "relation": "isfulfille",
+            "object": "3"
+        },
+        {
+            "subject": "theStoppingCriteria",
+            "relation": "isfulfille",
+            "object": "MarktherootnodeinTasaleafwiththemostcommon"
+        },
+        {
+            "subject": "BOTTOMLEFT",
+            "relation": "find",
+            "object": "discretefunctionf(A"
+        },
+        {
+            "subject": "BOTTOMLEFT",
+            "relation": "find",
+            "object": "discretefunctionf(A"
+        },
+        {
+            "subject": "BOTTOMLEFT",
+            "relation": "endfor",
+            "object": "endfor"
+        },
+        {
+            "subject": "repeat",
+            "relation": "repeat",
+            "object": "#"
+        },
+        {
+            "subject": "model",
+            "relation": "use",
+            "object": "analysis"
+        },
+        {
+            "subject": "model",
+            "relation": "base",
+            "object": "\u00a9"
+        },
+        {
+            "subject": "Network",
+            "relation": "supervisedbase",
+            "object": "#"
+        },
+        {
+            "subject": "Network",
+            "relation": "supervisedbase",
+            "object": "WEIGHTUPDATE"
+        },
+        {
+            "subject": "Network",
+            "relation": "supervisedbase",
+            "object": "error"
+        },
+        {
+            "subject": "BOTTOMLEFT",
+            "relation": "supervisedbase",
+            "object": "#"
+        },
+        {
+            "subject": "BOTTOMLEFT",
+            "relation": "supervisedbase",
+            "object": "WEIGHTUPDATE"
+        },
+        {
+            "subject": "BOTTOMLEFT",
+            "relation": "supervisedbase",
+            "object": "error"
+        },
+        {
+            "subject": "that",
+            "relation": "perform",
+            "object": "tasks"
+        },
+        {
+            "subject": "that",
+            "relation": "perform",
+            "object": "tasks"
+        },
+        {
+            "subject": "BOTTOMLEFT",
+            "relation": "3.2.1",
+            "object": "means"
+        },
+        {
+            "subject": "This",
+            "relation": "distribute",
+            "object": "data"
+        },
+        {
+            "subject": "group",
+            "relation": "contain",
+            "object": "data"
+        },
+        {
+            "subject": "This",
+            "relation": "distribute",
+            "object": "data"
+        },
+        {
+            "subject": "group",
+            "relation": "contain",
+            "object": "data"
+        },
+        {
+            "subject": "Fig-13",
+            "relation": "associate",
+            "object": "Repeat"
+        },
+        {
+            "subject": "BOTTOMLEFT",
+            "relation": "do",
+            "object": "/texts/280"
+        },
+        {
+            "subject": "BOTTOMLEFT",
+            "relation": "do",
+            "object": "/pictures/16"
+        },
+        {
+            "subject": "BOTTOMLEFT",
+            "relation": "assign",
+            "object": "i"
+        },
+        {
+            "subject": "bership",
+            "relation": "change",
+            "object": "bership"
+        },
+        {
+            "subject": "that",
+            "relation": "transform",
+            "object": "data"
+        },
+        {
+            "subject": "that",
+            "relation": "have",
+            "object": "information"
+        },
+        {
+            "subject": "that",
+            "relation": "transform",
+            "object": "data"
+        },
+        {
+            "subject": "that",
+            "relation": "have",
+            "object": "information"
+        },
+        {
+            "subject": "model",
+            "relation": "have",
+            "object": "idea"
+        },
+        {
+            "subject": "network",
+            "relation": "classify",
+            "object": "data"
+        },
+        {
+            "subject": "model",
+            "relation": "correlate",
+            "object": "parameters"
+        },
+        {
+            "subject": "model",
+            "relation": "have",
+            "object": "idea"
+        },
+        {
+            "subject": "network",
+            "relation": "classify",
+            "object": "data"
+        },
+        {
+            "subject": "model",
+            "relation": "correlate",
+            "object": "parameters"
+        },
+        {
+            "subject": "that",
+            "relation": "create",
+            "object": "environment"
+        },
+        {
+            "subject": "that",
+            "relation": "give",
+            "object": "close"
+        },
+        {
+            "subject": "It",
+            "relation": "initiate",
+            "object": "learning"
+        },
+        {
+            "subject": "that",
+            "relation": "create",
+            "object": "environment"
+        },
+        {
+            "subject": "that",
+            "relation": "give",
+            "object": "close"
+        },
+        {
+            "subject": "It",
+            "relation": "initiate",
+            "object": "learning"
+        },
+        {
+            "subject": "model",
+            "relation": "base",
+            "object": "["
+        },
+        {
+            "subject": "agent",
+            "relation": "create",
+            "object": "behavior"
+        },
+        {
+            "subject": "agent",
+            "relation": "create",
+            "object": "I"
+        },
+        {
+            "subject": "agent",
+            "relation": "create",
+            "object": "behavior"
+        },
+        {
+            "subject": "agent",
+            "relation": "create",
+            "object": "I"
+        },
+        {
+            "subject": "network",
+            "relation": "take",
+            "object": "decision"
+        },
+        {
+            "subject": "network",
+            "relation": "contain",
+            "object": "knowledge"
+        },
+        {
+            "subject": "network",
+            "relation": "take",
+            "object": "decision"
+        },
+        {
+            "subject": "network",
+            "relation": "contain",
+            "object": "knowledge"
+        },
+        {
+            "subject": "we",
+            "relation": "review",
+            "object": "models"
+        },
+        {
+            "subject": "humans",
+            "relation": "use",
+            "object": "learning"
+        },
+        {
+            "subject": "paper",
+            "relation": "provide",
+            "object": "overview"
+        },
+        {
+            "subject": "we",
+            "relation": "review",
+            "object": "models"
+        },
+        {
+            "subject": "humans",
+            "relation": "use",
+            "object": "learning"
+        },
+        {
+            "subject": "paper",
+            "relation": "provide",
+            "object": "overview"
+        }
+    ]
+}

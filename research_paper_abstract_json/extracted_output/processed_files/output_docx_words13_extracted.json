@@ -1,0 +1,40 @@
+{
+    "source_file": "output_docx_words13.json",
+    "entities": [
+        {
+            "text": "THE         TRANSFORMER         ARCHITECTURE         IN         LARGE         LANGUAGE         MODELS         :         Abstract:         The         article         presents         the         Transformer         architecture",
+            "label": "ORG"
+        },
+        {
+            "text": "the         Transformer\u2019s         influence         on         the         development         and         efficiency         of         current         state-of-the-art         language         models         .        ",
+            "label": "ORG"
+        }
+    ],
+    "triples": [
+        {
+            "subject": "ARCHITECTURE",
+            "relation": "present",
+            "object": "architecture"
+        },
+        {
+            "subject": "article",
+            "relation": "present",
+            "object": "architecture"
+        },
+        {
+            "subject": "that",
+            "relation": "drive",
+            "object": "ment"
+        },
+        {
+            "subject": "model",
+            "relation": "decode",
+            "object": "relationships"
+        },
+        {
+            "subject": "article",
+            "relation": "highlight",
+            "object": "influence"
+        }
+    ]
+}

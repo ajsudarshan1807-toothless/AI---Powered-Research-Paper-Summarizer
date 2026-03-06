@@ -1,0 +1,5955 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.9.0",
+  "name": "research paper_1",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 9655923723761765704,
+    "filename": "research paper_1.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/groups/1"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/texts/11"
+      },
+      {
+        "$ref": "#/texts/12"
+      },
+      {
+        "$ref": "#/texts/13"
+      },
+      {
+        "$ref": "#/groups/2"
+      },
+      {
+        "$ref": "#/texts/15"
+      },
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/texts/16"
+      },
+      {
+        "$ref": "#/texts/17"
+      },
+      {
+        "$ref": "#/texts/18"
+      },
+      {
+        "$ref": "#/texts/19"
+      },
+      {
+        "$ref": "#/texts/20"
+      },
+      {
+        "$ref": "#/texts/21"
+      },
+      {
+        "$ref": "#/texts/22"
+      },
+      {
+        "$ref": "#/texts/23"
+      },
+      {
+        "$ref": "#/texts/24"
+      },
+      {
+        "$ref": "#/pictures/1"
+      },
+      {
+        "$ref": "#/pictures/2"
+      },
+      {
+        "$ref": "#/texts/45"
+      },
+      {
+        "$ref": "#/pictures/3"
+      },
+      {
+        "$ref": "#/texts/47"
+      },
+      {
+        "$ref": "#/pictures/4"
+      },
+      {
+        "$ref": "#/texts/52"
+      },
+      {
+        "$ref": "#/texts/53"
+      },
+      {
+        "$ref": "#/texts/54"
+      },
+      {
+        "$ref": "#/texts/55"
+      },
+      {
+        "$ref": "#/texts/56"
+      },
+      {
+        "$ref": "#/pictures/5"
+      },
+      {
+        "$ref": "#/texts/58"
+      },
+      {
+        "$ref": "#/pictures/6"
+      },
+      {
+        "$ref": "#/texts/63"
+      },
+      {
+        "$ref": "#/pictures/7"
+      },
+      {
+        "$ref": "#/texts/65"
+      },
+      {
+        "$ref": "#/texts/66"
+      },
+      {
+        "$ref": "#/texts/67"
+      },
+      {
+        "$ref": "#/pictures/8"
+      },
+      {
+        "$ref": "#/texts/72"
+      },
+      {
+        "$ref": "#/texts/73"
+      },
+      {
+        "$ref": "#/texts/74"
+      },
+      {
+        "$ref": "#/texts/75"
+      },
+      {
+        "$ref": "#/texts/76"
+      },
+      {
+        "$ref": "#/pictures/9"
+      },
+      {
+        "$ref": "#/texts/100"
+      },
+      {
+        "$ref": "#/texts/101"
+      },
+      {
+        "$ref": "#/pictures/10"
+      },
+      {
+        "$ref": "#/texts/106"
+      },
+      {
+        "$ref": "#/pictures/11"
+      },
+      {
+        "$ref": "#/pictures/12"
+      },
+      {
+        "$ref": "#/pictures/13"
+      },
+      {
+        "$ref": "#/texts/142"
+      },
+      {
+        "$ref": "#/texts/143"
+      },
+      {
+        "$ref": "#/texts/144"
+      },
+      {
+        "$ref": "#/pictures/14"
+      },
+      {
+        "$ref": "#/texts/154"
+      },
+      {
+        "$ref": "#/texts/155"
+      },
+      {
+        "$ref": "#/texts/156"
+      },
+      {
+        "$ref": "#/groups/3"
+      },
+      {
+        "$ref": "#/pictures/15"
+      },
+      {
+        "$ref": "#/texts/171"
+      },
+      {
+        "$ref": "#/texts/172"
+      },
+      {
+        "$ref": "#/texts/173"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [
+    {
+      "self_ref": "#/groups/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    },
+    {
+      "self_ref": "#/groups/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/9"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/14"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/157"
+        },
+        {
+          "$ref": "#/texts/158"
+        },
+        {
+          "$ref": "#/texts/159"
+        },
+        {
+          "$ref": "#/texts/160"
+        },
+        {
+          "$ref": "#/texts/161"
+        },
+        {
+          "$ref": "#/texts/162"
+        },
+        {
+          "$ref": "#/texts/163"
+        },
+        {
+          "$ref": "#/texts/164"
+        },
+        {
+          "$ref": "#/texts/165"
+        },
+        {
+          "$ref": "#/texts/166"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    }
+  ],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 251.57,
+            "t": 830.0629829101563,
+            "r": 553.29,
+            "b": 810.1649829101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            114
+          ]
+        }
+      ],
+      "orig": "International Journal of Recent Technology and Engineering (IJRTE) ISSN: 2277-3878, Volume-7 Issue-5, January 2019",
+      "text": "International Journal of Recent Technology and Engineering (IJRTE) ISSN: 2277-3878, Volume-7 Issue-5, January 2019"
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 62.664,
+            "t": 786.0719829101563,
+            "r": 532.756,
+            "b": 765.4079829101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            45
+          ]
+        }
+      ],
+      "orig": "Smart Agriculture System using IoT Technology",
+      "text": "Smart Agriculture System using IoT Technology",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 220.73,
+            "t": 749.4029829101563,
+            "r": 377.2,
+            "b": 741.0249829101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            30
+          ]
+        }
+      ],
+      "orig": "Muthunoori Naresh, P Munaswamy",
+      "text": "Muthunoori Naresh, P Munaswamy"
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 46.8,
+            "t": 726.0729829101563,
+            "r": 292.7,
+            "b": 504.2729829101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1244
+          ]
+        }
+      ],
+      "orig": "Abstract: In olden Days Farmers used to figure the ripeness of soil and influenced suspicions to develop which to kind of yield. They  didn't think about the humidity, level of water and especially climate condition which terrible a farmer increasingly The  Internet  of  things  (IOT)  is  remodeling  the  agribusiness empowering  the  agriculturists  through  the  extensive  range  of strategies, for example, accuracy as well as practical farming to deal  with  challenges  in  the  field.  IOT  modernization  helps  in assembly  information  on  circumstances  like  climate,  dampness, temperature and fruitfulness of soil, Crop web based examination empowers  discovery  of  wild  plant,  level  of  water,  bug  location, creature interruption in to the field, trim development, horticulture. IOT utilize farmers to get related with his residence from wherever and at whatever point. Remote sensor structures are  utilized  for  watching  the  homestead  conditions  and  tinier scale controllers are utilized to control and mechanize the home shapes.  To  see  remotely  the  conditions  as  picture  and  video, remote cameras have been used. IOT development can diminish the cost and update the productivity of standard developing.",
+      "text": "Abstract: In olden Days Farmers used to figure the ripeness of soil and influenced suspicions to develop which to kind of yield. They  didn't think about the humidity, level of water and especially climate condition which terrible a farmer increasingly The  Internet  of  things  (IOT)  is  remodeling  the  agribusiness empowering  the  agriculturists  through  the  extensive  range  of strategies, for example, accuracy as well as practical farming to deal  with  challenges  in  the  field.  IOT  modernization  helps  in assembly  information  on  circumstances  like  climate,  dampness, temperature and fruitfulness of soil, Crop web based examination empowers  discovery  of  wild  plant,  level  of  water,  bug  location, creature interruption in to the field, trim development, horticulture. IOT utilize farmers to get related with his residence from wherever and at whatever point. Remote sensor structures are  utilized  for  watching  the  homestead  conditions  and  tinier scale controllers are utilized to control and mechanize the home shapes.  To  see  remotely  the  conditions  as  picture  and  video, remote cameras have been used. IOT development can diminish the cost and update the productivity of standard developing."
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 46.8,
+            "t": 496.0029829101563,
+            "r": 292.446,
+            "b": 477.9929829101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            99
+          ]
+        }
+      ],
+      "orig": "Keywords:  Soil  moisture  sensor,  Water  level  sensor,  Humidity sensor, Temperature sensor, IOT",
+      "text": "Keywords:  Soil  moisture  sensor,  Water  level  sensor,  Humidity sensor, Temperature sensor, IOT"
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 109.34,
+            "t": 463.0529829101563,
+            "r": 230.42,
+            "b": 454.6749829101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "I. INTRODUCTION",
+      "text": "I. INTRODUCTION",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 46.8,
+            "t": 445.9319829101563,
+            "r": 292.94,
+            "b": 244.10698291015626,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            988
+          ]
+        }
+      ],
+      "orig": "The Agriculture Parameters are utilizing an IOT Technology and system availability that draw in these objects to assemble  and  deal  information.  \"The  IOT  enables  things selected recognized or potentially forced remotely crosswise over completed the process of existing configuration, manufacture  open  gateways  for  all  the  additional  obvious merge of the substantial earth into PC based frameworks, in addition  to  acknowledging  overhauled  capacity,  precision and  cash  interconnected  favoured  stance.  Precisely  when IOT is extended with sensors and actuators, the improvement  modify  into  an  occasion  of  the  all  the  extra wide category of electronic physical structures, which in like manner  incorporates  headways,  for  instance,  clever  grids, splendid homes, canny moving and smart urban groups [1]. All  is  especially  specific  through  its  introduced  figuring configuration  anyway  can  interoperate  within  the  current Internet establishment.",
+      "text": "The Agriculture Parameters are utilizing an IOT Technology and system availability that draw in these objects to assemble  and  deal  information.  \"The  IOT  enables  things selected recognized or potentially forced remotely crosswise over completed the process of existing configuration, manufacture  open  gateways  for  all  the  additional  obvious merge of the substantial earth into PC based frameworks, in addition  to  acknowledging  overhauled  capacity,  precision and  cash  interconnected  favoured  stance.  Precisely  when IOT is extended with sensors and actuators, the improvement  modify  into  an  occasion  of  the  all  the  extra wide category of electronic physical structures, which in like manner  incorporates  headways,  for  instance,  clever  grids, splendid homes, canny moving and smart urban groups [1]. All  is  especially  specific  through  its  introduced  figuring configuration  anyway  can  interoperate  within  the  current Internet establishment."
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 51.36,
+            "t": 120.06298291015628,
+            "r": 262.58,
+            "b": 113.29998291015625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            57
+          ]
+        }
+      ],
+      "orig": "Revised Version Manuscript Received on 28 December, 2019.",
+      "text": "Revised Version Manuscript Received on 28 December, 2019."
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 46.8,
+            "t": 111.0719829101563,
+            "r": 291.698,
+            "b": 83.0089829101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            152
+          ]
+        }
+      ],
+      "orig": "Muthunoori    Naresh, PG  Student,  Department  of  Electronics  and Communication Engineering, Institute of Aeronautical Engineering, Hyderabad, India.",
+      "text": "Muthunoori    Naresh, PG  Student,  Department  of  Electronics  and Communication Engineering, Institute of Aeronautical Engineering, Hyderabad, India."
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 46.8,
+            "t": 79.25198291015624,
+            "r": 291.84,
+            "b": 51.20898291015624,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            135
+          ]
+        }
+      ],
+      "orig": "P Munaswamy Professor, Department of Electronics and Communication Engineering, Institute of Aeronautical Engineering, Hyderabad, India",
+      "text": "P Munaswamy Professor, Department of Electronics and Communication Engineering, Institute of Aeronautical Engineering, Hyderabad, India",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 362.35,
+            "t": 713.8829829101563,
+            "r": 493.39,
+            "b": 705.5049829101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            19
+          ]
+        }
+      ],
+      "orig": "II. EXISTING SYSTEM",
+      "text": "II. EXISTING SYSTEM",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 304.87,
+            "t": 696.7619829101562,
+            "r": 551.001,
+            "b": 591.5869829101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            579
+          ]
+        }
+      ],
+      "orig": "Horticulture  is  the  foundation  of  our  Nation.  In  long  time past  days  agriculturists  used  to  figure  the  ripeness  of  soil and  influenced  presumptions  to  develop  which  to  kind  of product.  They  didn't  think  about  the  dampness,  level  of water  and  especially  climate  condition  which  horrible  an agriculturist more. They utilize pesticides in view of a few suspicions which made lead a genuine impact to the yield if the  supposition  isn't  right  .The  profitability  relies  upon  the last phase of the harvest on which agriculturist depends.",
+      "text": "Horticulture  is  the  foundation  of  our  Nation.  In  long  time past  days  agriculturists  used  to  figure  the  ripeness  of  soil and  influenced  presumptions  to  develop  which  to  kind  of product.  They  didn't  think  about  the  dampness,  level  of water  and  especially  climate  condition  which  horrible  an agriculturist more. They utilize pesticides in view of a few suspicions which made lead a genuine impact to the yield if the  supposition  isn't  right  .The  profitability  relies  upon  the last phase of the harvest on which agriculturist depends."
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 359.59,
+            "t": 575.7329829101562,
+            "r": 496.15,
+            "b": 567.3549829101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            20
+          ]
+        }
+      ],
+      "orig": "III. PROPOSED SYSTEM",
+      "text": "III. PROPOSED SYSTEM",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 304.87,
+            "t": 558.6119829101563,
+            "r": 551.01,
+            "b": 368.9369829101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            942
+          ]
+        }
+      ],
+      "orig": "To improve the efficiency of the product there by supporting both rancher and country we need to utilize the innovation which appraises the nature of harvest and giving recommendations. The Internet of things (IOT) is revamping the agribusiness engaging the farmers by the broad assortment of techniques, for instance, accuracy and conservative  cultivation  to  go  up  against  challenges  in  the field. IOT advancement aids in social affair information on conditions like atmosphere, temperature and productivity of soil,  harvest  web  watching  engages  area  of  weed,  level  of water,  bug  acknowledgment,  animal  interference  in  to  the field, alter improvement, cultivation . IOT utilize farmers to get related with his residence from wherever and at whatever  point.  Remote  sensor  frameworks  are  used  for checking the farm conditions and little scale controllers are used to control and robotize the property shapes [2].",
+      "text": "To improve the efficiency of the product there by supporting both rancher and country we need to utilize the innovation which appraises the nature of harvest and giving recommendations. The Internet of things (IOT) is revamping the agribusiness engaging the farmers by the broad assortment of techniques, for instance, accuracy and conservative  cultivation  to  go  up  against  challenges  in  the field. IOT advancement aids in social affair information on conditions like atmosphere, temperature and productivity of soil,  harvest  web  watching  engages  area  of  weed,  level  of water,  bug  acknowledgment,  animal  interference  in  to  the field, alter improvement, cultivation . IOT utilize farmers to get related with his residence from wherever and at whatever  point.  Remote  sensor  frameworks  are  used  for checking the farm conditions and little scale controllers are used to control and robotize the property shapes [2]."
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 304.87,
+            "t": 365.3919829101563,
+            "r": 550.931,
+            "b": 344.8169829101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            59
+          ]
+        }
+      ],
+      "orig": "a. Use Of Wireless sensor Networks In Precision Agriculture",
+      "text": "Use Of Wireless sensor Networks In Precision Agriculture",
+      "enumerated": true,
+      "marker": "a."
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 304.87,
+            "t": 341.2719829101563,
+            "r": 550.953,
+            "b": 91.20698291015628,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1254
+          ]
+        }
+      ],
+      "orig": "In  this  paper  a  Precision  Agriculture  has  the  advantage  of giving continuous criticism on various distinctive yield and site  factors.  As  its  name  suggests,  Precision  Agriculture  is exact  in  both  the  extent  of  the  product  territory  it  screens and  in  addition  in  the  conveyance  measures  of  water, compost,  and  so  forth.  This  innovation  can  separate  a solitary plant for checking in the tens or several square feet. The  WSN  framework  requires  a  brought  together  control unit with UI. Exactness Agriculture requires a novel programming model for each land territory, the characteristic  soil  write  and  the  specific  harvest  or  plants. For  instance,  every  area  will  get  its  own  particular  ideal measure of  water,  compost and pesticide.  It's  by  and  large prescribed  that  information  gathering  be  done  on  a  hourly premise. Visit information gathering doesn't give extra helpful data to the product show and turns into a weight to the Wireless Sensor Network as far as power utilization and information transmission. Less continuous observing might be  satisfactory  for  certain  moderate  development  harvests and regions that have extremely steady, uniform atmosphere conditions.",
+      "text": "In  this  paper  a  Precision  Agriculture  has  the  advantage  of giving continuous criticism on various distinctive yield and site  factors.  As  its  name  suggests,  Precision  Agriculture  is exact  in  both  the  extent  of  the  product  territory  it  screens and  in  addition  in  the  conveyance  measures  of  water, compost,  and  so  forth.  This  innovation  can  separate  a solitary plant for checking in the tens or several square feet. The  WSN  framework  requires  a  brought  together  control unit with UI. Exactness Agriculture requires a novel programming model for each land territory, the characteristic  soil  write  and  the  specific  harvest  or  plants. For  instance,  every  area  will  get  its  own  particular  ideal measure of  water,  compost and pesticide.  It's  by  and  large prescribed  that  information  gathering  be  done  on  a  hourly premise. Visit information gathering doesn't give extra helpful data to the product show and turns into a weight to the Wireless Sensor Network as far as power utilization and information transmission. Less continuous observing might be  satisfactory  for  certain  moderate  development  harvests and regions that have extremely steady, uniform atmosphere conditions."
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 51.84,
+            "t": 24.41998291015625,
+            "r": 203.06,
+            "b": 17.486982910156257,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            39
+          ]
+        }
+      ],
+      "orig": "Retrieval Number: E1987017519/19©BEIESP",
+      "text": "Retrieval Number: E1987017519/19©BEIESP"
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 292.73,
+            "t": 20.101982910156266,
+            "r": 302.75,
+            "b": 11.526982910156335,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "98",
+      "text": "98"
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 322.51,
+            "t": 34.97998291015631,
+            "r": 438.994,
+            "b": 9.686982910156303,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            71
+          ]
+        }
+      ],
+      "orig": "Published By: Blue Eyes Intelligence Engineering & Sciences Publication",
+      "text": "Published By: Blue Eyes Intelligence Engineering & Sciences Publication"
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 46.8,
+            "t": 789.0229829101563,
+            "r": 176.99,
+            "b": 780.6449829101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            26
+          ]
+        }
+      ],
+      "orig": "b. WSN System Architecture",
+      "text": "b. WSN System Architecture",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 46.8,
+            "t": 771.9019829101563,
+            "r": 292.94,
+            "b": 364.8569829101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2008
+          ]
+        }
+      ],
+      "orig": "Wireless sensor systems posture remarkable difficulties with respect  to  unit  control  utilization,  warm  exchange  and general size, so the security conventions utilized for sensor information  insurance  must  be  effective,  asset  neighbourly and  quick.  Formal  confirmation  is  the  procedure  used  to empower trust and security issues to be checked in connection to security convention outline for the data correspondences part. This exploration program consolidates these subjects and is worried about the plan and formal testing/confirmation of cryptographic based security conventions reasonable for use with remote sensor frameworks to perform errands, for example, key understanding, key transport and hub validation. The WSN is  erect  of  \"centre  points\"  -  from  a  couple  to  a  couple  of hundreds or still thousands, where each centre is associated with  single  (or  now  and  again  a  couple  of)  sensors.  Both such  sensor  mastermind  centre  has  ordinarily  a  couple  of segments:  a  radio  earpiece  by  an  interior  accommodating wire or correlation with an exterior assembly contraption, a microcontroller, an electronic circuit  for  interfacing among the sensors and a centrality source, if all else fails a battery or  an  inserted  type  of  hugeness  gathering.  A  sensor  centre may shift in estimate starting that of a shoebox losing to the span  of  a particle of tidy, albeit functioning  \"bits\"  of authentic infinitesimal highlights still can't seem to be ready. The price of sensor centres is on the contrary factor, running from a couple to a few dollars, dependent upon  the unconventionality of the individual sensor centres. Size and cost impediment on sensor centres realize looking at prerequisites on resources, for case, imperativeness, memory,  computational  speed  and  exchanges  information replace boundary. The topology of the WSNs can fluctuate from an effortlessly comprehended star system to a progressed multichip remote work organize",
+      "text": "Wireless sensor systems posture remarkable difficulties with respect  to  unit  control  utilization,  warm  exchange  and general size, so the security conventions utilized for sensor information  insurance  must  be  effective,  asset  neighbourly and  quick.  Formal  confirmation  is  the  procedure  used  to empower trust and security issues to be checked in connection to security convention outline for the data correspondences part. This exploration program consolidates these subjects and is worried about the plan and formal testing/confirmation of cryptographic based security conventions reasonable for use with remote sensor frameworks to perform errands, for example, key understanding, key transport and hub validation. The WSN is  erect  of  \"centre  points\"  -  from  a  couple  to  a  couple  of hundreds or still thousands, where each centre is associated with  single  (or  now  and  again  a  couple  of)  sensors.  Both such  sensor  mastermind  centre  has  ordinarily  a  couple  of segments:  a  radio  earpiece  by  an  interior  accommodating wire or correlation with an exterior assembly contraption, a microcontroller, an electronic circuit  for  interfacing among the sensors and a centrality source, if all else fails a battery or  an  inserted  type  of  hugeness  gathering.  A  sensor  centre may shift in estimate starting that of a shoebox losing to the span  of  a particle of tidy, albeit functioning  \"bits\"  of authentic infinitesimal highlights still can't seem to be ready. The price of sensor centres is on the contrary factor, running from a couple to a few dollars, dependent upon  the unconventionality of the individual sensor centres. Size and cost impediment on sensor centres realize looking at prerequisites on resources, for case, imperativeness, memory,  computational  speed  and  exchanges  information replace boundary. The topology of the WSNs can fluctuate from an effortlessly comprehended star system to a progressed multichip remote work organize"
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 95.664,
+            "t": 348.9129829101563,
+            "r": 243.98,
+            "b": 340.5349829101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            21
+          ]
+        }
+      ],
+      "orig": "IV. LITERATURE SURVEY",
+      "text": "IV. LITERATURE SURVEY",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 46.8,
+            "t": 331.79198291015626,
+            "r": 292.931,
+            "b": 130.10698291015626,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1022
+          ]
+        }
+      ],
+      "orig": "Ayush Kumar and at al utilized IoT and picture handling to locate the supplement and mineral insufficiencies that influence the yield development [1]. M.K. Gayathri and at al advance  the  quick  improvement  of  agrarian  modernization and  help  to  acknowledge  brilliant  answer  for  horticulture and productively explain the issues identified with ranchers [2]. Zhou Zhongwei and at al have proposed a technique to picture and follow rural items in inventory network [3]. Li Sanbo  and  at  al  centre  around  the  equipment  engineering, arrange  design  and  programming  process  control  of  the exactness water system framework [4]. Smash and atal have proposed an approach to direct water in rural fields [5]. Bo Yifan and atal have concentrated on the investigation on the use  of  distributed  computing  and  the  web  of  things  in horticulture and ranger service [6]. M.V. Latte and at al have utilized  shading  and  example  investigation  to  recognize numerous insufficiencies in paddy leaf pictures",
+      "text": "Ayush Kumar and at al utilized IoT and picture handling to locate the supplement and mineral insufficiencies that influence the yield development [1]. M.K. Gayathri and at al advance  the  quick  improvement  of  agrarian  modernization and  help  to  acknowledge  brilliant  answer  for  horticulture and productively explain the issues identified with ranchers [2]. Zhou Zhongwei and at al have proposed a technique to picture and follow rural items in inventory network [3]. Li Sanbo  and  at  al  centre  around  the  equipment  engineering, arrange  design  and  programming  process  control  of  the exactness water system framework [4]. Smash and atal have proposed an approach to direct water in rural fields [5]. Bo Yifan and atal have concentrated on the investigation on the use  of  distributed  computing  and  the  web  of  things  in horticulture and ranger service [6]. M.V. Latte and at al have utilized  shading  and  example  investigation  to  recognize numerous insufficiencies in paddy leaf pictures"
+    },
+    {
+      "self_ref": "#/texts/23",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 183.53,
+            "t": 817.2339829101563,
+            "r": 411.859,
+            "b": 807.9479829101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            45
+          ]
+        }
+      ],
+      "orig": "Smart Agriculture System using IoT Technology",
+      "text": "Smart Agriculture System using IoT Technology",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/24",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 361.87,
+            "t": 789.0229829101563,
+            "r": 493.99,
+            "b": 780.6449829101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            18
+          ]
+        }
+      ],
+      "orig": "V. BLOCK   DIAGRAM",
+      "text": "V. BLOCK   DIAGRAM",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/25",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 357.31,
+            "t": 572.0129829101563,
+            "r": 498.43,
+            "b": 563.6349829101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            30
+          ]
+        }
+      ],
+      "orig": "Figure.1. System Block Diagram",
+      "text": "Figure.1. System Block Diagram"
+    },
+    {
+      "self_ref": "#/texts/26",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 325.0,
+            "t": 754.2533162434896,
+            "r": 364.6666666666667,
+            "b": 743.5866495768229,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            12
+          ]
+        }
+      ],
+      "orig": "Power supply",
+      "text": "Power supply"
+    },
+    {
+      "self_ref": "#/texts/27",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 467.33333333333337,
+            "t": 734.5866495768229,
+            "r": 481.66666666666663,
+            "b": 724.9199829101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "LCD",
+      "text": "LCD"
+    },
+    {
+      "self_ref": "#/texts/28",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 325.0,
+            "t": 716.2533162434896,
+            "r": 364.3333333333333,
+            "b": 706.9199829101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            13
+          ]
+        }
+      ],
+      "orig": "Soil moisture",
+      "text": "Soil moisture"
+    },
+    {
+      "self_ref": "#/texts/29",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 325.0,
+            "t": 703.2533162434895,
+            "r": 346.0,
+            "b": 695.586649576823,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "sensor",
+      "text": "sensor"
+    },
+    {
+      "self_ref": "#/texts/30",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 467.66666666666663,
+            "t": 700.2533162434895,
+            "r": 484.0,
+            "b": 690.9199829101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "WIFI",
+      "text": "WIFI"
+    },
+    {
+      "self_ref": "#/texts/31",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 407.6666666666667,
+            "t": 687.586649576823,
+            "r": 438.33333333333337,
+            "b": 675.586649576823,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "ARM 7",
+      "text": "ARM 7"
+    },
+    {
+      "self_ref": "#/texts/32",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 467.0,
+            "t": 689.2533162434895,
+            "r": 492.0,
+            "b": 679.586649576823,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "module",
+      "text": "module"
+    },
+    {
+      "self_ref": "#/texts/33",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 325.3333333333333,
+            "t": 679.586649576823,
+            "r": 373.0,
+            "b": 669.586649576823,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "Humidity sensor",
+      "text": "Humidity sensor"
+    },
+    {
+      "self_ref": "#/texts/34",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 325.0,
+            "t": 650.5866495768229,
+            "r": 364.6666666666667,
+            "b": 639.5866495768229,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            11
+          ]
+        }
+      ],
+      "orig": "Temperature",
+      "text": "Temperature"
+    },
+    {
+      "self_ref": "#/texts/35",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 461.0,
+            "t": 648.5866495768229,
+            "r": 479.0,
+            "b": 636.9199829101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "Relay",
+      "text": "Relay"
+    },
+    {
+      "self_ref": "#/texts/36",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 509.33333333333337,
+            "t": 647.9199829101562,
+            "r": 530.0,
+            "b": 637.9199829101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "Motor",
+      "text": "Motor"
+    },
+    {
+      "self_ref": "#/texts/37",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 325.3333333333333,
+            "t": 636.9199829101562,
+            "r": 345.6666666666667,
+            "b": 629.9199829101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "sensor",
+      "text": "sensor"
+    },
+    {
+      "self_ref": "#/texts/38",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 325.0,
+            "t": 616.5866495768229,
+            "r": 360.0,
+            "b": 606.9199829101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            11
+          ]
+        }
+      ],
+      "orig": "Water level",
+      "text": "Water level"
+    },
+    {
+      "self_ref": "#/texts/39",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 325.3333333333333,
+            "t": 602.9199829101562,
+            "r": 345.6666666666667,
+            "b": 595.5866495768229,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "sensor",
+      "text": "sensor"
+    },
+    {
+      "self_ref": "#/texts/40",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 363.43,
+            "t": 434.4929829101563,
+            "r": 492.31,
+            "b": 426.1149829101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            27
+          ]
+        }
+      ],
+      "orig": "Figure.2.Temperature Sensor",
+      "text": "Figure.2.Temperature Sensor"
+    },
+    {
+      "self_ref": "#/texts/41",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 374.6666666666667,
+            "t": 516.2533162434895,
+            "r": 407.3333333333333,
+            "b": 503.91998291015625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "LM35",
+      "text": "LM35"
+    },
+    {
+      "self_ref": "#/texts/42",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 448.3333333333333,
+            "t": 489.58664957682294,
+            "r": 481.6666666666667,
+            "b": 483.58664957682294,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "GND-Ground",
+      "text": "GND-Ground"
+    },
+    {
+      "self_ref": "#/texts/43",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 445.3333333333333,
+            "t": 469.58664957682294,
+            "r": 479.0,
+            "b": 463.58664957682294,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            11
+          ]
+        }
+      ],
+      "orig": "Vout-Output",
+      "text": "Vout-Output"
+    },
+    {
+      "self_ref": "#/texts/44",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 367.0,
+            "t": 459.25331624348956,
+            "r": 411.6666666666667,
+            "b": 452.91998291015625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            16
+          ]
+        }
+      ],
+      "orig": "Vs-SupplyVoltage",
+      "text": "Vs-SupplyVoltage"
+    },
+    {
+      "self_ref": "#/texts/45",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 304.87,
+            "t": 419.3919829101563,
+            "r": 550.703,
+            "b": 358.0169829101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            279
+          ]
+        }
+      ],
+      "orig": "Those LM35 may be an incorporated information preparing sensor that might a chance to be used to figure temperature for  an  electrical  yield  proportional  of  the  temperature  (in °C). It might quantify temperature additional faultlessly over a utilizing a indoor controller.",
+      "text": "Those LM35 may be an incorporated information preparing sensor that might a chance to be used to figure temperature for  an  electrical  yield  proportional  of  the  temperature  (in °C). It might quantify temperature additional faultlessly over a utilizing a indoor controller."
+    },
+    {
+      "self_ref": "#/texts/46",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 371.11,
+            "t": 227.08298291015626,
+            "r": 484.75,
+            "b": 218.70498291015633,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            25
+          ]
+        }
+      ],
+      "orig": "Figure.3. Moisture Sensor",
+      "text": "Figure.3. Moisture Sensor"
+    },
+    {
+      "self_ref": "#/texts/47",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 304.87,
+            "t": 212.00198291015636,
+            "r": 551.025,
+            "b": 97.7109829101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            566
+          ]
+        }
+      ],
+      "orig": "Soil  sensor  may  be  a  sensor  which  faculties  those  wetness material of the soil. That  sensor need just as the plain and the propelled yield. The propelled yield will be created and the plain yield limit might a chance to be fluctuated. It takes a  shot  on  the  example  about  open  Also  short  crazy.  That yield  may  be  secondary  or  low  demonstrated  toward  the headed. During those side of the point when the mud may be dry,  those  current  won't  experience  it  Along  these  lines  it will clear out for Concerning illustration open circuit.",
+      "text": "Soil  sensor  may  be  a  sensor  which  faculties  those  wetness material of the soil. That  sensor need just as the plain and the propelled yield. The propelled yield will be created and the plain yield limit might a chance to be fluctuated. It takes a  shot  on  the  example  about  open  Also  short  crazy.  That yield  may  be  secondary  or  low  demonstrated  toward  the headed. During those side of the point when the mud may be dry,  those  current  won't  experience  it  Along  these  lines  it will clear out for Concerning illustration open circuit."
+    },
+    {
+      "self_ref": "#/texts/48",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 466.3333333333333,
+            "t": 86.25331624348962,
+            "r": 481.3333333333333,
+            "b": 82.91998291015625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "and",
+      "text": "and"
+    },
+    {
+      "self_ref": "#/texts/49",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 481.3333333333333,
+            "t": 62.25331624348962,
+            "r": 549.6666666666666,
+            "b": 42.91998291015625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "IJRTE",
+      "text": "IJRTE"
+    },
+    {
+      "self_ref": "#/texts/50",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 496.0,
+            "t": 20.91998291015625,
+            "r": 522.0,
+            "b": 15.586649576822879,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            13
+          ]
+        }
+      ],
+      "orig": "www.ijrte.org",
+      "text": "www.ijrte.org"
+    },
+    {
+      "self_ref": "#/texts/51",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 465.0,
+            "t": 13.253316243489621,
+            "r": 524.3333333333334,
+            "b": 8.91998291015625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            19
+          ]
+        }
+      ],
+      "orig": "Exploringlnnovation",
+      "text": "Exploringlnnovation"
+    },
+    {
+      "self_ref": "#/texts/52",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 50.4,
+            "t": 22.139982910156277,
+            "r": 201.62,
+            "b": 15.206982910156285,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            39
+          ]
+        }
+      ],
+      "orig": "Retrieval Number: E1987017519/19©BEIESP",
+      "text": "Retrieval Number: E1987017519/19©BEIESP"
+    },
+    {
+      "self_ref": "#/texts/53",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 292.73,
+            "t": 20.101982910156266,
+            "r": 302.75,
+            "b": 11.526982910156335,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "99",
+      "text": "99"
+    },
+    {
+      "self_ref": "#/texts/54",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 327.79,
+            "t": 35.33998291015632,
+            "r": 444.274,
+            "b": 10.046982910156316,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            71
+          ]
+        }
+      ],
+      "orig": "Published By: Blue Eyes Intelligence Engineering & Sciences Publication",
+      "text": "Published By: Blue Eyes Intelligence Engineering & Sciences Publication"
+    },
+    {
+      "self_ref": "#/texts/55",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 251.57,
+            "t": 830.0629829101563,
+            "r": 553.29,
+            "b": 810.1649829101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            114
+          ]
+        }
+      ],
+      "orig": "International Journal of Recent Technology and Engineering (IJRTE) ISSN: 2277-3878, Volume-7 Issue-5, January 2019",
+      "text": "International Journal of Recent Technology and Engineering (IJRTE) ISSN: 2277-3878, Volume-7 Issue-5, January 2019"
+    },
+    {
+      "self_ref": "#/texts/56",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 46.8,
+            "t": 789.3019829101563,
+            "r": 292.633,
+            "b": 741.1069829101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            204
+          ]
+        }
+      ],
+      "orig": "During those purpose The point when those dirt is wet, those present  will  take  off  from  single  terminal  of  the  following and the circlet is gathered with make short and the yield will be nothing.",
+      "text": "During those purpose The point when those dirt is wet, those present  will  take  off  from  single  terminal  of  the  following and the circlet is gathered with make short and the yield will be nothing."
+    },
+    {
+      "self_ref": "#/texts/57",
+      "parent": {
+        "$ref": "#/pictures/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 111.86,
+            "t": 628.3229829101563,
+            "r": 227.78,
+            "b": 619.9449829101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            25
+          ]
+        }
+      ],
+      "orig": "Figure.4. Humidity Sensor",
+      "text": "Figure.4. Humidity Sensor"
+    },
+    {
+      "self_ref": "#/texts/58",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 46.8,
+            "t": 611.2019829101563,
+            "r": 292.94,
+            "b": 510.0769829101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            466
+          ]
+        }
+      ],
+      "orig": "HR 202 Humidity is coordinated circuit sensors that can be utilized to gauge the nearness of water in arrive. The HR202 is  another  sort of stickiness touchy resistor produced using natural macromolecule materials, it can be utilized as a part of events like: clinics, stockpiling, workshop, material industry  and  so  on.  The  Stickiness  sensor  with  its  yield Relative  to  the  temperature  (in  RH  %).  The  operational temperature extend is from20-95%RH.",
+      "text": "HR 202 Humidity is coordinated circuit sensors that can be utilized to gauge the nearness of water in arrive. The HR202 is  another  sort of stickiness touchy resistor produced using natural macromolecule materials, it can be utilized as a part of events like: clinics, stockpiling, workshop, material industry  and  so  on.  The  Stickiness  sensor  with  its  yield Relative  to  the  temperature  (in  RH  %).  The  operational temperature extend is from20-95%RH."
+    },
+    {
+      "self_ref": "#/texts/59",
+      "parent": {
+        "$ref": "#/pictures/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 105.98,
+            "t": 370.7529829101563,
+            "r": 233.78,
+            "b": 362.3749829101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            28
+          ]
+        }
+      ],
+      "orig": "Figure.5. Water Level Sensor",
+      "text": "Figure.5. Water Level Sensor"
+    },
+    {
+      "self_ref": "#/texts/60",
+      "parent": {
+        "$ref": "#/pictures/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 157.33333333333331,
+            "t": 459.58664957682294,
+            "r": 208.66666666666666,
+            "b": 451.58664957682294,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "HighLevel",
+      "text": "HighLevel"
+    },
+    {
+      "self_ref": "#/texts/61",
+      "parent": {
+        "$ref": "#/pictures/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 157.66666666666669,
+            "t": 418.91998291015625,
+            "r": 219.0,
+            "b": 411.91998291015625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            11
+          ]
+        }
+      ],
+      "orig": "MiddleLevel",
+      "text": "MiddleLevel"
+    },
+    {
+      "self_ref": "#/texts/62",
+      "parent": {
+        "$ref": "#/pictures/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 158.33333333333331,
+            "t": 403.91998291015625,
+            "r": 207.66666666666666,
+            "b": 397.25331624348956,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "LowLevel",
+      "text": "LowLevel"
+    },
+    {
+      "self_ref": "#/texts/63",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 46.8,
+            "t": 355.79198291015626,
+            "r": 292.94,
+            "b": 250.58698291015628,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            507
+          ]
+        }
+      ],
+      "orig": "Water  level  buoys  sensor,  otherwise  called  drift  balls,  are round, tube shaped, have a place or correspondingly melded items, produced using either unbending or adaptable material, that are light in water and different fluids. They are non-electrical  equipment  every  now  and  again  utilized  as visual sight-markers for surface outline and level. They may likewise  be  joined  into  switch  instruments  or  translucent liquid  tubes  as  a  segment  in  checking  or  controlling  fluid level",
+      "text": "Water  level  buoys  sensor,  otherwise  called  drift  balls,  are round, tube shaped, have a place or correspondingly melded items, produced using either unbending or adaptable material, that are light in water and different fluids. They are non-electrical  equipment  every  now  and  again  utilized  as visual sight-markers for surface outline and level. They may likewise  be  joined  into  switch  instruments  or  translucent liquid  tubes  as  a  segment  in  checking  or  controlling  fluid level"
+    },
+    {
+      "self_ref": "#/texts/64",
+      "parent": {
+        "$ref": "#/pictures/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 114.14,
+            "t": 116.08298291015626,
+            "r": 225.5,
+            "b": 107.70498291015633,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            23
+          ]
+        }
+      ],
+      "orig": "Figure.6. ARM Processor",
+      "text": "Figure.6. ARM Processor"
+    },
+    {
+      "self_ref": "#/texts/65",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 46.8,
+            "t": 101.10198291015627,
+            "r": 292.918,
+            "b": 56.286982910156325,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            247
+          ]
+        },
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 304.87,
+            "t": 789.4219829101563,
+            "r": 551.01,
+            "b": 696.3469829101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            248,
+            692
+          ]
+        }
+      ],
+      "orig": "LPC2148  is  the  generally  used  ic  from  ARM-7  family.  It will be aggravated Eventually Tom's perusing Philips and it may be pre-stacked with different inbuilt peripherals making it that's only the tip of the iceberg supportive What's more a robust  decision  for  the  understudies  and  also  astounding provision  originator.  LPC2148  need  32kb  with  respect  to chip SRAM Furthermore 512 kb for chip streak memory [8]. It  needs  inbuilt  help  dependent  upon  2kb  end  point  USB crush also. This enormous sum of memory is great suiting for  practically  every  last  one  of  requisitions.  LPC2148 require least underneath recorded fittings on worth of effort appropriately.",
+      "text": "LPC2148  is  the  generally  used  ic  from  ARM-7  family.  It will be aggravated Eventually Tom's perusing Philips and it may be pre-stacked with different inbuilt peripherals making it that's only the tip of the iceberg supportive What's more a robust  decision  for  the  understudies  and  also  astounding provision  originator.  LPC2148  need  32kb  with  respect  to chip SRAM Furthermore 512 kb for chip streak memory [8]. It  needs  inbuilt  help  dependent  upon  2kb  end  point  USB crush also. This enormous sum of memory is great suiting for  practically  every  last  one  of  requisitions.  LPC2148 require least underneath recorded fittings on worth of effort appropriately."
+    },
+    {
+      "self_ref": "#/texts/66",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 364.15,
+            "t": 680.4029829101563,
+            "r": 491.59,
+            "b": 672.0249829101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            17
+          ]
+        }
+      ],
+      "orig": "VI. IMPLEMENTAION",
+      "text": "VI. IMPLEMENTAION",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/67",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 304.87,
+            "t": 663.2819829101563,
+            "r": 551.01,
+            "b": 111.38698291015635,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2789
+          ]
+        }
+      ],
+      "orig": "The  reason  for  the  ARM7  processor  is  that  it  interfaces every one of the parts related  with  the  Development  pack. Number  of  pins  in  this  processor  is  64.  Each  stick  is relegated  with  specific  segment  of  the  unit  for  performing specific capacity. The edge estimation of the sensors is set in this LPC  2148  processor which is in charge of the programmed ON and OFF of the engine which is combined with the pump for directing water to the horticultural land. The temperature limit esteem will be refreshed to server or framework, through IoT for each 1 minute from the incorporated advancement pack. LM35 temperature sensors utilize speaker at the accurate supporters outright temperature  (estimated  in  Kelvin)  into  also  Fahrenheit  or Celsius  rely  leading  it  arrangements.  The  two  resistors  are adjusted  in  the  production  line  to  create  an  exceedingly exact temperature sensor. The coordinated START Read the information Deployment of Sensor Is Temperature/the Humidity esteems in go Is the water esteems in run Motor on  STOP  NO  YES  Data  server  (IoT  passage)  circuit  has various  transistors  in  it  -  two  in  the  centre,  a  few  in  each intensifier, a few in the dependable flow source, and several in  the  bend  give  circuit.  The  edge  esteem  is  achieved  (1 RH%-100  RH%)  this  breaking  points  can  be  set  in  the microcontroller  if  its  goes  above  past  10  RH%  conditions will be unusual generally dampness level will be in ordinary conditions.  The  qualities  can  have  refreshed  to  framework through IoT passage [6]. The highlights of stickiness sensor are excellent linearity, low power utilization, wide estimation extend, fast reaction, against contamination, high dependability, elite value proportion. Water level pointer is utilized to quantify the water level in water system arrive. In the  water  level  sensor  esteem  measure  by  utilizing  scale level  and  it's  speak  to  in  cm.  On  the  off  chance  that  the water level achieves the base of the metal bar it demonstrates unusual condition and the control will consequently  turn  ON,  the  engine.  In  the  event  that  the water  achieves  the  specific  level  the  engine  can  be  killing naturally.  These  statuses  can  be  endlessly  revived  to  the structure using IoT. The Internet of things (IOT)  would be the  internetworking  [8]  connected  with  brute  machinery, transit, architecture  and varying  things  embedded  with equipment, programming, sensors, actuators, and framework organize  that  engage  these  articles  to  gather  and  exchange data. These contraptions hoard critical data with the help of various existing advances and after that uninhibitedly stream the data between various devices.",
+      "text": "The  reason  for  the  ARM7  processor  is  that  it  interfaces every one of the parts related  with  the  Development  pack. Number  of  pins  in  this  processor  is  64.  Each  stick  is relegated  with  specific  segment  of  the  unit  for  performing specific capacity. The edge estimation of the sensors is set in this LPC  2148  processor which is in charge of the programmed ON and OFF of the engine which is combined with the pump for directing water to the horticultural land. The temperature limit esteem will be refreshed to server or framework, through IoT for each 1 minute from the incorporated advancement pack. LM35 temperature sensors utilize speaker at the accurate supporters outright temperature  (estimated  in  Kelvin)  into  also  Fahrenheit  or Celsius  rely  leading  it  arrangements.  The  two  resistors  are adjusted  in  the  production  line  to  create  an  exceedingly exact temperature sensor. The coordinated START Read the information Deployment of Sensor Is Temperature/the Humidity esteems in go Is the water esteems in run Motor on  STOP  NO  YES  Data  server  (IoT  passage)  circuit  has various  transistors  in  it  -  two  in  the  centre,  a  few  in  each intensifier, a few in the dependable flow source, and several in  the  bend  give  circuit.  The  edge  esteem  is  achieved  (1 RH%-100  RH%)  this  breaking  points  can  be  set  in  the microcontroller  if  its  goes  above  past  10  RH%  conditions will be unusual generally dampness level will be in ordinary conditions.  The  qualities  can  have  refreshed  to  framework through IoT passage [6]. The highlights of stickiness sensor are excellent linearity, low power utilization, wide estimation extend, fast reaction, against contamination, high dependability, elite value proportion. Water level pointer is utilized to quantify the water level in water system arrive. In the  water  level  sensor  esteem  measure  by  utilizing  scale level  and  it's  speak  to  in  cm.  On  the  off  chance  that  the water level achieves the base of the metal bar it demonstrates unusual condition and the control will consequently  turn  ON,  the  engine.  In  the  event  that  the water  achieves  the  specific  level  the  engine  can  be  killing naturally.  These  statuses  can  be  endlessly  revived  to  the structure using IoT. The Internet of things (IOT)  would be the  internetworking  [8]  connected  with  brute  machinery, transit, architecture  and varying  things  embedded  with equipment, programming, sensors, actuators, and framework organize  that  engage  these  articles  to  gather  and  exchange data. These contraptions hoard critical data with the help of various existing advances and after that uninhibitedly stream the data between various devices."
+    },
+    {
+      "self_ref": "#/texts/68",
+      "parent": {
+        "$ref": "#/pictures/8"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 464.6666666666667,
+            "t": 85.91998291015625,
+            "r": 480.0,
+            "b": 83.25331624348962,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "and",
+      "text": "and"
+    },
+    {
+      "self_ref": "#/texts/69",
+      "parent": {
+        "$ref": "#/pictures/8"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 480.3333333333333,
+            "t": 62.25331624348962,
+            "r": 548.6666666666666,
+            "b": 42.91998291015625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "IJRTE",
+      "text": "IJRTE"
+    },
+    {
+      "self_ref": "#/texts/70",
+      "parent": {
+        "$ref": "#/pictures/8"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 495.3333333333333,
+            "t": 20.58664957682288,
+            "r": 521.6666666666666,
+            "b": 15.586649576822879,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            13
+          ]
+        }
+      ],
+      "orig": "www.ijrte.org",
+      "text": "www.ijrte.org"
+    },
+    {
+      "self_ref": "#/texts/71",
+      "parent": {
+        "$ref": "#/pictures/8"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 464.3333333333333,
+            "t": 13.253316243489621,
+            "r": 523.6666666666666,
+            "b": 8.91998291015625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            19
+          ]
+        }
+      ],
+      "orig": "Exploringlnnovation",
+      "text": "Exploringlnnovation"
+    },
+    {
+      "self_ref": "#/texts/72",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 51.84,
+            "t": 24.41998291015625,
+            "r": 203.06,
+            "b": 17.486982910156257,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            39
+          ]
+        }
+      ],
+      "orig": "Retrieval Number: E1987017519/19©BEIESP",
+      "text": "Retrieval Number: E1987017519/19©BEIESP"
+    },
+    {
+      "self_ref": "#/texts/73",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 290.21,
+            "t": 20.101982910156266,
+            "r": 305.27,
+            "b": 11.526982910156335,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "100",
+      "text": "100"
+    },
+    {
+      "self_ref": "#/texts/74",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 322.51,
+            "t": 34.97998291015631,
+            "r": 438.994,
+            "b": 9.686982910156303,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            71
+          ]
+        }
+      ],
+      "orig": "Published By: Blue Eyes Intelligence Engineering & Sciences Publication",
+      "text": "Published By: Blue Eyes Intelligence Engineering & Sciences Publication"
+    },
+    {
+      "self_ref": "#/texts/75",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 183.53,
+            "t": 817.2339829101563,
+            "r": 411.859,
+            "b": 807.9479829101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            45
+          ]
+        }
+      ],
+      "orig": "Smart Agriculture System using IoT Technology",
+      "text": "Smart Agriculture System using IoT Technology"
+    },
+    {
+      "self_ref": "#/texts/76",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 46.8,
+            "t": 789.4219829101563,
+            "r": 292.912,
+            "b": 720.4669829101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            363
+          ]
+        }
+      ],
+      "orig": "The  module  can  even  be  reconstructed  to  go  about  as  an independent Wi-Fi. IOT is becoming 3.3v power- don't selfdiscipline magnetism accompanying 5 volts. data processing should  put  across  by  the  use  of  following  through  3.3v additionally doesn't feel 5v tolerant sources of info, so you require level change to speak with a 5V microcontroller.",
+      "text": "The  module  can  even  be  reconstructed  to  go  about  as  an independent Wi-Fi. IOT is becoming 3.3v power- don't selfdiscipline magnetism accompanying 5 volts. data processing should  put  across  by  the  use  of  following  through  3.3v additionally doesn't feel 5v tolerant sources of info, so you require level change to speak with a 5V microcontroller."
+    },
+    {
+      "self_ref": "#/texts/77",
+      "parent": {
+        "$ref": "#/pictures/9"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 123.62,
+            "t": 268.75298291015633,
+            "r": 216.14,
+            "b": 260.3749829101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            20
+          ]
+        }
+      ],
+      "orig": "Figure.7. Flow Chart",
+      "text": "Figure.7. Flow Chart"
+    },
+    {
+      "self_ref": "#/texts/78",
+      "parent": {
+        "$ref": "#/pictures/9"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 126.66666666666667,
+            "t": 707.5866495768229,
+            "r": 146.0,
+            "b": 697.9199829101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "Start",
+      "text": "Start"
+    },
+    {
+      "self_ref": "#/texts/79",
+      "parent": {
+        "$ref": "#/pictures/9"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 95.33333333333334,
+            "t": 680.5866495768229,
+            "r": 179.33333333333334,
+            "b": 671.9199829101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            26
+          ]
+        }
+      ],
+      "orig": "Read the all Sensor Values",
+      "text": "Read the all Sensor Values"
+    },
+    {
+      "self_ref": "#/texts/80",
+      "parent": {
+        "$ref": "#/pictures/9"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 68.33333333333333,
+            "t": 615.586649576823,
+            "r": 115.66666666666667,
+            "b": 606.2533162434895,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            13
+          ]
+        }
+      ],
+      "orig": "Temperature &",
+      "text": "Temperature &"
+    },
+    {
+      "self_ref": "#/texts/81",
+      "parent": {
+        "$ref": "#/pictures/9"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 151.33333333333331,
+            "t": 618.2533162434895,
+            "r": 196.66666666666666,
+            "b": 610.2533162434895,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            13
+          ]
+        }
+      ],
+      "orig": "Water level &",
+      "text": "Water level &"
+    },
+    {
+      "self_ref": "#/texts/82",
+      "parent": {
+        "$ref": "#/pictures/9"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 68.66666666666667,
+            "t": 604.2533162434895,
+            "r": 120.33333333333333,
+            "b": 594.5866495768229,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            16
+          ]
+        }
+      ],
+      "orig": "Humidity sensors",
+      "text": "Humidity sensors"
+    },
+    {
+      "self_ref": "#/texts/83",
+      "parent": {
+        "$ref": "#/pictures/9"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 150.66666666666669,
+            "t": 607.2533162434895,
+            "r": 190.66666666666666,
+            "b": 598.2533162434896,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            13
+          ]
+        }
+      ],
+      "orig": "Soil moisture",
+      "text": "Soil moisture"
+    },
+    {
+      "self_ref": "#/texts/84",
+      "parent": {
+        "$ref": "#/pictures/9"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 150.33333333333331,
+            "t": 595.5866495768229,
+            "r": 175.66666666666666,
+            "b": 587.9199829101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            7
+          ]
+        }
+      ],
+      "orig": "sensors",
+      "text": "sensors"
+    },
+    {
+      "self_ref": "#/texts/85",
+      "parent": {
+        "$ref": "#/pictures/9"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 69.33333333333333,
+            "t": 571.2533162434896,
+            "r": 123.0,
+            "b": 562.2533162434896,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            16
+          ]
+        }
+      ],
+      "orig": "Reading shows on",
+      "text": "Reading shows on"
+    },
+    {
+      "self_ref": "#/texts/86",
+      "parent": {
+        "$ref": "#/pictures/9"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 68.66666666666667,
+            "t": 560.5866495768229,
+            "r": 82.33333333333334,
+            "b": 551.5866495768229,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "LCD",
+      "text": "LCD"
+    },
+    {
+      "self_ref": "#/texts/87",
+      "parent": {
+        "$ref": "#/pictures/9"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 116.33333333333333,
+            "t": 532.9199829101562,
+            "r": 134.0,
+            "b": 521.5866495768229,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "Yes",
+      "text": "Yes"
+    },
+    {
+      "self_ref": "#/texts/88",
+      "parent": {
+        "$ref": "#/pictures/9"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 148.0,
+            "t": 534.9199829101562,
+            "r": 170.33333333333334,
+            "b": 525.9199829101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "Sensor",
+      "text": "Sensor"
+    },
+    {
+      "self_ref": "#/texts/89",
+      "parent": {
+        "$ref": "#/pictures/9"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 147.33333333333331,
+            "t": 523.5866495768229,
+            "r": 181.33333333333334,
+            "b": 515.5866495768229,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": ">threshold",
+      "text": ">threshold"
+    },
+    {
+      "self_ref": "#/texts/90",
+      "parent": {
+        "$ref": "#/pictures/9"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 147.66666666666669,
+            "t": 514.2533162434896,
+            "r": 166.33333333333334,
+            "b": 503.5866495768229,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "value",
+      "text": "value"
+    },
+    {
+      "self_ref": "#/texts/91",
+      "parent": {
+        "$ref": "#/pictures/9"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 95.66666666666666,
+            "t": 499.2533162434896,
+            "r": 116.33333333333333,
+            "b": 490.91998291015625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "Motor",
+      "text": "Motor"
+    },
+    {
+      "self_ref": "#/texts/92",
+      "parent": {
+        "$ref": "#/pictures/9"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 191.0,
+            "t": 493.5866495768229,
+            "r": 212.0,
+            "b": 484.2533162434896,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "Motor",
+      "text": "Motor"
+    },
+    {
+      "self_ref": "#/texts/93",
+      "parent": {
+        "$ref": "#/pictures/9"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 96.0,
+            "t": 487.5866495768229,
+            "r": 106.33333333333333,
+            "b": 479.5866495768229,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "on",
+      "text": "on"
+    },
+    {
+      "self_ref": "#/texts/94",
+      "parent": {
+        "$ref": "#/pictures/9"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 191.0,
+            "t": 483.5866495768229,
+            "r": 202.66666666666666,
+            "b": 473.91998291015625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "off",
+      "text": "off"
+    },
+    {
+      "self_ref": "#/texts/95",
+      "parent": {
+        "$ref": "#/pictures/9"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 135.66666666666669,
+            "t": 452.25331624348956,
+            "r": 181.66666666666666,
+            "b": 444.25331624348956,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "Microcontroller",
+      "text": "Microcontroller"
+    },
+    {
+      "self_ref": "#/texts/96",
+      "parent": {
+        "$ref": "#/pictures/9"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 153.0,
+            "t": 404.25331624348956,
+            "r": 169.33333333333334,
+            "b": 395.58664957682294,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "WIFI",
+      "text": "WIFI"
+    },
+    {
+      "self_ref": "#/texts/97",
+      "parent": {
+        "$ref": "#/pictures/9"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 145.66666666666669,
+            "t": 371.25331624348956,
+            "r": 168.0,
+            "b": 360.91998291015625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "Server",
+      "text": "Server"
+    },
+    {
+      "self_ref": "#/texts/98",
+      "parent": {
+        "$ref": "#/pictures/9"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 146.66666666666669,
+            "t": 337.25331624348956,
+            "r": 169.33333333333334,
+            "b": 327.586649576823,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "ndino",
+      "text": "ndino"
+    },
+    {
+      "self_ref": "#/texts/99",
+      "parent": {
+        "$ref": "#/pictures/9"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 147.33333333333331,
+            "t": 297.91998291015625,
+            "r": 161.0,
+            "b": 289.2533162434895,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "End",
+      "text": "End"
+    },
+    {
+      "self_ref": "#/texts/100",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 130.58,
+            "t": 245.20298291015627,
+            "r": 209.06,
+            "b": 236.82498291015622,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            11
+          ]
+        }
+      ],
+      "orig": "VII. RESULT",
+      "text": "VII. RESULT",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/101",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 46.8,
+            "t": 228.2019829101563,
+            "r": 292.94,
+            "b": 110.90698291015633,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            612
+          ]
+        }
+      ],
+      "orig": "The  yield  appeared  beneath  signifies  the  temperature,  soil dampness  state  and  the  gate  crasher  discovery.  The  next outcome  is  the  yield  as  of  the  Android  purpose  that  is produced  in  the  cell  phone.  It  decides  the  temperature, stickiness, dampness as well as the interloper discovery. The yield appeared beneath means the temperature, soil dampness  state  with  the  gate  crasher  identification.  The second outcome is the yield from the Android purpose that is  produced  in  the  cell  phone.  It  decides  the  temperature, dampness, dampness with the gate crasher location.",
+      "text": "The  yield  appeared  beneath  signifies  the  temperature,  soil dampness  state  and  the  gate  crasher  discovery.  The  next outcome  is  the  yield  as  of  the  Android  purpose  that  is produced  in  the  cell  phone.  It  decides  the  temperature, stickiness, dampness as well as the interloper discovery. The yield appeared beneath means the temperature, soil dampness  state  with  the  gate  crasher  identification.  The second outcome is the yield from the Android purpose that is  produced  in  the  cell  phone.  It  decides  the  temperature, dampness, dampness with the gate crasher location."
+    },
+    {
+      "self_ref": "#/texts/102",
+      "parent": {
+        "$ref": "#/pictures/10"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 412.0,
+            "t": 777.2533162434896,
+            "r": 422.0,
+            "b": 771.9199829101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "PC214",
+      "text": "PC214"
+    },
+    {
+      "self_ref": "#/texts/103",
+      "parent": {
+        "$ref": "#/pictures/10"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 356.6666666666667,
+            "t": 701.586649576823,
+            "r": 450.0,
+            "b": 682.2533162434895,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            16
+          ]
+        }
+      ],
+      "orig": "TeMP:0033L:L01-1",
+      "text": "TeMP:0033L:L01-1"
+    },
+    {
+      "self_ref": "#/texts/104",
+      "parent": {
+        "$ref": "#/pictures/10"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 355.3333333333333,
+            "t": 689.586649576823,
+            "r": 390.0,
+            "b": 674.586649576823,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "H:OFF",
+      "text": "H:OFF"
+    },
+    {
+      "self_ref": "#/texts/105",
+      "parent": {
+        "$ref": "#/pictures/10"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 404.0,
+            "t": 687.2533162434895,
+            "r": 440.0,
+            "b": 669.2533162434896,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "M:Dr9",
+      "text": "M:Dr9"
+    },
+    {
+      "self_ref": "#/texts/106",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 346.87,
+            "t": 577.4129829101563,
+            "r": 508.87,
+            "b": 569.0349829101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            36
+          ]
+        }
+      ],
+      "orig": "Figure.8. Output displayed on Screen",
+      "text": "Figure.8. Output displayed on Screen"
+    },
+    {
+      "self_ref": "#/texts/107",
+      "parent": {
+        "$ref": "#/pictures/11"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 357.0,
+            "t": 535.586649576823,
+            "r": 464.66666666666663,
+            "b": 526.9199829101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            22
+          ]
+        }
+      ],
+      "orig": "https://thingspeak.com",
+      "text": "https://thingspeak.com"
+    },
+    {
+      "self_ref": "#/texts/108",
+      "parent": {
+        "$ref": "#/pictures/11"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 401.6666666666667,
+            "t": 514.9199829101562,
+            "r": 435.33333333333337,
+            "b": 506.58664957682294,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "IoTmhp",
+      "text": "IoTmhp"
+    },
+    {
+      "self_ref": "#/texts/109",
+      "parent": {
+        "$ref": "#/pictures/11"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 324.0,
+            "t": 504.58664957682294,
+            "r": 335.0,
+            "b": 500.25331624348956,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "150",
+      "text": "150"
+    },
+    {
+      "self_ref": "#/texts/110",
+      "parent": {
+        "$ref": "#/pictures/11"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 314.3333333333333,
+            "t": 485.25331624348956,
+            "r": 320.3333333333333,
+            "b": 471.91998291015625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "Temp",
+      "text": "Temp"
+    },
+    {
+      "self_ref": "#/texts/111",
+      "parent": {
+        "$ref": "#/pictures/11"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 324.0,
+            "t": 488.25331624348956,
+            "r": 335.0,
+            "b": 482.91998291015625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "100",
+      "text": "100"
+    },
+    {
+      "self_ref": "#/texts/112",
+      "parent": {
+        "$ref": "#/pictures/11"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 327.3333333333333,
+            "t": 471.25331624348956,
+            "r": 335.0,
+            "b": 466.25331624348956,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "50",
+      "text": "50"
+    },
+    {
+      "self_ref": "#/texts/113",
+      "parent": {
+        "$ref": "#/pictures/11"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 348.6666666666667,
+            "t": 451.58664957682294,
+            "r": 367.3333333333333,
+            "b": 445.91998291015625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "26.Jul",
+      "text": "26.Jul"
+    },
+    {
+      "self_ref": "#/texts/114",
+      "parent": {
+        "$ref": "#/pictures/11"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 410.0,
+            "t": 451.25331624348956,
+            "r": 425.33333333333337,
+            "b": 446.25331624348956,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "12:00",
+      "text": "12:00"
+    },
+    {
+      "self_ref": "#/texts/115",
+      "parent": {
+        "$ref": "#/pictures/11"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 468.0,
+            "t": 451.58664957682294,
+            "r": 486.66666666666663,
+            "b": 446.25331624348956,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "27.Jul",
+      "text": "27.Jul"
+    },
+    {
+      "self_ref": "#/texts/116",
+      "parent": {
+        "$ref": "#/pictures/11"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 424.66666666666663,
+            "t": 445.91998291015625,
+            "r": 439.33333333333337,
+            "b": 440.25331624348956,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "Date",
+      "text": "Date"
+    },
+    {
+      "self_ref": "#/texts/117",
+      "parent": {
+        "$ref": "#/pictures/11"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 489.66666666666663,
+            "t": 440.91998291015625,
+            "r": 526.3333333333334,
+            "b": 435.91998291015625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            14
+          ]
+        }
+      ],
+      "orig": "ThingSpeak.com",
+      "text": "ThingSpeak.com"
+    },
+    {
+      "self_ref": "#/texts/118",
+      "parent": {
+        "$ref": "#/pictures/12"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 357.0,
+            "t": 385.25331624348956,
+            "r": 463.66666666666663,
+            "b": 375.58664957682294,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            22
+          ]
+        }
+      ],
+      "orig": "https://thingspeak.com",
+      "text": "https://thingspeak.com"
+    },
+    {
+      "self_ref": "#/texts/119",
+      "parent": {
+        "$ref": "#/pictures/12"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 372.6666666666667,
+            "t": 362.58664957682294,
+            "r": 396.6666666666667,
+            "b": 354.91998291015625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "IOTmhp",
+      "text": "IOTmhp"
+    },
+    {
+      "self_ref": "#/texts/120",
+      "parent": {
+        "$ref": "#/pictures/12"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 311.0,
+            "t": 338.91998291015625,
+            "r": 316.0,
+            "b": 323.2533162434896,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "Humidity",
+      "text": "Humidity"
+    },
+    {
+      "self_ref": "#/texts/121",
+      "parent": {
+        "$ref": "#/pictures/12"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 318.3333333333333,
+            "t": 332.91998291015625,
+            "r": 326.6666666666667,
+            "b": 328.5866495768229,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "100",
+      "text": "100"
+    },
+    {
+      "self_ref": "#/texts/122",
+      "parent": {
+        "$ref": "#/pictures/12"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 335.3333333333333,
+            "t": 309.5866495768229,
+            "r": 349.3333333333333,
+            "b": 304.91998291015625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "26.Jul",
+      "text": "26.Jul"
+    },
+    {
+      "self_ref": "#/texts/123",
+      "parent": {
+        "$ref": "#/pictures/12"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 378.3333333333333,
+            "t": 309.5866495768229,
+            "r": 390.0,
+            "b": 305.2533162434896,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "12:00",
+      "text": "12:00"
+    },
+    {
+      "self_ref": "#/texts/124",
+      "parent": {
+        "$ref": "#/pictures/12"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 418.6666666666667,
+            "t": 309.2533162434896,
+            "r": 432.33333333333337,
+            "b": 304.91998291015625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "27.Jul",
+      "text": "27.Jul"
+    },
+    {
+      "self_ref": "#/texts/125",
+      "parent": {
+        "$ref": "#/pictures/12"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 388.3333333333333,
+            "t": 304.91998291015625,
+            "r": 399.3333333333333,
+            "b": 299.91998291015625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "Date",
+      "text": "Date"
+    },
+    {
+      "self_ref": "#/texts/126",
+      "parent": {
+        "$ref": "#/pictures/12"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 434.0,
+            "t": 300.91998291015625,
+            "r": 459.66666666666663,
+            "b": 296.5866495768229,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            14
+          ]
+        }
+      ],
+      "orig": "ThingSpeak.com",
+      "text": "ThingSpeak.com"
+    },
+    {
+      "self_ref": "#/texts/127",
+      "parent": {
+        "$ref": "#/pictures/13"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 327.79,
+            "t": 35.33998291015632,
+            "r": 374.92,
+            "b": 28.40698291015633,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            13
+          ]
+        }
+      ],
+      "orig": "Published By:",
+      "text": "Published By:"
+    },
+    {
+      "self_ref": "#/texts/128",
+      "parent": {
+        "$ref": "#/pictures/13"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 327.79,
+            "t": 26.099982910156314,
+            "r": 444.274,
+            "b": 19.16698291015632,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            34
+          ]
+        }
+      ],
+      "orig": "Blue Eyes Intelligence Engineering",
+      "text": "Blue Eyes Intelligence Engineering"
+    },
+    {
+      "self_ref": "#/texts/129",
+      "parent": {
+        "$ref": "#/pictures/13"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 327.79,
+            "t": 16.97998291015631,
+            "r": 406.84,
+            "b": 10.046982910156316,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            22
+          ]
+        }
+      ],
+      "orig": "& Sciences Publication",
+      "text": "& Sciences Publication"
+    },
+    {
+      "self_ref": "#/texts/130",
+      "parent": {
+        "$ref": "#/pictures/13"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 353.6666666666667,
+            "t": 241.91998291015625,
+            "r": 459.66666666666663,
+            "b": 230.25331624348962,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            22
+          ]
+        }
+      ],
+      "orig": "https://thingspeak.com",
+      "text": "https://thingspeak.com"
+    },
+    {
+      "self_ref": "#/texts/131",
+      "parent": {
+        "$ref": "#/pictures/13"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 396.0,
+            "t": 213.91998291015625,
+            "r": 431.66666666666663,
+            "b": 201.91998291015625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "10Tmhp",
+      "text": "10Tmhp"
+    },
+    {
+      "self_ref": "#/texts/132",
+      "parent": {
+        "$ref": "#/pictures/13"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 309.3333333333333,
+            "t": 178.58664957682288,
+            "r": 317.3333333333333,
+            "b": 148.91998291015625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "Moisture",
+      "text": "Moisture"
+    },
+    {
+      "self_ref": "#/texts/133",
+      "parent": {
+        "$ref": "#/pictures/13"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 320.3333333333333,
+            "t": 166.58664957682288,
+            "r": 332.0,
+            "b": 158.58664957682288,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "100",
+      "text": "100"
+    },
+    {
+      "self_ref": "#/texts/134",
+      "parent": {
+        "$ref": "#/pictures/13"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 344.3333333333333,
+            "t": 127.91998291015625,
+            "r": 364.6666666666667,
+            "b": 119.91998291015625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "26.Jul",
+      "text": "26.Jul"
+    },
+    {
+      "self_ref": "#/texts/135",
+      "parent": {
+        "$ref": "#/pictures/13"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 406.0,
+            "t": 127.58664957682288,
+            "r": 423.0,
+            "b": 120.25331624348962,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "12:00",
+      "text": "12:00"
+    },
+    {
+      "self_ref": "#/texts/136",
+      "parent": {
+        "$ref": "#/pictures/13"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 464.33333333333337,
+            "t": 127.91998291015625,
+            "r": 484.66666666666663,
+            "b": 119.91998291015625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "27.Jul",
+      "text": "27.Jul"
+    },
+    {
+      "self_ref": "#/texts/137",
+      "parent": {
+        "$ref": "#/pictures/13"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 418.6666666666667,
+            "t": 120.25331624348962,
+            "r": 435.66666666666663,
+            "b": 111.91998291015625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "Date",
+      "text": "Date"
+    },
+    {
+      "self_ref": "#/texts/138",
+      "parent": {
+        "$ref": "#/pictures/13"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 483.66666666666663,
+            "t": 112.91998291015625,
+            "r": 521.0,
+            "b": 106.58664957682288,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            14
+          ]
+        }
+      ],
+      "orig": "ThingSpeak.com",
+      "text": "ThingSpeak.com"
+    },
+    {
+      "self_ref": "#/texts/139",
+      "parent": {
+        "$ref": "#/pictures/13"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 480.33333333333337,
+            "t": 62.25331624348962,
+            "r": 550.6666666666666,
+            "b": 43.25331624348962,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "IJRTE",
+      "text": "IJRTE"
+    },
+    {
+      "self_ref": "#/texts/140",
+      "parent": {
+        "$ref": "#/pictures/13"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 495.66666666666663,
+            "t": 19.91998291015625,
+            "r": 524.3333333333334,
+            "b": 15.253316243489621,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            13
+          ]
+        }
+      ],
+      "orig": "www.ijrte.org",
+      "text": "www.ijrte.org"
+    },
+    {
+      "self_ref": "#/texts/141",
+      "parent": {
+        "$ref": "#/pictures/13"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 464.66666666666663,
+            "t": 13.586649576822879,
+            "r": 525.3333333333334,
+            "b": 8.253316243489621,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            19
+          ]
+        }
+      ],
+      "orig": "ExploringInnovation",
+      "text": "ExploringInnovation"
+    },
+    {
+      "self_ref": "#/texts/142",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 50.4,
+            "t": 22.139982910156277,
+            "r": 201.62,
+            "b": 15.206982910156285,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            39
+          ]
+        }
+      ],
+      "orig": "Retrieval Number: E1987017519/19©BEIESP",
+      "text": "Retrieval Number: E1987017519/19©BEIESP"
+    },
+    {
+      "self_ref": "#/texts/143",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 290.21,
+            "t": 20.101982910156266,
+            "r": 305.27,
+            "b": 11.526982910156335,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "101",
+      "text": "101"
+    },
+    {
+      "self_ref": "#/texts/144",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 251.57,
+            "t": 830.0629829101563,
+            "r": 553.29,
+            "b": 810.1649829101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            114
+          ]
+        }
+      ],
+      "orig": "International Journal of Recent Technology and Engineering (IJRTE) ISSN: 2277-3878, Volume-7 Issue-5, January 2019",
+      "text": "International Journal of Recent Technology and Engineering (IJRTE) ISSN: 2277-3878, Volume-7 Issue-5, January 2019"
+    },
+    {
+      "self_ref": "#/texts/145",
+      "parent": {
+        "$ref": "#/pictures/14"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 50.4,
+            "t": 651.7229829101562,
+            "r": 288.942,
+            "b": 631.9449829101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            58
+          ]
+        }
+      ],
+      "orig": "Figure.9. Monitoring various sensors information using IoT",
+      "text": "Figure.9. Monitoring various sensors information using IoT"
+    },
+    {
+      "self_ref": "#/texts/146",
+      "parent": {
+        "$ref": "#/pictures/14"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 98.0,
+            "t": 781.2533162434896,
+            "r": 203.33333333333334,
+            "b": 772.2533162434896,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            22
+          ]
+        }
+      ],
+      "orig": "https://thingspeak.com",
+      "text": "https://thingspeak.com"
+    },
+    {
+      "self_ref": "#/texts/147",
+      "parent": {
+        "$ref": "#/pictures/14"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 135.0,
+            "t": 758.2533162434896,
+            "r": 166.66666666666666,
+            "b": 748.2533162434896,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "1OTmhp",
+      "text": "1OTmhp"
+    },
+    {
+      "self_ref": "#/texts/148",
+      "parent": {
+        "$ref": "#/pictures/14"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 54.33333333333333,
+            "t": 721.9199829101562,
+            "r": 76.0,
+            "b": 712.9199829101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "100",
+      "text": "100"
+    },
+    {
+      "self_ref": "#/texts/149",
+      "parent": {
+        "$ref": "#/pictures/14"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 87.0,
+            "t": 688.586649576823,
+            "r": 104.66666666666667,
+            "b": 682.586649576823,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "26.Jul",
+      "text": "26.Jul"
+    },
+    {
+      "self_ref": "#/texts/150",
+      "parent": {
+        "$ref": "#/pictures/14"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 143.0,
+            "t": 688.586649576823,
+            "r": 158.0,
+            "b": 682.586649576823,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "12:00",
+      "text": "12:00"
+    },
+    {
+      "self_ref": "#/texts/151",
+      "parent": {
+        "$ref": "#/pictures/14"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 196.0,
+            "t": 688.586649576823,
+            "r": 214.0,
+            "b": 682.586649576823,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "27.Jul",
+      "text": "27.Jul"
+    },
+    {
+      "self_ref": "#/texts/152",
+      "parent": {
+        "$ref": "#/pictures/14"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 156.0,
+            "t": 682.586649576823,
+            "r": 170.0,
+            "b": 676.586649576823,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "Date",
+      "text": "Date"
+    },
+    {
+      "self_ref": "#/texts/153",
+      "parent": {
+        "$ref": "#/pictures/14"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 215.33333333333334,
+            "t": 677.586649576823,
+            "r": 249.33333333333334,
+            "b": 671.2533162434896,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            14
+          ]
+        }
+      ],
+      "orig": "ThingSpeak.com",
+      "text": "ThingSpeak.com"
+    },
+    {
+      "self_ref": "#/texts/154",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 116.66,
+            "t": 616.8029829101563,
+            "r": 222.98,
+            "b": 608.4249829101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            16
+          ]
+        }
+      ],
+      "orig": "VIII. CONCLUSION",
+      "text": "VIII. CONCLUSION",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/155",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 46.8,
+            "t": 599.6819829101563,
+            "r": 292.844,
+            "b": 441.5569829101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            805
+          ]
+        }
+      ],
+      "orig": "Therefore, the paper proposes a thought of consolidating the most  recent  innovation  into  the  agrarian  field  to  turn  the customary techniques for water system to current strategies in this way making simple profitable and temperate trimming. Some  degree of mechanization is presented empowering the idea of observing the field and the product conditions inside some long-separate extents utilizing cloud administrations. The points of interest like water sparing and work sparing are started utilizing sensors that work consequently as they are modified. This idea of modernization of farming is straightforward, reasonable and operable. As relying upon these parameter esteems rancher can without much of a stretch choose which fungicides and pesticides are utilized for enhancing crop creation.",
+      "text": "Therefore, the paper proposes a thought of consolidating the most  recent  innovation  into  the  agrarian  field  to  turn  the customary techniques for water system to current strategies in this way making simple profitable and temperate trimming. Some  degree of mechanization is presented empowering the idea of observing the field and the product conditions inside some long-separate extents utilizing cloud administrations. The points of interest like water sparing and work sparing are started utilizing sensors that work consequently as they are modified. This idea of modernization of farming is straightforward, reasonable and operable. As relying upon these parameter esteems rancher can without much of a stretch choose which fungicides and pesticides are utilized for enhancing crop creation."
+    },
+    {
+      "self_ref": "#/texts/156",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 46.8,
+            "t": 426.1929829101563,
+            "r": 116.51,
+            "b": 417.8149829101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "REFERENCES",
+      "text": "REFERENCES",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/157",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 46.8,
+            "t": 409.54198291015626,
+            "r": 292.442,
+            "b": 370.8189829101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            231
+          ]
+        }
+      ],
+      "orig": "1. k.lakshmisudha, swathi hegde, neha cole, shruti iyer, \" good particularity most stationed cultivation spinning sensors\", state-of-theart  weekly  going  from  microcomputer  applications  (0975-8887), number 146-no.11, july 2011",
+      "text": "k.lakshmisudha, swathi hegde, neha cole, shruti iyer, \" good particularity most stationed cultivation spinning sensors\", state-of-theart  weekly  going  from  microcomputer  applications  (0975-8887), number 146-no.11, july 2011",
+      "enumerated": true,
+      "marker": "1."
+    },
+    {
+      "self_ref": "#/texts/158",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 46.8,
+            "t": 367.1819829101563,
+            "r": 294.157,
+            "b": 307.33898291015635,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            364
+          ]
+        }
+      ],
+      "orig": "2. nikesh gondchawar, dr. r.complexion.kawitkar, \"iot based agriculture\", all-embracing almanac consisting of contemporary analysis smart minicomputer additionally conversation planning (ijarcce),  vol.5,  affair  6,  june  2016.  Overall  Journal  on  Recent  and Innovation  Trends  in  Computing  and  Communication  ISSN:  23218169 Volume: 5 Issue: 2 177 - 181",
+      "text": "nikesh gondchawar, dr. r.complexion.kawitkar, \"iot based agriculture\", all-embracing almanac consisting of contemporary analysis smart minicomputer additionally conversation planning (ijarcce),  vol.5,  affair  6,  june  2016.  Overall  Journal  on  Recent  and Innovation  Trends  in  Computing  and  Communication  ISSN:  23218169 Volume: 5 Issue: 2 177 - 181",
+      "enumerated": true,
+      "marker": "2."
+    },
+    {
+      "self_ref": "#/texts/159",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 46.8,
+            "t": 303.7019829101563,
+            "r": 292.252,
+            "b": 265.09898291015634,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            228
+          ]
+        }
+      ],
+      "orig": "3. M.K.Gayatri, J.Jayasakthi, Dr.G.S.Anandhamala, \"Giving Smart Agriculture  Solutions  to  Farmers  for  Better  Yielding  Using  IoT\", IEEE International Conference on Technological Innovations in ICT for Agriculture and Rural",
+      "text": "M.K.Gayatri, J.Jayasakthi, Dr.G.S.Anandhamala, \"Giving Smart Agriculture  Solutions  to  Farmers  for  Better  Yielding  Using  IoT\", IEEE International Conference on Technological Innovations in ICT for Agriculture and Rural",
+      "enumerated": true,
+      "marker": "3."
+    },
+    {
+      "self_ref": "#/texts/160",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 46.8,
+            "t": 261.3119829101563,
+            "r": 292.379,
+            "b": 212.1489829101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            298
+          ]
+        }
+      ],
+      "orig": "4. Lustiness. r. nandurkar, slant. r. thool, r. tumor. thool, \"plan together with  situation  coming  from  rigor  horticulture  technique  executing trans-missions sensor network\", ieee world consultation toward telemechanics, regulate, intensity also wiring (aces), 2014. Development (TIAR 2015).",
+      "text": "Lustiness. r. nandurkar, slant. r. thool, r. tumor. thool, \"plan together with  situation  coming  from  rigor  horticulture  technique  executing trans-missions sensor network\", ieee world consultation toward telemechanics, regulate, intensity also wiring (aces), 2014. Development (TIAR 2015).",
+      "enumerated": true,
+      "marker": "4."
+    },
+    {
+      "self_ref": "#/texts/161",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 46.8,
+            "t": 208.51198291015635,
+            "r": 292.292,
+            "b": 159.22898291015633,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            275
+          ]
+        }
+      ],
+      "orig": "5. Paparao  Nalajala,  D.  Hemanth  Kumar,  P.  Ramesh  and  Bhavana Godavarthi, 2017. Design and Implementation of Modern Automated Real  Time  Monitoring  System  for  Agriculture  using  Internet  of Things (IoT). Journal of Engineering and Applied Sciences, 12: 93899393.",
+      "text": "Paparao  Nalajala,  D.  Hemanth  Kumar,  P.  Ramesh  and  Bhavana Godavarthi, 2017. Design and Implementation of Modern Automated Real  Time  Monitoring  System  for  Agriculture  using  Internet  of Things (IoT). Journal of Engineering and Applied Sciences, 12: 93899393.",
+      "enumerated": true,
+      "marker": "5."
+    },
+    {
+      "self_ref": "#/texts/162",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 46.8,
+            "t": 155.59198291015628,
+            "r": 292.219,
+            "b": 116.86898291015632,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            265
+          ]
+        }
+      ],
+      "orig": "6. Joaquín  Gutiérrez,  Juan  Francisco  Villa-Medina,  Alejandra  NietoGaribay,  and Miguel Ángel PortaGándara, \"Computerized  Irrigation System Using a Wireless Sensor Network and GPRS Module\", IEEE Transactions on Instrumentation and Measurements, 0018-9456,2013",
+      "text": "Joaquín  Gutiérrez,  Juan  Francisco  Villa-Medina,  Alejandra  NietoGaribay,  and Miguel Ángel PortaGándara, \"Computerized  Irrigation System Using a Wireless Sensor Network and GPRS Module\", IEEE Transactions on Instrumentation and Measurements, 0018-9456,2013",
+      "enumerated": true,
+      "marker": "6."
+    },
+    {
+      "self_ref": "#/texts/163",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 46.8,
+            "t": 113.23198291015626,
+            "r": 292.266,
+            "b": 74.60898291015633,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            244
+          ]
+        }
+      ],
+      "orig": "7. Paparao  Nalajala,  P  Sambasiva  Rao,  Y  Sangeetha,  Ootla  Balaji,  K Navya,'  Design  of  a  Smart  Mobile  Case  Framework  Based  on  the Internet of Things', Advances in Intelligent Systems and Computing,Volume 815, Pp. 657-666, 2019.",
+      "text": "Paparao  Nalajala,  P  Sambasiva  Rao,  Y  Sangeetha,  Ootla  Balaji,  K Navya,'  Design  of  a  Smart  Mobile  Case  Framework  Based  on  the Internet of Things', Advances in Intelligent Systems and Computing,Volume 815, Pp. 657-666, 2019.",
+      "enumerated": true,
+      "marker": "7."
+    },
+    {
+      "self_ref": "#/texts/164",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 46.8,
+            "t": 70.97198291015627,
+            "r": 292.318,
+            "b": 53.36898291015632,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            146
+          ]
+        }
+      ],
+      "orig": "8. Dr.  vidya  devi,lockup.  meena  kumari,  \"continuous  mechanization along  with  patrol  process  under  the  authority  of  most  aerodynamic",
+      "text": "Dr.  vidya  devi,lockup.  meena  kumari,  \"continuous  mechanization along  with  patrol  process  under  the  authority  of  most  aerodynamic",
+      "enumerated": true,
+      "marker": "8."
+    },
+    {
+      "self_ref": "#/texts/165",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 322.87,
+            "t": 789.7719829101563,
+            "r": 550.289,
+            "b": 761.7289829101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            178
+          ]
+        }
+      ],
+      "orig": "agriculture\"  ,universal  newspaper  made  from  appraisal  furthermore probe  contemporary  scientific  knowledge  together  with  structures (ijrrase) vol3 no.1. pp 7-12, 2013.",
+      "text": "agriculture\"  ,universal  newspaper  made  from  appraisal  furthermore probe  contemporary  scientific  knowledge  together  with  structures (ijrrase) vol3 no.1. pp 7-12, 2013.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/166",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 304.87,
+            "t": 758.0719829101563,
+            "r": 550.531,
+            "b": 729.9089829101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            182
+          ]
+        }
+      ],
+      "orig": "9. Meonghun Lee, Jeonghwan Hwang, Hyun Yoe, \"Agrarian Protection System  Based  on  IoT\",  IEEE  sixteenth  International  Conference  on Computational Science and Engineering, 2013.",
+      "text": "Meonghun Lee, Jeonghwan Hwang, Hyun Yoe, \"Agrarian Protection System  Based  on  IoT\",  IEEE  sixteenth  International  Conference  on Computational Science and Engineering, 2013.",
+      "enumerated": true,
+      "marker": "9."
+    },
+    {
+      "self_ref": "#/texts/167",
+      "parent": {
+        "$ref": "#/pictures/15"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 464.6666666666667,
+            "t": 85.91998291015625,
+            "r": 480.0,
+            "b": 83.25331624348962,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "and",
+      "text": "and"
+    },
+    {
+      "self_ref": "#/texts/168",
+      "parent": {
+        "$ref": "#/pictures/15"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 480.3333333333333,
+            "t": 62.25331624348962,
+            "r": 548.6666666666666,
+            "b": 42.91998291015625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "IJRTE",
+      "text": "IJRTE"
+    },
+    {
+      "self_ref": "#/texts/169",
+      "parent": {
+        "$ref": "#/pictures/15"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 495.3333333333333,
+            "t": 20.58664957682288,
+            "r": 521.6666666666666,
+            "b": 15.586649576822879,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            13
+          ]
+        }
+      ],
+      "orig": "www.ijrte.org",
+      "text": "www.ijrte.org"
+    },
+    {
+      "self_ref": "#/texts/170",
+      "parent": {
+        "$ref": "#/pictures/15"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 464.3333333333333,
+            "t": 13.253316243489621,
+            "r": 523.6666666666666,
+            "b": 8.91998291015625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            19
+          ]
+        }
+      ],
+      "orig": "Exploringlnnovation",
+      "text": "Exploringlnnovation"
+    },
+    {
+      "self_ref": "#/texts/171",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 51.84,
+            "t": 24.41998291015625,
+            "r": 203.06,
+            "b": 17.486982910156257,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            39
+          ]
+        }
+      ],
+      "orig": "Retrieval Number: E1987017519/19©BEIESP",
+      "text": "Retrieval Number: E1987017519/19©BEIESP"
+    },
+    {
+      "self_ref": "#/texts/172",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 290.21,
+            "t": 20.101982910156266,
+            "r": 305.27,
+            "b": 11.526982910156335,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "102",
+      "text": "102"
+    },
+    {
+      "self_ref": "#/texts/173",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 322.51,
+            "t": 34.97998291015631,
+            "r": 438.994,
+            "b": 9.686982910156303,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            71
+          ]
+        }
+      ],
+      "orig": "Published By: Blue Eyes Intelligence Engineering & Sciences Publication",
+      "text": "Published By: Blue Eyes Intelligence Engineering & Sciences Publication"
+    }
+  ],
+  "pictures": [
+    {
+      "self_ref": "#/pictures/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 433.85357666015625,
+            "t": 96.64111328125,
+            "r": 548.3252563476562,
+            "b": 8.691162109375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/25"
+        },
+        {
+          "$ref": "#/texts/26"
+        },
+        {
+          "$ref": "#/texts/27"
+        },
+        {
+          "$ref": "#/texts/28"
+        },
+        {
+          "$ref": "#/texts/29"
+        },
+        {
+          "$ref": "#/texts/30"
+        },
+        {
+          "$ref": "#/texts/31"
+        },
+        {
+          "$ref": "#/texts/32"
+        },
+        {
+          "$ref": "#/texts/33"
+        },
+        {
+          "$ref": "#/texts/34"
+        },
+        {
+          "$ref": "#/texts/35"
+        },
+        {
+          "$ref": "#/texts/36"
+        },
+        {
+          "$ref": "#/texts/37"
+        },
+        {
+          "$ref": "#/texts/38"
+        },
+        {
+          "$ref": "#/texts/39"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 319.47979736328125,
+            "t": 768.4081268310547,
+            "r": 536.3825073242188,
+            "b": 591.8004150390625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/25"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/40"
+        },
+        {
+          "$ref": "#/texts/41"
+        },
+        {
+          "$ref": "#/texts/42"
+        },
+        {
+          "$ref": "#/texts/43"
+        },
+        {
+          "$ref": "#/texts/44"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 365.47491455078125,
+            "t": 555.2528991699219,
+            "r": 484.2828674316406,
+            "b": 453.0599060058594,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/40"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/46"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 340.71282958984375,
+            "t": 337.2507019042969,
+            "r": 529.2024536132812,
+            "b": 247.06884765625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/46"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/48"
+        },
+        {
+          "$ref": "#/texts/49"
+        },
+        {
+          "$ref": "#/texts/50"
+        },
+        {
+          "$ref": "#/texts/51"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 434.3655700683594,
+            "t": 95.6085205078125,
+            "r": 549.0269165039062,
+            "b": 8.7178955078125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/57"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 71.32080078125,
+            "t": 730.1969909667969,
+            "r": 265.1070251464844,
+            "b": 642.2384796142578,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/57"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/59"
+        },
+        {
+          "$ref": "#/texts/60"
+        },
+        {
+          "$ref": "#/texts/61"
+        },
+        {
+          "$ref": "#/texts/62"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 139.59786987304688,
+            "t": 496.893310546875,
+            "r": 220.27847290039062,
+            "b": 387.78814697265625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/59"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/64"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 46.72590637207031,
+            "t": 249.7647705078125,
+            "r": 277.174072265625,
+            "b": 128.0811767578125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/64"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/68"
+        },
+        {
+          "$ref": "#/texts/69"
+        },
+        {
+          "$ref": "#/texts/70"
+        },
+        {
+          "$ref": "#/texts/71"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 433.7174377441406,
+            "t": 96.97265625,
+            "r": 548.3687133789062,
+            "b": 8.79412841796875,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/77"
+        },
+        {
+          "$ref": "#/texts/78"
+        },
+        {
+          "$ref": "#/texts/79"
+        },
+        {
+          "$ref": "#/texts/80"
+        },
+        {
+          "$ref": "#/texts/81"
+        },
+        {
+          "$ref": "#/texts/82"
+        },
+        {
+          "$ref": "#/texts/83"
+        },
+        {
+          "$ref": "#/texts/84"
+        },
+        {
+          "$ref": "#/texts/85"
+        },
+        {
+          "$ref": "#/texts/86"
+        },
+        {
+          "$ref": "#/texts/87"
+        },
+        {
+          "$ref": "#/texts/88"
+        },
+        {
+          "$ref": "#/texts/89"
+        },
+        {
+          "$ref": "#/texts/90"
+        },
+        {
+          "$ref": "#/texts/91"
+        },
+        {
+          "$ref": "#/texts/92"
+        },
+        {
+          "$ref": "#/texts/93"
+        },
+        {
+          "$ref": "#/texts/94"
+        },
+        {
+          "$ref": "#/texts/95"
+        },
+        {
+          "$ref": "#/texts/96"
+        },
+        {
+          "$ref": "#/texts/97"
+        },
+        {
+          "$ref": "#/texts/98"
+        },
+        {
+          "$ref": "#/texts/99"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 62.91801071166992,
+            "t": 716.4072875976562,
+            "r": 220.73854064941406,
+            "b": 280.40765380859375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/77"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/102"
+        },
+        {
+          "$ref": "#/texts/103"
+        },
+        {
+          "$ref": "#/texts/104"
+        },
+        {
+          "$ref": "#/texts/105"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 304.7634582519531,
+            "t": 792.9220809936523,
+            "r": 529.568359375,
+            "b": 589.0704650878906,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/107"
+        },
+        {
+          "$ref": "#/texts/108"
+        },
+        {
+          "$ref": "#/texts/109"
+        },
+        {
+          "$ref": "#/texts/110"
+        },
+        {
+          "$ref": "#/texts/111"
+        },
+        {
+          "$ref": "#/texts/112"
+        },
+        {
+          "$ref": "#/texts/113"
+        },
+        {
+          "$ref": "#/texts/114"
+        },
+        {
+          "$ref": "#/texts/115"
+        },
+        {
+          "$ref": "#/texts/116"
+        },
+        {
+          "$ref": "#/texts/117"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 305.1006774902344,
+            "t": 545.3289489746094,
+            "r": 536.0637817382812,
+            "b": 435.2264099121094,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/118"
+        },
+        {
+          "$ref": "#/texts/119"
+        },
+        {
+          "$ref": "#/texts/120"
+        },
+        {
+          "$ref": "#/texts/121"
+        },
+        {
+          "$ref": "#/texts/122"
+        },
+        {
+          "$ref": "#/texts/123"
+        },
+        {
+          "$ref": "#/texts/124"
+        },
+        {
+          "$ref": "#/texts/125"
+        },
+        {
+          "$ref": "#/texts/126"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 305.0277404785156,
+            "t": 398.3713684082031,
+            "r": 533.7715454101562,
+            "b": 295.6748046875,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/127"
+        },
+        {
+          "$ref": "#/texts/128"
+        },
+        {
+          "$ref": "#/texts/129"
+        },
+        {
+          "$ref": "#/texts/130"
+        },
+        {
+          "$ref": "#/texts/131"
+        },
+        {
+          "$ref": "#/texts/132"
+        },
+        {
+          "$ref": "#/texts/133"
+        },
+        {
+          "$ref": "#/texts/134"
+        },
+        {
+          "$ref": "#/texts/135"
+        },
+        {
+          "$ref": "#/texts/136"
+        },
+        {
+          "$ref": "#/texts/137"
+        },
+        {
+          "$ref": "#/texts/138"
+        },
+        {
+          "$ref": "#/texts/139"
+        },
+        {
+          "$ref": "#/texts/140"
+        },
+        {
+          "$ref": "#/texts/141"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 305.43756103515625,
+            "t": 254.52178955078125,
+            "r": 548.3016357421875,
+            "b": 8.39349365234375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/14",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/145"
+        },
+        {
+          "$ref": "#/texts/146"
+        },
+        {
+          "$ref": "#/texts/147"
+        },
+        {
+          "$ref": "#/texts/148"
+        },
+        {
+          "$ref": "#/texts/149"
+        },
+        {
+          "$ref": "#/texts/150"
+        },
+        {
+          "$ref": "#/texts/151"
+        },
+        {
+          "$ref": "#/texts/152"
+        },
+        {
+          "$ref": "#/texts/153"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 47.421504974365234,
+            "t": 792.7753067016602,
+            "r": 274.6126403808594,
+            "b": 664.2530670166016,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/145"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/15",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/167"
+        },
+        {
+          "$ref": "#/texts/168"
+        },
+        {
+          "$ref": "#/texts/169"
+        },
+        {
+          "$ref": "#/texts/170"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 433.9513854980469,
+            "t": 96.76031494140625,
+            "r": 548.4131469726562,
+            "b": 8.877685546875,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    }
+  ],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 595.3200073242188,
+        "height": 841.9199829101562
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 595.3200073242188,
+        "height": 841.9199829101562
+      },
+      "page_no": 2
+    },
+    "3": {
+      "size": {
+        "width": 595.3200073242188,
+        "height": 841.9199829101562
+      },
+      "page_no": 3
+    },
+    "4": {
+      "size": {
+        "width": 595.3200073242188,
+        "height": 841.9199829101562
+      },
+      "page_no": 4
+    },
+    "5": {
+      "size": {
+        "width": 595.3200073242188,
+        "height": 841.9199829101562
+      },
+      "page_no": 5
+    }
+  }
+}

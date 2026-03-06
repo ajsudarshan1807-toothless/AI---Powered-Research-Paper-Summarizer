@@ -1,0 +1,22 @@
+
+--- Batch Import: 2026-02-06 11:25:08 ---
+[SUCCESS] Imported 6 triples from output_docx_words10_extracted.json
+[SUCCESS] Imported 6 triples from output_docx_words11_extracted.json
+[SUCCESS] Imported 3 triples from output_docx_words12_extracted.json
+[SUCCESS] Imported 5 triples from output_docx_words13_extracted.json
+[SUCCESS] Imported 6 triples from output_docx_words14_extracted.json
+[SUCCESS] Imported 6 triples from output_docx_words15_extracted.json
+[SUCCESS] Imported 5 triples from output_docx_words1_extracted.json
+[SUCCESS] Imported 5 triples from output_docx_words2_extracted.json
+[SUCCESS] Imported 3 triples from output_docx_words3_extracted.json
+[SUCCESS] Imported 2 triples from output_docx_words4_extracted.json
+[SUCCESS] Imported 7 triples from output_docx_words5_extracted.json
+[SUCCESS] Imported 6 triples from output_docx_words6_extracted.json
+[SUCCESS] Imported 1 triples from output_docx_words7_extracted.json
+[SKIPPED] output_docx_words8_extracted.json (No 'triples' list found)
+[SUCCESS] Imported 2 triples from output_docx_words9_extracted.json
+Total: 14 files moved, 63 triples created.
+
+--- Batch Run: 2026-02-06 11:30:37 ---
+[SKIPPED] output_docx_words8_extracted.json (Triples list was empty)
+Summary: 1 files moved, 0 triples created.

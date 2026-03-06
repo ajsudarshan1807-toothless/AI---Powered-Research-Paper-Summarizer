@@ -1,0 +1,53 @@
+{
+    "source_file": "output_docx_words10.json",
+    "entities": [
+        {
+            "text": "Neural         Architecture         Design         for         GPU-Efficient         Networks         :         ",
+            "label": "ORG"
+        },
+        {
+            "text": "GPU",
+            "label": "ORG"
+        },
+        {
+            "text": "NAS",
+            "label": "ORG"
+        },
+        {
+            "text": "81.3%",
+            "label": "PERCENT"
+        }
+    ],
+    "triples": [
+        {
+            "subject": "It",
+            "relation": "require",
+            "object": "accuracy"
+        },
+        {
+            "subject": "we",
+            "relation": "propose",
+            "object": "principle"
+        },
+        {
+            "subject": "principle",
+            "relation": "enable",
+            "object": "us"
+        },
+        {
+            "subject": "we",
+            "relation": "design",
+            "object": "family"
+        },
+        {
+            "subject": "We",
+            "relation": "do",
+            "object": "evaluations"
+        },
+        {
+            "subject": "It",
+            "relation": "outperform",
+            "object": "models"
+        }
+    ]
+}

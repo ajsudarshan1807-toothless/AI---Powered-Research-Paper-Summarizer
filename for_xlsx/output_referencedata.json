@@ -1,0 +1,1048 @@
+{
+  "Sheet1": [
+    {
+      "PAPER_ID": "P01",
+      "REF_ID": "R01",
+      "REFERENCED_PAPER_TITLE": "Good particularity most stationed cultivation spinning sensors ",
+      "YEAR": 2011,
+      "SOURCE": "State-of-the-art weekly going from microcomputer applications"
+    },
+    {
+      "PAPER_ID": "P01",
+      "REF_ID": "R02",
+      "REFERENCED_PAPER_TITLE": "IOT based agriculture",
+      "YEAR": 2016,
+      "SOURCE": "All-embracing almanac consisting of contemporary analysis smart minicomputer additionally conversation planning (ijarcce)"
+    },
+    {
+      "PAPER_ID": "P01",
+      "REF_ID": "R03",
+      "REFERENCED_PAPER_TITLE": "Giving Smart Agriculture Solutions to Farmers for Better Yielding Using IoT",
+      "YEAR": 2015,
+      "SOURCE": "IEEE International Conference on Technological Innovations in ICT for Agriculture and Rural Development (TIAR) "
+    },
+    {
+      "PAPER_ID": "P01",
+      "REF_ID": "R04",
+      "REFERENCED_PAPER_TITLE": "Plan together with situation coming from rigor horticulture technique executing trans-missions sensor network",
+      "YEAR": 2014,
+      "SOURCE": "IEEE world consultation toward telemechanics, regulate, intensity also wiring (aces)"
+    },
+    {
+      "PAPER_ID": "P01",
+      "REF_ID": "R05",
+      "REFERENCED_PAPER_TITLE": "Design and Implementation of Modern Automated Real Time Monitoring System for Agriculture using Internet of Things (IoT)",
+      "YEAR": 2017,
+      "SOURCE": "Journal of Engineering and Applied Sciences "
+    },
+    {
+      "PAPER_ID": "P01",
+      "REF_ID": "R06",
+      "REFERENCED_PAPER_TITLE": "Computerized Irrigation System Using a Wireless Sensor Network and GPRS Module ",
+      "YEAR": 2013,
+      "SOURCE": "IEEE Transactions on Instrumentation and Measurements"
+    },
+    {
+      "PAPER_ID": "P01",
+      "REF_ID": "R07",
+      "REFERENCED_PAPER_TITLE": "Design of a Smart Mobile Case Framework Based on the Internet of Things",
+      "YEAR": 2019,
+      "SOURCE": "Advances in Intelligent Systems and Computing "
+    },
+    {
+      "PAPER_ID": "P01",
+      "REF_ID": "R08",
+      "REFERENCED_PAPER_TITLE": "Continuous mechanization along with patrol process under the authority of most aerodynamic agriculture",
+      "YEAR": 2013,
+      "SOURCE": "Universal newspaper made from appraisal furthermore probe contemporary scientific knowledge (ijrrase) "
+    },
+    {
+      "PAPER_ID": "P01",
+      "REF_ID": "R09",
+      "REFERENCED_PAPER_TITLE": "Agrarian Protection System Based on IoT ",
+      "YEAR": 2013,
+      "SOURCE": "IEEE sixteenth International Conference on Computational Science and Engineering"
+    },
+    {
+      "PAPER_ID": "P02",
+      "REF_ID": "R01",
+      "REFERENCED_PAPER_TITLE": "Deep contextualized word representations (ELMo)",
+      "YEAR": 2018,
+      "SOURCE": "NAACL"
+    },
+    {
+      "PAPER_ID": "P02",
+      "REF_ID": "R02",
+      "REFERENCED_PAPER_TITLE": "Improving language understanding with unsupervised learning (GPT)",
+      "YEAR": 2018,
+      "SOURCE": "OpenAI Technical Report"
+    },
+    {
+      "PAPER_ID": "P02",
+      "REF_ID": "R03",
+      "REFERENCED_PAPER_TITLE": "Attention is all you need (Transformer)",
+      "YEAR": 2017,
+      "SOURCE": "NIPS"
+    },
+    {
+      "PAPER_ID": "P02",
+      "REF_ID": "R04",
+      "REFERENCED_PAPER_TITLE": "Semi-supervised sequence learning",
+      "YEAR": 2015,
+      "SOURCE": "Advances in Neural Information Processing Systems"
+    },
+    {
+      "PAPER_ID": "P02",
+      "REF_ID": "R05",
+      "REFERENCED_PAPER_TITLE": "Universal language model fine-tuning for text classification (ULMFiT)",
+      "YEAR": 2018,
+      "SOURCE": "ACL"
+    },
+    {
+      "PAPER_ID": "P02",
+      "REF_ID": "R06",
+      "REFERENCED_PAPER_TITLE": "GloVe: Global vectors for word representation",
+      "YEAR": 2014,
+      "SOURCE": "EMNLP"
+    },
+    {
+      "PAPER_ID": "P02",
+      "REF_ID": "R07",
+      "REFERENCED_PAPER_TITLE": "SQuAD: 100,000+ questions for machine comprehension of text",
+      "YEAR": 2016,
+      "SOURCE": "EMNLP"
+    },
+    {
+      "PAPER_ID": "P02",
+      "REF_ID": "R08",
+      "REFERENCED_PAPER_TITLE": "GLUE: A multi-task benchmark for natural language understanding",
+      "YEAR": 2018,
+      "SOURCE": "EMNLP Workshop BlackboxNLP"
+    },
+    {
+      "PAPER_ID": "P02",
+      "REF_ID": "R09",
+      "REFERENCED_PAPER_TITLE": "Cloze procedure: A new tool for measuring readability",
+      "YEAR": 1953,
+      "SOURCE": "Journalism Bulletin"
+    },
+    {
+      "PAPER_ID": "P02",
+      "REF_ID": "R10",
+      "REFERENCED_PAPER_TITLE": "Aligning books and movies: Towards story-like visual explanations",
+      "YEAR": 2015,
+      "SOURCE": "IEEE International Conference on Computer Vision"
+    },
+    {
+      "PAPER_ID": "P03",
+      "REF_ID": "R01",
+      "REFERENCED_PAPER_TITLE": "Osteoporosis (in Handbook of Diagnostic Endocrinology)",
+      "YEAR": 2003,
+      "SOURCE": "Humana Press"
+    },
+    {
+      "PAPER_ID": "P03",
+      "REF_ID": "R02",
+      "REFERENCED_PAPER_TITLE": "Assessment of fracture risk and its application to screening for postmenopausal osteoporosis",
+      "YEAR": 1994,
+      "SOURCE": "World Health Organization (WHO) "
+    },
+    {
+      "PAPER_ID": "P03",
+      "REF_ID": "R03",
+      "REFERENCED_PAPER_TITLE": "Osteoporosis in developing countries",
+      "YEAR": 2008,
+      "SOURCE": "Best Pract Res Clin Rheumatol"
+    },
+    {
+      "PAPER_ID": "P03",
+      "REF_ID": "R04",
+      "REFERENCED_PAPER_TITLE": "An overview of bone sonometry",
+      "YEAR": 2004,
+      "SOURCE": "International Congress Series "
+    },
+    {
+      "PAPER_ID": "P03",
+      "REF_ID": "R05",
+      "REFERENCED_PAPER_TITLE": "Osteoporosis in urban post-menopausal women of the Philippines",
+      "YEAR": 2008,
+      "SOURCE": "Arch Osteoporos"
+    },
+    {
+      "PAPER_ID": "P03",
+      "REF_ID": "R06",
+      "REFERENCED_PAPER_TITLE": "Calcaneus QUS measurements predicts vertebral fractures in idiopathic male osteoporosis",
+      "YEAR": 2007,
+      "SOURCE": "Joint Bone Spine"
+    },
+    {
+      "PAPER_ID": "P03",
+      "REF_ID": "R07",
+      "REFERENCED_PAPER_TITLE": "QUS Methods to Assess Bone Mineral Status in Children",
+      "YEAR": 2008,
+      "SOURCE": "Pediatr Res"
+    },
+    {
+      "PAPER_ID": "P03",
+      "REF_ID": "R08",
+      "REFERENCED_PAPER_TITLE": "Infant bone quantity measurement - Hoping for smooth bone growth",
+      "YEAR": 2008,
+      "SOURCE": "Clin Calcium"
+    },
+    {
+      "PAPER_ID": "P03",
+      "REF_ID": "R09",
+      "REFERENCED_PAPER_TITLE": "Quantitative Ultrasound in the assessment of Osteoporosis",
+      "YEAR": 2009,
+      "SOURCE": "Eur J Radiol"
+    },
+    {
+      "PAPER_ID": "P03",
+      "REF_ID": "R10",
+      "REFERENCED_PAPER_TITLE": "QUS in the Management of Osteoporosis: 2007 ISCD Official Positions",
+      "YEAR": 2008,
+      "SOURCE": "J Clin Densitom"
+    },
+    {
+      "PAPER_ID": "P04",
+      "REF_ID": "R01",
+      "REFERENCED_PAPER_TITLE": "The pattern of farming systems and crops production in Borno State, Nigeria",
+      "YEAR": 1978,
+      "SOURCE": "Journal of Agricultural Science "
+    },
+    {
+      "PAPER_ID": "P04",
+      "REF_ID": "R02",
+      "REFERENCED_PAPER_TITLE": "The causes and impacts of drought",
+      "YEAR": 2001,
+      "SOURCE": "ANIS Monograph No. 3 "
+    },
+    {
+      "PAPER_ID": "P04",
+      "REF_ID": "R03",
+      "REFERENCED_PAPER_TITLE": "Climate Change (Book)",
+      "YEAR": 2004,
+      "SOURCE": "Vantage Publishers"
+    },
+    {
+      "PAPER_ID": "P04",
+      "REF_ID": "R04",
+      "REFERENCED_PAPER_TITLE": "Climate change impact on plant species composition in six semi-arid rangelands of Northern Nigeria",
+      "YEAR": 2007,
+      "SOURCE": "Nigerian Geographical Journal "
+    },
+    {
+      "PAPER_ID": "P04",
+      "REF_ID": "R05",
+      "REFERENCED_PAPER_TITLE": "Lake Chad: From Megalake to Minilake",
+      "YEAR": 2004,
+      "SOURCE": "Arid Wetland Bulletin No. 6 "
+    },
+    {
+      "PAPER_ID": "P04",
+      "REF_ID": "R06",
+      "REFERENCED_PAPER_TITLE": "Climate change 2007: The fourth assessment report (AR4)",
+      "YEAR": 2007,
+      "SOURCE": "IPCC Synthesis Report"
+    },
+    {
+      "PAPER_ID": "P04",
+      "REF_ID": "R07",
+      "REFERENCED_PAPER_TITLE": "Climate Change in Nigeria: A Communication Guide for Reporters and Educators",
+      "YEAR": 2003,
+      "SOURCE": "NEST (Ibadan)"
+    },
+    {
+      "PAPER_ID": "P04",
+      "REF_ID": "R08",
+      "REFERENCED_PAPER_TITLE": "Global warming and food production: A global and regional analysis",
+      "YEAR": 2001,
+      "SOURCE": "African Journal of Environmental Studies"
+    },
+    {
+      "PAPER_ID": "P04",
+      "REF_ID": "R09",
+      "REFERENCED_PAPER_TITLE": "The impact of climate change and anthropogenic factors on desertification in the semi-arid region of Nigeria",
+      "YEAR": 2003,
+      "SOURCE": "Global Journal of Environmental Science"
+    },
+    {
+      "PAPER_ID": "P04",
+      "REF_ID": "R10",
+      "REFERENCED_PAPER_TITLE": "Unstoppable Global Warming: Every 1000 Years",
+      "YEAR": 2007,
+      "SOURCE": "Rowman and Littlefield Publishers"
+    },
+    {
+      "PAPER_ID": "P05",
+      "REF_ID": "R01",
+      "REFERENCED_PAPER_TITLE": "Malnutrition in the UK: policies to address the problem",
+      "YEAR": 2010,
+      "SOURCE": "Proc Nutr Soc"
+    },
+    {
+      "PAPER_ID": "P05",
+      "REF_ID": "R02",
+      "REFERENCED_PAPER_TITLE": "Costs of malnutrition in institutionalized and community-dwelling older adults",
+      "YEAR": 2016,
+      "SOURCE": "J Am Med Dir Assoc"
+    },
+    {
+      "PAPER_ID": "P05",
+      "REF_ID": "R03",
+      "REFERENCED_PAPER_TITLE": "Malnutrition: another health inequality?",
+      "YEAR": 2007,
+      "SOURCE": "Proc Nutr Soc"
+    },
+    {
+      "PAPER_ID": "P05",
+      "REF_ID": "R04",
+      "REFERENCED_PAPER_TITLE": "Malnutrition is associated with increased mortality in older adults",
+      "YEAR": 2017,
+      "SOURCE": "Br J Nutr "
+    },
+    {
+      "PAPER_ID": "P05",
+      "REF_ID": "R05",
+      "REFERENCED_PAPER_TITLE": "Malnutrition and its impact on cost of hospitalization",
+      "YEAR": 2012,
+      "SOURCE": "Clin Nutr (Edinb)"
+    },
+    {
+      "PAPER_ID": "P05",
+      "REF_ID": "R06",
+      "REFERENCED_PAPER_TITLE": "Malnutrition and its association with readmission and death",
+      "YEAR": 2017,
+      "SOURCE": "BMJ Open "
+    },
+    {
+      "PAPER_ID": "P05",
+      "REF_ID": "R07",
+      "REFERENCED_PAPER_TITLE": "The cost associated with disease-related malnutrition in Ireland",
+      "YEAR": 2012,
+      "SOURCE": "Publ Health Nutr"
+    },
+    {
+      "PAPER_ID": "P05",
+      "REF_ID": "R08",
+      "REFERENCED_PAPER_TITLE": "ESPEN expert group recommendations for action against cancer-related malnutrition",
+      "YEAR": 2017,
+      "SOURCE": "Clin Nutr (Edinb)"
+    },
+    {
+      "PAPER_ID": "P05",
+      "REF_ID": "R09",
+      "REFERENCED_PAPER_TITLE": "GLIM criteria for the diagnosis of malnutrition",
+      "YEAR": 2018,
+      "SOURCE": "Clinical nutrition"
+    },
+    {
+      "PAPER_ID": "P05",
+      "REF_ID": "R10",
+      "REFERENCED_PAPER_TITLE": "Effectiveness of nutritional interventions in older adults at risk of malnutrition",
+      "YEAR": 2018,
+      "SOURCE": "Clinical nutrition "
+    },
+    {
+      "PAPER_ID": "P06",
+      "REF_ID": "R01",
+      "REFERENCED_PAPER_TITLE": "BERT: Pre-training of Deep Bidirectional Transformers",
+      "YEAR": 2019,
+      "SOURCE": "ArXiv (Devlin et al.)"
+    },
+    {
+      "PAPER_ID": "P06",
+      "REF_ID": "R02",
+      "REFERENCED_PAPER_TITLE": "GPT-4 Technical Report",
+      "YEAR": 2023,
+      "SOURCE": "OpenAI Technical Report "
+    },
+    {
+      "PAPER_ID": "P06",
+      "REF_ID": "R03",
+      "REFERENCED_PAPER_TITLE": "The impact of artificial intelligence on the labor market",
+      "YEAR": 2020,
+      "SOURCE": "Stanford University Working Paper (Webb) "
+    },
+    {
+      "PAPER_ID": "P06",
+      "REF_ID": "R04",
+      "REFERENCED_PAPER_TITLE": "What can machines learn, and what does it mean for occupations?",
+      "YEAR": 2018,
+      "SOURCE": "AEA Papers and Proceedings "
+    },
+    {
+      "PAPER_ID": "P06",
+      "REF_ID": "R05",
+      "REFERENCED_PAPER_TITLE": "The Technology Trap",
+      "YEAR": 2019,
+      "SOURCE": "Princeton University Press (Frey) "
+    },
+    {
+      "PAPER_ID": "P06",
+      "REF_ID": "R06",
+      "REFERENCED_PAPER_TITLE": "General purpose technologies 'engines of growth'?",
+      "YEAR": 1995,
+      "SOURCE": "Journal of Econometrics"
+    },
+    {
+      "PAPER_ID": "P06",
+      "REF_ID": "R07",
+      "REFERENCED_PAPER_TITLE": "The Work of the Future: Building Better Jobs",
+      "YEAR": 2022,
+      "SOURCE": "The MIT Press"
+    },
+    {
+      "PAPER_ID": "P06",
+      "REF_ID": "R08",
+      "REFERENCED_PAPER_TITLE": "How will language modelers like ChatGPT affect occupations?",
+      "YEAR": 2023,
+      "SOURCE": "arXiv (Felten et al.)"
+    },
+    {
+      "PAPER_ID": "P06",
+      "REF_ID": "R09",
+      "REFERENCED_PAPER_TITLE": "Language models for dialog applications (LaMDA)",
+      "YEAR": 2022,
+      "SOURCE": "arXiv (Thoppilan et al.) "
+    },
+    {
+      "PAPER_ID": "P06",
+      "REF_ID": "R10",
+      "REFERENCED_PAPER_TITLE": "The skill content of recent technological change",
+      "YEAR": 2003,
+      "SOURCE": "The Quarterly Journal of Economics "
+    },
+    {
+      "PAPER_ID": "P07",
+      "REF_ID": "R01",
+      "REFERENCED_PAPER_TITLE": "Psychological predictors of problem mobile phone use",
+      "YEAR": 2005,
+      "SOURCE": "Cyber Psychology and Behavior "
+    },
+    {
+      "PAPER_ID": "P07",
+      "REF_ID": "R02",
+      "REFERENCED_PAPER_TITLE": "Does impulsivity relate to perceived dependence and actual use of the mobile phone?",
+      "YEAR": 2007,
+      "SOURCE": "Applied Cognitive Psychology "
+    },
+    {
+      "PAPER_ID": "P07",
+      "REF_ID": "R03",
+      "REFERENCED_PAPER_TITLE": "Mobile-phone addiction in adolescence: The test of mobile-phone dependence (TMD)",
+      "YEAR": 2012,
+      "SOURCE": "Progress in Health Sciences"
+    },
+    {
+      "PAPER_ID": "P07",
+      "REF_ID": "R04",
+      "REFERENCED_PAPER_TITLE": "Development and validation of a smartphone addiction scale (SAS)",
+      "YEAR": 2013,
+      "SOURCE": "PLoS ONE"
+    },
+    {
+      "PAPER_ID": "P07",
+      "REF_ID": "R05",
+      "REFERENCED_PAPER_TITLE": "The effect of electromagnetic fields emitted by mobile phones on human sleep",
+      "YEAR": 2005,
+      "SOURCE": "Neuroreport "
+    },
+    {
+      "PAPER_ID": "P07",
+      "REF_ID": "R06",
+      "REFERENCED_PAPER_TITLE": "Effects of the Electromagnetic field of Mobile Telephones on Hearing",
+      "YEAR": 2002,
+      "SOURCE": "Acta Otolaryngologica "
+    },
+    {
+      "PAPER_ID": "P07",
+      "REF_ID": "R07",
+      "REFERENCED_PAPER_TITLE": "Mobile phone addiction",
+      "YEAR": 2005,
+      "SOURCE": "Journal of Interactive Media in Education "
+    },
+    {
+      "PAPER_ID": "P07",
+      "REF_ID": "R08",
+      "REFERENCED_PAPER_TITLE": "Computer addiction: A critical consideration",
+      "YEAR": 1999,
+      "SOURCE": "American Journal of Orthopsychiatry"
+    },
+    {
+      "PAPER_ID": "P07",
+      "REF_ID": "R09",
+      "REFERENCED_PAPER_TITLE": "Mobile communication culture of children and teenagers in Finland",
+      "YEAR": 2001,
+      "SOURCE": "Information Society Research Centre"
+    },
+    {
+      "PAPER_ID": "P07",
+      "REF_ID": "R10",
+      "REFERENCED_PAPER_TITLE": "A study on some of the Common Health Effects of Cell-Phones amongst college students",
+      "YEAR": 2013,
+      "SOURCE": "Journal of Community Medicine & Health Education"
+    },
+    {
+      "PAPER_ID": "P08",
+      "REF_ID": "R01",
+      "REFERENCED_PAPER_TITLE": "Machine Learning and Optimization",
+      "YEAR": 2017,
+      "SOURCE": "NYU CIMS (Andres Munoz) "
+    },
+    {
+      "PAPER_ID": "P08",
+      "REF_ID": "R02",
+      "REFERENCED_PAPER_TITLE": "Glossary of terms: Machine Learning",
+      "YEAR": 1998,
+      "SOURCE": "Kohavi & Provost "
+    },
+    {
+      "PAPER_ID": "P08",
+      "REF_ID": "R03",
+      "REFERENCED_PAPER_TITLE": "A Review on Conventional Machine Learning vs Deep Learning",
+      "YEAR": 2018,
+      "SOURCE": "Int. Conf. on Computing, Power and Comm."
+    },
+    {
+      "PAPER_ID": "P08",
+      "REF_ID": "R04",
+      "REFERENCED_PAPER_TITLE": "Supervised Machine Learning: A Review of Classification Techniques",
+      "YEAR": 2007,
+      "SOURCE": "Informatica "
+    },
+    {
+      "PAPER_ID": "P08",
+      "REF_ID": "R05",
+      "REFERENCED_PAPER_TITLE": "Support Vector Machines - The Interface to libsvm in package 1071",
+      "YEAR": 2015,
+      "SOURCE": "David Meyer"
+    },
+    {
+      "PAPER_ID": "P08",
+      "REF_ID": "R06",
+      "REFERENCED_PAPER_TITLE": "Multicategory support vector machines: Theory and application",
+      "YEAR": 2004,
+      "SOURCE": "Journal of the American Statistical Association"
+    },
+    {
+      "PAPER_ID": "P08",
+      "REF_ID": "R07",
+      "REFERENCED_PAPER_TITLE": "Pegasos: Primal Estimated sub-Gradient Solver for SVM",
+      "YEAR": 2007,
+      "SOURCE": "ICML Proceedings "
+    },
+    {
+      "PAPER_ID": "P08",
+      "REF_ID": "R08",
+      "REFERENCED_PAPER_TITLE": "Machine Learning in action (Book)",
+      "YEAR": 2012,
+      "SOURCE": "Manning Publications Co."
+    },
+    {
+      "PAPER_ID": "P08",
+      "REF_ID": "R09",
+      "REFERENCED_PAPER_TITLE": "Investigating the Performance of Naive Bayes Classifiers and KNN",
+      "YEAR": 2010,
+      "SOURCE": "Journal on Convergence Information Tech."
+    },
+    {
+      "PAPER_ID": "P08",
+      "REF_ID": "R10",
+      "REFERENCED_PAPER_TITLE": "Ensemble Learning",
+      "YEAR": 2013,
+      "SOURCE": "Nanjing University (Z.H. Zhou)"
+    },
+    {
+      "PAPER_ID": "P09",
+      "REF_ID": "R01",
+      "REFERENCED_PAPER_TITLE": "Epidemiology and outcomes of osteoporotic fractures",
+      "YEAR": 2002,
+      "SOURCE": "Lancet"
+    },
+    {
+      "PAPER_ID": "P09",
+      "REF_ID": "R02",
+      "REFERENCED_PAPER_TITLE": "World-wide projections for hip fracture",
+      "YEAR": 1997,
+      "SOURCE": "Osteoporos. Int."
+    },
+    {
+      "PAPER_ID": "P09",
+      "REF_ID": "R03",
+      "REFERENCED_PAPER_TITLE": "Clinician's guide to prevention and treatment of osteoporosis",
+      "YEAR": 2014,
+      "SOURCE": "Osteoporos. Int."
+    },
+    {
+      "PAPER_ID": "P09",
+      "REF_ID": "R04",
+      "REFERENCED_PAPER_TITLE": "An atlas of genetic influences on osteoporosis in humans and mice",
+      "YEAR": 2019,
+      "SOURCE": "Nat. Genet."
+    },
+    {
+      "PAPER_ID": "P09",
+      "REF_ID": "R05",
+      "REFERENCED_PAPER_TITLE": "Novel solutions for an old disease: Diagnosis of acute appendicitis with random forest...",
+      "YEAR": 2011,
+      "SOURCE": "Surgery"
+    },
+    {
+      "PAPER_ID": "P09",
+      "REF_ID": "R06",
+      "REFERENCED_PAPER_TITLE": "Artificial neural networks to predict future bone mineral density...",
+      "YEAR": 2017,
+      "SOURCE": "BMC Res. Notes"
+    },
+    {
+      "PAPER_ID": "P09",
+      "REF_ID": "R07",
+      "REFERENCED_PAPER_TITLE": "Computer-aided osteoporosis detection from DXA imaging",
+      "YEAR": 2019,
+      "SOURCE": "Comput. Methods Progr. Biomed."
+    },
+    {
+      "PAPER_ID": "P09",
+      "REF_ID": "R08",
+      "REFERENCED_PAPER_TITLE": "Machine learning principles can improve hip fracture prediction",
+      "YEAR": 2017,
+      "SOURCE": "Calcif. Tissue Int."
+    },
+    {
+      "PAPER_ID": "P09",
+      "REF_ID": "R09",
+      "REFERENCED_PAPER_TITLE": "Predicting urinary tract infections in the emergency department with machine learning",
+      "YEAR": 2018,
+      "SOURCE": "PLoS ONE"
+    },
+    {
+      "PAPER_ID": "P09",
+      "REF_ID": "R10",
+      "REFERENCED_PAPER_TITLE": "Scikit-learn: Machine learning in Python",
+      "YEAR": 2011,
+      "SOURCE": "J. Mach. Learn. Res."
+    },
+    {
+      "PAPER_ID": "P10",
+      "REF_ID": "R01",
+      "REFERENCED_PAPER_TITLE": "Proxyless NAS: Direct Neural Architecture Search on Target Task and Hardware",
+      "YEAR": 2019,
+      "SOURCE": "ICLR "
+    },
+    {
+      "PAPER_ID": "P10",
+      "REF_ID": "R02",
+      "REFERENCED_PAPER_TITLE": "Once-for-All: Train One Network and Specialize it for Efficient Deployment",
+      "YEAR": 2020,
+      "SOURCE": "ICLR "
+    },
+    {
+      "PAPER_ID": "P10",
+      "REF_ID": "R03",
+      "REFERENCED_PAPER_TITLE": "Deep Residual Learning for Image Recognition (ResNet)",
+      "YEAR": 2016,
+      "SOURCE": "CVPR"
+    },
+    {
+      "PAPER_ID": "P10",
+      "REF_ID": "R04",
+      "REFERENCED_PAPER_TITLE": "MobileNets: Efficient Convolutional Neural Networks for Mobile Vision",
+      "YEAR": 2017,
+      "SOURCE": "arXiv"
+    },
+    {
+      "PAPER_ID": "P10",
+      "REF_ID": "R05",
+      "REFERENCED_PAPER_TITLE": "MobileNetV2: Inverted Residuals and Linear Bottlenecks",
+      "YEAR": 2018,
+      "SOURCE": "CVPR"
+    },
+    {
+      "PAPER_ID": "P10",
+      "REF_ID": "R06",
+      "REFERENCED_PAPER_TITLE": "EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks",
+      "YEAR": 2019,
+      "SOURCE": "ICML Proceedings "
+    },
+    {
+      "PAPER_ID": "P10",
+      "REF_ID": "R07",
+      "REFERENCED_PAPER_TITLE": "MnasNet: Platform-Aware Neural Architecture Search for Mobile",
+      "YEAR": 2019,
+      "SOURCE": "CVPR"
+    },
+    {
+      "PAPER_ID": "P10",
+      "REF_ID": "R08",
+      "REFERENCED_PAPER_TITLE": "Designing Network Design Spaces (RegNet)",
+      "YEAR": 2020,
+      "SOURCE": "CVPR"
+    },
+    {
+      "PAPER_ID": "P10",
+      "REF_ID": "R09",
+      "REFERENCED_PAPER_TITLE": "Attention Is All You Need (Transformers)",
+      "YEAR": 2017,
+      "SOURCE": "NIPS"
+    },
+    {
+      "PAPER_ID": "P10",
+      "REF_ID": "R10",
+      "REFERENCED_PAPER_TITLE": "ImageNet: A large-scale hierarchical image database",
+      "YEAR": 2009,
+      "SOURCE": "CVPR"
+    },
+    {
+      "PAPER_ID": "P11",
+      "REF_ID": "R01",
+      "REFERENCED_PAPER_TITLE": "Generative adversarial nets (GANs)",
+      "YEAR": 2014,
+      "SOURCE": "NIPS (Goodfellow et al.)"
+    },
+    {
+      "PAPER_ID": "P11",
+      "REF_ID": "R02",
+      "REFERENCED_PAPER_TITLE": "Improved techniques for training GANs",
+      "YEAR": 2016,
+      "SOURCE": "arXiv (Salimans et al.)"
+    },
+    {
+      "PAPER_ID": "P11",
+      "REF_ID": "R03",
+      "REFERENCED_PAPER_TITLE": "Deep multi-scale video prediction beyond mean square error",
+      "YEAR": 2015,
+      "SOURCE": "arXiv (Mathieu et al.)"
+    },
+    {
+      "PAPER_ID": "P11",
+      "REF_ID": "R04",
+      "REFERENCED_PAPER_TITLE": "Photo-realistic single image super-resolution using a GAN",
+      "YEAR": 2016,
+      "SOURCE": "arXiv (Ledig et al.)"
+    },
+    {
+      "PAPER_ID": "P11",
+      "REF_ID": "R05",
+      "REFERENCED_PAPER_TITLE": "Context encoders: feature learning by inpainting",
+      "YEAR": 2016,
+      "SOURCE": "arXiv (Pathak et al.)"
+    },
+    {
+      "PAPER_ID": "P11",
+      "REF_ID": "R06",
+      "REFERENCED_PAPER_TITLE": "Quantum machine learning",
+      "YEAR": 2017,
+      "SOURCE": "Nature (Biamonte et al.)"
+    },
+    {
+      "PAPER_ID": "P11",
+      "REF_ID": "R07",
+      "REFERENCED_PAPER_TITLE": "Quantum computing in the NISQ era and beyond",
+      "YEAR": 2018,
+      "SOURCE": "arXiv (Preskill)"
+    },
+    {
+      "PAPER_ID": "P11",
+      "REF_ID": "R08",
+      "REFERENCED_PAPER_TITLE": "Quantum detection and estimation theory",
+      "YEAR": 1976,
+      "SOURCE": "Academic Press (Helstrom)"
+    },
+    {
+      "PAPER_ID": "P11",
+      "REF_ID": "R09",
+      "REFERENCED_PAPER_TITLE": "Quantum computation and quantum information",
+      "YEAR": 2000,
+      "SOURCE": "Cambridge Univ. Press (Nielsen & Chuang)"
+    },
+    {
+      "PAPER_ID": "P11",
+      "REF_ID": "R10",
+      "REFERENCED_PAPER_TITLE": "Deep learning",
+      "YEAR": 2015,
+      "SOURCE": "Nature (LeCun et al.)"
+    },
+    {
+      "PAPER_ID": "P12",
+      "REF_ID": "R01",
+      "REFERENCED_PAPER_TITLE": "The New PRIUS Powertrain: The New 1.8L ESTEC 2ZR-FXE Engine with the New Generation Hybrid System",
+      "YEAR": 2016,
+      "SOURCE": "37th International Vienna Motor Symposium"
+    },
+    {
+      "PAPER_ID": "P12",
+      "REF_ID": "R02",
+      "REFERENCED_PAPER_TITLE": "Toyota's New Combustion Technology for High Engine Thermal Efficiency and High Engine Output Performance",
+      "YEAR": 2016,
+      "SOURCE": "37th International Vienna Motor Symposium "
+    },
+    {
+      "PAPER_ID": "P12",
+      "REF_ID": "R03",
+      "REFERENCED_PAPER_TITLE": "Development of a Single Cylinder Compression Ignition Research Engine",
+      "YEAR": 1965,
+      "SOURCE": "SAE Technical Paper 650733"
+    },
+    {
+      "PAPER_ID": "P12",
+      "REF_ID": "R04",
+      "REFERENCED_PAPER_TITLE": "The New Toyota 2.0-Liter Inline 4-Cylinder ESTEC D-4ST Engine Turbocharged Direct Injection Gasoline Engine",
+      "YEAR": 2014,
+      "SOURCE": "23rd Aachen Colloquium Automobile and Engine Technology"
+    },
+    {
+      "PAPER_ID": "P12",
+      "REF_ID": "R05",
+      "REFERENCED_PAPER_TITLE": "Development of High Tumble Intake-port for High Thermal Efficiency Engines",
+      "YEAR": 2016,
+      "SOURCE": "SAE Technical Paper 2016-01-0692 "
+    },
+    {
+      "PAPER_ID": "P12",
+      "REF_ID": "R06",
+      "REFERENCED_PAPER_TITLE": "Development of CFD Shape Optimization Technology using the Adjoint Method and its Application to Engine Intake Port Design",
+      "YEAR": 2013,
+      "SOURCE": "SAE Technical Paper 2013-01-0969"
+    },
+    {
+      "PAPER_ID": "P12",
+      "REF_ID": "R07",
+      "REFERENCED_PAPER_TITLE": "Innovative Gasoline Combustion Concepts for Toyota New Global Architecture",
+      "YEAR": 2016,
+      "SOURCE": "25th Aachen Colloquium Automobile and Engine Technology "
+    },
+    {
+      "PAPER_ID": "P12",
+      "REF_ID": "R08",
+      "REFERENCED_PAPER_TITLE": "Nurturing of \"Performance Feel\"",
+      "YEAR": 2003,
+      "SOURCE": "MAZDA Technical Review "
+    },
+    {
+      "PAPER_ID": "P12",
+      "REF_ID": "R09",
+      "REFERENCED_PAPER_TITLE": "A Study on the Mechanism of Driving Pleasure",
+      "YEAR": 2016,
+      "SOURCE": "Journal of SAEJ"
+    },
+    {
+      "PAPER_ID": "P12",
+      "REF_ID": "R10",
+      "REFERENCED_PAPER_TITLE": "Development of Dynamic Performance for the New Prius",
+      "YEAR": 2016,
+      "SOURCE": "TOYOTA Technical Review "
+    },
+    {
+      "PAPER_ID": "P13",
+      "REF_ID": "R01",
+      "REFERENCED_PAPER_TITLE": "Word Embeddings (Text Classification Guide)",
+      "YEAR": 2023,
+      "SOURCE": "Google Developers "
+    },
+    {
+      "PAPER_ID": "P13",
+      "REF_ID": "R02",
+      "REFERENCED_PAPER_TITLE": "Attention Is All You Need",
+      "YEAR": 2017,
+      "SOURCE": "arXiv (Vaswani et al.)"
+    },
+    {
+      "PAPER_ID": "P13",
+      "REF_ID": "R03",
+      "REFERENCED_PAPER_TITLE": "Understanding Deep Learning",
+      "YEAR": 2024,
+      "SOURCE": "MIT Press (S. J. D. Prince)"
+    },
+    {
+      "PAPER_ID": "P13",
+      "REF_ID": "R04",
+      "REFERENCED_PAPER_TITLE": "Softmax function",
+      "YEAR": "NOT SPECIFIED",
+      "SOURCE": "Wikipedia "
+    },
+    {
+      "PAPER_ID": "P13",
+      "REF_ID": "R05",
+      "REFERENCED_PAPER_TITLE": "Large language model",
+      "YEAR": "NOT SPECIFIED",
+      "SOURCE": "Wikipedia "
+    },
+    {
+      "PAPER_ID": "P13",
+      "REF_ID": "R06",
+      "REFERENCED_PAPER_TITLE": "Fast, Consistent Tokenization of Natural Language Text",
+      "YEAR": 2018,
+      "SOURCE": "Journal of Open Source Software "
+    },
+    {
+      "PAPER_ID": "P13",
+      "REF_ID": "R07",
+      "REFERENCED_PAPER_TITLE": "Challenging the \"One Single Vector per Token\" Assumption",
+      "YEAR": 2023,
+      "SOURCE": "CoNLL Proceedings "
+    },
+    {
+      "PAPER_ID": "P13",
+      "REF_ID": "R08",
+      "REFERENCED_PAPER_TITLE": "Word Embeddings for Natural Language Processing",
+      "YEAR": 2016,
+      "SOURCE": "École Polytechnique Fédérale de Lausanne "
+    },
+    {
+      "PAPER_ID": "P13",
+      "REF_ID": "R09",
+      "REFERENCED_PAPER_TITLE": "Word Meaning: Vector Semantics & Embeddings",
+      "YEAR": 2024,
+      "SOURCE": "Stanford University"
+    },
+    {
+      "PAPER_ID": "P13",
+      "REF_ID": "R10",
+      "REFERENCED_PAPER_TITLE": "Dot product",
+      "YEAR": "NOT SPECIFIED",
+      "SOURCE": "Wikipedia "
+    },
+    {
+      "PAPER_ID": "P14",
+      "REF_ID": "R01",
+      "REFERENCED_PAPER_TITLE": "A global perspective in the epidemiology of suicide",
+      "YEAR": 2002,
+      "SOURCE": "Suicidology"
+    },
+    {
+      "PAPER_ID": "P14",
+      "REF_ID": "R02",
+      "REFERENCED_PAPER_TITLE": "Suicide",
+      "YEAR": 2009,
+      "SOURCE": "Lancet "
+    },
+    {
+      "PAPER_ID": "P14",
+      "REF_ID": "R03",
+      "REFERENCED_PAPER_TITLE": "Risks of all-cause and suicide mortality in mental disorders: a meta-review",
+      "YEAR": 2014,
+      "SOURCE": "World Psychiatry "
+    },
+    {
+      "PAPER_ID": "P14",
+      "REF_ID": "R04",
+      "REFERENCED_PAPER_TITLE": "Global variation in the prevalence and incidence of MDD",
+      "YEAR": 2013,
+      "SOURCE": "Psychol Med"
+    },
+    {
+      "PAPER_ID": "P14",
+      "REF_ID": "R05",
+      "REFERENCED_PAPER_TITLE": "A current perspective of suicide and attempted suicide",
+      "YEAR": 2002,
+      "SOURCE": "Ann Intern Med "
+    },
+    {
+      "PAPER_ID": "P14",
+      "REF_ID": "R06",
+      "REFERENCED_PAPER_TITLE": "The neurobiology of suicide",
+      "YEAR": 2014,
+      "SOURCE": "Lancet Psychiatry "
+    },
+    {
+      "PAPER_ID": "P14",
+      "REF_ID": "R07",
+      "REFERENCED_PAPER_TITLE": "Family genetic studies, suicide, and suicidal behavior",
+      "YEAR": 2005,
+      "SOURCE": "Am J Med Genet"
+    },
+    {
+      "PAPER_ID": "P14",
+      "REF_ID": "R08",
+      "REFERENCED_PAPER_TITLE": "Brain-derived neurotrophic factor in suicide pathophysiology",
+      "YEAR": 2012,
+      "SOURCE": "The Neurobiological Basis of Suicide"
+    },
+    {
+      "PAPER_ID": "P14",
+      "REF_ID": "R09",
+      "REFERENCED_PAPER_TITLE": "A psychobiological model of temperament and character",
+      "YEAR": 1993,
+      "SOURCE": "Arch Gen Psychiatry"
+    },
+    {
+      "PAPER_ID": "P14",
+      "REF_ID": "R10",
+      "REFERENCED_PAPER_TITLE": "When does depression become a mental disorder?",
+      "YEAR": 2011,
+      "SOURCE": "Br J Psychiatry "
+    },
+    {
+      "PAPER_ID": "P15",
+      "REF_ID": "R01",
+      "REFERENCED_PAPER_TITLE": "A literature review of wind forecasting methods",
+      "YEAR": 2014,
+      "SOURCE": "Journal of Power and Energy Engineering"
+    },
+    {
+      "PAPER_ID": "P15",
+      "REF_ID": "R02",
+      "REFERENCED_PAPER_TITLE": "Review on mathematical models for the prediction of global solar radiation",
+      "YEAR": 2019,
+      "SOURCE": "Indonesian Journal of Electrical Engineering and Computer Science "
+    },
+    {
+      "PAPER_ID": "P15",
+      "REF_ID": "R03",
+      "REFERENCED_PAPER_TITLE": "Wind speed prediction using statistical regression and neural network",
+      "YEAR": 2008,
+      "SOURCE": "Journal of Earth System Science "
+    },
+    {
+      "PAPER_ID": "P15",
+      "REF_ID": "R04",
+      "REFERENCED_PAPER_TITLE": "Weather forecasting in India: Recent developments",
+      "YEAR": 2019,
+      "SOURCE": "Mausam"
+    },
+    {
+      "PAPER_ID": "P15",
+      "REF_ID": "R05",
+      "REFERENCED_PAPER_TITLE": "Can machines learn to predict weather? Using deep learning...",
+      "YEAR": 2019,
+      "SOURCE": "Journal of Advances in Modeling Earth Systems"
+    },
+    {
+      "PAPER_ID": "P15",
+      "REF_ID": "R06",
+      "REFERENCED_PAPER_TITLE": "Internet of Things Based Weather Forecast Monitoring System",
+      "YEAR": 2018,
+      "SOURCE": "Indonesian Journal of Electrical Engineering and Computer Science "
+    },
+    {
+      "PAPER_ID": "P15",
+      "REF_ID": "R07",
+      "REFERENCED_PAPER_TITLE": "Solar mapping of India using support vector machine",
+      "YEAR": 2016,
+      "SOURCE": "Journal of Physics: Conference Series "
+    },
+    {
+      "PAPER_ID": "P15",
+      "REF_ID": "R08",
+      "REFERENCED_PAPER_TITLE": "Random forests",
+      "YEAR": 2001,
+      "SOURCE": "Machine Learning"
+    },
+    {
+      "PAPER_ID": "P15",
+      "REF_ID": "R09",
+      "REFERENCED_PAPER_TITLE": "Assessment of SVM, empirical and ANN based solar radiation prediction models...",
+      "YEAR": 2018,
+      "SOURCE": "Renewable Energy "
+    },
+    {
+      "PAPER_ID": "P15",
+      "REF_ID": "R10",
+      "REFERENCED_PAPER_TITLE": "Machine learning based hybrid system for imputation and efficient energy demand forecasting",
+      "YEAR": 2020,
+      "SOURCE": "Energies "
+    }
+  ],
+  "Sheet2": []
+}

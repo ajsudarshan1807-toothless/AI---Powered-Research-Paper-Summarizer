@@ -1,0 +1,3146 @@
+{
+    "source_file": "output11.json",
+    "entities": [
+        {
+            "text": "DoclingDocument",
+            "label": "ORG"
+        },
+        {
+            "text": "1.9.0",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/texts/0 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/texts/7 #/texts/8 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/15",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/24",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/36",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/45",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/47 #/texts/48",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/49 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/52",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/62",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/63",
+            "label": "MONEY"
+        },
+        {
+            "text": "/groups/1",
+            "label": "PERSON"
+        },
+        {
+            "text": "#/groups/1",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/66",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/0",
+            "label": "MONEY"
+        },
+        {
+            "text": "2018",
+            "label": "DATE"
+        },
+        {
+            "text": "2018",
+            "label": "DATE"
+        },
+        {
+            "text": "Quantum",
+            "label": "ORG"
+        },
+        {
+            "text": "Quantum",
+            "label": "ORG"
+        },
+        {
+            "text": "#",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Seth Lloyd 1",
+            "label": "PERSON"
+        },
+        {
+            "text": "Christian",
+            "label": "NORP"
+        },
+        {
+            "text": "Christian",
+            "label": "NORP"
+        },
+        {
+            "text": "1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Massachusetts Institute of Technology",
+            "label": "ORG"
+        },
+        {
+            "text": "Department of Mechanical Engineering",
+            "label": "ORG"
+        },
+        {
+            "text": "1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Massachusetts Institute of Technology",
+            "label": "ORG"
+        },
+        {
+            "text": "Department of Mechanical Engineering",
+            "label": "ORG"
+        },
+        {
+            "text": "77",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Massachusetts Avenue",
+            "label": "FAC"
+        },
+        {
+            "text": "Cambridge",
+            "label": "GPE"
+        },
+        {
+            "text": "Massachusetts",
+            "label": "GPE"
+        },
+        {
+            "text": "02139",
+            "label": "DATE"
+        },
+        {
+            "text": "Massachusetts Avenue",
+            "label": "FAC"
+        },
+        {
+            "text": "Cambridge",
+            "label": "GPE"
+        },
+        {
+            "text": "Massachusetts",
+            "label": "GPE"
+        },
+        {
+            "text": "02139",
+            "label": "DATE"
+        },
+        {
+            "text": "2 Xanadu",
+            "label": "QUANTITY"
+        },
+        {
+            "text": "372",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Richmond Street W",
+            "label": "FAC"
+        },
+        {
+            "text": "Toronto",
+            "label": "GPE"
+        },
+        {
+            "text": "Ontario",
+            "label": "GPE"
+        },
+        {
+            "text": "1X6",
+            "label": "DATE"
+        },
+        {
+            "text": "Canada",
+            "label": "GPE"
+        },
+        {
+            "text": "372",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Richmond Street W",
+            "label": "FAC"
+        },
+        {
+            "text": "Toronto",
+            "label": "GPE"
+        },
+        {
+            "text": "Ontario",
+            "label": "GPE"
+        },
+        {
+            "text": "1X6",
+            "label": "DATE"
+        },
+        {
+            "text": "Canada",
+            "label": "GPE"
+        },
+        {
+            "text": "April 25, 2018",
+            "label": "DATE"
+        },
+        {
+            "text": "April 25, 2018",
+            "label": "DATE"
+        },
+        {
+            "text": "#/texts/7 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "QuGANs",
+            "label": "ORG"
+        },
+        {
+            "text": "QuGANs",
+            "label": "ORG"
+        },
+        {
+            "text": "#/texts/8 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "I. INTRODUCTION I. INTRODUCTION",
+            "label": "ORG"
+        },
+        {
+            "text": "#/texts/9 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/texts/10",
+            "label": "MONEY"
+        },
+        {
+            "text": "1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "1 / 2",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "2",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "3",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "4",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "5",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "QuGANs",
+            "label": "ORG"
+        },
+        {
+            "text": "6",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "three",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "1 / 2",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "2",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "3",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "4",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "5",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "QuGANs",
+            "label": "ORG"
+        },
+        {
+            "text": "6",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "three",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/texts/11 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "First",
+            "label": "ORDINAL"
+        },
+        {
+            "text": "First",
+            "label": "ORDINAL"
+        },
+        {
+            "text": "#/texts/12 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "Nash",
+            "label": "GPE"
+        },
+        {
+            "text": "Nash",
+            "label": "GPE"
+        },
+        {
+            "text": "#/texts/13",
+            "label": "MONEY"
+        },
+        {
+            "text": "Second",
+            "label": "ORDINAL"
+        },
+        {
+            "text": "7",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Quantum",
+            "label": "ORG"
+        },
+        {
+            "text": "Second",
+            "label": "ORDINAL"
+        },
+        {
+            "text": "7",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Quantum",
+            "label": "ORG"
+        },
+        {
+            "text": "2 2 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/16 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "N",
+            "label": "ORG"
+        },
+        {
+            "text": "QuGANs",
+            "label": "ORG"
+        },
+        {
+            "text": "QuGANs",
+            "label": "ORG"
+        },
+        {
+            "text": "15",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "N",
+            "label": "ORG"
+        },
+        {
+            "text": "QuGANs",
+            "label": "ORG"
+        },
+        {
+            "text": "QuGANs",
+            "label": "ORG"
+        },
+        {
+            "text": "15",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "FIG",
+            "label": "ORG"
+        },
+        {
+            "text": "1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "QuGAN",
+            "label": "ORG"
+        },
+        {
+            "text": "Firstly",
+            "label": "ORDINAL"
+        },
+        {
+            "text": "Secondly",
+            "label": "ORDINAL"
+        },
+        {
+            "text": "FIG",
+            "label": "ORG"
+        },
+        {
+            "text": "1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "QuGAN",
+            "label": "ORG"
+        },
+        {
+            "text": "Firstly",
+            "label": "ORDINAL"
+        },
+        {
+            "text": "Secondly",
+            "label": "ORDINAL"
+        },
+        {
+            "text": "/pictures/0",
+            "label": "PERSON"
+        },
+        {
+            "text": "#/texts/19 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "/pictures/0",
+            "label": "PERSON"
+        },
+        {
+            "text": "#/texts/20",
+            "label": "MONEY"
+        },
+        {
+            "text": "#",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/texts/21",
+            "label": "MONEY"
+        },
+        {
+            "text": "/pictures/0",
+            "label": "PERSON"
+        },
+        {
+            "text": "#/texts/24",
+            "label": "MONEY"
+        },
+        {
+            "text": "II",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "QUANTUM",
+            "label": "ORG"
+        },
+        {
+            "text": "QUANTUM",
+            "label": "ORG"
+        },
+        {
+            "text": "GENERATOR QUANTUM II",
+            "label": "ORG"
+        },
+        {
+            "text": "QUANTUM",
+            "label": "ORG"
+        },
+        {
+            "text": "QUANTUM",
+            "label": "ORG"
+        },
+        {
+            "text": "GENERATOR QUANTUM",
+            "label": "PERSON"
+        },
+        {
+            "text": "1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "First",
+            "label": "ORDINAL"
+        },
+        {
+            "text": "1 / 2",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "1 / 2",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "First",
+            "label": "ORDINAL"
+        },
+        {
+            "text": "1 / 2",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "1 / 2",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Fig",
+            "label": "PERSON"
+        },
+        {
+            "text": "1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "First",
+            "label": "ORDINAL"
+        },
+        {
+            "text": "\u03c3",
+            "label": "PERSON"
+        },
+        {
+            "text": "Fig",
+            "label": "PERSON"
+        },
+        {
+            "text": "1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "First",
+            "label": "ORDINAL"
+        },
+        {
+            "text": "\u03c3",
+            "label": "PERSON"
+        },
+        {
+            "text": "#/texts/27",
+            "label": "MONEY"
+        },
+        {
+            "text": "\u03c3",
+            "label": "PERSON"
+        },
+        {
+            "text": "1 -P +",
+            "label": "DATE"
+        },
+        {
+            "text": "8",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "9",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "\u03c3",
+            "label": "PERSON"
+        },
+        {
+            "text": "T\u03c3",
+            "label": "ORG"
+        },
+        {
+            "text": "F",
+            "label": "PRODUCT"
+        },
+        {
+            "text": "1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "F",
+            "label": "ORG"
+        },
+        {
+            "text": "1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "\u03c3",
+            "label": "PERSON"
+        },
+        {
+            "text": "1 -P +",
+            "label": "DATE"
+        },
+        {
+            "text": "8",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "9",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "\u03c3",
+            "label": "PERSON"
+        },
+        {
+            "text": "T\u03c3",
+            "label": "ORG"
+        },
+        {
+            "text": "F",
+            "label": "PRODUCT"
+        },
+        {
+            "text": "1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "F",
+            "label": "ORG"
+        },
+        {
+            "text": "1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/texts/28",
+            "label": "MONEY"
+        },
+        {
+            "text": "10",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "10",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/texts/29",
+            "label": "MONEY"
+        },
+        {
+            "text": "3 3 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "quantum",
+            "label": "ORG"
+        },
+        {
+            "text": "#/texts/31",
+            "label": "MONEY"
+        },
+        {
+            "text": "F",
+            "label": "PRODUCT"
+        },
+        {
+            "text": "F",
+            "label": "PRODUCT"
+        },
+        {
+            "text": "#/texts/32 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/33 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "Nash",
+            "label": "GPE"
+        },
+        {
+            "text": "Kakutani",
+            "label": "NORP"
+        },
+        {
+            "text": "11",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "at least one",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "only one",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "1 / 2",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Nash",
+            "label": "GPE"
+        },
+        {
+            "text": "Kakutani",
+            "label": "NORP"
+        },
+        {
+            "text": "11",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "at least one",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "only one",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "1 / 2",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "QUANTUM",
+            "label": "ORG"
+        },
+        {
+            "text": "DISCRIMINATOR QUANTUM",
+            "label": "ORG"
+        },
+        {
+            "text": "GENERATOR CLASSICAL III",
+            "label": "ORG"
+        },
+        {
+            "text": "QUANTUM",
+            "label": "ORG"
+        },
+        {
+            "text": "DISCRIMINATOR QUANTUM",
+            "label": "ORG"
+        },
+        {
+            "text": "#/texts/36",
+            "label": "MONEY"
+        },
+        {
+            "text": "7",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "1 / 2",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "\u2265",
+            "label": "PERSON"
+        },
+        {
+            "text": "7",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "1 / 2",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "\u2265",
+            "label": "PERSON"
+        },
+        {
+            "text": "#/texts/37 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "F",
+            "label": "PRODUCT"
+        },
+        {
+            "text": "F",
+            "label": "PRODUCT"
+        },
+        {
+            "text": "#/texts/39 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "Gaussian",
+            "label": "PERSON"
+        },
+        {
+            "text": "12",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Gaussian",
+            "label": "NORP"
+        },
+        {
+            "text": "Gaussian",
+            "label": "NORP"
+        },
+        {
+            "text": "Gaussian",
+            "label": "PERSON"
+        },
+        {
+            "text": "12",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Gaussian",
+            "label": "NORP"
+        },
+        {
+            "text": "Gaussian",
+            "label": "NORP"
+        },
+        {
+            "text": "#/texts/40 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "DISCRIMINATOR",
+            "label": "ORG"
+        },
+        {
+            "text": "GENERATOR QUANTUM IV.",
+            "label": "ORG"
+        },
+        {
+            "text": "DISCRIMINATOR",
+            "label": "ORG"
+        },
+        {
+            "text": "QUANTUM",
+            "label": "ORG"
+        },
+        {
+            "text": "#/texts/41 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "4 4 #/texts/43",
+            "label": "MONEY"
+        },
+        {
+            "text": "N",
+            "label": "ORG"
+        },
+        {
+            "text": "M",
+            "label": "ORG"
+        },
+        {
+            "text": "1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Hermitian",
+            "label": "NORP"
+        },
+        {
+            "text": "N",
+            "label": "ORG"
+        },
+        {
+            "text": "M",
+            "label": "ORG"
+        },
+        {
+            "text": "1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Hermitian",
+            "label": "NORP"
+        },
+        {
+            "text": "#/texts/45",
+            "label": "MONEY"
+        },
+        {
+            "text": "N",
+            "label": "ORG"
+        },
+        {
+            "text": "10 12",
+            "label": "DATE"
+        },
+        {
+            "text": "10 24",
+            "label": "DATE"
+        },
+        {
+            "text": "Hermitian",
+            "label": "NORP"
+        },
+        {
+            "text": "N",
+            "label": "ORG"
+        },
+        {
+            "text": "10 12",
+            "label": "DATE"
+        },
+        {
+            "text": "10 24",
+            "label": "DATE"
+        },
+        {
+            "text": "Hermitian",
+            "label": "NORP"
+        },
+        {
+            "text": "13",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "13",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "14",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "13",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "13",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "14",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/texts/47 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "Boltzmann",
+            "label": "ORG"
+        },
+        {
+            "text": "QuGANs",
+            "label": "ORG"
+        },
+        {
+            "text": "15",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Boltzmann",
+            "label": "ORG"
+        },
+        {
+            "text": "QuGANs",
+            "label": "ORG"
+        },
+        {
+            "text": "15",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/texts/48 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "CONCLUSION V. DISCUSSION",
+            "label": "PERSON"
+        },
+        {
+            "text": "#/texts/49",
+            "label": "MONEY"
+        },
+        {
+            "text": "QuGAN",
+            "label": "PRODUCT"
+        },
+        {
+            "text": "Strawberry Fields",
+            "label": "PERSON"
+        },
+        {
+            "text": "16",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Gaussian",
+            "label": "NORP"
+        },
+        {
+            "text": "12",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Gaussian",
+            "label": "NORP"
+        },
+        {
+            "text": "Gaussian",
+            "label": "NORP"
+        },
+        {
+            "text": "Gaussian",
+            "label": "NORP"
+        },
+        {
+            "text": "Gaussian",
+            "label": "NORP"
+        },
+        {
+            "text": "QuGAN",
+            "label": "PRODUCT"
+        },
+        {
+            "text": "Strawberry Fields",
+            "label": "PERSON"
+        },
+        {
+            "text": "16",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Gaussian",
+            "label": "NORP"
+        },
+        {
+            "text": "12",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Gaussian",
+            "label": "NORP"
+        },
+        {
+            "text": "Gaussian",
+            "label": "NORP"
+        },
+        {
+            "text": "Gaussian",
+            "label": "NORP"
+        },
+        {
+            "text": "Gaussian",
+            "label": "NORP"
+        },
+        {
+            "text": "#/texts/52",
+            "label": "MONEY"
+        },
+        {
+            "text": "three",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "QuGANs",
+            "label": "ORG"
+        },
+        {
+            "text": "three",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "QuGANs",
+            "label": "ORG"
+        },
+        {
+            "text": "#/texts/53 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "5 5 #/texts/54 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "M. Mirza",
+            "label": "PERSON"
+        },
+        {
+            "text": "B. Xu",
+            "label": "PERSON"
+        },
+        {
+            "text": "D. Warde-Farley",
+            "label": "PERSON"
+        },
+        {
+            "text": "S. Ozair",
+            "label": "PERSON"
+        },
+        {
+            "text": "A. Courville",
+            "label": "PERSON"
+        },
+        {
+            "text": "Y. Bengio",
+            "label": "PERSON"
+        },
+        {
+            "text": "2014",
+            "label": "DATE"
+        },
+        {
+            "text": "2672-2680",
+            "label": "DATE"
+        },
+        {
+            "text": "I. J. Goodfellow",
+            "label": "PERSON"
+        },
+        {
+            "text": "M. Mirza",
+            "label": "PERSON"
+        },
+        {
+            "text": "B. Xu",
+            "label": "PERSON"
+        },
+        {
+            "text": "D. Warde-Farley",
+            "label": "PERSON"
+        },
+        {
+            "text": "S. Ozair",
+            "label": "PERSON"
+        },
+        {
+            "text": "A. Courville",
+            "label": "PERSON"
+        },
+        {
+            "text": "Y. Bengio",
+            "label": "PERSON"
+        },
+        {
+            "text": "2014",
+            "label": "DATE"
+        },
+        {
+            "text": "2672-2680",
+            "label": "DATE"
+        },
+        {
+            "text": "1] #",
+            "label": "MONEY"
+        },
+        {
+            "text": "2",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "T. Salimans",
+            "label": "NORP"
+        },
+        {
+            "text": "I. Goodfellow",
+            "label": "PERSON"
+        },
+        {
+            "text": "W. Zaremba",
+            "label": "PERSON"
+        },
+        {
+            "text": "V. Cheung",
+            "label": "PERSON"
+        },
+        {
+            "text": "A. Radford",
+            "label": "PERSON"
+        },
+        {
+            "text": "X. Chen",
+            "label": "PERSON"
+        },
+        {
+            "text": "T. Salimans",
+            "label": "NORP"
+        },
+        {
+            "text": "I. Goodfellow",
+            "label": "PERSON"
+        },
+        {
+            "text": "W. Zaremba",
+            "label": "PERSON"
+        },
+        {
+            "text": "V. Cheung",
+            "label": "PERSON"
+        },
+        {
+            "text": "A. Radford",
+            "label": "PERSON"
+        },
+        {
+            "text": "X. Chen",
+            "label": "PERSON"
+        },
+        {
+            "text": "2] #",
+            "label": "MONEY"
+        },
+        {
+            "text": "3",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Y. LeCun",
+            "label": "PERSON"
+        },
+        {
+            "text": "Deep",
+            "label": "PRODUCT"
+        },
+        {
+            "text": "arXiv:1511.05440",
+            "label": "PERSON"
+        },
+        {
+            "text": "2015",
+            "label": "DATE"
+        },
+        {
+            "text": "M. Mathieu",
+            "label": "PERSON"
+        },
+        {
+            "text": "Y. LeCun",
+            "label": "PERSON"
+        },
+        {
+            "text": "Deep",
+            "label": "PRODUCT"
+        },
+        {
+            "text": "arXiv:1511.05440",
+            "label": "PERSON"
+        },
+        {
+            "text": "3] #",
+            "label": "MONEY"
+        },
+        {
+            "text": "4] C. Ledig",
+            "label": "PERCENT"
+        },
+        {
+            "text": "al.",
+            "label": "PERSON"
+        },
+        {
+            "text": "Photo",
+            "label": "GPE"
+        },
+        {
+            "text": "2016",
+            "label": "DATE"
+        },
+        {
+            "text": "C. Ledig",
+            "label": "PERSON"
+        },
+        {
+            "text": "al.",
+            "label": "PERSON"
+        },
+        {
+            "text": "Photo",
+            "label": "GPE"
+        },
+        {
+            "text": "2016",
+            "label": "DATE"
+        },
+        {
+            "text": "4] #",
+            "label": "MONEY"
+        },
+        {
+            "text": "5",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "P. Krahenbuhl",
+            "label": "PERSON"
+        },
+        {
+            "text": "J. Donahue",
+            "label": "PERSON"
+        },
+        {
+            "text": "T. Darrell",
+            "label": "PERSON"
+        },
+        {
+            "text": "A. A. Efros",
+            "label": "PERSON"
+        },
+        {
+            "text": "Context",
+            "label": "PERSON"
+        },
+        {
+            "text": "D. Pathak",
+            "label": "PERSON"
+        },
+        {
+            "text": "P. Krahenbuhl",
+            "label": "PERSON"
+        },
+        {
+            "text": "J. Donahue",
+            "label": "PERSON"
+        },
+        {
+            "text": "T. Darrell",
+            "label": "PERSON"
+        },
+        {
+            "text": "A. A. Efros",
+            "label": "PERSON"
+        },
+        {
+            "text": "Context",
+            "label": "PERSON"
+        },
+        {
+            "text": "5] #",
+            "label": "MONEY"
+        },
+        {
+            "text": "6",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "J. Biamonte",
+            "label": "PERSON"
+        },
+        {
+            "text": "al.",
+            "label": "PERSON"
+        },
+        {
+            "text": "549",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "195",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "2017",
+            "label": "DATE"
+        },
+        {
+            "text": "J. Biamonte",
+            "label": "PERSON"
+        },
+        {
+            "text": "al.",
+            "label": "PERSON"
+        },
+        {
+            "text": "549",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "195",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "2017",
+            "label": "DATE"
+        },
+        {
+            "text": "6] #",
+            "label": "MONEY"
+        },
+        {
+            "text": "7",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Quantum",
+            "label": "ORG"
+        },
+        {
+            "text": "NISQ",
+            "label": "ORG"
+        },
+        {
+            "text": "arXiv:1801.00862",
+            "label": "PERSON"
+        },
+        {
+            "text": "2018",
+            "label": "DATE"
+        },
+        {
+            "text": "J. Preskill",
+            "label": "PERSON"
+        },
+        {
+            "text": "Quantum",
+            "label": "ORG"
+        },
+        {
+            "text": "NISQ",
+            "label": "ORG"
+        },
+        {
+            "text": "arXiv:1801.00862",
+            "label": "PERSON"
+        },
+        {
+            "text": "2018",
+            "label": "DATE"
+        },
+        {
+            "text": "7] #",
+            "label": "MONEY"
+        },
+        {
+            "text": "8",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Quantum",
+            "label": "ORG"
+        },
+        {
+            "text": "Mathematics in Science and Engineering",
+            "label": "WORK_OF_ART"
+        },
+        {
+            "text": "123",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "C. W. Helstrom",
+            "label": "PERSON"
+        },
+        {
+            "text": "Quantum",
+            "label": "ORG"
+        },
+        {
+            "text": "Mathematics in Science and Engineering",
+            "label": "WORK_OF_ART"
+        },
+        {
+            "text": "123",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "8] #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/texts/63",
+            "label": "MONEY"
+        },
+        {
+            "text": "Pierre-Luc Dallaire-Demers",
+            "label": "PERSON"
+        },
+        {
+            "text": "Nathan Killoran",
+            "label": "PERSON"
+        },
+        {
+            "text": "Pierre-Luc Dallaire-Demers",
+            "label": "PERSON"
+        },
+        {
+            "text": "Nathan Killoran",
+            "label": "PERSON"
+        },
+        {
+            "text": "#/texts/64 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "New York",
+            "label": "GPE"
+        },
+        {
+            "text": "1976",
+            "label": "DATE"
+        },
+        {
+            "text": "Press",
+            "label": "ORG"
+        },
+        {
+            "text": "New York",
+            "label": "GPE"
+        },
+        {
+            "text": "1976",
+            "label": "DATE"
+        },
+        {
+            "text": "/groups/1",
+            "label": "PERSON"
+        },
+        {
+            "text": "9",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "I. L. Chuang",
+            "label": "PERSON"
+        },
+        {
+            "text": "Quantum",
+            "label": "ORG"
+        },
+        {
+            "text": "Cambridge University Press",
+            "label": "ORG"
+        },
+        {
+            "text": "Cambridge",
+            "label": "GPE"
+        },
+        {
+            "text": "UK",
+            "label": "GPE"
+        },
+        {
+            "text": "2000",
+            "label": "DATE"
+        },
+        {
+            "text": "M. A. Nielsen",
+            "label": "PERSON"
+        },
+        {
+            "text": "I. L. Chuang",
+            "label": "PERSON"
+        },
+        {
+            "text": "Quantum",
+            "label": "ORG"
+        },
+        {
+            "text": "Cambridge University Press",
+            "label": "ORG"
+        },
+        {
+            "text": "Cambridge",
+            "label": "GPE"
+        },
+        {
+            "text": "UK",
+            "label": "GPE"
+        },
+        {
+            "text": "2000",
+            "label": "DATE"
+        },
+        {
+            "text": "9] #",
+            "label": "MONEY"
+        },
+        {
+            "text": "/groups/1",
+            "label": "PERSON"
+        },
+        {
+            "text": "10",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Y. LeCun",
+            "label": "PERSON"
+        },
+        {
+            "text": "Y. Bengio",
+            "label": "PERSON"
+        },
+        {
+            "text": "G. Hinton",
+            "label": "PERSON"
+        },
+        {
+            "text": "Nature 521",
+            "label": "PERSON"
+        },
+        {
+            "text": "436",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "2015",
+            "label": "DATE"
+        },
+        {
+            "text": "Y. LeCun",
+            "label": "PERSON"
+        },
+        {
+            "text": "Y. Bengio",
+            "label": "PERSON"
+        },
+        {
+            "text": "G. Hinton",
+            "label": "PERSON"
+        },
+        {
+            "text": "Nature 521",
+            "label": "PERSON"
+        },
+        {
+            "text": "436",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "2015",
+            "label": "DATE"
+        },
+        {
+            "text": "10] #",
+            "label": "MONEY"
+        },
+        {
+            "text": "11",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "S. Kakutani",
+            "label": "PERSON"
+        },
+        {
+            "text": "Duke Mathematical Journal",
+            "label": "ORG"
+        },
+        {
+            "text": "8",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "3",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "457",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "1941",
+            "label": "DATE"
+        },
+        {
+            "text": "S. Kakutani",
+            "label": "PERSON"
+        },
+        {
+            "text": "Duke Mathematical Journal",
+            "label": "ORG"
+        },
+        {
+            "text": "8",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "3",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "457",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "1941",
+            "label": "DATE"
+        },
+        {
+            "text": "11] #",
+            "label": "MONEY"
+        },
+        {
+            "text": "12",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "S. Pirandola",
+            "label": "PERSON"
+        },
+        {
+            "text": "R. Garcia-Patron",
+            "label": "PERSON"
+        },
+        {
+            "text": "N. J. Cerf",
+            "label": "PERSON"
+        },
+        {
+            "text": "T. C. Ralph",
+            "label": "PERSON"
+        },
+        {
+            "text": "J. H. Shapiro",
+            "label": "PERSON"
+        },
+        {
+            "text": "S. Lloyd",
+            "label": "PERSON"
+        },
+        {
+            "text": "Mod",
+            "label": "PERSON"
+        },
+        {
+            "text": "84",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "621",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "2012",
+            "label": "DATE"
+        },
+        {
+            "text": "C. Weedbrook",
+            "label": "PERSON"
+        },
+        {
+            "text": "S. Pirandola",
+            "label": "PERSON"
+        },
+        {
+            "text": "R. Garcia-Patron",
+            "label": "PERSON"
+        },
+        {
+            "text": "N. J. Cerf",
+            "label": "PERSON"
+        },
+        {
+            "text": "T. C. Ralph",
+            "label": "PERSON"
+        },
+        {
+            "text": "J. H. Shapiro",
+            "label": "PERSON"
+        },
+        {
+            "text": "S. Lloyd",
+            "label": "PERSON"
+        },
+        {
+            "text": "Mod",
+            "label": "PERSON"
+        },
+        {
+            "text": "84",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "621",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "2012",
+            "label": "DATE"
+        },
+        {
+            "text": "12",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "13",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "S. Lloyd",
+            "label": "PERSON"
+        },
+        {
+            "text": "M. Mohseni",
+            "label": "ORG"
+        },
+        {
+            "text": "P. Rebentrost",
+            "label": "ORG"
+        },
+        {
+            "text": "Nat",
+            "label": "PERSON"
+        },
+        {
+            "text": "10 , 631",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "2014",
+            "label": "DATE"
+        },
+        {
+            "text": "S. Lloyd",
+            "label": "PERSON"
+        },
+        {
+            "text": "M. Mohseni",
+            "label": "ORG"
+        },
+        {
+            "text": "P. Rebentrost",
+            "label": "ORG"
+        },
+        {
+            "text": "Nat",
+            "label": "PERSON"
+        },
+        {
+            "text": "10 , 631",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "2014",
+            "label": "DATE"
+        },
+        {
+            "text": "13] #",
+            "label": "MONEY"
+        },
+        {
+            "text": "/groups/1",
+            "label": "PERSON"
+        },
+        {
+            "text": "14",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "A. W. Harrow",
+            "label": "PERSON"
+        },
+        {
+            "text": "A. Hassidim",
+            "label": "PERSON"
+        },
+        {
+            "text": "S. Lloyd",
+            "label": "PERSON"
+        },
+        {
+            "text": "Phys",
+            "label": "PERSON"
+        },
+        {
+            "text": "Lett",
+            "label": "PERSON"
+        },
+        {
+            "text": "103 , 150502",
+            "label": "DATE"
+        },
+        {
+            "text": "2009",
+            "label": "DATE"
+        },
+        {
+            "text": "A. W. Harrow",
+            "label": "PERSON"
+        },
+        {
+            "text": "A. Hassidim",
+            "label": "PERSON"
+        },
+        {
+            "text": "S. Lloyd",
+            "label": "PERSON"
+        },
+        {
+            "text": "Phys",
+            "label": "PERSON"
+        },
+        {
+            "text": "Lett",
+            "label": "PERSON"
+        },
+        {
+            "text": "103 , 150502",
+            "label": "DATE"
+        },
+        {
+            "text": "2009",
+            "label": "DATE"
+        },
+        {
+            "text": "14",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "/groups/1",
+            "label": "PERSON"
+        },
+        {
+            "text": "15",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "N. Killoran",
+            "label": "PERSON"
+        },
+        {
+            "text": "Quantum",
+            "label": "ORG"
+        },
+        {
+            "text": "2018",
+            "label": "DATE"
+        },
+        {
+            "text": "N. Killoran",
+            "label": "PERSON"
+        },
+        {
+            "text": "Quantum",
+            "label": "ORG"
+        },
+        {
+            "text": "2018",
+            "label": "DATE"
+        },
+        {
+            "text": "15] #",
+            "label": "MONEY"
+        },
+        {
+            "text": "/groups/1",
+            "label": "PERSON"
+        },
+        {
+            "text": "16",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "N. Killoran",
+            "label": "PERSON"
+        },
+        {
+            "text": "J. Izaac",
+            "label": "PERSON"
+        },
+        {
+            "text": "N. Quesada",
+            "label": "PERSON"
+        },
+        {
+            "text": "V. Bergholm",
+            "label": "GPE"
+        },
+        {
+            "text": "M. Amy",
+            "label": "PERSON"
+        },
+        {
+            "text": "C. Weedbrook",
+            "label": "PERSON"
+        },
+        {
+            "text": "Strawberry Fields",
+            "label": "PERSON"
+        },
+        {
+            "text": "2018",
+            "label": "DATE"
+        },
+        {
+            "text": "N. Killoran",
+            "label": "PERSON"
+        },
+        {
+            "text": "J. Izaac",
+            "label": "PERSON"
+        },
+        {
+            "text": "N. Quesada",
+            "label": "PERSON"
+        },
+        {
+            "text": "V. Bergholm",
+            "label": "GPE"
+        },
+        {
+            "text": "M. Amy",
+            "label": "PERSON"
+        },
+        {
+            "text": "C. Weedbrook",
+            "label": "PERSON"
+        },
+        {
+            "text": "Strawberry Fields",
+            "label": "PERSON"
+        },
+        {
+            "text": "2018",
+            "label": "DATE"
+        },
+        {
+            "text": "16] #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/21 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#",
+            "label": "CARDINAL"
+        }
+    ],
+    "triples": [
+        {
+            "subject": "body",
+            "relation": "root",
+            "object": "_"
+        },
+        {
+            "subject": "body",
+            "relation": "root",
+            "object": "#"
+        },
+        {
+            "subject": "body",
+            "relation": "root",
+            "object": "#"
+        },
+        {
+            "subject": "Quantum",
+            "relation": "generative",
+            "object": "learning"
+        },
+        {
+            "subject": "Quantum",
+            "relation": "generative",
+            "object": "Weedbrook"
+        },
+        {
+            "subject": "Quantum",
+            "relation": "generative",
+            "object": "learning"
+        },
+        {
+            "subject": "networks",
+            "relation": "represent",
+            "object": "tool"
+        },
+        {
+            "subject": "that",
+            "relation": "mimic",
+            "object": "those"
+        },
+        {
+            "subject": "generator",
+            "relation": "generate",
+            "object": "statistics"
+        },
+        {
+            "subject": "paper",
+            "relation": "introduce",
+            "object": "notion"
+        },
+        {
+            "subject": "data",
+            "relation": "consist",
+            "object": "either"
+        },
+        {
+            "subject": "generator",
+            "relation": "produce",
+            "object": "statistics"
+        },
+        {
+            "subject": "networks",
+            "relation": "exhibit",
+            "object": "advantage"
+        },
+        {
+            "subject": "networks",
+            "relation": "represent",
+            "object": "tool"
+        },
+        {
+            "subject": "that",
+            "relation": "mimic",
+            "object": "those"
+        },
+        {
+            "subject": "generator",
+            "relation": "generate",
+            "object": "statistics"
+        },
+        {
+            "subject": "paper",
+            "relation": "introduce",
+            "object": "notion"
+        },
+        {
+            "subject": "data",
+            "relation": "consist",
+            "object": "either"
+        },
+        {
+            "subject": "generator",
+            "relation": "produce",
+            "object": "statistics"
+        },
+        {
+            "subject": "networks",
+            "relation": "exhibit",
+            "object": "advantage"
+        },
+        {
+            "subject": "he",
+            "relation": "use",
+            "object": "which"
+        },
+        {
+            "subject": "that",
+            "relation": "minimize",
+            "object": "probability"
+        },
+        {
+            "subject": "that",
+            "relation": "match",
+            "object": "statistics"
+        },
+        {
+            "subject": "he",
+            "relation": "use",
+            "object": "which"
+        },
+        {
+            "subject": "that",
+            "relation": "minimize",
+            "object": "probability"
+        },
+        {
+            "subject": "that",
+            "relation": "match",
+            "object": "statistics"
+        },
+        {
+            "subject": "This",
+            "relation": "lead",
+            "object": "images"
+        },
+        {
+            "subject": "we",
+            "relation": "introduce",
+            "object": "networks"
+        },
+        {
+            "subject": "algorithms",
+            "relation": "exist",
+            "object": "["
+        },
+        {
+            "subject": "we",
+            "relation": "consider",
+            "object": "protocols"
+        },
+        {
+            "subject": "This",
+            "relation": "lead",
+            "object": "images"
+        },
+        {
+            "subject": "we",
+            "relation": "introduce",
+            "object": "networks"
+        },
+        {
+            "subject": "algorithms",
+            "relation": "exist",
+            "object": "["
+        },
+        {
+            "subject": "we",
+            "relation": "consider",
+            "object": "protocols"
+        },
+        {
+            "subject": "data",
+            "relation": "take",
+            "object": "form"
+        },
+        {
+            "subject": "generator",
+            "relation": "have",
+            "object": "access"
+        },
+        {
+            "subject": "discriminator",
+            "relation": "make",
+            "object": "measurements"
+        },
+        {
+            "subject": "discriminator",
+            "relation": "perform",
+            "object": "optimization"
+        },
+        {
+            "subject": "generator",
+            "relation": "reproduce",
+            "object": "ensemble"
+        },
+        {
+            "subject": "discriminator",
+            "relation": "tell",
+            "object": "difference"
+        },
+        {
+            "subject": "data",
+            "relation": "take",
+            "object": "form"
+        },
+        {
+            "subject": "generator",
+            "relation": "have",
+            "object": "access"
+        },
+        {
+            "subject": "discriminator",
+            "relation": "make",
+            "object": "measurements"
+        },
+        {
+            "subject": "discriminator",
+            "relation": "perform",
+            "object": "optimization"
+        },
+        {
+            "subject": "generator",
+            "relation": "reproduce",
+            "object": "ensemble"
+        },
+        {
+            "subject": "discriminator",
+            "relation": "tell",
+            "object": "difference"
+        },
+        {
+            "subject": "generator",
+            "relation": "find",
+            "object": "statistics"
+        },
+        {
+            "subject": "generator",
+            "relation": "find",
+            "object": "statistics"
+        },
+        {
+            "subject": "systems",
+            "relation": "generate",
+            "object": "data"
+        },
+        {
+            "subject": "that",
+            "relation": "have",
+            "object": "access"
+        },
+        {
+            "subject": "systems",
+            "relation": "generate",
+            "object": "data"
+        },
+        {
+            "subject": "that",
+            "relation": "have",
+            "object": "access"
+        },
+        {
+            "subject": "BOTTOMLEFT",
+            "relation": "make",
+            "object": "measurements"
+        },
+        {
+            "subject": "discriminator",
+            "relation": "make",
+            "object": "measurements"
+        },
+        {
+            "subject": "discriminator",
+            "relation": "make",
+            "object": "measurements"
+        },
+        {
+            "subject": "discriminator",
+            "relation": "make",
+            "object": "measurements"
+        },
+        {
+            "subject": "that",
+            "relation": "exhibit",
+            "object": "advantage"
+        },
+        {
+            "subject": "QuGANs",
+            "relation": "exhibit",
+            "object": "advantage"
+        },
+        {
+            "subject": "that",
+            "relation": "exhibit",
+            "object": "advantage"
+        },
+        {
+            "subject": "QuGANs",
+            "relation": "exhibit",
+            "object": "advantage"
+        },
+        {
+            "subject": "which",
+            "relation": "generate",
+            "object": "data"
+        },
+        {
+            "subject": "We",
+            "relation": "consider",
+            "object": "variety"
+        },
+        {
+            "subject": "we",
+            "relation": "consider",
+            "object": "case"
+        },
+        {
+            "subject": "which",
+            "relation": "generate",
+            "object": "data"
+        },
+        {
+            "subject": "We",
+            "relation": "consider",
+            "object": "variety"
+        },
+        {
+            "subject": "we",
+            "relation": "consider",
+            "object": "case"
+        },
+        {
+            "subject": "generator",
+            "relation": "produce",
+            "object": "statistics"
+        },
+        {
+            "subject": "discriminator",
+            "relation": "adjust",
+            "object": "measurement"
+        },
+        {
+            "subject": "generator",
+            "relation": "decrease",
+            "object": "probability"
+        },
+        {
+            "subject": "that",
+            "relation": "decrease",
+            "object": "entropy"
+        },
+        {
+            "subject": "generator",
+            "relation": "match",
+            "object": "statistics"
+        },
+        {
+            "subject": "generator",
+            "relation": "produce",
+            "object": "statistics"
+        },
+        {
+            "subject": "discriminator",
+            "relation": "adjust",
+            "object": "measurement"
+        },
+        {
+            "subject": "generator",
+            "relation": "decrease",
+            "object": "probability"
+        },
+        {
+            "subject": "that",
+            "relation": "decrease",
+            "object": "entropy"
+        },
+        {
+            "subject": "generator",
+            "relation": "match",
+            "object": "statistics"
+        },
+        {
+            "subject": "generator",
+            "relation": "generate",
+            "object": "ensemble"
+        },
+        {
+            "subject": "we",
+            "relation": "train",
+            "object": "discriminator"
+        },
+        {
+            "subject": "we",
+            "relation": "fix",
+            "object": "strategy"
+        },
+        {
+            "subject": "generator",
+            "relation": "generate",
+            "object": "ensemble"
+        },
+        {
+            "subject": "we",
+            "relation": "train",
+            "object": "discriminator"
+        },
+        {
+            "subject": "we",
+            "relation": "fix",
+            "object": "strategy"
+        },
+        {
+            "subject": "she",
+            "relation": "guess",
+            "object": "measurement"
+        },
+        {
+            "subject": "discriminator",
+            "relation": "make",
+            "object": "measurement"
+        },
+        {
+            "subject": "measurement",
+            "relation": "yield",
+            "object": "data"
+        },
+        {
+            "subject": "measurement",
+            "relation": "yield",
+            "object": "data"
+        },
+        {
+            "subject": "discriminator",
+            "relation": "follow",
+            "object": "gradient"
+        },
+        {
+            "subject": "she",
+            "relation": "guess",
+            "object": "measurement"
+        },
+        {
+            "subject": "discriminator",
+            "relation": "make",
+            "object": "measurement"
+        },
+        {
+            "subject": "measurement",
+            "relation": "yield",
+            "object": "data"
+        },
+        {
+            "subject": "measurement",
+            "relation": "yield",
+            "object": "data"
+        },
+        {
+            "subject": "discriminator",
+            "relation": "follow",
+            "object": "gradient"
+        },
+        {
+            "subject": "she",
+            "relation": "adjust",
+            "object": "weights"
+        },
+        {
+            "subject": "she",
+            "relation": "adjust",
+            "object": "weights"
+        },
+        {
+            "subject": "that",
+            "relation": "take",
+            "object": "state"
+        },
+        {
+            "subject": "that",
+            "relation": "take",
+            "object": "state"
+        },
+        {
+            "subject": "T",
+            "relation": "distinguish",
+            "object": "true"
+        },
+        {
+            "subject": "generator",
+            "relation": "follow",
+            "object": "gradient"
+        },
+        {
+            "subject": "that",
+            "relation": "maximize",
+            "object": "probability"
+        },
+        {
+            "subject": "generator",
+            "relation": "possess",
+            "object": "network"
+        },
+        {
+            "subject": "he",
+            "relation": "adjust",
+            "object": "weights"
+        },
+        {
+            "subject": "T",
+            "relation": "distinguish",
+            "object": "true"
+        },
+        {
+            "subject": "generator",
+            "relation": "follow",
+            "object": "gradient"
+        },
+        {
+            "subject": "that",
+            "relation": "maximize",
+            "object": "probability"
+        },
+        {
+            "subject": "generator",
+            "relation": "possess",
+            "object": "network"
+        },
+        {
+            "subject": "he",
+            "relation": "adjust",
+            "object": "weights"
+        },
+        {
+            "subject": "space",
+            "relation": "have",
+            "object": "point"
+        },
+        {
+            "subject": "discriminator",
+            "relation": "find",
+            "object": "T"
+        },
+        {
+            "subject": "generator",
+            "relation": "increase",
+            "object": "p"
+        },
+        {
+            "subject": "space",
+            "relation": "have",
+            "object": "point"
+        },
+        {
+            "subject": "discriminator",
+            "relation": "find",
+            "object": "T"
+        },
+        {
+            "subject": "generator",
+            "relation": "increase",
+            "object": "p"
+        },
+        {
+            "subject": "We",
+            "relation": "consider",
+            "object": "case"
+        },
+        {
+            "subject": "generator",
+            "relation": "match",
+            "object": "statistics"
+        },
+        {
+            "subject": "he",
+            "relation": "scale",
+            "object": "resources"
+        },
+        {
+            "subject": "that",
+            "relation": "distinguish",
+            "object": "p"
+        },
+        {
+            "subject": "discriminator",
+            "relation": "find",
+            "object": "measurement"
+        },
+        {
+            "subject": "she",
+            "relation": "win",
+            "object": "game"
+        },
+        {
+            "subject": "We",
+            "relation": "consider",
+            "object": "case"
+        },
+        {
+            "subject": "generator",
+            "relation": "match",
+            "object": "statistics"
+        },
+        {
+            "subject": "he",
+            "relation": "scale",
+            "object": "resources"
+        },
+        {
+            "subject": "that",
+            "relation": "distinguish",
+            "object": "p"
+        },
+        {
+            "subject": "discriminator",
+            "relation": "find",
+            "object": "measurement"
+        },
+        {
+            "subject": "she",
+            "relation": "win",
+            "object": "game"
+        },
+        {
+            "subject": "discriminator",
+            "relation": "find",
+            "object": "measurement"
+        },
+        {
+            "subject": "discriminator",
+            "relation": "adjust",
+            "object": "strategy"
+        },
+        {
+            "subject": "discriminator",
+            "relation": "find",
+            "object": "measurement"
+        },
+        {
+            "subject": "discriminator",
+            "relation": "adjust",
+            "object": "strategy"
+        },
+        {
+            "subject": "that",
+            "relation": "exhibit",
+            "object": "supremacy"
+        },
+        {
+            "subject": "BOTTOMLEFT",
+            "relation": "reproduce",
+            "object": "probabilities"
+        },
+        {
+            "subject": "device",
+            "relation": "reproduce",
+            "object": "probabilities"
+        },
+        {
+            "subject": "discriminator",
+            "relation": "have",
+            "object": "access"
+        },
+        {
+            "subject": "discriminator",
+            "relation": "have",
+            "object": "access"
+        },
+        {
+            "subject": "she",
+            "relation": "determine",
+            "object": "measurement"
+        },
+        {
+            "subject": "that",
+            "relation": "exhibit",
+            "object": "supremacy"
+        },
+        {
+            "subject": "device",
+            "relation": "reproduce",
+            "object": "probabilities"
+        },
+        {
+            "subject": "discriminator",
+            "relation": "have",
+            "object": "access"
+        },
+        {
+            "subject": "discriminator",
+            "relation": "have",
+            "object": "access"
+        },
+        {
+            "subject": "she",
+            "relation": "determine",
+            "object": "measurement"
+        },
+        {
+            "subject": "system",
+            "relation": "exhibit",
+            "object": "supremacy"
+        },
+        {
+            "subject": "discriminator",
+            "relation": "reproduce",
+            "object": "statistics"
+        },
+        {
+            "subject": "generator",
+            "relation": "generate",
+            "object": "statistics"
+        },
+        {
+            "subject": "system",
+            "relation": "exhibit",
+            "object": "supremacy"
+        },
+        {
+            "subject": "discriminator",
+            "relation": "reproduce",
+            "object": "statistics"
+        },
+        {
+            "subject": "generator",
+            "relation": "generate",
+            "object": "statistics"
+        },
+        {
+            "subject": "generator",
+            "relation": "have",
+            "object": "access"
+        },
+        {
+            "subject": "generator",
+            "relation": "have",
+            "object": "access"
+        },
+        {
+            "subject": "it",
+            "relation": "use",
+            "object": "resources"
+        },
+        {
+            "subject": "it",
+            "relation": "use",
+            "object": "resources"
+        },
+        {
+            "subject": "processor",
+            "relation": "represent",
+            "object": "vectors"
+        },
+        {
+            "subject": "processor",
+            "relation": "represent",
+            "object": "\u3009"
+        },
+        {
+            "subject": "processor",
+            "relation": "represent",
+            "object": "vectors"
+        },
+        {
+            "subject": "processor",
+            "relation": "represent",
+            "object": "\u3009"
+        },
+        {
+            "subject": "generator",
+            "relation": "produce",
+            "object": "data"
+        },
+        {
+            "subject": "that",
+            "relation": "take",
+            "object": "time"
+        },
+        {
+            "subject": "generator",
+            "relation": "represent",
+            "object": "matrices"
+        },
+        {
+            "subject": "generator",
+            "relation": "produce",
+            "object": "data"
+        },
+        {
+            "subject": "that",
+            "relation": "take",
+            "object": "time"
+        },
+        {
+            "subject": "generator",
+            "relation": "represent",
+            "object": "matrices"
+        },
+        {
+            "subject": "system",
+            "relation": "follow",
+            "object": "gradients"
+        },
+        {
+            "subject": "one",
+            "relation": "implement",
+            "object": "\u03c1"
+        },
+        {
+            "subject": "we",
+            "relation": "use",
+            "object": "methods"
+        },
+        {
+            "subject": "swap",
+            "relation": "yield",
+            "object": "\u03c1"
+        },
+        {
+            "subject": "swap",
+            "relation": "yield",
+            "object": "\u03c1"
+        },
+        {
+            "subject": "qubits",
+            "relation": "follow",
+            "object": "gradients"
+        },
+        {
+            "subject": "system",
+            "relation": "follow",
+            "object": "gradients"
+        },
+        {
+            "subject": "one",
+            "relation": "implement",
+            "object": "\u03c1"
+        },
+        {
+            "subject": "we",
+            "relation": "use",
+            "object": "methods"
+        },
+        {
+            "subject": "swap",
+            "relation": "yield",
+            "object": "\u03c1"
+        },
+        {
+            "subject": "swap",
+            "relation": "yield",
+            "object": "\u03c1"
+        },
+        {
+            "subject": "qubits",
+            "relation": "follow",
+            "object": "gradients"
+        },
+        {
+            "subject": "BOTTOMLEFT",
+            "relation": "take",
+            "object": "bits"
+        },
+        {
+            "subject": "generator",
+            "relation": "take",
+            "object": "bits"
+        },
+        {
+            "subject": "networks",
+            "relation": "have",
+            "object": "flexibility"
+        },
+        {
+            "subject": "authors",
+            "relation": "analyze",
+            "object": "ability"
+        },
+        {
+            "subject": "they",
+            "relation": "do",
+            "object": "that"
+        },
+        {
+            "subject": "generator",
+            "relation": "take",
+            "object": "bits"
+        },
+        {
+            "subject": "networks",
+            "relation": "have",
+            "object": "flexibility"
+        },
+        {
+            "subject": "authors",
+            "relation": "analyze",
+            "object": "ability"
+        },
+        {
+            "subject": "they",
+            "relation": "do",
+            "object": "that"
+        },
+        {
+            "subject": "we",
+            "relation": "simulate",
+            "object": "case"
+        },
+        {
+            "subject": "data",
+            "relation": "have",
+            "object": "access"
+        },
+        {
+            "subject": "One",
+            "relation": "simulate",
+            "object": "process"
+        },
+        {
+            "subject": "we",
+            "relation": "simulate",
+            "object": "case"
+        },
+        {
+            "subject": "data",
+            "relation": "have",
+            "object": "access"
+        },
+        {
+            "subject": "One",
+            "relation": "simulate",
+            "object": "process"
+        },
+        {
+            "subject": "generator",
+            "relation": "reproduce",
+            "object": "statistics"
+        },
+        {
+            "subject": "supremacy",
+            "relation": "prevent",
+            "object": "network"
+        },
+        {
+            "subject": "This",
+            "relation": "include",
+            "object": "networks"
+        },
+        {
+            "subject": "generator",
+            "relation": "reproduce",
+            "object": "statistics"
+        },
+        {
+            "subject": "supremacy",
+            "relation": "prevent",
+            "object": "network"
+        },
+        {
+            "subject": "This",
+            "relation": "include",
+            "object": "networks"
+        },
+        {
+            "subject": "BOTTOMLEFT",
+            "relation": "introduce",
+            "object": "generalization"
+        },
+        {
+            "subject": "we",
+            "relation": "introduce",
+            "object": "generalization"
+        },
+        {
+            "subject": "generator",
+            "relation": "generate",
+            "object": "statistics"
+        },
+        {
+            "subject": "we",
+            "relation": "introduce",
+            "object": "generalization"
+        },
+        {
+            "subject": "generator",
+            "relation": "generate",
+            "object": "statistics"
+        },
+        {
+            "subject": "we",
+            "relation": "introduce",
+            "object": "versions"
+        },
+        {
+            "subject": "networks",
+            "relation": "exhibit",
+            "object": "advantage"
+        },
+        {
+            "subject": "we",
+            "relation": "introduce",
+            "object": "versions"
+        },
+        {
+            "subject": "networks",
+            "relation": "exhibit",
+            "object": "advantage"
+        },
+        {
+            "subject": "BOTTOMLEFT",
+            "relation": "acknowledgment",
+            "object": "ACKNOWLEDGMENTS"
+        },
+        {
+            "subject": "We",
+            "relation": "thank",
+            "object": "Demers"
+        },
+        {
+            "subject": "We",
+            "relation": "thank",
+            "object": "Demers"
+        },
+        {
+            "subject": "Quantum",
+            "relation": "generative",
+            "object": "networks"
+        },
+        {
+            "subject": "Demers",
+            "relation": "generative",
+            "object": "networks"
+        },
+        {
+            "subject": "Quantum",
+            "relation": "generative",
+            "object": "networks"
+        }
+    ]
+}

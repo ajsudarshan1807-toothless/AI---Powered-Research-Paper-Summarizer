@@ -1,0 +1,5683 @@
+{
+    "source_file": "output13.json",
+    "entities": [
+        {
+            "text": "DoclingDocument",
+            "label": "ORG"
+        },
+        {
+            "text": "#/texts/0",
+            "label": "MONEY"
+        },
+        {
+            "text": "#",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/texts/7 #/texts/8 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/12",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/15",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/52",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/91 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/93",
+            "label": "MONEY"
+        },
+        {
+            "text": "#",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/groups/1 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/104",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/109 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/111 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/113 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/118",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/120 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/134",
+            "label": "MONEY"
+        },
+        {
+            "text": "#",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/texts/143 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/groups/4",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/149 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/156",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/189 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/191 #/texts/192 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/texts/210 #/groups/7 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/groups/1",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/96",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/106 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/groups/3 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/groups/4",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/groups/7 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/211 #/texts/212 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "/texts/220",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/0",
+            "label": "MONEY"
+        },
+        {
+            "text": "OLIVER MAJER OLIVER MAJER",
+            "label": "PERSON"
+        },
+        {
+            "text": "#",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Univerza v Ljubljani Fakulteta",
+            "label": "ORG"
+        },
+        {
+            "text": "Univerza v Ljubljani",
+            "label": "ORG"
+        },
+        {
+            "text": "#/texts/3 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "Transformer",
+            "label": "ORG"
+        },
+        {
+            "text": "Transformer",
+            "label": "ORG"
+        },
+        {
+            "text": "Transformer",
+            "label": "ORG"
+        },
+        {
+            "text": "Transformer",
+            "label": "ORG"
+        },
+        {
+            "text": "Transformer",
+            "label": "ORG"
+        },
+        {
+            "text": "ki je",
+            "label": "PERSON"
+        },
+        {
+            "text": "razvoj velikih jezikovnih modelov",
+            "label": "PERSON"
+        },
+        {
+            "text": "Klju\u02c7",
+            "label": "PERSON"
+        },
+        {
+            "text": "ki modelu",
+            "label": "PERSON"
+        },
+        {
+            "text": "cnih dol\u02c7 zin",
+            "label": "PERSON"
+        },
+        {
+            "text": "Pojasnjeno",
+            "label": "ORG"
+        },
+        {
+            "text": "kako",
+            "label": "PERSON"
+        },
+        {
+            "text": "vhodno besedilo",
+            "label": "ORG"
+        },
+        {
+            "text": "kako",
+            "label": "GPE"
+        },
+        {
+            "text": "jezikovnega konteksta",
+            "label": "PERSON"
+        },
+        {
+            "text": "Cilj",
+            "label": "PERSON"
+        },
+        {
+            "text": "skozi poglabljanje",
+            "label": "PERSON"
+        },
+        {
+            "text": "klju\u02c7",
+            "label": "GPE"
+        },
+        {
+            "text": "Transformerja",
+            "label": "ORG"
+        },
+        {
+            "text": "ci bolj\u02c7 se razumevanje",
+            "label": "PERSON"
+        },
+        {
+            "text": "jezikovnih modelov",
+            "label": "PERSON"
+        },
+        {
+            "text": "Transformer",
+            "label": "ORG"
+        },
+        {
+            "text": "ki je",
+            "label": "PERSON"
+        },
+        {
+            "text": "razvoj velikih jezikovnih modelov",
+            "label": "PERSON"
+        },
+        {
+            "text": "Klju\u02c7",
+            "label": "PERSON"
+        },
+        {
+            "text": "ki modelu",
+            "label": "PERSON"
+        },
+        {
+            "text": "cnih dol\u02c7 zin",
+            "label": "PERSON"
+        },
+        {
+            "text": "Pojasnjeno",
+            "label": "ORG"
+        },
+        {
+            "text": "kako",
+            "label": "PERSON"
+        },
+        {
+            "text": "vhodno besedilo",
+            "label": "ORG"
+        },
+        {
+            "text": "kako",
+            "label": "GPE"
+        },
+        {
+            "text": "jezikovnega konteksta",
+            "label": "PERSON"
+        },
+        {
+            "text": "Cilj",
+            "label": "PERSON"
+        },
+        {
+            "text": "skozi poglabljanje",
+            "label": "PERSON"
+        },
+        {
+            "text": "klju\u02c7",
+            "label": "GPE"
+        },
+        {
+            "text": "Transformerja",
+            "label": "ORG"
+        },
+        {
+            "text": "ci bolj\u02c7 se razumevanje",
+            "label": "PERSON"
+        },
+        {
+            "text": "jezikovnih modelov",
+            "label": "PERSON"
+        },
+        {
+            "text": "1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "5",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "recent years",
+            "label": "DATE"
+        },
+        {
+            "text": "Transformer",
+            "label": "ORG"
+        },
+        {
+            "text": "2",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Transformer",
+            "label": "ORG"
+        },
+        {
+            "text": "5",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "recent years",
+            "label": "DATE"
+        },
+        {
+            "text": "Transformer",
+            "label": "ORG"
+        },
+        {
+            "text": "2",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Transformer",
+            "label": "ORG"
+        },
+        {
+            "text": "#/texts/8 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "5",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "three",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "3",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "5",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "three",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "3",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/texts/9 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/10 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/11 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/12 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "half a year",
+            "label": "DATE"
+        },
+        {
+            "text": "LLM",
+            "label": "ORG"
+        },
+        {
+            "text": "LLM",
+            "label": "ORG"
+        },
+        {
+            "text": "Transformer",
+            "label": "ORG"
+        },
+        {
+            "text": "three",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "half a year",
+            "label": "DATE"
+        },
+        {
+            "text": "LLM",
+            "label": "ORG"
+        },
+        {
+            "text": "LLM",
+            "label": "ORG"
+        },
+        {
+            "text": "Transformer",
+            "label": "ORG"
+        },
+        {
+            "text": "three #/texts/13",
+            "label": "MONEY"
+        },
+        {
+            "text": "2025",
+            "label": "DATE"
+        },
+        {
+            "text": "1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "2025",
+            "label": "DATE"
+        },
+        {
+            "text": "1 #/texts/14",
+            "label": "MONEY"
+        },
+        {
+            "text": "1 1 #/texts/15 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "OLIVER MAJER OLIVER MAJER",
+            "label": "PERSON"
+        },
+        {
+            "text": "#/texts/16 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "Chapter 2",
+            "label": "LAW"
+        },
+        {
+            "text": "Chapter 3",
+            "label": "LAW"
+        },
+        {
+            "text": "3",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Chapter 2",
+            "label": "LAW"
+        },
+        {
+            "text": "Chapter 3",
+            "label": "LAW"
+        },
+        {
+            "text": "3",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/texts/17",
+            "label": "MONEY"
+        },
+        {
+            "text": "1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Transformer",
+            "label": "ORG"
+        },
+        {
+            "text": "Vector",
+            "label": "DATE"
+        },
+        {
+            "text": "2",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Transformer",
+            "label": "ORG"
+        },
+        {
+            "text": "Vector",
+            "label": "DATE"
+        },
+        {
+            "text": "2",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "/pictures/0",
+            "label": "PERSON"
+        },
+        {
+            "text": "#/texts/19",
+            "label": "MONEY"
+        },
+        {
+            "text": "/pictures/0",
+            "label": "PERSON"
+        },
+        {
+            "text": "#/texts/20",
+            "label": "MONEY"
+        },
+        {
+            "text": "#",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/texts/21",
+            "label": "MONEY"
+        },
+        {
+            "text": "/pictures/0",
+            "label": "PERSON"
+        },
+        {
+            "text": "Add&Norm Add&Norm",
+            "label": "MONEY"
+        },
+        {
+            "text": "/pictures/0",
+            "label": "PERSON"
+        },
+        {
+            "text": "#/texts/25 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "/pictures/0",
+            "label": "PERSON"
+        },
+        {
+            "text": "#/texts/26",
+            "label": "MONEY"
+        },
+        {
+            "text": "/pictures/0",
+            "label": "PERSON"
+        },
+        {
+            "text": "Add&Norm Add&Norm",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/29",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/30 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "/pictures/0",
+            "label": "PERSON"
+        },
+        {
+            "text": "#/texts/31",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/32",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/34",
+            "label": "MONEY"
+        },
+        {
+            "text": "/pictures/0",
+            "label": "PERSON"
+        },
+        {
+            "text": "/pictures/0",
+            "label": "PERSON"
+        },
+        {
+            "text": "Add&Norm Add&Norm",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/36",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/37",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/38 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "/pictures/0",
+            "label": "PERSON"
+        },
+        {
+            "text": "#/texts/39",
+            "label": "MONEY"
+        },
+        {
+            "text": "/pictures/0",
+            "label": "PERSON"
+        },
+        {
+            "text": "#/texts/41",
+            "label": "MONEY"
+        },
+        {
+            "text": "/pictures/0",
+            "label": "PERSON"
+        },
+        {
+            "text": "#/texts/43",
+            "label": "MONEY"
+        },
+        {
+            "text": "/pictures/0",
+            "label": "PERSON"
+        },
+        {
+            "text": "#/texts/44 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "/pictures/0",
+            "label": "PERSON"
+        },
+        {
+            "text": "#/texts/45",
+            "label": "MONEY"
+        },
+        {
+            "text": "Input Input",
+            "label": "PERSON"
+        },
+        {
+            "text": "#/texts/46",
+            "label": "MONEY"
+        },
+        {
+            "text": "/pictures/0",
+            "label": "PERSON"
+        },
+        {
+            "text": "#/texts/47",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/48",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/49",
+            "label": "MONEY"
+        },
+        {
+            "text": "Inputs Inputs",
+            "label": "ORG"
+        },
+        {
+            "text": "#/texts/50",
+            "label": "MONEY"
+        },
+        {
+            "text": "/pictures/0",
+            "label": "PERSON"
+        },
+        {
+            "text": "sndno sndno #",
+            "label": "ORG"
+        },
+        {
+            "text": "/pictures/0",
+            "label": "PERSON"
+        },
+        {
+            "text": "#/texts/52",
+            "label": "MONEY"
+        },
+        {
+            "text": "2",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "2",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/texts/53 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "LLM",
+            "label": "ORG"
+        },
+        {
+            "text": "6",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "LLM",
+            "label": "ORG"
+        },
+        {
+            "text": "6",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "7",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "7",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/texts/55",
+            "label": "MONEY"
+        },
+        {
+            "text": "8",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "9",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "8",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "9",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/texts/56",
+            "label": "MONEY"
+        },
+        {
+            "text": "2",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "2",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/texts/57",
+            "label": "MONEY"
+        },
+        {
+            "text": "2 2 #/texts/58",
+            "label": "MONEY"
+        },
+        {
+            "text": "2025",
+            "label": "DATE"
+        },
+        {
+            "text": "1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "2025",
+            "label": "DATE"
+        },
+        {
+            "text": "1 #/texts/59",
+            "label": "MONEY"
+        },
+        {
+            "text": "/pictures/1",
+            "label": "NORP"
+        },
+        {
+            "text": "2",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "vector",
+            "label": "DATE"
+        },
+        {
+            "text": "1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "2",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "vector",
+            "label": "DATE"
+        },
+        {
+            "text": "1] #",
+            "label": "MONEY"
+        },
+        {
+            "text": "/pictures/1",
+            "label": "NORP"
+        },
+        {
+            "text": "Italy Italy",
+            "label": "ORG"
+        },
+        {
+            "text": "#/texts/62",
+            "label": "MONEY"
+        },
+        {
+            "text": "/pictures/1",
+            "label": "NORP"
+        },
+        {
+            "text": "Canada",
+            "label": "GPE"
+        },
+        {
+            "text": "Canada",
+            "label": "GPE"
+        },
+        {
+            "text": "#/texts/63",
+            "label": "MONEY"
+        },
+        {
+            "text": "Spain",
+            "label": "GPE"
+        },
+        {
+            "text": "Spain",
+            "label": "GPE"
+        },
+        {
+            "text": "/pictures/1",
+            "label": "NORP"
+        },
+        {
+            "text": "#/texts/66",
+            "label": "MONEY"
+        },
+        {
+            "text": "/pictures/1",
+            "label": "NORP"
+        },
+        {
+            "text": "#/texts/67",
+            "label": "MONEY"
+        },
+        {
+            "text": "/pictures/1",
+            "label": "NORP"
+        },
+        {
+            "text": "Turkey",
+            "label": "GPE"
+        },
+        {
+            "text": "Turkey",
+            "label": "GPE"
+        },
+        {
+            "text": "#/texts/68",
+            "label": "MONEY"
+        },
+        {
+            "text": "/pictures/1",
+            "label": "NORP"
+        },
+        {
+            "text": "Rome Rome",
+            "label": "ORG"
+        },
+        {
+            "text": "#/texts/69",
+            "label": "MONEY"
+        },
+        {
+            "text": "/pictures/1",
+            "label": "NORP"
+        },
+        {
+            "text": "Ottawa Ottawa",
+            "label": "ORG"
+        },
+        {
+            "text": "/pictures/1",
+            "label": "NORP"
+        },
+        {
+            "text": "Madrid Madrid",
+            "label": "ORG"
+        },
+        {
+            "text": "/pictures/1",
+            "label": "NORP"
+        },
+        {
+            "text": "Germany",
+            "label": "GPE"
+        },
+        {
+            "text": "#/texts/72",
+            "label": "MONEY"
+        },
+        {
+            "text": "/pictures/1",
+            "label": "NORP"
+        },
+        {
+            "text": "#/texts/73",
+            "label": "MONEY"
+        },
+        {
+            "text": "/pictures/1",
+            "label": "NORP"
+        },
+        {
+            "text": "/pictures/1",
+            "label": "NORP"
+        },
+        {
+            "text": "Ankara Ankara",
+            "label": "PERSON"
+        },
+        {
+            "text": "#/texts/76",
+            "label": "MONEY"
+        },
+        {
+            "text": "/pictures/1",
+            "label": "NORP"
+        },
+        {
+            "text": "Russia",
+            "label": "GPE"
+        },
+        {
+            "text": "Russia",
+            "label": "GPE"
+        },
+        {
+            "text": "/pictures/1",
+            "label": "NORP"
+        },
+        {
+            "text": "#/texts/78",
+            "label": "MONEY"
+        },
+        {
+            "text": "/pictures/1",
+            "label": "NORP"
+        },
+        {
+            "text": "Berlin Berlin",
+            "label": "FAC"
+        },
+        {
+            "text": "#/texts/79",
+            "label": "MONEY"
+        },
+        {
+            "text": "/pictures/1",
+            "label": "NORP"
+        },
+        {
+            "text": "Moscow",
+            "label": "GPE"
+        },
+        {
+            "text": "Moscow",
+            "label": "GPE"
+        },
+        {
+            "text": "#/texts/80 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "/pictures/1",
+            "label": "NORP"
+        },
+        {
+            "text": "Japan",
+            "label": "GPE"
+        },
+        {
+            "text": "Japan",
+            "label": "GPE"
+        },
+        {
+            "text": "#/texts/81 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "/pictures/1",
+            "label": "NORP"
+        },
+        {
+            "text": "Vietnam Vietnam #",
+            "label": "EVENT"
+        },
+        {
+            "text": "/pictures/1",
+            "label": "NORP"
+        },
+        {
+            "text": "#/texts/83 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "/pictures/1",
+            "label": "NORP"
+        },
+        {
+            "text": "China",
+            "label": "GPE"
+        },
+        {
+            "text": "China",
+            "label": "GPE"
+        },
+        {
+            "text": "/pictures/1",
+            "label": "MONEY"
+        },
+        {
+            "text": "Tokyo Tokyo",
+            "label": "EVENT"
+        },
+        {
+            "text": "/pictures/1",
+            "label": "NORP"
+        },
+        {
+            "text": "Hanoi",
+            "label": "GPE"
+        },
+        {
+            "text": "#/texts/86",
+            "label": "MONEY"
+        },
+        {
+            "text": "/pictures/1",
+            "label": "NORP"
+        },
+        {
+            "text": "Beijing Beijing",
+            "label": "FAC"
+        },
+        {
+            "text": "/pictures/1",
+            "label": "NORP"
+        },
+        {
+            "text": "#/texts/88 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "/pictures/1",
+            "label": "NORP"
+        },
+        {
+            "text": "VerbTense",
+            "label": "ORG"
+        },
+        {
+            "text": "#",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "/pictures/1",
+            "label": "NORP"
+        },
+        {
+            "text": "Country-Capital Country-Capital",
+            "label": "ORG"
+        },
+        {
+            "text": "#/texts/90",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/91 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/92 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "two",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "two",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/texts/93",
+            "label": "MONEY"
+        },
+        {
+            "text": "3",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "3",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/texts/94 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "3.1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "The Need for Contextual",
+            "label": "ORG"
+        },
+        {
+            "text": "3.1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "The Need for Contextual",
+            "label": "ORG"
+        },
+        {
+            "text": "#/texts/95 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "three",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "three",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/texts/96 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "every morning",
+            "label": "TIME"
+        },
+        {
+            "text": "every morning",
+            "label": "TIME"
+        },
+        {
+            "text": "#/texts/97 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "2 days",
+            "label": "DATE"
+        },
+        {
+            "text": "2 days",
+            "label": "DATE"
+        },
+        {
+            "text": "#/texts/98 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "3",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "LLM",
+            "label": "ORG"
+        },
+        {
+            "text": "Transformer",
+            "label": "ORG"
+        },
+        {
+            "text": "3",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "LLM",
+            "label": "ORG"
+        },
+        {
+            "text": "Transformer",
+            "label": "ORG"
+        },
+        {
+            "text": "#/texts/100 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "2025",
+            "label": "DATE"
+        },
+        {
+            "text": "1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "2025",
+            "label": "DATE"
+        },
+        {
+            "text": "1 #/texts/101 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "3 3 #/texts/102 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "OLIVER MAJER OLIVER MAJER",
+            "label": "PERSON"
+        },
+        {
+            "text": "#/texts/103 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "3.2 Structure and Function of the Attention",
+            "label": "EVENT"
+        },
+        {
+            "text": "#/texts/104",
+            "label": "MONEY"
+        },
+        {
+            "text": "2",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "2",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/texts/105",
+            "label": "MONEY"
+        },
+        {
+            "text": "\u20d7",
+            "label": "ORG"
+        },
+        {
+            "text": "1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "\u20d7",
+            "label": "ORG"
+        },
+        {
+            "text": "\u20d7",
+            "label": "ORG"
+        },
+        {
+            "text": "three",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "\u20d7",
+            "label": "ORG"
+        },
+        {
+            "text": "1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "\u20d7",
+            "label": "ORG"
+        },
+        {
+            "text": "\u20d7",
+            "label": "ORG"
+        },
+        {
+            "text": "three",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/texts/106 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "Query",
+            "label": "ORG"
+        },
+        {
+            "text": "\u20d7",
+            "label": "PERSON"
+        },
+        {
+            "text": "Query",
+            "label": "ORG"
+        },
+        {
+            "text": "\u20d7",
+            "label": "PERSON"
+        },
+        {
+            "text": "#/texts/107 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "\u20d7",
+            "label": "PERSON"
+        },
+        {
+            "text": "Key",
+            "label": "ORG"
+        },
+        {
+            "text": "\u20d7",
+            "label": "PERSON"
+        },
+        {
+            "text": "#",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "\u20d7",
+            "label": "PERSON"
+        },
+        {
+            "text": "Value",
+            "label": "ORG"
+        },
+        {
+            "text": "\u20d7",
+            "label": "PERSON"
+        },
+        {
+            "text": "#/texts/109 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "\u20d7",
+            "label": "PERSON"
+        },
+        {
+            "text": "2",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Chapter 4",
+            "label": "LAW"
+        },
+        {
+            "text": "\u20d7",
+            "label": "PERSON"
+        },
+        {
+            "text": "2",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Chapter 4",
+            "label": "LAW"
+        },
+        {
+            "text": "#",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "3.3",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "3.3",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/texts/111 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "Chapter 4",
+            "label": "LAW"
+        },
+        {
+            "text": "Chapter 4",
+            "label": "LAW"
+        },
+        {
+            "text": "3.4",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "3.4",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/texts/113 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "\u20d7",
+            "label": "ORG"
+        },
+        {
+            "text": "\u20d7",
+            "label": "ORG"
+        },
+        {
+            "text": "3",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "\u20d7",
+            "label": "ORG"
+        },
+        {
+            "text": "\u20d7",
+            "label": "ORG"
+        },
+        {
+            "text": "3",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Pure' and 'mathematical'",
+            "label": "WORK_OF_ART"
+        },
+        {
+            "text": "two",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Chapter 4",
+            "label": "LAW"
+        },
+        {
+            "text": "Pure' and 'mathematical'",
+            "label": "WORK_OF_ART"
+        },
+        {
+            "text": "two",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Chapter 4",
+            "label": "LAW"
+        },
+        {
+            "text": "3.5",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "3.5",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "\u20d7",
+            "label": "ORG"
+        },
+        {
+            "text": "\u20d7",
+            "label": "ORG"
+        },
+        {
+            "text": "3",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "\u20d7",
+            "label": "ORG"
+        },
+        {
+            "text": "\u20d7",
+            "label": "ORG"
+        },
+        {
+            "text": "3",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/texts/117 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "\u20d7",
+            "label": "ORG"
+        },
+        {
+            "text": "\u20d7",
+            "label": "PERSON"
+        },
+        {
+            "text": "1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "k \u2113  ",
+            "label": "PERSON"
+        },
+        {
+            "text": "#/texts/118 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "4 4 #/texts/120 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "2025",
+            "label": "DATE"
+        },
+        {
+            "text": "1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "2025",
+            "label": "DATE"
+        },
+        {
+            "text": "1 #/texts/121 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/122 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "\u20d7",
+            "label": "PERSON"
+        },
+        {
+            "text": "\u20d7",
+            "label": "PERSON"
+        },
+        {
+            "text": "\u20d7",
+            "label": "ORG"
+        },
+        {
+            "text": "\u20d7",
+            "label": "ORG"
+        },
+        {
+            "text": "10",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "two",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "zero",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "\u20d7",
+            "label": "PERSON"
+        },
+        {
+            "text": "\u20d7",
+            "label": "PERSON"
+        },
+        {
+            "text": "\u20d7",
+            "label": "ORG"
+        },
+        {
+            "text": "\u20d7",
+            "label": "ORG"
+        },
+        {
+            "text": "10",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "two",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "zero",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/texts/123 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/124 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "3.6",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/texts/125",
+            "label": "MONEY"
+        },
+        {
+            "text": "1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Pure' and 'mathematical'",
+            "label": "WORK_OF_ART"
+        },
+        {
+            "text": "two",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Pure' and 'mathematical'",
+            "label": "WORK_OF_ART"
+        },
+        {
+            "text": "two",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Table 1",
+            "label": "LAW"
+        },
+        {
+            "text": "\u20d7",
+            "label": "ORG"
+        },
+        {
+            "text": "1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "\u20d7",
+            "label": "ORG"
+        },
+        {
+            "text": "2",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Pure' and 'mathematical'",
+            "label": "WORK_OF_ART"
+        },
+        {
+            "text": "\u20d7",
+            "label": "PERSON"
+        },
+        {
+            "text": "3",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "31",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "0.42",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "\u20d7",
+            "label": "PERSON"
+        },
+        {
+            "text": "1 assigns",
+            "label": "QUANTITY"
+        },
+        {
+            "text": "\u20d7",
+            "label": "PERSON"
+        },
+        {
+            "text": "3",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "32",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "0.58",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "\u20d7",
+            "label": "ORG"
+        },
+        {
+            "text": "\u20d7",
+            "label": "PERSON"
+        },
+        {
+            "text": "3",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "two",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Pure' and 'Mathematical'",
+            "label": "WORK_OF_ART"
+        },
+        {
+            "text": "\u20d7",
+            "label": "ORG"
+        },
+        {
+            "text": "1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "0.00",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "\u20d7",
+            "label": "ORG"
+        },
+        {
+            "text": "1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "\u20d7",
+            "label": "ORG"
+        },
+        {
+            "text": "2",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Pure' and 'mathematical'",
+            "label": "WORK_OF_ART"
+        },
+        {
+            "text": "\u20d7",
+            "label": "PERSON"
+        },
+        {
+            "text": "3",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "31",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "0.42",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "\u20d7",
+            "label": "PERSON"
+        },
+        {
+            "text": "1 assigns",
+            "label": "QUANTITY"
+        },
+        {
+            "text": "\u20d7",
+            "label": "PERSON"
+        },
+        {
+            "text": "3",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "32",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "0.58",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "\u20d7",
+            "label": "ORG"
+        },
+        {
+            "text": "\u20d7",
+            "label": "PERSON"
+        },
+        {
+            "text": "3",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "two",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Pure' and 'Mathematical'",
+            "label": "WORK_OF_ART"
+        },
+        {
+            "text": "\u20d7",
+            "label": "ORG"
+        },
+        {
+            "text": "1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "0.00",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Table 1",
+            "label": "LAW"
+        },
+        {
+            "text": "Table 1",
+            "label": "LAW"
+        },
+        {
+            "text": "2025",
+            "label": "DATE"
+        },
+        {
+            "text": "1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "2025",
+            "label": "DATE"
+        },
+        {
+            "text": "1 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "5 5 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "OLIVER MAJER OLIVER MAJER",
+            "label": "PERSON"
+        },
+        {
+            "text": "#/texts/131 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "2",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "3",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "2",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "3",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/texts/132 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/133 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "3.7",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "The Softmax Function 3.7 The Softmax Function",
+            "label": "WORK_OF_ART"
+        },
+        {
+            "text": "\u20d7",
+            "label": "ORG"
+        },
+        {
+            "text": "\u20d7",
+            "label": "ORG"
+        },
+        {
+            "text": "\u20d7",
+            "label": "ORG"
+        },
+        {
+            "text": "\u20d7",
+            "label": "ORG"
+        },
+        {
+            "text": "#/texts/135 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "\u20d7",
+            "label": "ORG"
+        },
+        {
+            "text": "\u20d7",
+            "label": "PERSON"
+        },
+        {
+            "text": "#/texts/137 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "\u20d7",
+            "label": "PERSON"
+        },
+        {
+            "text": "\u20d7",
+            "label": "PERSON"
+        },
+        {
+            "text": "\u20d7",
+            "label": "PERSON"
+        },
+        {
+            "text": "\u20d7",
+            "label": "PERSON"
+        },
+        {
+            "text": "#/texts/139 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "0",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "0",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/texts/140 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/texts/141 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "0",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "0",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "\u20d7",
+            "label": "PERSON"
+        },
+        {
+            "text": "\u20d7",
+            "label": "ORG"
+        },
+        {
+            "text": "1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "\u20d7",
+            "label": "ORG"
+        },
+        {
+            "text": "2",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "\u20d7 z M ) \u2208 R M",
+            "label": "ORG"
+        },
+        {
+            "text": "\u20d7",
+            "label": "ORG"
+        },
+        {
+            "text": "4",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "\u20d7",
+            "label": "PERSON"
+        },
+        {
+            "text": "\u20d7",
+            "label": "ORG"
+        },
+        {
+            "text": "1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "\u20d7",
+            "label": "ORG"
+        },
+        {
+            "text": "2",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "\u20d7 z M ) \u2208 R M",
+            "label": "ORG"
+        },
+        {
+            "text": "\u20d7",
+            "label": "ORG"
+        },
+        {
+            "text": "4",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/texts/143 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "0",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "\u20d7",
+            "label": "ORG"
+        },
+        {
+            "text": "\u20d7",
+            "label": "ORG"
+        },
+        {
+            "text": "1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/texts/144 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/145 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "Table 1",
+            "label": "LAW"
+        },
+        {
+            "text": "\u20d7",
+            "label": "PERSON"
+        },
+        {
+            "text": "7",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "7",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "one",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Table 1",
+            "label": "LAW"
+        },
+        {
+            "text": "\u20d7",
+            "label": "PERSON"
+        },
+        {
+            "text": "7",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "7",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "one",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/texts/146 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "\u20d7",
+            "label": "ORG"
+        },
+        {
+            "text": "0",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "\u20d7",
+            "label": "ORG"
+        },
+        {
+            "text": "\u20d7",
+            "label": "ORG"
+        },
+        {
+            "text": "1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "\u20d7",
+            "label": "ORG"
+        },
+        {
+            "text": "\u20d7",
+            "label": "ORG"
+        },
+        {
+            "text": "0",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "\u20d7",
+            "label": "ORG"
+        },
+        {
+            "text": "\u20d7",
+            "label": "ORG"
+        },
+        {
+            "text": "1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "\u20d7",
+            "label": "ORG"
+        },
+        {
+            "text": "#/texts/147 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "6 6 #/texts/149 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "2025",
+            "label": "DATE"
+        },
+        {
+            "text": "1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "2025",
+            "label": "DATE"
+        },
+        {
+            "text": "1 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "\u03c3",
+            "label": "PERSON"
+        },
+        {
+            "text": "\u20d7",
+            "label": "ORG"
+        },
+        {
+            "text": "\u20d7",
+            "label": "ORG"
+        },
+        {
+            "text": "1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "\u20d7",
+            "label": "ORG"
+        },
+        {
+            "text": "#/texts/153 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/texts/154 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "\u20d7",
+            "label": "ORG"
+        },
+        {
+            "text": "1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Softmax",
+            "label": "PERSON"
+        },
+        {
+            "text": "Softmax",
+            "label": "PERSON"
+        },
+        {
+            "text": "#/texts/156",
+            "label": "MONEY"
+        },
+        {
+            "text": "3.8",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "3.8",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/texts/158 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "\u20d7",
+            "label": "ORG"
+        },
+        {
+            "text": "\u20d7",
+            "label": "ORG"
+        },
+        {
+            "text": "1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "2",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "2",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/texts/160 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "3",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "\u20d7",
+            "label": "PERSON"
+        },
+        {
+            "text": "\u20d7",
+            "label": "PERSON"
+        },
+        {
+            "text": "\u20d7",
+            "label": "PERSON"
+        },
+        {
+            "text": "\u20d7",
+            "label": "PERSON"
+        },
+        {
+            "text": "3. #",
+            "label": "MONEY"
+        },
+        {
+            "text": "\u20d7",
+            "label": "ORG"
+        },
+        {
+            "text": "\u20d7",
+            "label": "PERSON"
+        },
+        {
+            "text": "\u20d7",
+            "label": "ORG"
+        },
+        {
+            "text": "Table 1",
+            "label": "DATE"
+        },
+        {
+            "text": "vector",
+            "label": "DATE"
+        },
+        {
+            "text": "\u20d7",
+            "label": "ORG"
+        },
+        {
+            "text": "\u20d7",
+            "label": "PERSON"
+        },
+        {
+            "text": "\u20d7",
+            "label": "ORG"
+        },
+        {
+            "text": "Table 1",
+            "label": "DATE"
+        },
+        {
+            "text": "vector",
+            "label": "DATE"
+        },
+        {
+            "text": "three",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Query, Key",
+            "label": "ORG"
+        },
+        {
+            "text": "Value",
+            "label": "ORG"
+        },
+        {
+            "text": "3",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "8",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "three",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Query, Key",
+            "label": "ORG"
+        },
+        {
+            "text": "Value",
+            "label": "ORG"
+        },
+        {
+            "text": "3",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "8",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "4",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Query-Key-Value Vectors",
+            "label": "ORG"
+        },
+        {
+            "text": "4",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Query-Key-Value Vectors",
+            "label": "ORG"
+        },
+        {
+            "text": "#/texts/164 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "Chapters",
+            "label": "LANGUAGE"
+        },
+        {
+            "text": "3.4",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "\u20d7",
+            "label": "ORG"
+        },
+        {
+            "text": "\u20d7",
+            "label": "ORG"
+        },
+        {
+            "text": "\u20d7",
+            "label": "ORG"
+        },
+        {
+            "text": "three",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Chapters",
+            "label": "LANGUAGE"
+        },
+        {
+            "text": "3.4",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "\u20d7",
+            "label": "ORG"
+        },
+        {
+            "text": "\u20d7",
+            "label": "ORG"
+        },
+        {
+            "text": "\u20d7",
+            "label": "ORG"
+        },
+        {
+            "text": "three",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/texts/165 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "\u20d7",
+            "label": "ORG"
+        },
+        {
+            "text": "\u20d7",
+            "label": "ORG"
+        },
+        {
+            "text": "\u20d7",
+            "label": "ORG"
+        },
+        {
+            "text": "\u20d7",
+            "label": "PERSON"
+        },
+        {
+            "text": "\u20d7",
+            "label": "PERSON"
+        },
+        {
+            "text": "\u20d7",
+            "label": "PERSON"
+        },
+        {
+            "text": "\u20d7",
+            "label": "PERSON"
+        },
+        {
+            "text": "\u20d7",
+            "label": "PERSON"
+        },
+        {
+            "text": "3",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "\u20d7",
+            "label": "PERSON"
+        },
+        {
+            "text": "\u20d7",
+            "label": "PERSON"
+        },
+        {
+            "text": "\u20d7",
+            "label": "PERSON"
+        },
+        {
+            "text": "\u20d7",
+            "label": "PERSON"
+        },
+        {
+            "text": "3",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "2025",
+            "label": "DATE"
+        },
+        {
+            "text": "1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "2025",
+            "label": "DATE"
+        },
+        {
+            "text": "1 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "7 7 #/texts/171 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "OLIVER MAJER OLIVER MAJER",
+            "label": "PERSON"
+        },
+        {
+            "text": "#/texts/172 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "\u20d7",
+            "label": "ORG"
+        },
+        {
+            "text": "\u20d7",
+            "label": "ORG"
+        },
+        {
+            "text": "\u20d7",
+            "label": "ORG"
+        },
+        {
+            "text": "\u20d7",
+            "label": "ORG"
+        },
+        {
+            "text": "#/texts/173 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "3",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Chapter 3.5",
+            "label": "LAW"
+        },
+        {
+            "text": "3",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Chapter 3.5",
+            "label": "LAW"
+        },
+        {
+            "text": "#/texts/174 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "first",
+            "label": "ORDINAL"
+        },
+        {
+            "text": "3",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "first",
+            "label": "ORDINAL"
+        },
+        {
+            "text": "3",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "3",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Softmax",
+            "label": "PERSON"
+        },
+        {
+            "text": "Q and K",
+            "label": "ORG"
+        },
+        {
+            "text": "Q,K",
+            "label": "ORG"
+        },
+        {
+            "text": "\u20d7",
+            "label": "ORG"
+        },
+        {
+            "text": "\u20d7",
+            "label": "ORG"
+        },
+        {
+            "text": "\u20d7",
+            "label": "ORG"
+        },
+        {
+            "text": "3",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "3",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Softmax",
+            "label": "PERSON"
+        },
+        {
+            "text": "Q and K",
+            "label": "ORG"
+        },
+        {
+            "text": "Q,K",
+            "label": "ORG"
+        },
+        {
+            "text": "\u20d7",
+            "label": "ORG"
+        },
+        {
+            "text": "\u20d7",
+            "label": "ORG"
+        },
+        {
+            "text": "\u20d7",
+            "label": "ORG"
+        },
+        {
+            "text": "3] #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/178 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "T +qX",
+            "label": "PERSON"
+        },
+        {
+            "text": "T +qX",
+            "label": "PRODUCT"
+        },
+        {
+            "text": "#/texts/179 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/181 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/182 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "Keys",
+            "label": "PERSON"
+        },
+        {
+            "text": "Keys",
+            "label": "PERSON"
+        },
+        {
+            "text": "#/texts/186 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/189 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "LLM",
+            "label": "ORG"
+        },
+        {
+            "text": "Firstly",
+            "label": "ORDINAL"
+        },
+        {
+            "text": "LLM",
+            "label": "ORG"
+        },
+        {
+            "text": "Firstly",
+            "label": "ORDINAL"
+        },
+        {
+            "text": "#/texts/191 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/192 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/193 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "8 8 #/texts/194 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "2025",
+            "label": "DATE"
+        },
+        {
+            "text": "1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "2025",
+            "label": "DATE"
+        },
+        {
+            "text": "1 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "5",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "5",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "two",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Transformer",
+            "label": "ORG"
+        },
+        {
+            "text": "1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Transformer",
+            "label": "ORG"
+        },
+        {
+            "text": "encode semantic information",
+            "label": "ORG"
+        },
+        {
+            "text": "two",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Transformer",
+            "label": "ORG"
+        },
+        {
+            "text": "1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Transformer",
+            "label": "ORG"
+        },
+        {
+            "text": "encode semantic information",
+            "label": "ORG"
+        },
+        {
+            "text": "#/texts/199 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "Query",
+            "label": "PERSON"
+        },
+        {
+            "text": "Transformer",
+            "label": "ORG"
+        },
+        {
+            "text": "11",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Query",
+            "label": "PERSON"
+        },
+        {
+            "text": "Transformer",
+            "label": "ORG"
+        },
+        {
+            "text": "11",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/texts/200 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "John",
+            "label": "PERSON"
+        },
+        {
+            "text": "John",
+            "label": "PERSON"
+        },
+        {
+            "text": "Two",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "3",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "John",
+            "label": "PERSON"
+        },
+        {
+            "text": "John",
+            "label": "PERSON"
+        },
+        {
+            "text": "Two",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "3",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Attention",
+            "label": "ORG"
+        },
+        {
+            "text": "Attention",
+            "label": "ORG"
+        },
+        {
+            "text": "#/texts/202 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/203",
+            "label": "MONEY"
+        },
+        {
+            "text": "\u221a d k",
+            "label": "PERSON"
+        },
+        {
+            "text": "2",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "\u221a d k",
+            "label": "PERSON"
+        },
+        {
+            "text": "2",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/texts/204 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "Ljup\u02c7",
+            "label": "PERSON"
+        },
+        {
+            "text": "Grant Sanderson",
+            "label": "PERSON"
+        },
+        {
+            "text": "YouTube",
+            "label": "ORG"
+        },
+        {
+            "text": "3Blue1Brown",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Ljup\u02c7",
+            "label": "PERSON"
+        },
+        {
+            "text": "Grant Sanderson",
+            "label": "PERSON"
+        },
+        {
+            "text": "YouTube",
+            "label": "ORG"
+        },
+        {
+            "text": "3Blue1Brown",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/texts/205 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/206 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "2023",
+            "label": "DATE"
+        },
+        {
+            "text": "2",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "2025",
+            "label": "DATE"
+        },
+        {
+            "text": "1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "2023",
+            "label": "DATE"
+        },
+        {
+            "text": "2",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "2025",
+            "label": "DATE"
+        },
+        {
+            "text": "2",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "N. Shazeer",
+            "label": "PERSON"
+        },
+        {
+            "text": "N. Parmar",
+            "label": "PERSON"
+        },
+        {
+            "text": "J. Uszkoreit",
+            "label": "PERSON"
+        },
+        {
+            "text": "L. Jones",
+            "label": "PERSON"
+        },
+        {
+            "text": "A. N. G",
+            "label": "PERSON"
+        },
+        {
+            "text": "L. Kaiser",
+            "label": "PERSON"
+        },
+        {
+            "text": "I. Polosukhin",
+            "label": "ORG"
+        },
+        {
+            "text": "2017",
+            "label": "DATE"
+        },
+        {
+            "text": "2",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "2025",
+            "label": "DATE"
+        },
+        {
+            "text": "2",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "N. Shazeer",
+            "label": "PERSON"
+        },
+        {
+            "text": "N. Parmar",
+            "label": "PERSON"
+        },
+        {
+            "text": "J. Uszkoreit",
+            "label": "PERSON"
+        },
+        {
+            "text": "L. Jones",
+            "label": "PERSON"
+        },
+        {
+            "text": "A. N. G",
+            "label": "PERSON"
+        },
+        {
+            "text": "L. Kaiser",
+            "label": "PERSON"
+        },
+        {
+            "text": "I. Polosukhin",
+            "label": "ORG"
+        },
+        {
+            "text": "2017",
+            "label": "DATE"
+        },
+        {
+            "text": "2",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "2025",
+            "label": "DATE"
+        },
+        {
+            "text": "2025",
+            "label": "DATE"
+        },
+        {
+            "text": "1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "2025",
+            "label": "DATE"
+        },
+        {
+            "text": "1 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "9 9 #/texts/210 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "OLIVER MAJER OLIVER MAJER",
+            "label": "PERSON"
+        },
+        {
+            "text": "#/texts/211 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "3",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Deep Learning",
+            "label": "PERSON"
+        },
+        {
+            "text": "Cambridge",
+            "label": "GPE"
+        },
+        {
+            "text": "MA: MIT Press",
+            "label": "ORG"
+        },
+        {
+            "text": "2024",
+            "label": "DATE"
+        },
+        {
+            "text": "2",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "2025",
+            "label": "DATE"
+        },
+        {
+            "text": "S. J. D. Prince",
+            "label": "PERSON"
+        },
+        {
+            "text": "Deep Learning",
+            "label": "PERSON"
+        },
+        {
+            "text": "Cambridge",
+            "label": "GPE"
+        },
+        {
+            "text": "MA: MIT Press",
+            "label": "ORG"
+        },
+        {
+            "text": "2024",
+            "label": "DATE"
+        },
+        {
+            "text": "2",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "3] #",
+            "label": "MONEY"
+        },
+        {
+            "text": "4",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Wikipedia: The Free Encyclopedia",
+            "label": "ORG"
+        },
+        {
+            "text": "2",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "2025",
+            "label": "DATE"
+        },
+        {
+            "text": "Wikipedia: The Free Encyclopedia",
+            "label": "ORG"
+        },
+        {
+            "text": "2",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "4] #",
+            "label": "MONEY"
+        },
+        {
+            "text": "5",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Wikipedia: The Free Encyclopedia",
+            "label": "ORG"
+        },
+        {
+            "text": "2",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "2025",
+            "label": "DATE"
+        },
+        {
+            "text": "Wikipedia: The Free Encyclopedia",
+            "label": "ORG"
+        },
+        {
+            "text": "2",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "5",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "/groups/7",
+            "label": "PERSON"
+        },
+        {
+            "text": "6",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "L. A. Mullen",
+            "label": "PERSON"
+        },
+        {
+            "text": "K. Benoit",
+            "label": "PERSON"
+        },
+        {
+            "text": "O. Keyes",
+            "label": "PERSON"
+        },
+        {
+            "text": "D.",
+            "label": "NORP"
+        },
+        {
+            "text": "J. Arnold",
+            "label": "PERSON"
+        },
+        {
+            "text": "The Journal of Open Source Software",
+            "label": "ORG"
+        },
+        {
+            "text": "3(23",
+            "label": "ORG"
+        },
+        {
+            "text": "655",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "10.21105",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "L. A. Mullen",
+            "label": "PERSON"
+        },
+        {
+            "text": "K. Benoit",
+            "label": "PERSON"
+        },
+        {
+            "text": "O. Keyes",
+            "label": "PERSON"
+        },
+        {
+            "text": "D.",
+            "label": "NORP"
+        },
+        {
+            "text": "J. Arnold",
+            "label": "PERSON"
+        },
+        {
+            "text": "The Journal of Open Source Software",
+            "label": "ORG"
+        },
+        {
+            "text": "3(23",
+            "label": "ORG"
+        },
+        {
+            "text": "655",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "10.21105",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "6] #",
+            "label": "MONEY"
+        },
+        {
+            "text": "/groups/7",
+            "label": "PERSON"
+        },
+        {
+            "text": "7",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "One",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Token",
+            "label": "ORG"
+        },
+        {
+            "text": "Singapore",
+            "label": "GPE"
+        },
+        {
+            "text": "Singapore",
+            "label": "GPE"
+        },
+        {
+            "text": "2023",
+            "label": "DATE"
+        },
+        {
+            "text": "498",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "https",
+            "label": "PERSON"
+        },
+        {
+            "text": "2",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "2025",
+            "label": "DATE"
+        },
+        {
+            "text": "M. Dehouck",
+            "label": "PERSON"
+        },
+        {
+            "text": "One",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Token",
+            "label": "ORG"
+        },
+        {
+            "text": "Singapore",
+            "label": "GPE"
+        },
+        {
+            "text": "Singapore",
+            "label": "GPE"
+        },
+        {
+            "text": "2023",
+            "label": "DATE"
+        },
+        {
+            "text": "498",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "https",
+            "label": "PERSON"
+        },
+        {
+            "text": "2",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "7] #",
+            "label": "MONEY"
+        },
+        {
+            "text": "/groups/7",
+            "label": "PERSON"
+        },
+        {
+            "text": "8",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Lausanne",
+            "label": "GPE"
+        },
+        {
+            "text": "Switzerland",
+            "label": "GPE"
+        },
+        {
+            "text": "2016",
+            "label": "DATE"
+        },
+        {
+            "text": "81cb",
+            "label": "ORDINAL"
+        },
+        {
+            "text": "2",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "2025",
+            "label": "DATE"
+        },
+        {
+            "text": "R. P. Lebret",
+            "label": "PERSON"
+        },
+        {
+            "text": "Lausanne",
+            "label": "GPE"
+        },
+        {
+            "text": "Switzerland",
+            "label": "GPE"
+        },
+        {
+            "text": "2016",
+            "label": "DATE"
+        },
+        {
+            "text": "81cb",
+            "label": "ORDINAL"
+        },
+        {
+            "text": "2",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "8] #",
+            "label": "MONEY"
+        },
+        {
+            "text": "9",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "J. H. Martin",
+            "label": "PERSON"
+        },
+        {
+            "text": "Vector Semantics & Embeddings",
+            "label": "ORG"
+        },
+        {
+            "text": "Stanford University",
+            "label": "ORG"
+        },
+        {
+            "text": "2024",
+            "label": "DATE"
+        },
+        {
+            "text": "2",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "2025",
+            "label": "DATE"
+        },
+        {
+            "text": "D. Jurafsky",
+            "label": "PERSON"
+        },
+        {
+            "text": "J. H. Martin",
+            "label": "PERSON"
+        },
+        {
+            "text": "Vector Semantics & Embeddings",
+            "label": "ORG"
+        },
+        {
+            "text": "Stanford University",
+            "label": "ORG"
+        },
+        {
+            "text": "2024",
+            "label": "DATE"
+        },
+        {
+            "text": "2",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "9] #",
+            "label": "MONEY"
+        },
+        {
+            "text": "/groups/7",
+            "label": "PERSON"
+        },
+        {
+            "text": "10",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Wikipedia: The Free Encyclopedia",
+            "label": "ORG"
+        },
+        {
+            "text": "2",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "2025",
+            "label": "DATE"
+        },
+        {
+            "text": "Wikipedia: The Free Encyclopedia",
+            "label": "ORG"
+        },
+        {
+            "text": "2",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "10] #",
+            "label": "MONEY"
+        },
+        {
+            "text": "/groups/7",
+            "label": "PERSON"
+        },
+        {
+            "text": "11",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Z. Zheng",
+            "label": "PERSON"
+        },
+        {
+            "text": "H. Liang",
+            "label": "PERSON"
+        },
+        {
+            "text": "V. Sn",
+            "label": "PERSON"
+        },
+        {
+            "text": "V. Latora",
+            "label": "PERSON"
+        },
+        {
+            "text": "P. Pardalos",
+            "label": "PERSON"
+        },
+        {
+            "text": "G. Nicosia",
+            "label": "PERSON"
+        },
+        {
+            "text": "V. Ojha",
+            "label": "PERSON"
+        },
+        {
+            "text": "Optimal",
+            "label": "NORP"
+        },
+        {
+            "text": "31st",
+            "label": "ORDINAL"
+        },
+        {
+            "text": "2",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "2025",
+            "label": "DATE"
+        },
+        {
+            "text": "Z. Zheng",
+            "label": "PERSON"
+        },
+        {
+            "text": "H. Liang",
+            "label": "PERSON"
+        },
+        {
+            "text": "V. Sn",
+            "label": "PERSON"
+        },
+        {
+            "text": "V. Latora",
+            "label": "PERSON"
+        },
+        {
+            "text": "P. Pardalos",
+            "label": "PERSON"
+        },
+        {
+            "text": "G. Nicosia",
+            "label": "PERSON"
+        },
+        {
+            "text": "V. Ojha",
+            "label": "PERSON"
+        },
+        {
+            "text": "Optimal",
+            "label": "NORP"
+        },
+        {
+            "text": "31st",
+            "label": "ORDINAL"
+        },
+        {
+            "text": "2",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "11] #/texts/220 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "12",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "OpenAI",
+            "label": "GPE"
+        },
+        {
+            "text": "Language Model",
+            "label": "PERSON"
+        },
+        {
+            "text": "between December 2024",
+            "label": "DATE"
+        },
+        {
+            "text": "April 2025",
+            "label": "DATE"
+        },
+        {
+            "text": "Language Model",
+            "label": "PERSON"
+        },
+        {
+            "text": "between December 2024",
+            "label": "DATE"
+        },
+        {
+            "text": "April 2025",
+            "label": "DATE"
+        },
+        {
+            "text": "12",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "10 10 #",
+            "label": "DATE"
+        },
+        {
+            "text": "2025",
+            "label": "DATE"
+        },
+        {
+            "text": "1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "2025",
+            "label": "DATE"
+        },
+        {
+            "text": "1 #/pictures/0 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/21 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/24",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/36",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/45",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/47 #/texts/48",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/49 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/pictures/1 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/62",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/63",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/66",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/81",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/83",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/pictures/2 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/178 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/181 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/183 #/texts/184 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/tables/0 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "TOPLEFT       Key         TOPLEFT       ",
+            "label": "PRODUCT"
+        },
+        {
+            "text": "1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "mathematical         TOPLEFT",
+            "label": "PRODUCT"
+        },
+        {
+            "text": "\u20d7",
+            "label": "ORG"
+        },
+        {
+            "text": "2",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "\u20d7",
+            "label": "ORG"
+        },
+        {
+            "text": "3",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "\u20d7",
+            "label": "ORG"
+        },
+        {
+            "text": "4",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "\u20d7",
+            "label": "ORG"
+        },
+        {
+            "text": "5",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "\u20d7",
+            "label": "ORG"
+        },
+        {
+            "text": "6",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "\u20d7",
+            "label": "ORG"
+        },
+        {
+            "text": "7",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "1         TOPLEFT",
+            "label": "PRODUCT"
+        },
+        {
+            "text": "1.00",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "0.00",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "0.42",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "0.10",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "0.00",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "0.00",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "0.00",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "\u20d7",
+            "label": "PERSON"
+        },
+        {
+            "text": "2         TOPLEFT       ",
+            "label": "PRODUCT"
+        },
+        {
+            "text": "0.00",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "1.00",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "0.58",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "0.10",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "0.00",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "0.00",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "0.00",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "\u20d7",
+            "label": "ORG"
+        },
+        {
+            "text": "3",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "0.00",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "0.00",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "0.00",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "0.80",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "0.00",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "0.20",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "0.10",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "\u20d7",
+            "label": "ORG"
+        },
+        {
+            "text": "4         TOPLEFT       ",
+            "label": "PRODUCT"
+        },
+        {
+            "text": "0.00",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "0.00",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "0.00",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "0.00",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "0.90",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "0.25",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "0.01",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "\u20d7",
+            "label": "ORG"
+        },
+        {
+            "text": "5",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "0.00",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "0.00",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "0.00",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "0.00",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "0.10",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "0.55",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "0.29",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "\u20d7",
+            "label": "ORG"
+        },
+        {
+            "text": "6",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "0.00",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "0.00",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "0.00",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "0.00",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "0.00",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "0.00",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "0.60",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "\u20d7",
+            "label": "ORG"
+        },
+        {
+            "text": "7         TOPLEFT       ",
+            "label": "PRODUCT"
+        },
+        {
+            "text": "0.00",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "0.00",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "0.00",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "0.00",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "0.00",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "0.00",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "0.00",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "\u20d7",
+            "label": "ORG"
+        },
+        {
+            "text": "2",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "mathematical         TOPLEFT       ",
+            "label": "PRODUCT"
+        },
+        {
+            "text": "\u20d7",
+            "label": "ORG"
+        },
+        {
+            "text": "3",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "\u20d7",
+            "label": "ORG"
+        },
+        {
+            "text": "4",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "\u20d7",
+            "label": "ORG"
+        },
+        {
+            "text": "5",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "\u20d7",
+            "label": "ORG"
+        },
+        {
+            "text": "6",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "\u20d7",
+            "label": "ORG"
+        },
+        {
+            "text": "7",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "1         TOPLEFT",
+            "label": "PRODUCT"
+        },
+        {
+            "text": "1.00",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "0.00",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "0.42",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "0.10",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "0.00",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "0.00",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "0.00",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "\u20d7",
+            "label": "PERSON"
+        },
+        {
+            "text": "2         TOPLEFT       ",
+            "label": "PRODUCT"
+        },
+        {
+            "text": "0.00",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "1.00",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "0.58",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "0.10",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "0.00",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "0.00",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "0.00",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "\u20d7",
+            "label": "ORG"
+        },
+        {
+            "text": "3",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "0.00",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "0.00",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "0.00",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "0.80",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "0.00",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "0.20",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "0.10",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "\u20d7",
+            "label": "ORG"
+        },
+        {
+            "text": "4         TOPLEFT       ",
+            "label": "PRODUCT"
+        },
+        {
+            "text": "0.00",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "0.00",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "0.00",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "0.00",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "0.90",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "0.25",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "0.01",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "\u20d7",
+            "label": "ORG"
+        },
+        {
+            "text": "5",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "0.00",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "0.00",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "0.00",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "0.00",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "0.10",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "0.55",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "0.29",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "\u20d7",
+            "label": "ORG"
+        },
+        {
+            "text": "6",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "0.00",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "0.00",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "0.00",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "0.00",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "0.00",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "0.00",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "0.60",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "\u20d7",
+            "label": "ORG"
+        },
+        {
+            "text": "7         TOPLEFT       ",
+            "label": "PRODUCT"
+        },
+        {
+            "text": "0.00",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "0.00",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "0.00",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "0.00",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "0.00",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "0.00",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "0.00",
+            "label": "CARDINAL"
+        }
+    ],
+    "triples": [
+        {
+            "subject": "article",
+            "relation": "present",
+            "object": "architecture"
+        },
+        {
+            "subject": "that",
+            "relation": "drive",
+            "object": "development"
+        },
+        {
+            "subject": "model",
+            "relation": "process",
+            "object": "sequences"
+        },
+        {
+            "subject": "article",
+            "relation": "highlight",
+            "object": "influence"
+        },
+        {
+            "subject": "article",
+            "relation": "present",
+            "object": "architecture"
+        },
+        {
+            "subject": "that",
+            "relation": "drive",
+            "object": "development"
+        },
+        {
+            "subject": "model",
+            "relation": "process",
+            "object": "sequences"
+        },
+        {
+            "subject": "article",
+            "relation": "highlight",
+            "object": "influence"
+        },
+        {
+            "subject": "omogo\u02c7",
+            "relation": "obdelavo",
+            "object": "zin"
+        },
+        {
+            "subject": "tudi",
+            "relation": "besedilo",
+            "object": "pretvori"
+        },
+        {
+            "subject": "tudi",
+            "relation": "besedilo",
+            "object": "tak\u02c7"
+        },
+        {
+            "subject": "spodbudil",
+            "relation": "razvoj",
+            "object": "modelov"
+        },
+        {
+            "subject": "omogo\u02c7",
+            "relation": "obdelavo",
+            "object": "zin"
+        },
+        {
+            "subject": "tudi",
+            "relation": "besedilo",
+            "object": "pretvori"
+        },
+        {
+            "subject": "tudi",
+            "relation": "besedilo",
+            "object": "tak\u02c7"
+        },
+        {
+            "subject": "models",
+            "relation": "capture",
+            "object": "attention"
+        },
+        {
+            "subject": "models",
+            "relation": "capture",
+            "object": "attention"
+        },
+        {
+            "subject": "development",
+            "relation": "face",
+            "object": "challenges"
+        },
+        {
+            "subject": "development",
+            "relation": "face",
+            "object": "challenges"
+        },
+        {
+            "subject": "development",
+            "relation": "face",
+            "object": "capacity"
+        },
+        {
+            "subject": "development",
+            "relation": "face",
+            "object": "/texts/11"
+        },
+        {
+            "subject": "BOTTOMLEFT",
+            "relation": "consider",
+            "object": "passage"
+        },
+        {
+            "subject": "they",
+            "relation": "expect",
+            "object": "recession"
+        },
+        {
+            "subject": "that",
+            "relation": "facilitate",
+            "object": "tasks"
+        },
+        {
+            "subject": "LLM",
+            "relation": "understand",
+            "object": "influences"
+        },
+        {
+            "subject": "they",
+            "relation": "refer",
+            "object": "word"
+        },
+        {
+            "subject": "that",
+            "relation": "shape",
+            "object": "meaning"
+        },
+        {
+            "subject": "challenges",
+            "relation": "form",
+            "object": "motivation"
+        },
+        {
+            "subject": "solution",
+            "relation": "consider",
+            "object": "passage"
+        },
+        {
+            "subject": "they",
+            "relation": "expect",
+            "object": "recession"
+        },
+        {
+            "subject": "that",
+            "relation": "facilitate",
+            "object": "tasks"
+        },
+        {
+            "subject": "LLM",
+            "relation": "understand",
+            "object": "influences"
+        },
+        {
+            "subject": "they",
+            "relation": "refer",
+            "object": "word"
+        },
+        {
+            "subject": "that",
+            "relation": "shape",
+            "object": "meaning"
+        },
+        {
+            "subject": "challenges",
+            "relation": "form",
+            "object": "motivation"
+        },
+        {
+            "subject": "we",
+            "relation": "examine",
+            "object": "embeddings"
+        },
+        {
+            "subject": "we",
+            "relation": "examine",
+            "object": "embeddings"
+        },
+        {
+            "subject": "I",
+            "relation": "love",
+            "object": "math"
+        },
+        {
+            "subject": "I",
+            "relation": "love",
+            "object": "math"
+        },
+        {
+            "subject": "computer",
+            "relation": "perform",
+            "object": "computations"
+        },
+        {
+            "subject": "computer",
+            "relation": "perform",
+            "object": "computations"
+        },
+        {
+            "subject": "direction",
+            "relation": "represent",
+            "object": "expression"
+        },
+        {
+            "subject": "token",
+            "relation": "convey",
+            "object": "sense"
+        },
+        {
+            "subject": "direction",
+            "relation": "encode",
+            "object": "formality"
+        },
+        {
+            "subject": "value",
+            "relation": "indicate",
+            "object": "degree"
+        },
+        {
+            "subject": "model",
+            "relation": "encode",
+            "object": "properties"
+        },
+        {
+            "subject": "embedding",
+            "relation": "position",
+            "object": "football"
+        },
+        {
+            "subject": "direction",
+            "relation": "represent",
+            "object": "expression"
+        },
+        {
+            "subject": "token",
+            "relation": "convey",
+            "object": "sense"
+        },
+        {
+            "subject": "direction",
+            "relation": "encode",
+            "object": "formality"
+        },
+        {
+            "subject": "value",
+            "relation": "indicate",
+            "object": "degree"
+        },
+        {
+            "subject": "model",
+            "relation": "encode",
+            "object": "properties"
+        },
+        {
+            "subject": "embedding",
+            "relation": "position",
+            "object": "football"
+        },
+        {
+            "subject": "Figure",
+            "relation": "provide",
+            "object": "intuition"
+        },
+        {
+            "subject": "embeddings",
+            "relation": "capture",
+            "object": "relationships"
+        },
+        {
+            "subject": "Figure",
+            "relation": "provide",
+            "object": "intuition"
+        },
+        {
+            "subject": "embeddings",
+            "relation": "capture",
+            "object": "relationships"
+        },
+        {
+            "subject": "embeddings",
+            "relation": "capture",
+            "object": "relationships"
+        },
+        {
+            "subject": "embeddings",
+            "relation": "capture",
+            "object": "relationships"
+        },
+        {
+            "subject": "BOTTOMLEFT",
+            "relation": "walk",
+            "object": "/pictures/1"
+        },
+        {
+            "subject": "dot",
+            "relation": "represent",
+            "object": "man"
+        },
+        {
+            "subject": "dot",
+            "relation": "represent",
+            "object": "woman"
+        },
+        {
+            "subject": "dot",
+            "relation": "represent",
+            "object": "man"
+        },
+        {
+            "subject": "dot",
+            "relation": "represent",
+            "object": "woman"
+        },
+        {
+            "subject": "relationship",
+            "relation": "express",
+            "object": "king"
+        },
+        {
+            "subject": "example",
+            "relation": "demonstrate",
+            "object": "directions"
+        },
+        {
+            "subject": "difference",
+            "relation": "encode",
+            "object": "transition"
+        },
+        {
+            "subject": "example",
+            "relation": "demonstrate",
+            "object": "directions"
+        },
+        {
+            "subject": "difference",
+            "relation": "encode",
+            "object": "transition"
+        },
+        {
+            "subject": "Motivation",
+            "relation": "encapsulate",
+            "object": "meaning"
+        },
+        {
+            "subject": "vectors",
+            "relation": "encapsulate",
+            "object": "meaning"
+        },
+        {
+            "subject": "vectors",
+            "relation": "encapsulate",
+            "object": "meaning"
+        },
+        {
+            "subject": "I",
+            "relation": "run",
+            "object": "BOTTOMLEFT"
+        },
+        {
+            "subject": "machine",
+            "relation": "run",
+            "object": "BOTTOMLEFT"
+        },
+        {
+            "subject": "word",
+            "relation": "have",
+            "object": "meanings"
+        },
+        {
+            "subject": "This",
+            "relation": "raise",
+            "object": "question"
+        },
+        {
+            "subject": "architecture",
+            "relation": "grasp",
+            "object": "meaning"
+        },
+        {
+            "subject": "word",
+            "relation": "have",
+            "object": "meanings"
+        },
+        {
+            "subject": "This",
+            "relation": "raise",
+            "object": "question"
+        },
+        {
+            "subject": "architecture",
+            "relation": "grasp",
+            "object": "meaning"
+        },
+        {
+            "subject": "each",
+            "relation": "token",
+            "object": "attention"
+        },
+        {
+            "subject": "each",
+            "relation": "token",
+            "object": "attention"
+        },
+        {
+            "subject": "BOTTOMLEFT",
+            "relation": "consider",
+            "object": "mechanism"
+        },
+        {
+            "subject": "that",
+            "relation": "take",
+            "object": "vectors"
+        },
+        {
+            "subject": "mechanism",
+            "relation": "compute",
+            "object": "vectors"
+        },
+        {
+            "subject": "that",
+            "relation": "take",
+            "object": "vectors"
+        },
+        {
+            "subject": "mechanism",
+            "relation": "compute",
+            "object": "vectors"
+        },
+        {
+            "subject": "this",
+            "relation": "consider",
+            "object": "sentence"
+        },
+        {
+            "subject": "objects",
+            "relation": "query",
+            "object": "sentence"
+        },
+        {
+            "subject": "that",
+            "relation": "describe",
+            "object": "it"
+        },
+        {
+            "subject": "this",
+            "relation": "consider",
+            "object": "sentence"
+        },
+        {
+            "subject": "objects",
+            "relation": "query",
+            "object": "sentence"
+        },
+        {
+            "subject": "that",
+            "relation": "describe",
+            "object": "it"
+        },
+        {
+            "subject": "i",
+            "relation": "represent",
+            "object": "poses"
+        },
+        {
+            "subject": "i",
+            "relation": "represent",
+            "object": "poses"
+        },
+        {
+            "subject": "us",
+            "relation": "revisit",
+            "object": "sentence"
+        },
+        {
+            "subject": "objects",
+            "relation": "pose",
+            "object": "query"
+        },
+        {
+            "subject": "This",
+            "relation": "enable",
+            "object": "mechanism"
+        },
+        {
+            "subject": "us",
+            "relation": "revisit",
+            "object": "sentence"
+        },
+        {
+            "subject": "objects",
+            "relation": "pose",
+            "object": "query"
+        },
+        {
+            "subject": "This",
+            "relation": "enable",
+            "object": "mechanism"
+        },
+        {
+            "subject": "vectors",
+            "relation": "vector",
+            "object": "q"
+        },
+        {
+            "subject": "scores",
+            "relation": "measure",
+            "object": "relevance"
+        },
+        {
+            "subject": "scores",
+            "relation": "measure",
+            "object": "relevance"
+        },
+        {
+            "subject": "tokens",
+            "relation": "have",
+            "object": "meanings"
+        },
+        {
+            "subject": "tokens",
+            "relation": "have",
+            "object": "meanings"
+        },
+        {
+            "subject": "these",
+            "relation": "feature",
+            "object": "align"
+        },
+        {
+            "subject": "ij",
+            "relation": "represent",
+            "object": "score"
+        },
+        {
+            "subject": "j",
+            "relation": "pay",
+            "object": "attention"
+        },
+        {
+            "subject": "these",
+            "relation": "feature",
+            "object": "align"
+        },
+        {
+            "subject": "ij",
+            "relation": "represent",
+            "object": "score"
+        },
+        {
+            "subject": "j",
+            "relation": "pay",
+            "object": "attention"
+        },
+        {
+            "subject": "objects",
+            "relation": "pose",
+            "object": "query"
+        },
+        {
+            "subject": "objects",
+            "relation": "pose",
+            "object": "query"
+        },
+        {
+            "subject": "Table",
+            "relation": "provide",
+            "object": "illustration"
+        },
+        {
+            "subject": "score",
+            "relation": "reflect",
+            "object": "relevance"
+        },
+        {
+            "subject": "vectors",
+            "relation": "evaluate",
+            "object": "relevance"
+        },
+        {
+            "subject": "vector",
+            "relation": "assign",
+            "object": "attention"
+        },
+        {
+            "subject": "vector",
+            "relation": "assign",
+            "object": "3"
+        },
+        {
+            "subject": "k",
+            "relation": "assign",
+            "object": "attention"
+        },
+        {
+            "subject": "scores",
+            "relation": "highlight",
+            "object": "relevance"
+        },
+        {
+            "subject": "tokens",
+            "relation": "produce",
+            "object": "scores"
+        },
+        {
+            "subject": "distinction",
+            "relation": "confirm",
+            "object": "relationship"
+        },
+        {
+            "subject": "Table",
+            "relation": "provide",
+            "object": "illustration"
+        },
+        {
+            "subject": "score",
+            "relation": "reflect",
+            "object": "relevance"
+        },
+        {
+            "subject": "vectors",
+            "relation": "evaluate",
+            "object": "relevance"
+        },
+        {
+            "subject": "vector",
+            "relation": "assign",
+            "object": "attention"
+        },
+        {
+            "subject": "vector",
+            "relation": "assign",
+            "object": "3"
+        },
+        {
+            "subject": "k",
+            "relation": "assign",
+            "object": "attention"
+        },
+        {
+            "subject": "scores",
+            "relation": "highlight",
+            "object": "relevance"
+        },
+        {
+            "subject": "tokens",
+            "relation": "produce",
+            "object": "scores"
+        },
+        {
+            "subject": "distinction",
+            "relation": "confirm",
+            "object": "relationship"
+        },
+        {
+            "subject": "BOTTOMLEFT",
+            "relation": "highlight",
+            "object": "limitation"
+        },
+        {
+            "subject": "mechanism",
+            "relation": "involve",
+            "object": "off"
+        },
+        {
+            "subject": "mechanism",
+            "relation": "involve",
+            "object": "off"
+        },
+        {
+            "subject": "mechanism",
+            "relation": "produce",
+            "object": "scores"
+        },
+        {
+            "subject": "variability",
+            "relation": "present",
+            "object": "challenge"
+        },
+        {
+            "subject": "they",
+            "relation": "form",
+            "object": "distribution"
+        },
+        {
+            "subject": "mechanism",
+            "relation": "produce",
+            "object": "scores"
+        },
+        {
+            "subject": "variability",
+            "relation": "present",
+            "object": "challenge"
+        },
+        {
+            "subject": "they",
+            "relation": "form",
+            "object": "distribution"
+        },
+        {
+            "subject": "BOTTOMLEFT",
+            "relation": "convert",
+            "object": "scores"
+        },
+        {
+            "subject": "weights",
+            "relation": "represent",
+            "object": "vector"
+        },
+        {
+            "subject": "weights",
+            "relation": "represent",
+            "object": "attends"
+        },
+        {
+            "subject": "\u03b1",
+            "relation": "represent",
+            "object": "vector"
+        },
+        {
+            "subject": "\u03b1",
+            "relation": "represent",
+            "object": "attends"
+        },
+        {
+            "subject": "weights",
+            "relation": "represent",
+            "object": "vector"
+        },
+        {
+            "subject": "weights",
+            "relation": "represent",
+            "object": "attends"
+        },
+        {
+            "subject": "\u03b1",
+            "relation": "represent",
+            "object": "vector"
+        },
+        {
+            "subject": "\u03b1",
+            "relation": "represent",
+            "object": "attends"
+        },
+        {
+            "subject": "that",
+            "relation": "map",
+            "object": "set"
+        },
+        {
+            "subject": "sum",
+            "relation": "equal",
+            "object": "1"
+        },
+        {
+            "subject": "that",
+            "relation": "map",
+            "object": "set"
+        },
+        {
+            "subject": "sum",
+            "relation": "equal",
+            "object": "1"
+        },
+        {
+            "subject": "BOTTOMLEFT",
+            "relation": "take",
+            "object": "vector"
+        },
+        {
+            "subject": "function",
+            "relation": "take",
+            "object": "vector"
+        },
+        {
+            "subject": "function",
+            "relation": "take",
+            "object": "vector"
+        },
+        {
+            "subject": "BOTTOMLEFT",
+            "relation": "have",
+            "object": "dimensionality"
+        },
+        {
+            "subject": "BOTTOMLEFT",
+            "relation": "have",
+            "object": "="
+        },
+        {
+            "subject": "column",
+            "relation": "contain",
+            "object": "elements"
+        },
+        {
+            "subject": "vector",
+            "relation": "have",
+            "object": "dimensionality"
+        },
+        {
+            "subject": "vector",
+            "relation": "have",
+            "object": "="
+        },
+        {
+            "subject": "column",
+            "relation": "contain",
+            "object": "elements"
+        },
+        {
+            "subject": "i",
+            "relation": "satisfy",
+            "object": "0"
+        },
+        {
+            "subject": "i",
+            "relation": "satisfy",
+            "object": "\u03c3"
+        },
+        {
+            "subject": "i",
+            "relation": "satisfy",
+            "object": "0"
+        },
+        {
+            "subject": "i",
+            "relation": "satisfy",
+            "object": "\u03c3"
+        },
+        {
+            "subject": "weights",
+            "relation": "reflect",
+            "object": "importance"
+        },
+        {
+            "subject": "weights",
+            "relation": "reflect",
+            "object": "importance"
+        },
+        {
+            "subject": "vectors",
+            "relation": "encapsulate",
+            "object": "meaning"
+        },
+        {
+            "subject": "model",
+            "relation": "process",
+            "object": "sequences"
+        },
+        {
+            "subject": "model",
+            "relation": "process",
+            "object": "sequences"
+        },
+        {
+            "subject": "value",
+            "relation": "vector",
+            "object": "v"
+        },
+        {
+            "subject": "i",
+            "relation": "encapsulate",
+            "object": "meaning"
+        },
+        {
+            "subject": "i",
+            "relation": "encapsulate",
+            "object": "meaning"
+        },
+        {
+            "subject": "i",
+            "relation": "=",
+            "object": "\u2126"
+        },
+        {
+            "subject": "i",
+            "relation": "=",
+            "object": "q"
+        },
+        {
+            "subject": "i",
+            "relation": "=",
+            "object": "i"
+        },
+        {
+            "subject": "i",
+            "relation": "=",
+            "object": "k"
+        },
+        {
+            "subject": "i",
+            "relation": "=",
+            "object": "v"
+        },
+        {
+            "subject": "i",
+            "relation": "have",
+            "object": "dimensionality"
+        },
+        {
+            "subject": "which",
+            "relation": "reduce",
+            "object": "complexity"
+        },
+        {
+            "subject": "model",
+            "relation": "retain",
+            "object": "information"
+        },
+        {
+            "subject": "vectors",
+            "relation": "have",
+            "object": "dimensionality"
+        },
+        {
+            "subject": "i",
+            "relation": "have",
+            "object": "dimensionality"
+        },
+        {
+            "subject": "which",
+            "relation": "reduce",
+            "object": "complexity"
+        },
+        {
+            "subject": "model",
+            "relation": "retain",
+            "object": "information"
+        },
+        {
+            "subject": "space",
+            "relation": "enable",
+            "object": "computation"
+        },
+        {
+            "subject": "space",
+            "relation": "enable",
+            "object": "computation"
+        },
+        {
+            "subject": "which",
+            "relation": "encode",
+            "object": "meaning"
+        },
+        {
+            "subject": "which",
+            "relation": "encode",
+            "object": "meaning"
+        },
+        {
+            "subject": "mechanism",
+            "relation": "generate",
+            "object": "Q"
+        },
+        {
+            "subject": "figure",
+            "relation": "use",
+            "object": "letters"
+        },
+        {
+            "subject": "mechanism",
+            "relation": "generate",
+            "object": "Q"
+        },
+        {
+            "subject": "figure",
+            "relation": "use",
+            "object": "letters"
+        },
+        {
+            "subject": "Input",
+            "relation": "\u03a9kX",
+            "object": "/texts/186"
+        },
+        {
+            "subject": "mechanism",
+            "relation": "exhibit",
+            "object": "behavior"
+        },
+        {
+            "subject": "mechanism",
+            "relation": "exhibit",
+            "object": "behavior"
+        },
+        {
+            "subject": "BOTTOMLEFT",
+            "relation": "satisfy",
+            "object": "requirements"
+        },
+        {
+            "subject": "it",
+            "relation": "use",
+            "object": "set"
+        },
+        {
+            "subject": "mechanism",
+            "relation": "satisfy",
+            "object": "requirements"
+        },
+        {
+            "subject": "it",
+            "relation": "use",
+            "object": "set"
+        },
+        {
+            "subject": "mechanism",
+            "relation": "solve",
+            "object": "problem"
+        },
+        {
+            "subject": "mechanism",
+            "relation": "solve",
+            "object": "problem"
+        },
+        {
+            "subject": "BOTTOMLEFT",
+            "relation": "explore",
+            "object": "components"
+        },
+        {
+            "subject": "article",
+            "relation": "explore",
+            "object": "components"
+        },
+        {
+            "subject": "Transformers",
+            "relation": "capture",
+            "object": "richness"
+        },
+        {
+            "subject": "article",
+            "relation": "explore",
+            "object": "components"
+        },
+        {
+            "subject": "Transformers",
+            "relation": "capture",
+            "object": "richness"
+        },
+        {
+            "subject": "components",
+            "relation": "include",
+            "object": "function"
+        },
+        {
+            "subject": "which",
+            "relation": "measure",
+            "object": "performance"
+        },
+        {
+            "subject": "details",
+            "relation": "deserve",
+            "object": "discussion"
+        },
+        {
+            "subject": "components",
+            "relation": "include",
+            "object": "function"
+        },
+        {
+            "subject": "which",
+            "relation": "measure",
+            "object": "performance"
+        },
+        {
+            "subject": "details",
+            "relation": "deserve",
+            "object": "discussion"
+        },
+        {
+            "subject": "Positional",
+            "relation": "encode",
+            "object": "order"
+        },
+        {
+            "subject": "sentence",
+            "relation": "eat",
+            "object": "differs"
+        },
+        {
+            "subject": "John",
+            "relation": "eat",
+            "object": "differs"
+        },
+        {
+            "subject": "burger",
+            "relation": "eat",
+            "object": "John"
+        },
+        {
+            "subject": "matrices",
+            "relation": "capture",
+            "object": "information"
+        },
+        {
+            "subject": "sentence",
+            "relation": "eat",
+            "object": "differs"
+        },
+        {
+            "subject": "John",
+            "relation": "eat",
+            "object": "differs"
+        },
+        {
+            "subject": "burger",
+            "relation": "eat",
+            "object": "John"
+        },
+        {
+            "subject": "matrices",
+            "relation": "capture",
+            "object": "information"
+        },
+        {
+            "subject": "Q",
+            "relation": "present",
+            "object": "array"
+        },
+        {
+            "subject": "numerator",
+            "relation": "generate",
+            "object": "grid"
+        },
+        {
+            "subject": "division",
+            "relation": "ensure",
+            "object": "stability"
+        },
+        {
+            "subject": "Q",
+            "relation": "present",
+            "object": "array"
+        },
+        {
+            "subject": "numerator",
+            "relation": "generate",
+            "object": "grid"
+        },
+        {
+            "subject": "division",
+            "relation": "ensure",
+            "object": "stability"
+        },
+        {
+            "subject": "I",
+            "relation": "thank",
+            "object": "Prof."
+        },
+        {
+            "subject": "I",
+            "relation": "thank",
+            "object": "Todorovski"
+        },
+        {
+            "subject": "I",
+            "relation": "extend",
+            "object": "gratitude"
+        },
+        {
+            "subject": "channel",
+            "relation": "provide",
+            "object": "inspiration"
+        },
+        {
+            "subject": "which",
+            "relation": "improve",
+            "object": "clarity"
+        },
+        {
+            "subject": "I",
+            "relation": "thank",
+            "object": "Prof."
+        },
+        {
+            "subject": "I",
+            "relation": "thank",
+            "object": "Todorovski"
+        },
+        {
+            "subject": "I",
+            "relation": "extend",
+            "object": "gratitude"
+        },
+        {
+            "subject": "channel",
+            "relation": "provide",
+            "object": "inspiration"
+        },
+        {
+            "subject": "which",
+            "relation": "improve",
+            "object": "clarity"
+        },
+        {
+            "subject": "TOPLEFT",
+            "relation": "object",
+            "object": "\u20d7"
+        },
+        {
+            "subject": "TOPLEFT",
+            "relation": "object",
+            "object": "k"
+        },
+        {
+            "subject": "TOPLEFT",
+            "relation": "object",
+            "object": "\u20d7"
+        },
+        {
+            "subject": "TOPLEFT",
+            "relation": "object",
+            "object": "k"
+        }
+    ]
+}

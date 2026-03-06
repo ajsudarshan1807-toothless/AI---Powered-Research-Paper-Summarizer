@@ -1,0 +1,29 @@
+{
+    "source_file": "output_docx_words9.json",
+    "entities": [
+        {
+            "text": "80%",
+            "label": "PERCENT"
+        },
+        {
+            "text": "20%",
+            "label": "PERCENT"
+        },
+        {
+            "text": "Ten-fold",
+            "label": "CARDINAL"
+        }
+    ],
+    "triples": [
+        {
+            "subject": "models",
+            "relation": "perform",
+            "object": "best"
+        },
+        {
+            "subject": "study",
+            "relation": "suggest",
+            "object": "models"
+        }
+    ]
+}

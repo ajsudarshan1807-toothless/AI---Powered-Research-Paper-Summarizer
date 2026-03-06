@@ -1,0 +1,2941 @@
+{
+    "source_file": "output1.json",
+    "entities": [
+        {
+            "text": "DoclingDocument",
+            "label": "ORG"
+        },
+        {
+            "text": "#/texts/0 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/texts/7 #/texts/8 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/15",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/16",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/21 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/24",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/45",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/47",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/63",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/66",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/76",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/pictures/10",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/143 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/pictures/14 #/texts/154 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/156",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/pictures/15",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/groups/1",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/groups/3 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/160 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/0 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "International Journal of Recent Technology and Engineering",
+            "label": "ORG"
+        },
+        {
+            "text": "IJRTE",
+            "label": "ORG"
+        },
+        {
+            "text": "ISSN",
+            "label": "ORG"
+        },
+        {
+            "text": "2277-3878",
+            "label": "DATE"
+        },
+        {
+            "text": "January 2019",
+            "label": "DATE"
+        },
+        {
+            "text": "International Journal of Recent Technology and Engineering",
+            "label": "ORG"
+        },
+        {
+            "text": "IJRTE",
+            "label": "ORG"
+        },
+        {
+            "text": "ISSN",
+            "label": "ORG"
+        },
+        {
+            "text": "2277-3878",
+            "label": "DATE"
+        },
+        {
+            "text": "January 2019",
+            "label": "DATE"
+        },
+        {
+            "text": "#/texts/1 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "Smart Agriculture System",
+            "label": "ORG"
+        },
+        {
+            "text": "IoT Technology Smart Agriculture System",
+            "label": "ORG"
+        },
+        {
+            "text": "IoT Technology",
+            "label": "ORG"
+        },
+        {
+            "text": "#",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Muthunoori Naresh",
+            "label": "PERSON"
+        },
+        {
+            "text": "Munaswamy Muthunoori Naresh",
+            "label": "PERSON"
+        },
+        {
+            "text": "#/texts/3 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "Days Farmers",
+            "label": "ORG"
+        },
+        {
+            "text": "Crop",
+            "label": "ORG"
+        },
+        {
+            "text": "Days Farmers",
+            "label": "ORG"
+        },
+        {
+            "text": "Crop",
+            "label": "ORG"
+        },
+        {
+            "text": "#/texts/4 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "IOT Keywords",
+            "label": "ORG"
+        },
+        {
+            "text": "#/texts/5 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "I. INTRODUCTION I. INTRODUCTION",
+            "label": "ORG"
+        },
+        {
+            "text": "The Agriculture Parameters",
+            "label": "WORK_OF_ART"
+        },
+        {
+            "text": "IOT Technology",
+            "label": "ORG"
+        },
+        {
+            "text": "IOT",
+            "label": "ORG"
+        },
+        {
+            "text": "1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "The Agriculture Parameters",
+            "label": "ORG"
+        },
+        {
+            "text": "IOT Technology",
+            "label": "ORG"
+        },
+        {
+            "text": "IOT",
+            "label": "ORG"
+        },
+        {
+            "text": "1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/texts/7 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "28 December, 2019",
+            "label": "DATE"
+        },
+        {
+            "text": "Revised Version Manuscript Received",
+            "label": "ORG"
+        },
+        {
+            "text": "28 December, 2019",
+            "label": "DATE"
+        },
+        {
+            "text": "#/texts/8 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "Muthunoori    Naresh",
+            "label": "LAW"
+        },
+        {
+            "text": "Communication Engineering",
+            "label": "ORG"
+        },
+        {
+            "text": "Institute of Aeronautical Engineering",
+            "label": "ORG"
+        },
+        {
+            "text": "Hyderabad",
+            "label": "GPE"
+        },
+        {
+            "text": "India",
+            "label": "GPE"
+        },
+        {
+            "text": "Muthunoori    Naresh",
+            "label": "PRODUCT"
+        },
+        {
+            "text": "Communication Engineering",
+            "label": "ORG"
+        },
+        {
+            "text": "Institute of Aeronautical Engineering",
+            "label": "ORG"
+        },
+        {
+            "text": "Hyderabad",
+            "label": "GPE"
+        },
+        {
+            "text": "India",
+            "label": "GPE"
+        },
+        {
+            "text": "/groups/1",
+            "label": "PERSON"
+        },
+        {
+            "text": "Department of Electronics and Communication Engineering",
+            "label": "ORG"
+        },
+        {
+            "text": "Institute of Aeronautical Engineering",
+            "label": "ORG"
+        },
+        {
+            "text": "Hyderabad",
+            "label": "ORG"
+        },
+        {
+            "text": "India P Munaswamy Professor",
+            "label": "ORG"
+        },
+        {
+            "text": "Department of Electronics and Communication Engineering",
+            "label": "ORG"
+        },
+        {
+            "text": "Institute of Aeronautical Engineering",
+            "label": "ORG"
+        },
+        {
+            "text": "Hyderabad",
+            "label": "GPE"
+        },
+        {
+            "text": "India",
+            "label": "GPE"
+        },
+        {
+            "text": "#/texts/10",
+            "label": "MONEY"
+        },
+        {
+            "text": "II",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/texts/11 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "past  days",
+            "label": "DATE"
+        },
+        {
+            "text": "past  days",
+            "label": "DATE"
+        },
+        {
+            "text": "#/texts/12 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/13 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "2",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "2",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/texts/14 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "Wireless",
+            "label": "ORG"
+        },
+        {
+            "text": "Precision  Agriculture",
+            "label": "ORG"
+        },
+        {
+            "text": "Precision  Agriculture",
+            "label": "ORG"
+        },
+        {
+            "text": "tens or several square feet",
+            "label": "TIME"
+        },
+        {
+            "text": "UI",
+            "label": "ORG"
+        },
+        {
+            "text": "Exactness Agriculture",
+            "label": "ORG"
+        },
+        {
+            "text": "hourly",
+            "label": "TIME"
+        },
+        {
+            "text": "the Wireless Sensor Network",
+            "label": "ORG"
+        },
+        {
+            "text": "Precision  Agriculture",
+            "label": "ORG"
+        },
+        {
+            "text": "Precision  Agriculture",
+            "label": "ORG"
+        },
+        {
+            "text": "tens or several square feet",
+            "label": "TIME"
+        },
+        {
+            "text": "UI",
+            "label": "ORG"
+        },
+        {
+            "text": "Exactness Agriculture",
+            "label": "ORG"
+        },
+        {
+            "text": "hourly",
+            "label": "TIME"
+        },
+        {
+            "text": "the Wireless Sensor Network",
+            "label": "ORG"
+        },
+        {
+            "text": "#/texts/16 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/17",
+            "label": "MONEY"
+        },
+        {
+            "text": "98 98 #",
+            "label": "DATE"
+        },
+        {
+            "text": "#/texts/20",
+            "label": "MONEY"
+        },
+        {
+            "text": "#",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "hundreds or still",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "thousands",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "a few dollars",
+            "label": "MONEY"
+        },
+        {
+            "text": "Size",
+            "label": "PERSON"
+        },
+        {
+            "text": "Wireless",
+            "label": "ORG"
+        },
+        {
+            "text": "hundreds or still",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "thousands",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "a few dollars",
+            "label": "MONEY"
+        },
+        {
+            "text": "Size",
+            "label": "PERSON"
+        },
+        {
+            "text": "#/texts/21 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/22",
+            "label": "MONEY"
+        },
+        {
+            "text": "Ayush Kumar",
+            "label": "PERSON"
+        },
+        {
+            "text": "al utilized IoT",
+            "label": "ORG"
+        },
+        {
+            "text": "1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "M.K. Gayathri",
+            "label": "PERSON"
+        },
+        {
+            "text": "al",
+            "label": "PERSON"
+        },
+        {
+            "text": "2",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Zhou Zhongwei",
+            "label": "PERSON"
+        },
+        {
+            "text": "al",
+            "label": "ORG"
+        },
+        {
+            "text": "3",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Li Sanbo",
+            "label": "PERSON"
+        },
+        {
+            "text": "al  centre",
+            "label": "PERSON"
+        },
+        {
+            "text": "4",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "5",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Yifan",
+            "label": "PERSON"
+        },
+        {
+            "text": "6",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "M.V. Latte",
+            "label": "PERSON"
+        },
+        {
+            "text": "al",
+            "label": "ORG"
+        },
+        {
+            "text": "Ayush Kumar",
+            "label": "PERSON"
+        },
+        {
+            "text": "al utilized IoT",
+            "label": "ORG"
+        },
+        {
+            "text": "1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "M.K. Gayathri",
+            "label": "PERSON"
+        },
+        {
+            "text": "al",
+            "label": "PERSON"
+        },
+        {
+            "text": "2",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Zhou Zhongwei",
+            "label": "PERSON"
+        },
+        {
+            "text": "al",
+            "label": "ORG"
+        },
+        {
+            "text": "3",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Li Sanbo",
+            "label": "PERSON"
+        },
+        {
+            "text": "al  centre",
+            "label": "PERSON"
+        },
+        {
+            "text": "4",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "5",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Yifan",
+            "label": "PERSON"
+        },
+        {
+            "text": "6",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "M.V. Latte",
+            "label": "PERSON"
+        },
+        {
+            "text": "al",
+            "label": "ORG"
+        },
+        {
+            "text": "Smart Agriculture System",
+            "label": "ORG"
+        },
+        {
+            "text": "IoT Technology Smart Agriculture System",
+            "label": "ORG"
+        },
+        {
+            "text": "IoT Technology",
+            "label": "ORG"
+        },
+        {
+            "text": "#/texts/24",
+            "label": "MONEY"
+        },
+        {
+            "text": "DIAGRAM",
+            "label": "ORG"
+        },
+        {
+            "text": "#/texts/25",
+            "label": "MONEY"
+        },
+        {
+            "text": "/pictures/1",
+            "label": "NORP"
+        },
+        {
+            "text": "/pictures/1",
+            "label": "NORP"
+        },
+        {
+            "text": "#/texts/27",
+            "label": "MONEY"
+        },
+        {
+            "text": "/pictures/1",
+            "label": "NORP"
+        },
+        {
+            "text": "LCD LCD #",
+            "label": "ORG"
+        },
+        {
+            "text": "/pictures/1",
+            "label": "NORP"
+        },
+        {
+            "text": "#/texts/29",
+            "label": "MONEY"
+        },
+        {
+            "text": "/pictures/1",
+            "label": "NORP"
+        },
+        {
+            "text": "/pictures/1",
+            "label": "NORP"
+        },
+        {
+            "text": "WIFI",
+            "label": "PERSON"
+        },
+        {
+            "text": "/pictures/1",
+            "label": "NORP"
+        },
+        {
+            "text": "#/texts/33 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "/pictures/1",
+            "label": "NORP"
+        },
+        {
+            "text": "/pictures/1",
+            "label": "NORP"
+        },
+        {
+            "text": "/pictures/1",
+            "label": "NORP"
+        },
+        {
+            "text": "#/texts/36",
+            "label": "MONEY"
+        },
+        {
+            "text": "/pictures/1",
+            "label": "NORP"
+        },
+        {
+            "text": "#/texts/37 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "/pictures/1",
+            "label": "NORP"
+        },
+        {
+            "text": "#",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "/pictures/1",
+            "label": "NORP"
+        },
+        {
+            "text": "#/texts/39",
+            "label": "MONEY"
+        },
+        {
+            "text": "/pictures/1",
+            "label": "NORP"
+        },
+        {
+            "text": "#/texts/40",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/41",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/42 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "GND-Ground GND-Ground",
+            "label": "ORG"
+        },
+        {
+            "text": "#/texts/43",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/44 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/45",
+            "label": "MONEY"
+        },
+        {
+            "text": "Moisture Sensor",
+            "label": "PERSON"
+        },
+        {
+            "text": "#/texts/47",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/48",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/49",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/51 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/52",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/53 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "99 99",
+            "label": "DATE"
+        },
+        {
+            "text": "International Journal of Recent Technology and Engineering",
+            "label": "ORG"
+        },
+        {
+            "text": "IJRTE",
+            "label": "ORG"
+        },
+        {
+            "text": "ISSN",
+            "label": "ORG"
+        },
+        {
+            "text": "2277-3878",
+            "label": "DATE"
+        },
+        {
+            "text": "January 2019",
+            "label": "DATE"
+        },
+        {
+            "text": "International Journal of Recent Technology and Engineering",
+            "label": "ORG"
+        },
+        {
+            "text": "IJRTE",
+            "label": "ORG"
+        },
+        {
+            "text": "ISSN",
+            "label": "ORG"
+        },
+        {
+            "text": "2277-3878",
+            "label": "DATE"
+        },
+        {
+            "text": "January 2019",
+            "label": "DATE"
+        },
+        {
+            "text": "#/texts/56 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/57",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/58 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "202",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "HR202",
+            "label": "ORG"
+        },
+        {
+            "text": "202",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "HR202",
+            "label": "ORG"
+        },
+        {
+            "text": "#/texts/59",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/60 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "HighLevel",
+            "label": "ORG"
+        },
+        {
+            "text": "#",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/texts/62",
+            "label": "MONEY"
+        },
+        {
+            "text": "LowLevel LowLevel",
+            "label": "ORG"
+        },
+        {
+            "text": "#/texts/63",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/64 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "ARM-7",
+            "label": "ORG"
+        },
+        {
+            "text": "Eventually Tom's",
+            "label": "PERSON"
+        },
+        {
+            "text": "32",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "SRAM",
+            "label": "ORG"
+        },
+        {
+            "text": "512",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "8",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "2kb",
+            "label": "QUANTITY"
+        },
+        {
+            "text": "USB",
+            "label": "ORG"
+        },
+        {
+            "text": "one",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "ARM-7",
+            "label": "ORG"
+        },
+        {
+            "text": "Eventually Tom's",
+            "label": "PERSON"
+        },
+        {
+            "text": "32",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "SRAM",
+            "label": "ORG"
+        },
+        {
+            "text": "512",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "8",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "2kb",
+            "label": "QUANTITY"
+        },
+        {
+            "text": "USB",
+            "label": "ORG"
+        },
+        {
+            "text": "one",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/texts/66",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/67",
+            "label": "MONEY"
+        },
+        {
+            "text": "64",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "LPC",
+            "label": "ORG"
+        },
+        {
+            "text": "2148",
+            "label": "DATE"
+        },
+        {
+            "text": "IoT",
+            "label": "ORG"
+        },
+        {
+            "text": "each 1 minute",
+            "label": "TIME"
+        },
+        {
+            "text": "LM35",
+            "label": "PERSON"
+        },
+        {
+            "text": "Kelvin",
+            "label": "PERSON"
+        },
+        {
+            "text": "Fahrenheit",
+            "label": "ORG"
+        },
+        {
+            "text": "two",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "START Read",
+            "label": "WORK_OF_ART"
+        },
+        {
+            "text": "Humidity",
+            "label": "ORG"
+        },
+        {
+            "text": "IoT",
+            "label": "ORG"
+        },
+        {
+            "text": "two",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "RH%",
+            "label": "PERSON"
+        },
+        {
+            "text": "10",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "RH%",
+            "label": "GPE"
+        },
+        {
+            "text": "IoT",
+            "label": "ORG"
+        },
+        {
+            "text": "6",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "8",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "64",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "LPC",
+            "label": "ORG"
+        },
+        {
+            "text": "2148",
+            "label": "DATE"
+        },
+        {
+            "text": "IoT",
+            "label": "ORG"
+        },
+        {
+            "text": "each 1 minute",
+            "label": "TIME"
+        },
+        {
+            "text": "LM35",
+            "label": "PERSON"
+        },
+        {
+            "text": "Kelvin",
+            "label": "PERSON"
+        },
+        {
+            "text": "Fahrenheit",
+            "label": "ORG"
+        },
+        {
+            "text": "two",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "START Read",
+            "label": "WORK_OF_ART"
+        },
+        {
+            "text": "Humidity",
+            "label": "ORG"
+        },
+        {
+            "text": "IoT",
+            "label": "ORG"
+        },
+        {
+            "text": "two",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "RH%",
+            "label": "PERSON"
+        },
+        {
+            "text": "10",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "RH%",
+            "label": "GPE"
+        },
+        {
+            "text": "IoT",
+            "label": "ORG"
+        },
+        {
+            "text": "6",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "8",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/texts/68",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/69 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/72",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/73",
+            "label": "MONEY"
+        },
+        {
+            "text": "100 100 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Smart Agriculture System",
+            "label": "ORG"
+        },
+        {
+            "text": "IoT Technology Smart Agriculture System",
+            "label": "ORG"
+        },
+        {
+            "text": "IoT Technology",
+            "label": "ORG"
+        },
+        {
+            "text": "#/texts/76 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "3.3v",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "5",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "3.3v",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "5v",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "5V",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "3.3v",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "5",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "3.3v",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "5v",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "5V",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/texts/77 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "Flow Chart Figure.7",
+            "label": "PERSON"
+        },
+        {
+            "text": "#/texts/78",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/79",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/80",
+            "label": "MONEY"
+        },
+        {
+            "text": "Temperature & Temperature &",
+            "label": "ORG"
+        },
+        {
+            "text": "#/texts/81 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/83 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/85",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/86 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "LCD LCD #",
+            "label": "ORG"
+        },
+        {
+            "text": "#/texts/88",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/89",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/90",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/91",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/92",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/93",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/94 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/95",
+            "label": "MONEY"
+        },
+        {
+            "text": "Microcontroller Microcontroller",
+            "label": "ORG"
+        },
+        {
+            "text": "#/texts/96",
+            "label": "MONEY"
+        },
+        {
+            "text": "WIFI",
+            "label": "PERSON"
+        },
+        {
+            "text": "#/texts/97 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/98 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/99",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/100 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/101 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "Android",
+            "label": "ORG"
+        },
+        {
+            "text": "second",
+            "label": "ORDINAL"
+        },
+        {
+            "text": "Android",
+            "label": "ORG"
+        },
+        {
+            "text": "Android",
+            "label": "ORG"
+        },
+        {
+            "text": "second",
+            "label": "ORDINAL"
+        },
+        {
+            "text": "Android",
+            "label": "ORG"
+        },
+        {
+            "text": "#/texts/102 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "PC214 PC214",
+            "label": "ORG"
+        },
+        {
+            "text": "#/texts/103 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "L01",
+            "label": "ORG"
+        },
+        {
+            "text": "L01",
+            "label": "ORG"
+        },
+        {
+            "text": "#/texts/104 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/105 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "Screen",
+            "label": "ORG"
+        },
+        {
+            "text": "IoTmhp",
+            "label": "NORP"
+        },
+        {
+            "text": "150 150 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/111 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "100 100 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "50 50 #/texts/113 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "26.Jul 26.Jul #",
+            "label": "MONEY"
+        },
+        {
+            "text": "12:00 12:00",
+            "label": "TIME"
+        },
+        {
+            "text": "#/texts/115 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "27.Jul 27.Jul #",
+            "label": "MONEY"
+        },
+        {
+            "text": "Date Date",
+            "label": "ORG"
+        },
+        {
+            "text": "#/texts/117 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/118 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/119",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/120 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/121 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "100 100 #/texts/122",
+            "label": "MONEY"
+        },
+        {
+            "text": "26.Jul 26.Jul #",
+            "label": "MONEY"
+        },
+        {
+            "text": "12:00 12:00",
+            "label": "TIME"
+        },
+        {
+            "text": "27.Jul 27.Jul #/texts/125 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "Date Date",
+            "label": "ORG"
+        },
+        {
+            "text": "#/texts/128 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/129 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/131 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "10Tmhp 10Tmhp",
+            "label": "DATE"
+        },
+        {
+            "text": "#/texts/132 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/133 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "100 100 #/texts/134 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "26.Jul 26.Jul #",
+            "label": "MONEY"
+        },
+        {
+            "text": "12:00 12:00",
+            "label": "TIME"
+        },
+        {
+            "text": "#/texts/136 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "27.Jul 27.Jul #",
+            "label": "MONEY"
+        },
+        {
+            "text": "Date Date",
+            "label": "ORG"
+        },
+        {
+            "text": "#/texts/138 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/139 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/141 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/143 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "101 101 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "International Journal of Recent Technology and Engineering",
+            "label": "ORG"
+        },
+        {
+            "text": "IJRTE",
+            "label": "ORG"
+        },
+        {
+            "text": "ISSN",
+            "label": "ORG"
+        },
+        {
+            "text": "2277-3878",
+            "label": "DATE"
+        },
+        {
+            "text": "January 2019",
+            "label": "DATE"
+        },
+        {
+            "text": "International Journal of Recent Technology and Engineering",
+            "label": "ORG"
+        },
+        {
+            "text": "IJRTE",
+            "label": "ORG"
+        },
+        {
+            "text": "ISSN",
+            "label": "ORG"
+        },
+        {
+            "text": "2277-3878",
+            "label": "DATE"
+        },
+        {
+            "text": "January 2019",
+            "label": "DATE"
+        },
+        {
+            "text": "#/texts/145 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "IoT",
+            "label": "ORG"
+        },
+        {
+            "text": "IoT",
+            "label": "ORG"
+        },
+        {
+            "text": "#/texts/147 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "1OTmhp",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "100 100 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "26.Jul 26.Jul #",
+            "label": "MONEY"
+        },
+        {
+            "text": "12:00 12:00",
+            "label": "TIME"
+        },
+        {
+            "text": "27.Jul 27.Jul #",
+            "label": "MONEY"
+        },
+        {
+            "text": "Date Date",
+            "label": "ORG"
+        },
+        {
+            "text": "#/texts/153 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/154 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "VIII",
+            "label": "ORG"
+        },
+        {
+            "text": "#",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/texts/156",
+            "label": "MONEY"
+        },
+        {
+            "text": "1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "k.lakshmisudha",
+            "label": "ORG"
+        },
+        {
+            "text": "cole",
+            "label": "PRODUCT"
+        },
+        {
+            "text": "weekly",
+            "label": "DATE"
+        },
+        {
+            "text": "0975-8887",
+            "label": "DATE"
+        },
+        {
+            "text": "146-no.11",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "july 2011",
+            "label": "DATE"
+        },
+        {
+            "text": "cole",
+            "label": "PRODUCT"
+        },
+        {
+            "text": "weekly",
+            "label": "DATE"
+        },
+        {
+            "text": "0975-8887",
+            "label": "DATE"
+        },
+        {
+            "text": "146-no.11",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "july 2011  1",
+            "label": "DATE"
+        },
+        {
+            "text": "2",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "r.complexion.kawitkar",
+            "label": "PERSON"
+        },
+        {
+            "text": "vol.5",
+            "label": "PERSON"
+        },
+        {
+            "text": "6,  june  2016",
+            "label": "DATE"
+        },
+        {
+            "text": "Overall  Journal",
+            "label": "ORG"
+        },
+        {
+            "text": "Innovation  Trends",
+            "label": "ORG"
+        },
+        {
+            "text": "Computing",
+            "label": "PERSON"
+        },
+        {
+            "text": "ISSN",
+            "label": "ORG"
+        },
+        {
+            "text": "23218169",
+            "label": "DATE"
+        },
+        {
+            "text": "5",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "2 177",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "r.complexion.kawitkar",
+            "label": "PERSON"
+        },
+        {
+            "text": "vol.5",
+            "label": "PERSON"
+        },
+        {
+            "text": "6,  june  2016",
+            "label": "DATE"
+        },
+        {
+            "text": "Overall  Journal",
+            "label": "ORG"
+        },
+        {
+            "text": "Innovation  Trends",
+            "label": "ORG"
+        },
+        {
+            "text": "Computing",
+            "label": "PERSON"
+        },
+        {
+            "text": "ISSN",
+            "label": "ORG"
+        },
+        {
+            "text": "23218169",
+            "label": "DATE"
+        },
+        {
+            "text": "5",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "2 177",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "3",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "G.S.Anandhamala",
+            "label": "PERSON"
+        },
+        {
+            "text": "Giving Smart Agriculture  Solutions",
+            "label": "WORK_OF_ART"
+        },
+        {
+            "text": "Farmers",
+            "label": "ORG"
+        },
+        {
+            "text": "IEEE International Conference on Technological Innovations",
+            "label": "ORG"
+        },
+        {
+            "text": "G.S.Anandhamala",
+            "label": "PERSON"
+        },
+        {
+            "text": "Giving Smart Agriculture  Solutions",
+            "label": "WORK_OF_ART"
+        },
+        {
+            "text": "Farmers",
+            "label": "ORG"
+        },
+        {
+            "text": "IEEE International Conference on Technological Innovations",
+            "label": "ORG"
+        },
+        {
+            "text": "#/texts/160 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "4",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "r. nandurkar",
+            "label": "PERSON"
+        },
+        {
+            "text": "r.",
+            "label": "NORP"
+        },
+        {
+            "text": "r.",
+            "label": "NORP"
+        },
+        {
+            "text": "2014",
+            "label": "DATE"
+        },
+        {
+            "text": "r. nandurkar",
+            "label": "PERSON"
+        },
+        {
+            "text": "r.",
+            "label": "NORP"
+        },
+        {
+            "text": "r.",
+            "label": "NORP"
+        },
+        {
+            "text": "2014",
+            "label": "DATE"
+        },
+        {
+            "text": "4",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "5",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Nalajala",
+            "label": "GPE"
+        },
+        {
+            "text": "D.",
+            "label": "NORP"
+        },
+        {
+            "text": "Kumar",
+            "label": "GPE"
+        },
+        {
+            "text": "Bhavana Godavarthi",
+            "label": "PERSON"
+        },
+        {
+            "text": "2017",
+            "label": "DATE"
+        },
+        {
+            "text": "IoT",
+            "label": "ORG"
+        },
+        {
+            "text": "Journal of Engineering and",
+            "label": "ORG"
+        },
+        {
+            "text": "Applied Sciences",
+            "label": "ORG"
+        },
+        {
+            "text": "12",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "93899393",
+            "label": "DATE"
+        },
+        {
+            "text": "Nalajala",
+            "label": "GPE"
+        },
+        {
+            "text": "D.",
+            "label": "NORP"
+        },
+        {
+            "text": "Kumar",
+            "label": "GPE"
+        },
+        {
+            "text": "Bhavana Godavarthi",
+            "label": "PERSON"
+        },
+        {
+            "text": "2017",
+            "label": "DATE"
+        },
+        {
+            "text": "IoT",
+            "label": "ORG"
+        },
+        {
+            "text": "Journal of Engineering and",
+            "label": "ORG"
+        },
+        {
+            "text": "Applied Sciences",
+            "label": "ORG"
+        },
+        {
+            "text": "12",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "93899393",
+            "label": "DATE"
+        },
+        {
+            "text": "5",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "6",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Joaqu\u00edn  Guti\u00e9rrez",
+            "label": "PERSON"
+        },
+        {
+            "text": "Juan  Francisco",
+            "label": "PERSON"
+        },
+        {
+            "text": "Villa-Medina",
+            "label": "GPE"
+        },
+        {
+            "text": "Alejandra",
+            "label": "PERSON"
+        },
+        {
+            "text": "NietoGaribay",
+            "label": "ORG"
+        },
+        {
+            "text": "Miguel \u00c1ngel PortaG\u00e1ndara",
+            "label": "PERSON"
+        },
+        {
+            "text": "Computerized  Irrigation System Using a Wireless Sensor Network",
+            "label": "WORK_OF_ART"
+        },
+        {
+            "text": "GPRS Module",
+            "label": "PERSON"
+        },
+        {
+            "text": "9456,2013",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Guti\u00e9rrez",
+            "label": "PERSON"
+        },
+        {
+            "text": "Juan  Francisco",
+            "label": "PERSON"
+        },
+        {
+            "text": "Villa-Medina",
+            "label": "GPE"
+        },
+        {
+            "text": "Alejandra",
+            "label": "PERSON"
+        },
+        {
+            "text": "NietoGaribay",
+            "label": "ORG"
+        },
+        {
+            "text": "Miguel \u00c1ngel PortaG\u00e1ndara",
+            "label": "PERSON"
+        },
+        {
+            "text": "Computerized  Irrigation System Using a Wireless Sensor Network",
+            "label": "WORK_OF_ART"
+        },
+        {
+            "text": "GPRS Module",
+            "label": "PERSON"
+        },
+        {
+            "text": "0018-9456,2013  6",
+            "label": "DATE"
+        },
+        {
+            "text": "7",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Nalajala",
+            "label": "GPE"
+        },
+        {
+            "text": "Sangeetha",
+            "label": "PERSON"
+        },
+        {
+            "text": "Ootla  Balaji",
+            "label": "ORG"
+        },
+        {
+            "text": "K Navya",
+            "label": "ORG"
+        },
+        {
+            "text": "Smart  Mobile  Case  Framework  Based",
+            "label": "ORG"
+        },
+        {
+            "text": "815",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Pp",
+            "label": "GPE"
+        },
+        {
+            "text": "657",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "2019",
+            "label": "DATE"
+        },
+        {
+            "text": "Nalajala",
+            "label": "GPE"
+        },
+        {
+            "text": "Sangeetha",
+            "label": "PERSON"
+        },
+        {
+            "text": "Ootla  Balaji",
+            "label": "ORG"
+        },
+        {
+            "text": "K Navya",
+            "label": "ORG"
+        },
+        {
+            "text": "Smart  Mobile  Case  Framework  Based",
+            "label": "ORG"
+        },
+        {
+            "text": "815",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Pp",
+            "label": "GPE"
+        },
+        {
+            "text": "657",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "2019",
+            "label": "DATE"
+        },
+        {
+            "text": "7",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "8",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "meena  kumari",
+            "label": "PERSON"
+        },
+        {
+            "text": "meena  kumari",
+            "label": "PERSON"
+        },
+        {
+            "text": "8",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "7-12, 2013",
+            "label": "DATE"
+        },
+        {
+            "text": "7-12, 2013",
+            "label": "DATE"
+        },
+        {
+            "text": "#/texts/166 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "9",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "Meonghun Lee",
+            "label": "PERSON"
+        },
+        {
+            "text": "Jeonghwan Hwang",
+            "label": "PERSON"
+        },
+        {
+            "text": "Hyun Yoe",
+            "label": "PERSON"
+        },
+        {
+            "text": "Agrarian Protection System",
+            "label": "WORK_OF_ART"
+        },
+        {
+            "text": "IoT",
+            "label": "ORG"
+        },
+        {
+            "text": "IEEE",
+            "label": "ORG"
+        },
+        {
+            "text": "sixteenth",
+            "label": "ORDINAL"
+        },
+        {
+            "text": "International  Conference  on Computational Science and Engineering",
+            "label": "ORG"
+        },
+        {
+            "text": "2013",
+            "label": "DATE"
+        },
+        {
+            "text": "Meonghun Lee",
+            "label": "PERSON"
+        },
+        {
+            "text": "Jeonghwan Hwang",
+            "label": "PERSON"
+        },
+        {
+            "text": "Hyun Yoe",
+            "label": "PERSON"
+        },
+        {
+            "text": "Agrarian Protection System",
+            "label": "WORK_OF_ART"
+        },
+        {
+            "text": "IoT",
+            "label": "ORG"
+        },
+        {
+            "text": "IEEE",
+            "label": "ORG"
+        },
+        {
+            "text": "sixteenth",
+            "label": "ORDINAL"
+        },
+        {
+            "text": "International  Conference  on Computational Science and Engineering",
+            "label": "ORG"
+        },
+        {
+            "text": "2013",
+            "label": "DATE"
+        },
+        {
+            "text": "9",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/texts/168 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/texts/171 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "102 102 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/pictures/1 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/36",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/pictures/2 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "/texts/40",
+            "label": "ORG"
+        },
+        {
+            "text": "#/pictures/3 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/pictures/4 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/49 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/pictures/5 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/pictures/6 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/pictures/7 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "/texts/64",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/pictures/8 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/68",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/pictures/9",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/81",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/83",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/91 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/93",
+            "label": "MONEY"
+        },
+        {
+            "text": "#",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/texts/96",
+            "label": "MONEY"
+        },
+        {
+            "text": "/texts/77",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/pictures/10",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/104 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/pictures/11 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/109 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/111 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/113 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/pictures/12",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/118",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/120 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/pictures/13 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/134",
+            "label": "MONEY"
+        },
+        {
+            "text": "#",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "#/pictures/14 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/145",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/147 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/149 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/pictures/15 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "#/texts/168 #",
+            "label": "MONEY"
+        },
+        {
+            "text": "BOTTOMLEFT                        ",
+            "label": "PRODUCT"
+        }
+    ],
+    "triples": [
+        {
+            "subject": "furniture",
+            "relation": "root",
+            "object": "_"
+        },
+        {
+            "subject": "furniture",
+            "relation": "root",
+            "object": "#"
+        },
+        {
+            "subject": "furniture",
+            "relation": "root",
+            "object": "#"
+        },
+        {
+            "subject": "discovery",
+            "relation": "trim",
+            "object": "development"
+        },
+        {
+            "subject": "IOT",
+            "relation": "utilize",
+            "object": "farmers"
+        },
+        {
+            "subject": "development",
+            "relation": "diminish",
+            "object": "cost"
+        },
+        {
+            "subject": "discovery",
+            "relation": "trim",
+            "object": "development"
+        },
+        {
+            "subject": "IOT",
+            "relation": "utilize",
+            "object": "farmers"
+        },
+        {
+            "subject": "development",
+            "relation": "diminish",
+            "object": "cost"
+        },
+        {
+            "subject": "Parameters",
+            "relation": "utilize",
+            "object": "availability"
+        },
+        {
+            "subject": "things",
+            "relation": "complete",
+            "object": "process"
+        },
+        {
+            "subject": "which",
+            "relation": "incorporate",
+            "object": "headways"
+        },
+        {
+            "subject": "Parameters",
+            "relation": "utilize",
+            "object": "availability"
+        },
+        {
+            "subject": "things",
+            "relation": "complete",
+            "object": "process"
+        },
+        {
+            "subject": "which",
+            "relation": "incorporate",
+            "object": "headways"
+        },
+        {
+            "subject": "They",
+            "relation": "utilize",
+            "object": "pesticides"
+        },
+        {
+            "subject": "which",
+            "relation": "make",
+            "object": "lead"
+        },
+        {
+            "subject": "They",
+            "relation": "utilize",
+            "object": "pesticides"
+        },
+        {
+            "subject": "which",
+            "relation": "make",
+            "object": "lead"
+        },
+        {
+            "subject": "which",
+            "relation": "appraise",
+            "object": "nature"
+        },
+        {
+            "subject": "Internet",
+            "relation": "revamp",
+            "object": "agribusiness"
+        },
+        {
+            "subject": "IOT",
+            "relation": "utilize",
+            "object": "farmers"
+        },
+        {
+            "subject": "which",
+            "relation": "appraise",
+            "object": "nature"
+        },
+        {
+            "subject": "Internet",
+            "relation": "revamp",
+            "object": "agribusiness"
+        },
+        {
+            "subject": "IOT",
+            "relation": "utilize",
+            "object": "farmers"
+        },
+        {
+            "subject": "BOTTOMLEFT",
+            "relation": "have",
+            "object": "advantage"
+        },
+        {
+            "subject": "Agriculture",
+            "relation": "have",
+            "object": "advantage"
+        },
+        {
+            "subject": "innovation",
+            "relation": "separate",
+            "object": "plant"
+        },
+        {
+            "subject": "framework",
+            "relation": "require",
+            "object": "unit"
+        },
+        {
+            "subject": "Agriculture",
+            "relation": "require",
+            "object": "model"
+        },
+        {
+            "subject": "soil",
+            "relation": "write",
+            "object": "plants"
+        },
+        {
+            "subject": "area",
+            "relation": "get",
+            "object": "measure"
+        },
+        {
+            "subject": "Visit",
+            "relation": "give",
+            "object": "data"
+        },
+        {
+            "subject": "Agriculture",
+            "relation": "have",
+            "object": "advantage"
+        },
+        {
+            "subject": "innovation",
+            "relation": "separate",
+            "object": "plant"
+        },
+        {
+            "subject": "framework",
+            "relation": "require",
+            "object": "unit"
+        },
+        {
+            "subject": "Agriculture",
+            "relation": "require",
+            "object": "model"
+        },
+        {
+            "subject": "soil",
+            "relation": "write",
+            "object": "plants"
+        },
+        {
+            "subject": "area",
+            "relation": "get",
+            "object": "measure"
+        },
+        {
+            "subject": "Visit",
+            "relation": "give",
+            "object": "data"
+        },
+        {
+            "subject": "program",
+            "relation": "consolidate",
+            "object": "subjects"
+        },
+        {
+            "subject": "else",
+            "relation": "fail",
+            "object": "battery"
+        },
+        {
+            "subject": "information",
+            "relation": "replace",
+            "object": "boundary"
+        },
+        {
+            "subject": "topology",
+            "relation": "fluctuate",
+            "object": "exchange"
+        },
+        {
+            "subject": "program",
+            "relation": "consolidate",
+            "object": "subjects"
+        },
+        {
+            "subject": "else",
+            "relation": "fail",
+            "object": "battery"
+        },
+        {
+            "subject": "information",
+            "relation": "replace",
+            "object": "boundary"
+        },
+        {
+            "subject": "topology",
+            "relation": "fluctuate",
+            "object": "IV"
+        },
+        {
+            "subject": "that",
+            "relation": "influence",
+            "object": "development"
+        },
+        {
+            "subject": "Zhongwei",
+            "relation": "propose",
+            "object": "technique"
+        },
+        {
+            "subject": "Smash",
+            "relation": "propose",
+            "object": "approach"
+        },
+        {
+            "subject": "that",
+            "relation": "influence",
+            "object": "development"
+        },
+        {
+            "subject": "Zhongwei",
+            "relation": "propose",
+            "object": "technique"
+        },
+        {
+            "subject": "Smash",
+            "relation": "propose",
+            "object": "approach"
+        },
+        {
+            "subject": "It",
+            "relation": "quantify",
+            "object": "temperature"
+        },
+        {
+            "subject": "It",
+            "relation": "quantify",
+            "object": "temperature"
+        },
+        {
+            "subject": "which",
+            "relation": "facultie",
+            "object": "material"
+        },
+        {
+            "subject": "It",
+            "relation": "take",
+            "object": "shot"
+        },
+        {
+            "subject": "current",
+            "relation": "experience",
+            "object": "it"
+        },
+        {
+            "subject": "which",
+            "relation": "facultie",
+            "object": "material"
+        },
+        {
+            "subject": "It",
+            "relation": "take",
+            "object": "shot"
+        },
+        {
+            "subject": "current",
+            "relation": "experience",
+            "object": "it"
+        },
+        {
+            "subject": "Tom",
+            "relation": "peruse",
+            "object": "Philips"
+        },
+        {
+            "subject": "LPC2148",
+            "relation": "need",
+            "object": "kb"
+        },
+        {
+            "subject": "Tom",
+            "relation": "peruse",
+            "object": "Philips"
+        },
+        {
+            "subject": "LPC2148",
+            "relation": "need",
+            "object": "kb"
+        },
+        {
+            "subject": "it",
+            "relation": "interface",
+            "object": "one"
+        },
+        {
+            "subject": "sensors",
+            "relation": "utilize",
+            "object": "speaker"
+        },
+        {
+            "subject": "Fahrenheit",
+            "relation": "lead",
+            "object": "arrangements"
+        },
+        {
+            "subject": "START",
+            "relation": "read",
+            "object": "information"
+        },
+        {
+            "subject": "circuit",
+            "relation": "have",
+            "object": "transistors"
+        },
+        {
+            "subject": "circuit",
+            "relation": "have",
+            "object": "few"
+        },
+        {
+            "subject": "several",
+            "relation": "give",
+            "object": "circuit"
+        },
+        {
+            "subject": "level",
+            "relation": "achieve",
+            "object": "base"
+        },
+        {
+            "subject": "it",
+            "relation": "demonstrate",
+            "object": "condition"
+        },
+        {
+            "subject": "control",
+            "relation": "turn",
+            "object": "engine"
+        },
+        {
+            "subject": "water",
+            "relation": "achieve",
+            "object": "level"
+        },
+        {
+            "subject": "that",
+            "relation": "engage",
+            "object": "articles"
+        },
+        {
+            "subject": "contraptions",
+            "relation": "hoard",
+            "object": "data"
+        },
+        {
+            "subject": "it",
+            "relation": "interface",
+            "object": "one"
+        },
+        {
+            "subject": "sensors",
+            "relation": "utilize",
+            "object": "speaker"
+        },
+        {
+            "subject": "Fahrenheit",
+            "relation": "lead",
+            "object": "arrangements"
+        },
+        {
+            "subject": "START",
+            "relation": "read",
+            "object": "information"
+        },
+        {
+            "subject": "circuit",
+            "relation": "have",
+            "object": "transistors"
+        },
+        {
+            "subject": "circuit",
+            "relation": "have",
+            "object": "few"
+        },
+        {
+            "subject": "several",
+            "relation": "give",
+            "object": "circuit"
+        },
+        {
+            "subject": "level",
+            "relation": "achieve",
+            "object": "base"
+        },
+        {
+            "subject": "it",
+            "relation": "demonstrate",
+            "object": "condition"
+        },
+        {
+            "subject": "control",
+            "relation": "turn",
+            "object": "engine"
+        },
+        {
+            "subject": "water",
+            "relation": "achieve",
+            "object": "level"
+        },
+        {
+            "subject": "that",
+            "relation": "engage",
+            "object": "articles"
+        },
+        {
+            "subject": "contraptions",
+            "relation": "hoard",
+            "object": "data"
+        },
+        {
+            "subject": "magnetism",
+            "relation": "accompany",
+            "object": "volts"
+        },
+        {
+            "subject": "you",
+            "relation": "require",
+            "object": "change"
+        },
+        {
+            "subject": "magnetism",
+            "relation": "accompany",
+            "object": "volts"
+        },
+        {
+            "subject": "you",
+            "relation": "require",
+            "object": "change"
+        },
+        {
+            "subject": "BOTTOMLEFT",
+            "relation": "read",
+            "object": "Values"
+        },
+        {
+            "subject": "Humidity",
+            "relation": "sensor",
+            "object": "sensors"
+        },
+        {
+            "subject": "It",
+            "relation": "decide",
+            "object": "temperature"
+        },
+        {
+            "subject": "It",
+            "relation": "decide",
+            "object": "temperature"
+        },
+        {
+            "subject": "yield",
+            "relation": "appear",
+            "object": "state"
+        },
+        {
+            "subject": "It",
+            "relation": "decide",
+            "object": "temperature"
+        },
+        {
+            "subject": "It",
+            "relation": "decide",
+            "object": "temperature"
+        },
+        {
+            "subject": "CONCLUSION",
+            "relation": "propose",
+            "object": "thought"
+        },
+        {
+            "subject": "paper",
+            "relation": "propose",
+            "object": "thought"
+        },
+        {
+            "subject": "paper",
+            "relation": "propose",
+            "object": "thought"
+        },
+        {
+            "subject": "particularity",
+            "relation": "station",
+            "object": "cultivation"
+        },
+        {
+            "subject": "particularity",
+            "relation": "station",
+            "object": "cultivation"
+        },
+        {
+            "subject": "Design",
+            "relation": "use",
+            "object": "Internet"
+        },
+        {
+            "subject": "Design",
+            "relation": "use",
+            "object": "Internet"
+        },
+        {
+            "subject": "Lee",
+            "relation": "Yoe",
+            "object": "Conference"
+        },
+        {
+            "subject": "Hyun",
+            "relation": "Yoe",
+            "object": "Conference"
+        },
+        {
+            "subject": "Lee",
+            "relation": "Yoe",
+            "object": "Conference"
+        },
+        {
+            "subject": "Hyun",
+            "relation": "Yoe",
+            "object": "Conference"
+        }
+    ]
+}

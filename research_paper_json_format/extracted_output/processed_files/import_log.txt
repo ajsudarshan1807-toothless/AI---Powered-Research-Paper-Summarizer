@@ -1,0 +1,18 @@
+
+--- Batch Import: 2026-02-06 11:32:36 ---
+[SUCCESS] Imported 688 triples from output10_extracted.json
+[SUCCESS] Imported 207 triples from output11_extracted.json
+[SUCCESS] Imported 305 triples from output12_extracted.json
+[SUCCESS] Imported 244 triples from output13_extracted.json
+[SUCCESS] Imported 362 triples from output14_extracted.json
+[SUCCESS] Imported 125 triples from output15_extracted.json
+[SUCCESS] Imported 114 triples from output1_extracted.json
+[SUCCESS] Imported 591 triples from output2_extracted.json
+[SUCCESS] Imported 128 triples from output3_extracted.json
+[SUCCESS] Imported 190 triples from output4_extracted.json
+[SUCCESS] Imported 465 triples from output5_extracted.json
+[SUCCESS] Imported 776 triples from output6_extracted.json
+[SUCCESS] Imported 179 triples from output7_extracted.json
+[SUCCESS] Imported 147 triples from output8_extracted.json
+[SUCCESS] Imported 331 triples from output9_extracted.json
+Total: 15 files moved, 4852 triples created.

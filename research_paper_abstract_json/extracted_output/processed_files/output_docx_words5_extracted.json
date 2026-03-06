@@ -1,0 +1,54 @@
+{
+    "source_file": "output_docx_words5.json",
+    "entities": [
+        {
+            "text": "CSR",
+            "label": "ORG"
+        },
+        {
+            "text": "Theme         1:         \u2018Malnutrition         is         a         secondary         concern\u2019,         encapsulating         the         idea         that         the         identification         of         malnutrition         is         usually         secondary         to         other         clinical         issues         or         disease         rather         than         an         independent         clinical         ",
+            "label": "WORK_OF_ART"
+        },
+        {
+            "text": "Theme         2:         \u2018Responsibility         for         malnutrition         and         ONS         management         in         the         community\u2019,         highlighting         that         GPs         feel         they         do         not         know         who         is         responsible         for         the         management         of         malnutrition         in         the         community         setting         and         expressed         their         need         for         more         support         from         other         healthcare         professionals         (HCPs)         to         effectively         monitor         and         treat         malnutrition",
+            "label": "WORK_OF_ART"
+        }
+    ],
+    "triples": [
+        {
+            "subject": "research",
+            "relation": "report",
+            "object": "screening"
+        },
+        {
+            "subject": "interviews",
+            "relation": "explore",
+            "object": "domains"
+        },
+        {
+            "subject": "theme",
+            "relation": "include",
+            "object": "idea"
+        },
+        {
+            "subject": "highlighting",
+            "relation": "express",
+            "object": "need"
+        },
+        {
+            "subject": "Conclusions",
+            "relation": "do",
+            "object": "screen"
+        },
+        {
+            "subject": "GPs",
+            "relation": "view",
+            "object": "malnutrition"
+        },
+        {
+            "subject": "they",
+            "relation": "have",
+            "object": "knowledge"
+        }
+    ]
+}

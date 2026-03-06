@@ -1,0 +1,6 @@
+
+--- Batch Import: 2026-02-06 11:33:19 ---
+[SUCCESS] Imported 30 triples from output_citation_extracted.json
+[SUCCESS] Imported 7 triples from output_metadata_extracted.json
+[SUCCESS] Imported 17 triples from output_referencedata_extracted.json
+Total: 3 files moved, 54 triples created.

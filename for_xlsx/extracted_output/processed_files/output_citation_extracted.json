@@ -1,0 +1,2057 @@
+{
+    "source_file": "output_citation.json",
+    "entities": [
+        {
+            "text": "Smart Agriculture System",
+            "label": "ORG"
+        },
+        {
+            "text": "IoT Technology",
+            "label": "ORG"
+        },
+        {
+            "text": "Kumar et al.",
+            "label": "PERSON"
+        },
+        {
+            "text": "IoT",
+            "label": "ORG"
+        },
+        {
+            "text": "Smart Agriculture System",
+            "label": "ORG"
+        },
+        {
+            "text": "IoT Technology",
+            "label": "ORG"
+        },
+        {
+            "text": "M.K. Gayathri",
+            "label": "PERSON"
+        },
+        {
+            "text": "Giving Smart Agriculture Solutions",
+            "label": "WORK_OF_ART"
+        },
+        {
+            "text": "Better Yielding Using",
+            "label": "ORG"
+        },
+        {
+            "text": "Smart Agriculture System",
+            "label": "ORG"
+        },
+        {
+            "text": "IoT Technology",
+            "label": "ORG"
+        },
+        {
+            "text": "Zhou Zhongwei",
+            "label": "PERSON"
+        },
+        {
+            "text": "Smart Agriculture System",
+            "label": "ORG"
+        },
+        {
+            "text": "IoT Technology Li Sanbo et al.",
+            "label": "ORG"
+        },
+        {
+            "text": "Smart Agriculture System",
+            "label": "ORG"
+        },
+        {
+            "text": "IoT Technology Smash",
+            "label": "ORG"
+        },
+        {
+            "text": "Smart Agriculture System",
+            "label": "ORG"
+        },
+        {
+            "text": "IoT Technology Bo Yifan",
+            "label": "ORG"
+        },
+        {
+            "text": "Smart Agriculture System",
+            "label": "ORG"
+        },
+        {
+            "text": "IoT Technology M.V. Latte",
+            "label": "ORG"
+        },
+        {
+            "text": "Smart Agriculture System",
+            "label": "ORG"
+        },
+        {
+            "text": "IoT Technology",
+            "label": "ORG"
+        },
+        {
+            "text": "cole",
+            "label": "PRODUCT"
+        },
+        {
+            "text": "2011",
+            "label": "DATE"
+        },
+        {
+            "text": "Smart Agriculture System",
+            "label": "ORG"
+        },
+        {
+            "text": "IoT Technology Nikesh Gondchawar",
+            "label": "ORG"
+        },
+        {
+            "text": "R.S. Kawitkar",
+            "label": "PERSON"
+        },
+        {
+            "text": "IoT",
+            "label": "ORG"
+        },
+        {
+            "text": "2016",
+            "label": "DATE"
+        },
+        {
+            "text": "Smart Agriculture System",
+            "label": "ORG"
+        },
+        {
+            "text": "IoT Technology \"Agriculture",
+            "label": "ORG"
+        },
+        {
+            "text": "1",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "2013",
+            "label": "DATE"
+        },
+        {
+            "text": "BERT",
+            "label": "ORG"
+        },
+        {
+            "text": "Deep Bidirectional Transformers for Language Understanding Radford et al.",
+            "label": "WORK_OF_ART"
+        },
+        {
+            "text": "BERT",
+            "label": "ORG"
+        },
+        {
+            "text": "Deep Bidirectional Transformers for Language Understanding Vaswani et al.",
+            "label": "WORK_OF_ART"
+        },
+        {
+            "text": "BERT",
+            "label": "ORG"
+        },
+        {
+            "text": "Deep Bidirectional Transformers for Language Understanding Taylor",
+            "label": "WORK_OF_ART"
+        },
+        {
+            "text": "BERT",
+            "label": "ORG"
+        },
+        {
+            "text": "Deep Bidirectional Transformers for Language Understanding Brown et al.",
+            "label": "WORK_OF_ART"
+        },
+        {
+            "text": "BERT",
+            "label": "ORG"
+        },
+        {
+            "text": "Deep Bidirectional Transformers for Language Understanding Ando",
+            "label": "WORK_OF_ART"
+        },
+        {
+            "text": "Zhang",
+            "label": "PERSON"
+        },
+        {
+            "text": "BERT",
+            "label": "ORG"
+        },
+        {
+            "text": "Deep Bidirectional Transformers for Language Understanding Blitzer et al.",
+            "label": "WORK_OF_ART"
+        },
+        {
+            "text": "BERT",
+            "label": "ORG"
+        },
+        {
+            "text": "Deep Bidirectional Transformers for Language Understanding Mikolov et al.",
+            "label": "WORK_OF_ART"
+        },
+        {
+            "text": "BERT",
+            "label": "ORG"
+        },
+        {
+            "text": "Deep Bidirectional Transformers for Language Understanding Pennington",
+            "label": "WORK_OF_ART"
+        },
+        {
+            "text": "Glove: Global",
+            "label": "WORK_OF_ART"
+        },
+        {
+            "text": "BERT",
+            "label": "ORG"
+        },
+        {
+            "text": "Deep Bidirectional Transformers for Language Understanding Turian et al.",
+            "label": "WORK_OF_ART"
+        },
+        {
+            "text": "BERT",
+            "label": "ORG"
+        },
+        {
+            "text": "Deep Bidirectional Transformers for Language Understanding Mnih",
+            "label": "WORK_OF_ART"
+        },
+        {
+            "text": "Hinton",
+            "label": "PERSON"
+        },
+        {
+            "text": "Khosla S.",
+            "label": "PERSON"
+        },
+        {
+            "text": "2003",
+            "label": "DATE"
+        },
+        {
+            "text": "Quantitative Ultrasound",
+            "label": "PERSON"
+        },
+        {
+            "text": "1994",
+            "label": "DATE"
+        },
+        {
+            "text": "Quantitative Ultrasound",
+            "label": "PERSON"
+        },
+        {
+            "text": "2008",
+            "label": "DATE"
+        },
+        {
+            "text": "Quantitative Ultrasound",
+            "label": "PERSON"
+        },
+        {
+            "text": "Laugier P.",
+            "label": "PERSON"
+        },
+        {
+            "text": "2004",
+            "label": "DATE"
+        },
+        {
+            "text": "Quantitative Ultrasound",
+            "label": "PERSON"
+        },
+        {
+            "text": "Philippines",
+            "label": "GPE"
+        },
+        {
+            "text": "2008",
+            "label": "DATE"
+        },
+        {
+            "text": "Quantitative Ultrasound",
+            "label": "PERSON"
+        },
+        {
+            "text": "Calcaneous",
+            "label": "PERSON"
+        },
+        {
+            "text": "2007",
+            "label": "DATE"
+        },
+        {
+            "text": "Quantitative Ultrasound",
+            "label": "PERSON"
+        },
+        {
+            "text": "Baroncelli GI",
+            "label": "PERSON"
+        },
+        {
+            "text": "Quantitative Ultrasound Methods to Assess Bone Mineral Status",
+            "label": "WORK_OF_ART"
+        },
+        {
+            "text": "2008",
+            "label": "DATE"
+        },
+        {
+            "text": "Quantitative Ultrasound",
+            "label": "PERSON"
+        },
+        {
+            "text": "2008",
+            "label": "DATE"
+        },
+        {
+            "text": "Quantitative Ultrasound",
+            "label": "PERSON"
+        },
+        {
+            "text": "Quantitative Ultrasound",
+            "label": "WORK_OF_ART"
+        },
+        {
+            "text": "2009",
+            "label": "DATE"
+        },
+        {
+            "text": "Quantitative Ultrasound",
+            "label": "PERSON"
+        },
+        {
+            "text": "Quantitative Ultrasound",
+            "label": "WORK_OF_ART"
+        },
+        {
+            "text": "the Management of Osteoporosis",
+            "label": "ORG"
+        },
+        {
+            "text": "2007",
+            "label": "DATE"
+        },
+        {
+            "text": "ISCD Official Positions",
+            "label": "LAW"
+        },
+        {
+            "text": "2008",
+            "label": "DATE"
+        },
+        {
+            "text": "Nigeria",
+            "label": "GPE"
+        },
+        {
+            "text": "2007",
+            "label": "DATE"
+        },
+        {
+            "text": "2007",
+            "label": "DATE"
+        },
+        {
+            "text": "fourth",
+            "label": "ORDINAL"
+        },
+        {
+            "text": "General Overview of Climate Change Impacts",
+            "label": "ORG"
+        },
+        {
+            "text": "Nigeria",
+            "label": "GPE"
+        },
+        {
+            "text": "Ayoade JO",
+            "label": "PERSON"
+        },
+        {
+            "text": "2004",
+            "label": "DATE"
+        },
+        {
+            "text": "General Overview of Climate Change Impacts",
+            "label": "ORG"
+        },
+        {
+            "text": "Nigeria Smith",
+            "label": "PERSON"
+        },
+        {
+            "text": "1994",
+            "label": "DATE"
+        },
+        {
+            "text": "Nigeria Msumba",
+            "label": "ORG"
+        },
+        {
+            "text": "2006",
+            "label": "DATE"
+        },
+        {
+            "text": "General Overview of Climate Change Impacts",
+            "label": "ORG"
+        },
+        {
+            "text": "Nigeria Nwafor JC",
+            "label": "PERSON"
+        },
+        {
+            "text": "2007",
+            "label": "DATE"
+        },
+        {
+            "text": "Sub-Saharan Africa",
+            "label": "ORG"
+        },
+        {
+            "text": "General Overview of Climate Change Impacts",
+            "label": "ORG"
+        },
+        {
+            "text": "Nigeria Jagtap S",
+            "label": "PERSON"
+        },
+        {
+            "text": "2007",
+            "label": "DATE"
+        },
+        {
+            "text": "Africa",
+            "label": "LOC"
+        },
+        {
+            "text": "General Overview of Climate Change Impacts",
+            "label": "ORG"
+        },
+        {
+            "text": "Nigeria Odjugo",
+            "label": "ORG"
+        },
+        {
+            "text": "PAO",
+            "label": "ORG"
+        },
+        {
+            "text": "Nigeria Odjugo PAO",
+            "label": "ORG"
+        },
+        {
+            "text": "2005",
+            "label": "DATE"
+        },
+        {
+            "text": "Nigeria",
+            "label": "GPE"
+        },
+        {
+            "text": "General Overview of Climate Change Impacts",
+            "label": "ORG"
+        },
+        {
+            "text": "Nigeria Odjugo PAO",
+            "label": "ORG"
+        },
+        {
+            "text": "Ikhuoria AI",
+            "label": "ORG"
+        },
+        {
+            "text": "2003",
+            "label": "DATE"
+        },
+        {
+            "text": "Nigeria",
+            "label": "GPE"
+        },
+        {
+            "text": "General Overview of Climate Change Impacts",
+            "label": "ORG"
+        },
+        {
+            "text": "Nigeria Nigerian Environmental Study/Action Team",
+            "label": "ORG"
+        },
+        {
+            "text": "NEST",
+            "label": "ORG"
+        },
+        {
+            "text": "2003",
+            "label": "DATE"
+        },
+        {
+            "text": "Nigeria",
+            "label": "GPE"
+        },
+        {
+            "text": "Elia M",
+            "label": "PERSON"
+        },
+        {
+            "text": "Russell CA",
+            "label": "PERSON"
+        },
+        {
+            "text": "Stratton RJ.",
+            "label": "PERSON"
+        },
+        {
+            "text": "UK",
+            "label": "GPE"
+        },
+        {
+            "text": "2010",
+            "label": "DATE"
+        },
+        {
+            "text": "Abizanda",
+            "label": "NORP"
+        },
+        {
+            "text": "2016",
+            "label": "DATE"
+        },
+        {
+            "text": "Stratton RJ.",
+            "label": "PERSON"
+        },
+        {
+            "text": "2007",
+            "label": "DATE"
+        },
+        {
+            "text": "Soderstrom L",
+            "label": "PERSON"
+        },
+        {
+            "text": "2017",
+            "label": "DATE"
+        },
+        {
+            "text": "Lim SL",
+            "label": "PERSON"
+        },
+        {
+            "text": "3-year",
+            "label": "DATE"
+        },
+        {
+            "text": "2012",
+            "label": "DATE"
+        },
+        {
+            "text": "Sharma",
+            "label": "NORP"
+        },
+        {
+            "text": "7 days",
+            "label": "DATE"
+        },
+        {
+            "text": "8-180 days",
+            "label": "DATE"
+        },
+        {
+            "text": "2017",
+            "label": "DATE"
+        },
+        {
+            "text": "Rice N",
+            "label": "PERSON"
+        },
+        {
+            "text": "Normand C.",
+            "label": "PERSON"
+        },
+        {
+            "text": "Ireland",
+            "label": "GPE"
+        },
+        {
+            "text": "2012",
+            "label": "DATE"
+        },
+        {
+            "text": "de van",
+            "label": "PERSON"
+        },
+        {
+            "text": "Schueren MA",
+            "label": "PERSON"
+        },
+        {
+            "text": "2016",
+            "label": "DATE"
+        },
+        {
+            "text": "United Nations",
+            "label": "ORG"
+        },
+        {
+            "text": "2019",
+            "label": "DATE"
+        },
+        {
+            "text": "Arends",
+            "label": "PERSON"
+        },
+        {
+            "text": "2017",
+            "label": "DATE"
+        },
+        {
+            "text": "anti-muslim",
+            "label": "NORP"
+        },
+        {
+            "text": "2021",
+            "label": "DATE"
+        },
+        {
+            "text": "D.",
+            "label": "NORP"
+        },
+        {
+            "text": "2002",
+            "label": "DATE"
+        },
+        {
+            "text": "2011",
+            "label": "DATE"
+        },
+        {
+            "text": "2020",
+            "label": "DATE"
+        },
+        {
+            "text": "Restrepo",
+            "label": "GPE"
+        },
+        {
+            "text": "2018",
+            "label": "DATE"
+        },
+        {
+            "text": "Restrepo",
+            "label": "GPE"
+        },
+        {
+            "text": "2019",
+            "label": "DATE"
+        },
+        {
+            "text": "2018",
+            "label": "DATE"
+        },
+        {
+            "text": "2021",
+            "label": "DATE"
+        },
+        {
+            "text": "2017",
+            "label": "DATE"
+        },
+        {
+            "text": "1940-2018",
+            "label": "DATE"
+        },
+        {
+            "text": "2022",
+            "label": "DATE"
+        },
+        {
+            "text": "Acharya JP",
+            "label": "PERSON"
+        },
+        {
+            "text": "Waghrey D.",
+            "label": "PERSON"
+        },
+        {
+            "text": "the Common Health Effects of Cell-Phones",
+            "label": "ORG"
+        },
+        {
+            "text": "2013",
+            "label": "DATE"
+        },
+        {
+            "text": "Agrawal A et al.",
+            "label": "ORG"
+        },
+        {
+            "text": "Semen Analysis",
+            "label": "ORG"
+        },
+        {
+            "text": "2008",
+            "label": "DATE"
+        },
+        {
+            "text": "Ahmed",
+            "label": "PERSON"
+        },
+        {
+            "text": "2011",
+            "label": "DATE"
+        },
+        {
+            "text": "2011",
+            "label": "DATE"
+        },
+        {
+            "text": "The Dark Side of Mobile Phones",
+            "label": "WORK_OF_ART"
+        },
+        {
+            "text": "2010",
+            "label": "DATE"
+        },
+        {
+            "text": "Bianchi A",
+            "label": "ORG"
+        },
+        {
+            "text": "Phillips J.",
+            "label": "PERSON"
+        },
+        {
+            "text": "2005",
+            "label": "DATE"
+        },
+        {
+            "text": "Billieux J et al.",
+            "label": "WORK_OF_ART"
+        },
+        {
+            "text": "2007",
+            "label": "DATE"
+        },
+        {
+            "text": "Billieux J et al.",
+            "label": "WORK_OF_ART"
+        },
+        {
+            "text": "2008",
+            "label": "DATE"
+        },
+        {
+            "text": "iPod",
+            "label": "ORG"
+        },
+        {
+            "text": "2005",
+            "label": "DATE"
+        },
+        {
+            "text": "Cagan",
+            "label": "PERSON"
+        },
+        {
+            "text": "Addiction to Cellular Phone",
+            "label": "ORG"
+        },
+        {
+            "text": "2014",
+            "label": "DATE"
+        },
+        {
+            "text": "Machine Learning Algorithms",
+            "label": "PERSON"
+        },
+        {
+            "text": "Andres",
+            "label": "PERSON"
+        },
+        {
+            "text": "Machine Learning and Optimization",
+            "label": "WORK_OF_ART"
+        },
+        {
+            "text": "2017",
+            "label": "DATE"
+        },
+        {
+            "text": "Machine Learning Algorithms",
+            "label": "PERSON"
+        },
+        {
+            "text": "L. William",
+            "label": "PERSON"
+        },
+        {
+            "text": "Machine Learning",
+            "label": "WORK_OF_ART"
+        },
+        {
+            "text": "2017",
+            "label": "DATE"
+        },
+        {
+            "text": "Machine Learning Algorithms",
+            "label": "PERSON"
+        },
+        {
+            "text": "Ron Kohavi",
+            "label": "PERSON"
+        },
+        {
+            "text": "Foster Provost",
+            "label": "PERSON"
+        },
+        {
+            "text": "Machine Learning",
+            "label": "PERSON"
+        },
+        {
+            "text": "1998",
+            "label": "DATE"
+        },
+        {
+            "text": "Machine Learning Algorithms",
+            "label": "PERSON"
+        },
+        {
+            "text": "K. Singh",
+            "label": "PERSON"
+        },
+        {
+            "text": "A Review on Conventional Machine Learning vs Deep Learning",
+            "label": "WORK_OF_ART"
+        },
+        {
+            "text": "2018",
+            "label": "DATE"
+        },
+        {
+            "text": "Machine Learning Algorithms",
+            "label": "PERSON"
+        },
+        {
+            "text": "Supervised Machine Learning: A Review of Classification Techniques",
+            "label": "WORK_OF_ART"
+        },
+        {
+            "text": "2007",
+            "label": "DATE"
+        },
+        {
+            "text": "Machine Learning Algorithms",
+            "label": "PERSON"
+        },
+        {
+            "text": "Review D. Meyer",
+            "label": "ORG"
+        },
+        {
+            "text": "Support Vector Machines",
+            "label": "WORK_OF_ART"
+        },
+        {
+            "text": "Interface",
+            "label": "ORG"
+        },
+        {
+            "text": "1071",
+            "label": "DATE"
+        },
+        {
+            "text": "2015",
+            "label": "DATE"
+        },
+        {
+            "text": "Machine Learning Algorithms",
+            "label": "PERSON"
+        },
+        {
+            "text": "Y. Lee",
+            "label": "PERSON"
+        },
+        {
+            "text": "Y. Lin",
+            "label": "PERSON"
+        },
+        {
+            "text": "G. Wahba",
+            "label": "PERSON"
+        },
+        {
+            "text": "2004",
+            "label": "DATE"
+        },
+        {
+            "text": "Machine Learning Algorithms",
+            "label": "PERSON"
+        },
+        {
+            "text": "Y. Singer",
+            "label": "PERSON"
+        },
+        {
+            "text": "N. Srebro",
+            "label": "PERSON"
+        },
+        {
+            "text": "Pegasos: Primal",
+            "label": "WORK_OF_ART"
+        },
+        {
+            "text": "2007",
+            "label": "DATE"
+        },
+        {
+            "text": "Machine Learning Algorithms",
+            "label": "PERSON"
+        },
+        {
+            "text": "Machine Learning",
+            "label": "WORK_OF_ART"
+        },
+        {
+            "text": "2012",
+            "label": "DATE"
+        },
+        {
+            "text": "Investigating the Performance of Naive Bayes Classifiers",
+            "label": "WORK_OF_ART"
+        },
+        {
+            "text": "K- Nearest Neighbor Classifiers",
+            "label": "ORG"
+        },
+        {
+            "text": "2010",
+            "label": "DATE"
+        },
+        {
+            "text": "S. R. & Melton",
+            "label": "ORG"
+        },
+        {
+            "text": "L. J.",
+            "label": "PERSON"
+        },
+        {
+            "text": "2002",
+            "label": "DATE"
+        },
+        {
+            "text": "Gullberg",
+            "label": "PERSON"
+        },
+        {
+            "text": "B. et al.",
+            "label": "PERSON"
+        },
+        {
+            "text": "1997",
+            "label": "DATE"
+        },
+        {
+            "text": "Melton",
+            "label": "PERSON"
+        },
+        {
+            "text": "L. J. & Cooper, C.",
+            "label": "ORG"
+        },
+        {
+            "text": "Magnitude and Impact of Osteoporosis",
+            "label": "WORK_OF_ART"
+        },
+        {
+            "text": "2007",
+            "label": "DATE"
+        },
+        {
+            "text": "Cosman",
+            "label": "PERSON"
+        },
+        {
+            "text": "F. et al.",
+            "label": "PERSON"
+        },
+        {
+            "text": "Clinician",
+            "label": "NORP"
+        },
+        {
+            "text": "2014",
+            "label": "DATE"
+        },
+        {
+            "text": "Kanis",
+            "label": "PERSON"
+        },
+        {
+            "text": "J. A. et al.",
+            "label": "PERSON"
+        },
+        {
+            "text": "2005",
+            "label": "DATE"
+        },
+        {
+            "text": "Marshall",
+            "label": "PERSON"
+        },
+        {
+            "text": "D. & Wedel",
+            "label": "ORG"
+        },
+        {
+            "text": "1996",
+            "label": "DATE"
+        },
+        {
+            "text": "Warrington",
+            "label": "ORG"
+        },
+        {
+            "text": "N. M. et al.",
+            "label": "PERSON"
+        },
+        {
+            "text": "2015",
+            "label": "DATE"
+        },
+        {
+            "text": "Eisman",
+            "label": "PERSON"
+        },
+        {
+            "text": "1999",
+            "label": "DATE"
+        },
+        {
+            "text": "N. A. et al",
+            "label": "PERSON"
+        },
+        {
+            "text": "1987",
+            "label": "DATE"
+        },
+        {
+            "text": "Morris",
+            "label": "PERSON"
+        },
+        {
+            "text": "J. A. et al.",
+            "label": "PERSON"
+        },
+        {
+            "text": "2019",
+            "label": "DATE"
+        },
+        {
+            "text": "Neural Architecture Design",
+            "label": "ORG"
+        },
+        {
+            "text": "GPU-Efficient Networks Cai",
+            "label": "ORG"
+        },
+        {
+            "text": "Proxyless NAS: Direct Neural Architecture Search on Target Task and Hardware",
+            "label": "WORK_OF_ART"
+        },
+        {
+            "text": "2019",
+            "label": "DATE"
+        },
+        {
+            "text": "GPU-Efficient Networks Cai",
+            "label": "ORG"
+        },
+        {
+            "text": "Specialize",
+            "label": "NORP"
+        },
+        {
+            "text": "2020",
+            "label": "DATE"
+        },
+        {
+            "text": "Neural Architecture Design",
+            "label": "ORG"
+        },
+        {
+            "text": "GPU-Efficient Networks Cubuk",
+            "label": "ORG"
+        },
+        {
+            "text": "AutoAugment",
+            "label": "ORG"
+        },
+        {
+            "text": "Data",
+            "label": "ORG"
+        },
+        {
+            "text": "2019",
+            "label": "DATE"
+        },
+        {
+            "text": "GPU-Efficient Networks Deng et al.",
+            "label": "ORG"
+        },
+        {
+            "text": "ImageNet",
+            "label": "ORG"
+        },
+        {
+            "text": "2009",
+            "label": "DATE"
+        },
+        {
+            "text": "Neural Architecture Design",
+            "label": "ORG"
+        },
+        {
+            "text": "GPU-Efficient Networks",
+            "label": "ORG"
+        },
+        {
+            "text": "Deep Residual Learning for Image Recognition",
+            "label": "WORK_OF_ART"
+        },
+        {
+            "text": "2016",
+            "label": "DATE"
+        },
+        {
+            "text": "GPU-Efficient Networks",
+            "label": "ORG"
+        },
+        {
+            "text": "2015",
+            "label": "DATE"
+        },
+        {
+            "text": "GPU-Efficient Networks Howard",
+            "label": "ORG"
+        },
+        {
+            "text": "2019",
+            "label": "DATE"
+        },
+        {
+            "text": "GPU-Efficient Networks Howard",
+            "label": "ORG"
+        },
+        {
+            "text": "Efficient Convolutional Neural Networks for Mobile Vision Applications",
+            "label": "ORG"
+        },
+        {
+            "text": "2017",
+            "label": "DATE"
+        },
+        {
+            "text": "GPU-Efficient Networks Hu",
+            "label": "ORG"
+        },
+        {
+            "text": "2018",
+            "label": "DATE"
+        },
+        {
+            "text": "Neural Architecture Design",
+            "label": "ORG"
+        },
+        {
+            "text": "GPU-Efficient Networks Li",
+            "label": "ORG"
+        },
+        {
+            "text": "Blockwisely Supervised Neural Architecture Search with Knowledge Distillation",
+            "label": "WORK_OF_ART"
+        },
+        {
+            "text": "2019",
+            "label": "DATE"
+        },
+        {
+            "text": "Quantum",
+            "label": "ORG"
+        },
+        {
+            "text": "Mathieu",
+            "label": "PERSON"
+        },
+        {
+            "text": "2015",
+            "label": "DATE"
+        },
+        {
+            "text": "Quantum",
+            "label": "ORG"
+        },
+        {
+            "text": "Ledig et al",
+            "label": "PRODUCT"
+        },
+        {
+            "text": "2016",
+            "label": "DATE"
+        },
+        {
+            "text": "Quantum",
+            "label": "ORG"
+        },
+        {
+            "text": "Pathak et al.",
+            "label": "PERSON"
+        },
+        {
+            "text": "2016",
+            "label": "DATE"
+        },
+        {
+            "text": "Quantum",
+            "label": "ORG"
+        },
+        {
+            "text": "Biamonte et al.",
+            "label": "PERSON"
+        },
+        {
+            "text": "Nature 549",
+            "label": "WORK_OF_ART"
+        },
+        {
+            "text": "195",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "2017",
+            "label": "DATE"
+        },
+        {
+            "text": "Quantum",
+            "label": "ORG"
+        },
+        {
+            "text": "Preskill",
+            "label": "ORG"
+        },
+        {
+            "text": "Quantum",
+            "label": "ORG"
+        },
+        {
+            "text": "NISQ",
+            "label": "ORG"
+        },
+        {
+            "text": "2018",
+            "label": "DATE"
+        },
+        {
+            "text": "Quantum",
+            "label": "ORG"
+        },
+        {
+            "text": "Helstrom",
+            "label": "PRODUCT"
+        },
+        {
+            "text": "Quantum",
+            "label": "ORG"
+        },
+        {
+            "text": "1976",
+            "label": "DATE"
+        },
+        {
+            "text": "Quantum",
+            "label": "ORG"
+        },
+        {
+            "text": "Nielsen",
+            "label": "GPE"
+        },
+        {
+            "text": "Chuang",
+            "label": "PERSON"
+        },
+        {
+            "text": "Quantum",
+            "label": "ORG"
+        },
+        {
+            "text": "2000",
+            "label": "DATE"
+        },
+        {
+            "text": "Quantum",
+            "label": "ORG"
+        },
+        {
+            "text": "LeCun et al.",
+            "label": "PERSON"
+        },
+        {
+            "text": "Nature 521",
+            "label": "WORK_OF_ART"
+        },
+        {
+            "text": "436",
+            "label": "CARDINAL"
+        },
+        {
+            "text": "2015",
+            "label": "DATE"
+        },
+        {
+            "text": "Quantum",
+            "label": "ORG"
+        },
+        {
+            "text": "Kakutani",
+            "label": "PERSON"
+        },
+        {
+            "text": "Duke Mathematical Journal",
+            "label": "ORG"
+        },
+        {
+            "text": "1941",
+            "label": "DATE"
+        },
+        {
+            "text": "The New Inline 4 Cylinder 2.5L Gasoline Engine",
+            "label": "ORG"
+        },
+        {
+            "text": "Toyota New Global Architecture Concept Ohta et al.",
+            "label": "ORG"
+        },
+        {
+            "text": "The New PRIUS Powertrain: The New 1.8L",
+            "label": "WORK_OF_ART"
+        },
+        {
+            "text": "2016",
+            "label": "DATE"
+        },
+        {
+            "text": "The New Inline 4 Cylinder 2.5L Gasoline Engine",
+            "label": "ORG"
+        },
+        {
+            "text": "Toyota New Global Architecture Concept Nakata",
+            "label": "ORG"
+        },
+        {
+            "text": "Shimizu",
+            "label": "ORG"
+        },
+        {
+            "text": "Toyota",
+            "label": "ORG"
+        },
+        {
+            "text": "New Combustion Technology",
+            "label": "ORG"
+        },
+        {
+            "text": "2016",
+            "label": "DATE"
+        },
+        {
+            "text": "The New Inline 4 Cylinder 2.5L Gasoline Engine",
+            "label": "ORG"
+        },
+        {
+            "text": "Toyota New Global Architecture Concept Chen",
+            "label": "ORG"
+        },
+        {
+            "text": "Flynn",
+            "label": "PERSON"
+        },
+        {
+            "text": "1965",
+            "label": "DATE"
+        },
+        {
+            "text": "The New Inline 4 Cylinder 2.5L Gasoline Engine",
+            "label": "ORG"
+        },
+        {
+            "text": "Toyota New Global Architecture Concept Watanabe et al.",
+            "label": "ORG"
+        },
+        {
+            "text": "The New Toyota",
+            "label": "WORK_OF_ART"
+        },
+        {
+            "text": "2.0-Liter Inline 4-Cylinder",
+            "label": "PRODUCT"
+        },
+        {
+            "text": "2014",
+            "label": "DATE"
+        },
+        {
+            "text": "The New Inline 4 Cylinder 2.5L Gasoline Engine",
+            "label": "ORG"
+        },
+        {
+            "text": "Toyota New Global Architecture Concept Yoshihara",
+            "label": "ORG"
+        },
+        {
+            "text": "Development of High Tumble Intake",
+            "label": "WORK_OF_ART"
+        },
+        {
+            "text": "High Thermal Efficiency Engines",
+            "label": "ORG"
+        },
+        {
+            "text": "2016",
+            "label": "DATE"
+        },
+        {
+            "text": "The New Inline 4 Cylinder 2.5L Gasoline Engine",
+            "label": "ORG"
+        },
+        {
+            "text": "Toyota New Global Architecture Concept Tokuda et al.",
+            "label": "ORG"
+        },
+        {
+            "text": "Development of CFD Shape Optimization Technology",
+            "label": "WORK_OF_ART"
+        },
+        {
+            "text": "the Adjoint Method",
+            "label": "PRODUCT"
+        },
+        {
+            "text": "2013",
+            "label": "DATE"
+        },
+        {
+            "text": "The New Inline 4 Cylinder 2.5L Gasoline Engine",
+            "label": "ORG"
+        },
+        {
+            "text": "Toyota New Global Architecture Concept Murase",
+            "label": "ORG"
+        },
+        {
+            "text": "Shimizu",
+            "label": "PERSON"
+        },
+        {
+            "text": "Toyota New Global Architecture",
+            "label": "ORG"
+        },
+        {
+            "text": "2016",
+            "label": "DATE"
+        },
+        {
+            "text": "The New Inline 4 Cylinder 2.5L Gasoline Engine",
+            "label": "ORG"
+        },
+        {
+            "text": "Toyota New Global Architecture Concept Kuroda",
+            "label": "ORG"
+        },
+        {
+            "text": "Nurturing of 'Performance Feel'",
+            "label": "WORK_OF_ART"
+        },
+        {
+            "text": "2003",
+            "label": "DATE"
+        },
+        {
+            "text": "The New Inline 4 Cylinder 2.5L Gasoline Engine",
+            "label": "ORG"
+        },
+        {
+            "text": "Toyota New Global Architecture Concept Tanaka",
+            "label": "ORG"
+        },
+        {
+            "text": "A Study on the Mechanism of Driving Pleasure",
+            "label": "WORK_OF_ART"
+        },
+        {
+            "text": "2016",
+            "label": "DATE"
+        },
+        {
+            "text": "The New Inline 4 Cylinder 2.5L Gasoline Engine",
+            "label": "ORG"
+        },
+        {
+            "text": "Toyota New Global Architecture Concept Matsumoto",
+            "label": "ORG"
+        },
+        {
+            "text": "the New Prius",
+            "label": "ORG"
+        },
+        {
+            "text": "2016",
+            "label": "DATE"
+        },
+        {
+            "text": "The Transformer Architecture",
+            "label": "ORG"
+        },
+        {
+            "text": "2023",
+            "label": "DATE"
+        },
+        {
+            "text": "The Transformer Architecture",
+            "label": "ORG"
+        },
+        {
+            "text": "Attention Is All You Need",
+            "label": "WORK_OF_ART"
+        },
+        {
+            "text": "2017",
+            "label": "DATE"
+        },
+        {
+            "text": "The Transformer Architecture",
+            "label": "ORG"
+        },
+        {
+            "text": "Understanding Deep Learning",
+            "label": "WORK_OF_ART"
+        },
+        {
+            "text": "2024",
+            "label": "DATE"
+        },
+        {
+            "text": "The Transformer Architecture in Large Language Models Wikipedia",
+            "label": "WORK_OF_ART"
+        },
+        {
+            "text": "The Transformer Architecture in Large Language Models Wikipedia",
+            "label": "WORK_OF_ART"
+        },
+        {
+            "text": "The Transformer Architecture in Large Language Models L. A. Mullen et al.",
+            "label": "WORK_OF_ART"
+        },
+        {
+            "text": "Fast, Consistent Tokenization of Natural Language Text\" The Transformer Architecture in Large Language Models M. Dehouck",
+            "label": "WORK_OF_ART"
+        },
+        {
+            "text": "Challenging the 'One Single Vector",
+            "label": "WORK_OF_ART"
+        },
+        {
+            "text": "Token",
+            "label": "ORG"
+        },
+        {
+            "text": "2023",
+            "label": "DATE"
+        },
+        {
+            "text": "The Transformer Architecture",
+            "label": "ORG"
+        },
+        {
+            "text": "2016",
+            "label": "DATE"
+        },
+        {
+            "text": "The Transformer Architecture",
+            "label": "ORG"
+        },
+        {
+            "text": "J. H. Martin",
+            "label": "PERSON"
+        },
+        {
+            "text": "Word Meaning:",
+            "label": "WORK_OF_ART"
+        },
+        {
+            "text": "Vector Semantics & Embeddings",
+            "label": "ORG"
+        },
+        {
+            "text": "2024",
+            "label": "DATE"
+        },
+        {
+            "text": "The Transformer Architecture in Large Language Models Wikipedia",
+            "label": "WORK_OF_ART"
+        },
+        {
+            "text": "Understanding the Complex of Suicide in Depression",
+            "label": "WORK_OF_ART"
+        },
+        {
+            "text": "Research",
+            "label": "ORG"
+        },
+        {
+            "text": "Fleischmann A. \"",
+            "label": "PERSON"
+        },
+        {
+            "text": "2002",
+            "label": "DATE"
+        },
+        {
+            "text": "the Complex of Suicide",
+            "label": "FAC"
+        },
+        {
+            "text": "Research",
+            "label": "ORG"
+        },
+        {
+            "text": "Clinics Hawton K",
+            "label": "ORG"
+        },
+        {
+            "text": "van Heeringen K. \"Suicide",
+            "label": "PERSON"
+        },
+        {
+            "text": "2009",
+            "label": "DATE"
+        },
+        {
+            "text": "the Complex of Suicide",
+            "label": "FAC"
+        },
+        {
+            "text": "Research to Clinics WHO",
+            "label": "ORG"
+        },
+        {
+            "text": "Mental Health Atlas 2017",
+            "label": "WORK_OF_ART"
+        },
+        {
+            "text": "2018",
+            "label": "DATE"
+        },
+        {
+            "text": "the Complex of Suicide",
+            "label": "FAC"
+        },
+        {
+            "text": "Research to Clinics Stone DM",
+            "label": "ORG"
+        },
+        {
+            "text": "Preventing Suicide:",
+            "label": "WORK_OF_ART"
+        },
+        {
+            "text": "2017",
+            "label": "DATE"
+        },
+        {
+            "text": "the Complex of Suicide",
+            "label": "FAC"
+        },
+        {
+            "text": "Research to Clinics Chesney",
+            "label": "ORG"
+        },
+        {
+            "text": "Goodwin GM",
+            "label": "PERSON"
+        },
+        {
+            "text": "Fazel S. \"Risks",
+            "label": "PERSON"
+        },
+        {
+            "text": "2014",
+            "label": "DATE"
+        },
+        {
+            "text": "the Complex of Suicide",
+            "label": "FAC"
+        },
+        {
+            "text": "Research",
+            "label": "ORG"
+        },
+        {
+            "text": "Andrade L",
+            "label": "PERSON"
+        },
+        {
+            "text": "the International Consortium of Psychiatric Epidemiology",
+            "label": "ORG"
+        },
+        {
+            "text": "2003",
+            "label": "DATE"
+        },
+        {
+            "text": "the Complex of Suicide",
+            "label": "FAC"
+        },
+        {
+            "text": "Research",
+            "label": "ORG"
+        },
+        {
+            "text": "Schmidt HD",
+            "label": "PERSON"
+        },
+        {
+            "text": "Shelton RC",
+            "label": "PERSON"
+        },
+        {
+            "text": "2011",
+            "label": "DATE"
+        },
+        {
+            "text": "the Complex of Suicide",
+            "label": "FAC"
+        },
+        {
+            "text": "Research",
+            "label": "ORG"
+        },
+        {
+            "text": "Clinics Ferrari AJ",
+            "label": "ORG"
+        },
+        {
+            "text": "al",
+            "label": "PERSON"
+        },
+        {
+            "text": "2013",
+            "label": "DATE"
+        },
+        {
+            "text": "the Complex of Suicide",
+            "label": "FAC"
+        },
+        {
+            "text": "Research",
+            "label": "ORG"
+        },
+        {
+            "text": "Clinics Mann JJ",
+            "label": "PERSON"
+        },
+        {
+            "text": "2002",
+            "label": "DATE"
+        },
+        {
+            "text": "the Complex of Suicide",
+            "label": "FAC"
+        },
+        {
+            "text": "Research to Clinics Coryell W",
+            "label": "ORG"
+        },
+        {
+            "text": "2005",
+            "label": "DATE"
+        },
+        {
+            "text": "Wen-Yeau Chang",
+            "label": "PERSON"
+        },
+        {
+            "text": "2014",
+            "label": "DATE"
+        },
+        {
+            "text": "Rahul Sharma",
+            "label": "PERSON"
+        },
+        {
+            "text": "Diksha Singh",
+            "label": "PERSON"
+        },
+        {
+            "text": "2018",
+            "label": "DATE"
+        },
+        {
+            "text": "Weather",
+            "label": "PERSON"
+        },
+        {
+            "text": "Saurabh S. Soman et al.",
+            "label": "PERSON"
+        },
+        {
+            "text": "2010",
+            "label": "DATE"
+        },
+        {
+            "text": "Weather",
+            "label": "PERSON"
+        },
+        {
+            "text": "R. Meenal",
+            "label": "ORG"
+        },
+        {
+            "text": "2019",
+            "label": "DATE"
+        },
+        {
+            "text": "Sani Salisu",
+            "label": "PERSON"
+        },
+        {
+            "text": "A Wavelet Based Solar Radiation Prediction in Nigeria Using Adaptive Neuro-Fuzzy Approach",
+            "label": "WORK_OF_ART"
+        },
+        {
+            "text": "2018",
+            "label": "DATE"
+        },
+        {
+            "text": "Weather",
+            "label": "PERSON"
+        },
+        {
+            "text": "Makarand A. et",
+            "label": "GPE"
+        },
+        {
+            "text": "2008",
+            "label": "DATE"
+        },
+        {
+            "text": "Weather",
+            "label": "PERSON"
+        },
+        {
+            "text": "Salisu Muhammad Lawan",
+            "label": "PERSON"
+        },
+        {
+            "text": "2018",
+            "label": "DATE"
+        },
+        {
+            "text": "Weather",
+            "label": "PERSON"
+        },
+        {
+            "text": "Cabral Lima et al.",
+            "label": "FAC"
+        },
+        {
+            "text": "2017",
+            "label": "DATE"
+        },
+        {
+            "text": "Weather",
+            "label": "PERSON"
+        },
+        {
+            "text": "R. Meenal",
+            "label": "ORG"
+        },
+        {
+            "text": "India",
+            "label": "GPE"
+        },
+        {
+            "text": "2020",
+            "label": "DATE"
+        },
+        {
+            "text": "R. Meenal",
+            "label": "ORG"
+        },
+        {
+            "text": "A.I. Selvakumar",
+            "label": "ORG"
+        },
+        {
+            "text": "2018",
+            "label": "DATE"
+        }
+    ],
+    "triples": [
+        {
+            "subject": "particularity",
+            "relation": "station",
+            "object": "cultivation"
+        },
+        {
+            "subject": "particularity",
+            "relation": "station",
+            "object": "System"
+        },
+        {
+            "subject": "you",
+            "relation": "need",
+            "object": "BERT"
+        },
+        {
+            "subject": "Ultrasound",
+            "relation": "predict",
+            "object": "fractures"
+        },
+        {
+            "subject": "Ultrasound",
+            "relation": "predict",
+            "object": "Ultrasound"
+        },
+        {
+            "subject": "measurements",
+            "relation": "predict",
+            "object": "fractures"
+        },
+        {
+            "subject": "measurements",
+            "relation": "predict",
+            "object": "Ultrasound"
+        },
+        {
+            "subject": "measures",
+            "relation": "predict",
+            "object": "occurrence"
+        },
+        {
+            "subject": "Warrington",
+            "relation": "fracture",
+            "object": "genes"
+        },
+        {
+            "subject": "Design",
+            "relation": "supervise",
+            "object": "Search"
+        },
+        {
+            "subject": "Quantum",
+            "relation": "generative",
+            "object": "learning"
+        },
+        {
+            "subject": "Quantum",
+            "relation": "generative",
+            "object": "."
+        },
+        {
+            "subject": "Quantum",
+            "relation": "generative",
+            "object": "prediction"
+        },
+        {
+            "subject": "Quantum",
+            "relation": "generative",
+            "object": "learning"
+        },
+        {
+            "subject": "Quantum",
+            "relation": "generative",
+            "object": "."
+        },
+        {
+            "subject": "Quantum",
+            "relation": "generative",
+            "object": "super"
+        },
+        {
+            "subject": "Quantum",
+            "relation": "generative",
+            "object": "-"
+        },
+        {
+            "subject": "Quantum",
+            "relation": "generative",
+            "object": "resolution"
+        },
+        {
+            "subject": "Quantum",
+            "relation": "generative",
+            "object": "learning"
+        },
+        {
+            "subject": "Quantum",
+            "relation": "generative",
+            "object": "."
+        },
+        {
+            "subject": "Quantum",
+            "relation": "generative",
+            "object": "Biamonte"
+        },
+        {
+            "subject": "Quantum",
+            "relation": "generative",
+            "object": "."
+        },
+        {
+            "subject": "Quantum",
+            "relation": "generative",
+            "object": "Preskill"
+        },
+        {
+            "subject": "Quantum",
+            "relation": "generative",
+            "object": "Helstrom"
+        },
+        {
+            "subject": "Quantum",
+            "relation": "generative",
+            "object": "learning"
+        },
+        {
+            "subject": "Quantum",
+            "relation": "generative",
+            "object": "learning"
+        },
+        {
+            "subject": "Quantum",
+            "relation": "generative",
+            "object": "Kakutani"
+        },
+        {
+            "subject": "Architecture",
+            "relation": "understand",
+            "object": "Complex"
+        },
+        {
+            "subject": "epidemiology",
+            "relation": "understand",
+            "object": "Complex"
+        },
+        {
+            "subject": "biomarkers",
+            "relation": "understand",
+            "object": "Complex"
+        }
+    ]
+}
