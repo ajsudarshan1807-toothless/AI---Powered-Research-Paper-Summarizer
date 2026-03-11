@@ -48,7 +48,7 @@ Summarize-first Research Paper Assistant built with Flask, FAISS, and Ollama.
 
 - `server.py`: API routes, source mapping, retrieval, summary generation, query rewrite + chat-memory ask flow, evaluation parsing, low-trust override.
 - `rag_dashboard.html`: light-theme summarize + chat copilot UI; sends role/content history messages for `/ask`.
-- `Agile_Document/`: agile + QA documents (see `Agile_Document/README.md`).
+- [`Agile_Document/`](Agile_Document/): agile + QA documents (see [`Agile_Document/README.md`](Agile_Document/README.md)).
 - `chunking.py`: builds FAISS index from `research_paper_json_format/*.json`.
 - `test_retrieval.py`: retrieval smoke test.
 - `evaluation.py`: CLI evaluation loop.
